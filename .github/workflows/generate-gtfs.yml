@@ -1,0 +1,32 @@
+name: Generate GTFS Data
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Run GTFS Generator
+        run: uv run kk-gtfs.py --force
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Automated GTFS data update"
+          file_pattern: "data/*.zip"
+
+      - name: Validate GTFS Feeds
+        uses: npaun/md-gtfs-validator-action@v1
+        with:
+          input: data/*.zip
+          output: validation-reports
