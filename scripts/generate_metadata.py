@@ -87,7 +87,9 @@ def extract_gtfs_data(zip_path, extract_to):
                     headsign = row.get("trip_headsign", "")
 
                     if r_id and s_id:
-                        trips_info[r_id] = s_id  # Store any shape for mapping
+                        if r_id not in trips_info:
+                            trips_info[r_id] = {}
+                        trips_info[r_id][dir_id] = s_id  # Store shape for both directions
 
                     if t_id and r_id:
                         trip_to_route[t_id] = (r_id, dir_id, headsign)
