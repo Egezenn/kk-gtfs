@@ -25,8 +25,20 @@ jobs:
           commit_message: "Automated GTFS data update"
           file_pattern: "data/*.zip"
 
-      - name: Validate GTFS Feeds
-        uses: npaun/md-gtfs-validator-action@v1
+      - name: Setup Java
+        uses: actions/setup-java@v4
         with:
-          input: data/*.zip
-          output: validation-reports
+          distribution: "temurin"
+          java-version: "17"
+
+      - name: Download GTFS Validator
+        run: curl -sSL https://github.com/MobilityData/gtfs-validator/releases/download/v7.1.0/gtfs-validator-7.1.0-cli.jar -o gtfs-validator.jar
+
+      - name: Validate GTFS Feeds
+        run: |
+          mkdir -p validation-reports
+          for file in data/*.zip; do
+            basename=$(basename "$file" .zip)
+            echo "Validating $file..."
+            java -jar gtfs-validator.jar -i "$file" -o "validation-reports/$basename"
+          done
