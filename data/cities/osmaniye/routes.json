@@ -1,0 +1,114 @@
+[
+  {
+    "id": "00010",
+    "short": "A1",
+    "long": "MEVLANA-HASTANE",
+    "color": "00BD09",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00100",
+    "short": "A10",
+    "long": "YENİ MH-GEBELİ",
+    "color": "00A6FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00110",
+    "short": "A11",
+    "long": "ŞİRİNEVLER-YENİ HAL",
+    "color": "00A6FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00120",
+    "short": "A12",
+    "long": "BAŞ MH-TREN GARI",
+    "color": "00A6FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00130",
+    "short": "A13",
+    "long": "KURTULUŞ-KARAÇAY",
+    "color": "00A6FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00150",
+    "short": "A15",
+    "long": "YENİ HASTANE-OTOGAR",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00160",
+    "short": "A16",
+    "long": "FAKIUŞAĞI-OTOGAR",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00190",
+    "short": "A19",
+    "long": "ÜNİVERSİTE 2.KAPI-OTOGAR",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00020",
+    "short": "A2",
+    "long": "YENİ MH-KARAÇAY 1",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00030",
+    "short": "A3",
+    "long": "OTOGAR-ÇARŞI",
+    "color": "00BD09",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00040",
+    "short": "A4",
+    "long": "OTOGAR-DEREOBASI",
+    "color": "00BD09",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00050",
+    "short": "A5",
+    "long": "FAKIUŞAĞI-ÇARŞI",
+    "color": "FF5900",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00060",
+    "short": "A6",
+    "long": "YENİ MH-KARAÇAY 2",
+    "color": "FF5900",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00070",
+    "short": "A7",
+    "long": "SANAYİ-HASTANE",
+    "color": "008CFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00080",
+    "short": "A8",
+    "long": "EYÜP SULTAN-HASTANE",
+    "color": "00AEFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00090",
+    "short": "A9",
+    "long": "TOKİ-HASTANE",
+    "color": "00AEFF",
+    "text_color": "FFFFFF"
+  }
+]

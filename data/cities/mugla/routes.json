@@ -1,0 +1,2676 @@
+[
+  {
+    "id": "50443",
+    "short": "1-3",
+    "long": "MENTEŞE-AKÇAOVA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10002",
+    "short": "1-6",
+    "long": "OTOGAR-DÜĞEREK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10006",
+    "short": "1-7",
+    "long": "STADYUM-TOKİ-TIP FAKÜLTESİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20010",
+    "short": "1-8",
+    "long": "OTOGAR-MENTEŞE KOOP.",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10001",
+    "short": "1-9",
+    "long": "OTOGAR-HASTANE-AKYOL",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10009",
+    "short": "1-10",
+    "long": "STADYUM-HACIAHMET",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10010",
+    "short": "1-11",
+    "long": "STADYUM-AYVALI-VAKIF",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10020",
+    "short": "1-12",
+    "long": "MENTEŞE-YEŞİLYURT",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10017",
+    "short": "1-13",
+    "long": "MENTEŞE-KAFACA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30012",
+    "short": "1-14",
+    "long": "MENTEŞE-YARAŞ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10019",
+    "short": "1-15",
+    "long": "MENTEŞE-YERKESİK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10018",
+    "short": "1-16",
+    "long": "MENTEŞE-AKKAYA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50462",
+    "short": "1-17",
+    "long": "MENTEŞE-KAPUBAĞ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50652",
+    "short": "1-18",
+    "long": "MENTEŞE YAPI KOOP-TIP FAKÜLTESİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10003",
+    "short": "1-20",
+    "long": "STADYUM-SÜPÜROĞLU-ORTAKÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50456",
+    "short": "1-22",
+    "long": "MENTEŞE-ÖREN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10013",
+    "short": "1-28",
+    "long": "MENTEŞE-P.YERİ RİNG",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10036",
+    "short": "1-29",
+    "long": "MENTEŞE-KOZAĞAÇ-İKİZCE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10037",
+    "short": "1-30",
+    "long": "MENTEŞE-DENİZOVA-BAĞYAKA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50272",
+    "short": "1-32",
+    "long": "MENTEŞE YAPI KOOP-TIP FAKÜLTESİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50273",
+    "short": "1-33",
+    "long": "DÜĞEREK-TIP FAKÜLTESİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50313",
+    "short": "1-37",
+    "long": "MENTEŞE-ESENÇAY-GÖKTEPE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50314",
+    "short": "1-38",
+    "long": "MEKE-MENTEŞE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50345",
+    "short": "1-39",
+    "long": "DAĞPINAR-MENTEŞE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50360",
+    "short": "1-42",
+    "long": "ÇAYBÜKÜ-B.YAKA-MENTEŞE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50030",
+    "short": "1-43",
+    "long": "BAYIR-MENTEŞE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50065",
+    "short": "1-44",
+    "long": "DOĞANKÖY-YENİCE-MUĞLA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50070",
+    "short": "1-45",
+    "long": "YERKESİK-DOĞANKÖY-MENTEŞE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50202",
+    "short": "1-46",
+    "long": "MENTEŞE-DENİZOVA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10434",
+    "short": "1-47",
+    "long": "MENTEŞE-KAFACA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50445",
+    "short": "1-48",
+    "long": "KAMPÜS İÇİ-RİNG",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50262",
+    "short": "1-49",
+    "long": "MENTEŞE-YARAŞ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50261",
+    "short": "1-50",
+    "long": "MENTEŞE-AKKAYA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50288",
+    "short": "1-51",
+    "long": "BOZYER-KUZLUK-MENTEŞE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50303",
+    "short": "1-52",
+    "long": "SUNGUR-DOKUZÇAM-MENTEŞE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50294",
+    "short": "1-54",
+    "long": "AVCILAR(YAYLASÖGÜT)-MENTEŞE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50295",
+    "short": "1-55",
+    "long": "AVCILAR-MENTEŞE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50414",
+    "short": "1-56",
+    "long": "MENTEŞE-ÖREN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50032",
+    "short": "1-57",
+    "long": "MENTEŞE-DAĞDİBİ YEŞİLYURT",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50379",
+    "short": "1-58",
+    "long": "STADYUM-TOKİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50408",
+    "short": "1-59",
+    "long": "TÜRKAN SAYLAN ÇAĞDAŞ YAŞAM MER-PAZAR YERİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50425",
+    "short": "1-60",
+    "long": "MENTEŞE-KUYUCAK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50446",
+    "short": "1-61",
+    "long": "MENTEŞE-SUNGUR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50448",
+    "short": "1-62",
+    "long": "KENT MEYDANI-YENİKÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50449",
+    "short": "1-63",
+    "long": "KENT MEYDANI-KAMPÜS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50450",
+    "short": "1-64",
+    "long": "STADYUM-TIP FAKÜLTESİ-TOKİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50452",
+    "short": "1-65",
+    "long": "OTOGAR-TIP FAKÜLTESİ-YENİKÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50451",
+    "short": "1-66",
+    "long": "OTOGAR-YENİKÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50461",
+    "short": "1-67",
+    "long": "AVCILAR-MENTEŞE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50271",
+    "short": "1-68",
+    "long": "BESKO-STADYUM-TIP FAKÜLTESİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50468",
+    "short": "1-69",
+    "long": "MENTEŞE-YEMİŞENDERE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10221",
+    "short": "2-1A",
+    "long": "BODRUM-BİTEZ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10222",
+    "short": "2-1B",
+    "long": "BODRUM-YALI-BİTEZ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10223",
+    "short": "2-2",
+    "long": "BODRUM-ADAYER-KONACIK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50244",
+    "short": "2-3",
+    "long": "BODRUM-YAKAKÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10226",
+    "short": "2-4",
+    "long": "BODRUM-BAĞLA-AKYARLAR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10227",
+    "short": "2-5",
+    "long": "BODRUM-TURGUTREİS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10228",
+    "short": "2-6",
+    "long": "BODRUM-YALIKAVAK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50464",
+    "short": "2-7",
+    "long": "BODRUM-HASTANE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10230",
+    "short": "2-8",
+    "long": "BODRUM-G.TÜRKBÜKÜ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10231",
+    "short": "2-9",
+    "long": "BODRUM-GÜVERCİNLİK-MUMCULAR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10232",
+    "short": "2-10",
+    "long": "BODRUM-YALIÇİFTLİK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10233",
+    "short": "2-11",
+    "long": "AKYARLAR-TURGUTREİS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10235",
+    "short": "2-12",
+    "long": "TURGUTREİS-KARABAĞ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10234",
+    "short": "2-12B",
+    "long": "TURGUTREİS-AKÇAALAN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10237",
+    "short": "2-13",
+    "long": "BODRUM-GÜMBET-GÜMBET-BODRUM",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10238",
+    "short": "2-14",
+    "long": "BODRUM-GÜMÜŞLÜK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10236",
+    "short": "2-15",
+    "long": "ORTAKENT-YAKA-TÜRKMEN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10243",
+    "short": "2-17",
+    "long": "BODRUM-YAHŞİ-ORTAKENT",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10245",
+    "short": "2-18",
+    "long": "BODRUM-DEVLET HASTANESİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10246",
+    "short": "2-19",
+    "long": "TURGUTREİS-GÜMÜŞLÜK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50284",
+    "short": "2-20",
+    "long": "TORBA-BODRUM",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50278",
+    "short": "2-21",
+    "long": "GÜMÜŞKAYA-GÜMÜŞLÜK-BODRUM",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10249",
+    "short": "2-22",
+    "long": "BODRUM-GÜNDOĞAN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50277",
+    "short": "2-23",
+    "long": "GÜNDOĞAN-GÖKÇEBEL-BODRUM",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50283",
+    "short": "2-24",
+    "long": "BODRUM-SAZKÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50351",
+    "short": "2-25",
+    "long": "BODRUM-MAZI SAHİL",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50365",
+    "short": "2-26",
+    "long": "ÇAMLIK-MUMCULAR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50219",
+    "short": "2-27",
+    "long": "BODRUM-ADAYER-KONACIK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50220",
+    "short": "2-28",
+    "long": "BODRUM-ALTYOL YAHŞİ-ORTAKENT",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50221",
+    "short": "2-29",
+    "long": "BODRUM-ÜSTYOL YAHŞİ-ORTAKENT",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50243",
+    "short": "2-30",
+    "long": "BODRUM-YAKAKÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50439",
+    "short": "2-31",
+    "long": "ORTAKENT-GÜMBET",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50258",
+    "short": "2-32",
+    "long": "TURGUTREİS-AKYARLAR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50259",
+    "short": "2-34",
+    "long": "BODRUM-TURGUTREİS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50263",
+    "short": "2-35",
+    "long": "BAĞLA-TURGUTREİS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50223",
+    "short": "2-36",
+    "long": "BAĞLA-BODRUM",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50266",
+    "short": "2-37",
+    "long": "GÖLTÜRKBÜKÜ-TURGUTREİS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50308",
+    "short": "2-38",
+    "long": "TURGUTREİS-KARABAĞ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50309",
+    "short": "2-39",
+    "long": "TURGUTREİS-NAĞME SİTESİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50311",
+    "short": "2-40",
+    "long": "TURGUTREİS-BAHÇELİEVLER SİTESİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50264",
+    "short": "2-41",
+    "long": "YALIKAVAK-BODRUM",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50256",
+    "short": "2-42",
+    "long": "MUMCULAR-MİLAS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50257",
+    "short": "2-43",
+    "long": "MUMCULAR-BODRUM",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50280",
+    "short": "2-44",
+    "long": "GÜMÜŞKAYA-TURGUTREİS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50282",
+    "short": "2-45",
+    "long": "BODRUM-GÜMÜŞKAYA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50306",
+    "short": "2-46",
+    "long": "BODRUM-GÖLTÜRKBÜKÜ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50281",
+    "short": "2-47",
+    "long": "BODRUM-GÜNDOĞAN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50305",
+    "short": "2-48",
+    "long": "BİTEZ-BODRUM OTOGAR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50374",
+    "short": "2-49",
+    "long": "BODRUM-RAMADA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50291",
+    "short": "2-50",
+    "long": "YALIÇİFTLİK-BODRUM",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50350",
+    "short": "2-51",
+    "long": "BODRUM-SAZKÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50290",
+    "short": "2-52",
+    "long": "GÜMBET RİNG-GÜMBET RİNG",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50222",
+    "short": "2-53",
+    "long": "KADIKALESİ-DEREKÖY-BODRUM",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50084",
+    "short": "2-54",
+    "long": "GÜNDOĞAN-ONURKENT",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50086",
+    "short": "2-55",
+    "long": "GÜNDOĞAN-HEKİMKÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50085",
+    "short": "2-56",
+    "long": "GÜNDOĞAN-YALIKAVAK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50238",
+    "short": "2-57",
+    "long": "BODRUM-BARDAKÇI",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50249",
+    "short": "2-58",
+    "long": "BODRUM-BARIŞ SİTESİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50250",
+    "short": "2-59",
+    "long": "BODRUM-MUTLU SİTESİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50251",
+    "short": "2-60",
+    "long": "BODRUM-İÇMELER",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50252",
+    "short": "2-61",
+    "long": "BODRUM-KALEKONUT",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50253",
+    "short": "2-62",
+    "long": "BODRUM-ALBATROS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50254",
+    "short": "2-63",
+    "long": "BODRUM-HASTANE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50334",
+    "short": "2-64",
+    "long": "YALIKAVAK GARAJ-GÜMÜŞKAYA HOLİDAY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50335",
+    "short": "2-65",
+    "long": "YALIKAVAK-KÜDÜR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50336",
+    "short": "2-66",
+    "long": "AKDENİZ BAŞKENT-ONURKENT SİTESİ-YALIKAVAK GAR.",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50337",
+    "short": "2-67",
+    "long": "YALIKAVAK-TİLKİCİK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50338",
+    "short": "2-68",
+    "long": "YALIKAVAK-GERİŞ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50339",
+    "short": "2-69",
+    "long": "YALIKAVAK-GÖKÇEBEL",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50341",
+    "short": "2-70",
+    "long": "YALIKAVAK-YALE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50300",
+    "short": "2-71",
+    "long": "ÇÖMLEKÇİ-BODRUM",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50301",
+    "short": "2-72",
+    "long": "ÇÖMLEKÇİ-MİLAS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50403",
+    "short": "2-81",
+    "long": "BODRUM ESKİ OTOGAR-BODRUM YENİ OTOGAR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50404",
+    "short": "2-82",
+    "long": "BODRUM ESKİ OTOGAR-BODRUM YENİ OTOGAR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50410",
+    "short": "2-83",
+    "long": "KADIKALESİ-BODRUM YENİ OTOGAR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50423",
+    "short": "2-84",
+    "long": "BODRUM-BOZALAN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50429",
+    "short": "2-85",
+    "long": "GÖLTÜRKBÜKÜ-TURGUTREİS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50432",
+    "short": "2-86",
+    "long": "KEMER-MUMCULAR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50433",
+    "short": "2-86A",
+    "long": "ÇÖMLEKÇİ-MUMCULAR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10117",
+    "short": "3-1",
+    "long": "FETHİYE-TAŞYAKA-KORDON",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10108",
+    "short": "3-2",
+    "long": "FETHİYE-ÜZÜMLÜ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10102",
+    "short": "3-3",
+    "long": "FETHİYE-ÖLÜDENİZ",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10103",
+    "short": "3-4",
+    "long": "FETHİYE-KAYAKÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10120",
+    "short": "3-9",
+    "long": "FETHİYE-GÖCEK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10116",
+    "short": "3-11",
+    "long": "KORDON-SAHİL-ÇALIŞ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10111",
+    "short": "3-12",
+    "long": "FETHİYE-PATLANGIÇ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10113",
+    "short": "3-13",
+    "long": "DEĞİRMENBAŞI-KORDON",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10126",
+    "short": "3-14",
+    "long": "ZİNCİRLİKAVAK-DEGİRMENBAŞI",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10135",
+    "short": "3-20",
+    "long": "FETHİYE-NİF",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50373",
+    "short": "3-21",
+    "long": "SÖĞÜTLÜ-FETHİYE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50144",
+    "short": "3-22",
+    "long": "FETHİYE-YANIKLAR-ÇİFTLİK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50120",
+    "short": "3-23",
+    "long": "FETHİYE-ÇALIŞ SAHİL",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50122",
+    "short": "3-24",
+    "long": "FETHİYE-ÇALIŞ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50124",
+    "short": "3-25",
+    "long": "FETHİYE-ÇATALARIK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50126",
+    "short": "3-26",
+    "long": "FETHİYE-TAŞYAKA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50127",
+    "short": "3-27",
+    "long": "FETHİYE-TAŞYAKA-DEGİRMENBAŞI",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50138",
+    "short": "3-28",
+    "long": "FETHİYE-HUZUREVİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50143",
+    "short": "3-29",
+    "long": "TAŞYAKA-KULELİ-BONCUKLU",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50166",
+    "short": "3-30",
+    "long": "FETHİYE-DELİKTAŞ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50167",
+    "short": "3-31",
+    "long": "FETHİYE-HIDIRLIK-KARAPINAR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50125",
+    "short": "3-32",
+    "long": "FETHİYE-OKULLAR BÖLGESİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50130",
+    "short": "3-33",
+    "long": "FETHİYE-ELDİREK - ÇAMKÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50134",
+    "short": "3-34",
+    "long": "FETHİYE-KARAÇULHA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50139",
+    "short": "3-35",
+    "long": "FETHİYE-ESENKÖY-KARAMERSİN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50140",
+    "short": "3-36",
+    "long": "FETHİYE-GÖKBEN-BOZYER-ESENKÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50141",
+    "short": "3-37",
+    "long": "YAKACIK-FETHİYE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50164",
+    "short": "3-38",
+    "long": "FETHİYE-TELLALLARDAMI-ÇEVRE YOLU",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50354",
+    "short": "3-39",
+    "long": "FETHİYE-ÇALICA-İTFAYE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50155",
+    "short": "3-40",
+    "long": "FETHİYE-ÖLÜDENİZ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50156",
+    "short": "3-41",
+    "long": "FETHİYE-KOZAĞAÇ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50157",
+    "short": "3-42",
+    "long": "FETHİYE-KABAK-FARALYA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50343",
+    "short": "3-43",
+    "long": "ÖLÜDENİZ-KABAK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50158",
+    "short": "3-44",
+    "long": "FETHİYE-GEMİLER-KAYAKÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50168",
+    "short": "3-45",
+    "long": "FETHİYE-OVACIK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50159",
+    "short": "3-46",
+    "long": "ÖLÜDENİZ-BABADAĞ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50132",
+    "short": "3-47",
+    "long": "FETHİYE-YANIKLAR-ÇİFTLİK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50133",
+    "short": "3-48",
+    "long": "FETHİYE-KARAGEDİK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50142",
+    "short": "3-49",
+    "long": "FETHİYE-KATRANCIKOYU-KARGI",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50169",
+    "short": "3-50",
+    "long": "FETHİYE-GÖCEK-İNLİCE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50237",
+    "short": "3-51",
+    "long": "FETHİYE-ÜZÜMLÜ-İNCİRKÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50293",
+    "short": "3-52",
+    "long": "FETHİYE-NİF",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50405",
+    "short": "3-53",
+    "long": "BLUE LAGOON-AHAT-KARAGÖZLER",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50469",
+    "short": "3-60",
+    "long": "FETHİYE-ÇENGER-ÇENGER-FETHİYE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50467",
+    "short": "4-2",
+    "long": "MİLAS-EĞRİDERE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50240",
+    "short": "4-3",
+    "long": "MİLAS-MİLAS-BODRUM HAVALİMANI",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50346",
+    "short": "4-6",
+    "long": "YURT-MYO",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50289",
+    "short": "4-7",
+    "long": "BAĞDAMLARI-MİLAS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30114",
+    "short": "4-8",
+    "long": "ÖREN-BODRUM",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30116",
+    "short": "4-9",
+    "long": "ÖREN-BEÇİN-MİLAS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30120",
+    "short": "4-10",
+    "long": "ÖREN-ŞEHİRİÇİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30119",
+    "short": "4-12",
+    "long": "SELİMİYE-MİLAS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30100",
+    "short": "4-13",
+    "long": "MİLAS-TOKİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30101",
+    "short": "4-14",
+    "long": "MİLAS-FEN LİSESİ- TOKİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30102",
+    "short": "4-15",
+    "long": "MİLAS-HACIİLYAS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30103",
+    "short": "4-16",
+    "long": "MİLAS-STADYUM-TOKİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30104",
+    "short": "4-17",
+    "long": "MİLAS ŞEHİRİÇİ-SODRA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30105",
+    "short": "4-18",
+    "long": "MİLAS ŞEHİRİÇİ-MENTEŞ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30117",
+    "short": "4-19",
+    "long": "GÜLLÜK-MİLAS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30118",
+    "short": "4-20",
+    "long": "GÜLLÜK-BODRUM",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30121",
+    "short": "4-21",
+    "long": "GÜLLÜK-ORJAN SİTESİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30122",
+    "short": "4-22",
+    "long": "BEÇİN-MİLAS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30112",
+    "short": "4-23",
+    "long": "MEŞELİK-BODRUM",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30113",
+    "short": "4-24",
+    "long": "MEŞELİK-MİLAS-MİLAS-MEŞELİK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50239",
+    "short": "4-25",
+    "long": "PINARCIK-MİLAS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50153",
+    "short": "4-26",
+    "long": "ÇAMLIK SİTESİ-MİLAS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50154",
+    "short": "4-27",
+    "long": "BOGAZİÇİ CAMİ-BODRUM",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50347",
+    "short": "4-28",
+    "long": "H.BAĞI A.OĞLU KIŞLASI-BODRUM",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50348",
+    "short": "4-29",
+    "long": "H.BAĞI A.OĞLU KIŞLASI-MİLAS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50321",
+    "short": "4-30",
+    "long": "MİLAS KÖY GARAJI-KETENDERE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50322",
+    "short": "4-31",
+    "long": "MİLAS KÖY GARAJI-SARIKAYA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50323",
+    "short": "4-32",
+    "long": "MİLAS KÖY GARAJI-KARGICIK RİNG",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50324",
+    "short": "4-33",
+    "long": "MİLAS KÖY GARAJI-KIRCAĞIZ RİNG",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50331",
+    "short": "4-35",
+    "long": "SÖĞÜTÇÜK-BODRUM",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50359",
+    "short": "4-36",
+    "long": "MİLAS-SÖĞÜTCÜK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50369",
+    "short": "4-37",
+    "long": "GÜLLÜK-ŞEHİRİÇİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50375",
+    "short": "4-39",
+    "long": "SAVRAN-İÇME-MİLAS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50376",
+    "short": "4-40",
+    "long": "DAMLIBOĞAZ-MİLAS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50411",
+    "short": "4-41",
+    "long": "DAMLIBOĞAZ-MİLAS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50413",
+    "short": "4-42",
+    "long": "MİLAS-AĞAÇLIHÖYÜK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50415",
+    "short": "4-43",
+    "long": "MİLAS-YAKAKÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50416",
+    "short": "4-44",
+    "long": "MİLAS-BOZBÜK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50417",
+    "short": "4-45",
+    "long": "MİLAS-İKİZTAŞ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50418",
+    "short": "4-46",
+    "long": "MİLAS-FESLEĞEN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50419",
+    "short": "4-47",
+    "long": "MİLAS-GÖKBEL",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50420",
+    "short": "4-48",
+    "long": "MİLAS-KAPIKIRIĞI",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50421",
+    "short": "4-49",
+    "long": "MİLAS-AKOVANLIK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50422",
+    "short": "4-50",
+    "long": "MİLAS-ZEYTİNLİKUYU",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50431",
+    "short": "4-51",
+    "long": "MİLAS-YAKAKÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50434",
+    "short": "4-52",
+    "long": "MİLAS İLÇE GARAJI-SAKARKAYA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50435",
+    "short": "4-53",
+    "long": "MİLAS-ÇUKUR KÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50438",
+    "short": "4-54",
+    "long": "MİLAS KÖYLER GARAJI-KAYADERE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50442",
+    "short": "4-55",
+    "long": "MİLAS-AKÇAKAYA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50465",
+    "short": "4-56",
+    "long": "MİLAS-FESLEĞEN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50649",
+    "short": "4-57",
+    "long": "MİLAS-ZEYTİNLİKUYU",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50650",
+    "short": "4-58",
+    "long": "GÖKBEL-MİLAS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10106",
+    "short": "5-1",
+    "long": "FETHİYE-SEYDİKEMER",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10123",
+    "short": "5-3B",
+    "long": "SAKLIKENT-FETHİYE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10129",
+    "short": "5-5B",
+    "long": "SEKİ-FETHİYE (EKSPRES)",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10119",
+    "short": "5-6A",
+    "long": "FETHİYE-EŞEN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10122",
+    "short": "5-7",
+    "long": "KARADERE-FETHİYE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50241",
+    "short": "5-8",
+    "long": "FETHİYE-YAYLA KARAÇULHA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50344",
+    "short": "5-9",
+    "long": "FETHİYE-YAYLA BEKÇİLER",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50215",
+    "short": "5-10",
+    "long": "KAYACIK-FETHİYE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50216",
+    "short": "5-11",
+    "long": "ARSA-FETHİYE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50214",
+    "short": "5-12",
+    "long": "YAKAKÖY-FETHİYE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50217",
+    "short": "5-13",
+    "long": "SAKLIKENT-FETHİYE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50218",
+    "short": "5-14",
+    "long": "SAKLIKENT-KORUBÜKÜ-FETHİYE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50203",
+    "short": "5-15",
+    "long": "KUMLUOVA-KARADERE-FETHİYE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50204",
+    "short": "5-16",
+    "long": "BOĞAZİÇİ-FETHİYE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50234",
+    "short": "5-18",
+    "long": "FETHİYE-SÖĞÜTLÜDERE-PAŞALI",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50235",
+    "short": "5-19",
+    "long": "SEYDİKEMER-ÖREN-SAHİLCEYLAN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50236",
+    "short": "5-20",
+    "long": "FETHİYE-ÖREN-ORTAKÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50255",
+    "short": "5-21",
+    "long": "FETHİYE-SEKİ-YAYLAZORLAR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10404",
+    "short": "6-1",
+    "long": "YATAĞAN-TURGUT",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10401",
+    "short": "6-2",
+    "long": "YATAĞAN-ESKİHİSAR-BENCİK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10405",
+    "short": "6-3",
+    "long": "YATAĞAN-KAPUBAĞ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10402",
+    "short": "6-4",
+    "long": "YATAĞAN-BOZÜYÜK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10406",
+    "short": "6-5",
+    "long": "YATAĞAN-BAHÇEYAKA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50296",
+    "short": "6-6",
+    "long": "YATAĞAN-ESENKÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10429",
+    "short": "6-7",
+    "long": "YATAĞAN-YUKARIYAYLA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50268",
+    "short": "6-8",
+    "long": "YATAĞAN ŞEHİRİÇİ-DEVLET HASTANESİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50269",
+    "short": "6-9",
+    "long": "YATAĞAN-DEŞTİN-ALAŞAR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50299",
+    "short": "6-10",
+    "long": "YATAĞAN-KAFACAKAPLANCIK-ÇAKIRLAR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50327",
+    "short": "6-11",
+    "long": "YATAĞAN-BOZARMUT-TOKİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50352",
+    "short": "6-12",
+    "long": "YATAĞAN-KATRANCI",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50049",
+    "short": "6-14",
+    "long": "KAPUBAĞ-MENTEŞE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50056",
+    "short": "6-15",
+    "long": "YATAĞAN-GÖKPINAR-MENTEŞE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50057",
+    "short": "6-16",
+    "long": "YATAĞAN-TURGUT",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50058",
+    "short": "6-17",
+    "long": "YATAĞAN-ESKİHİSAR-BENCİK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50059",
+    "short": "6-18",
+    "long": "YATAĞAN-BOZARMUT-BOZÜYÜK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50063",
+    "short": "6-19",
+    "long": "YATAĞAN-YUKARIYAYLA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50382",
+    "short": "6-20",
+    "long": "YATAĞAN-ÇAMLICA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50383",
+    "short": "6-21",
+    "long": "YATAĞAN-HACIBAYRAMLAR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50402",
+    "short": "6-22",
+    "long": "YATAĞAN ŞEHİRİÇİ-OTOGAR-DEVLET-DEVLET HASTAHANESİ-OTOGAR-YATA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50412",
+    "short": "6-23",
+    "long": "YATAĞAN-ÇAMLIYURT MAH.",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50427",
+    "short": "6-24",
+    "long": "YATAĞAN ŞEHİRİÇİ-MYO",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50436",
+    "short": "6-25",
+    "long": "YATAĞAN OTOGAR-NEBİKÖY KARATAŞ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50437",
+    "short": "6-26",
+    "long": "YATAĞAN OTOGAR-CAZGIRLAR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50440",
+    "short": "6-27",
+    "long": "YATAĞAN-TURGUTLAR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50441",
+    "short": "6-28",
+    "long": "YATAĞAN-HİSARDI",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50472",
+    "short": "6-29",
+    "long": "YATAĞAN-AKGEDİK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10503",
+    "short": "7-1",
+    "long": "KÖYCEĞİZ-AKKÖPRÜ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50152",
+    "short": "7-2",
+    "long": "KÖYCEGİZ-YUVARLAKÇAY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50048",
+    "short": "7-3",
+    "long": "KÖYCEĞİZ-YENİMAHALLE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50292",
+    "short": "7-5",
+    "long": "KÖYCEGİZ-TOPARLAR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50357",
+    "short": "7-6",
+    "long": "KÖYCEĞİZ-TOPARLAR-HAMİTKÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50147",
+    "short": "7-7",
+    "long": "KÖYCEGİZ-EKİNCİK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10501",
+    "short": "7-8",
+    "long": "KÖYCEĞİZ OTOGAR-KAVAKARASI",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50447",
+    "short": "7-9",
+    "long": "KÖYCEĞİZ-EKİNCİK-EKİNCİK-KÖYCEĞİZ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50453",
+    "short": "7-10",
+    "long": "OTOGAR-KARAÇAM",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50454",
+    "short": "7-11",
+    "long": "KÖYCEĞİZ-AĞLA-AĞLA-KÖYCEĞİZ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50459",
+    "short": "7-12",
+    "long": "OTOGAR-ÇAYHİSAR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50463",
+    "short": "7-13",
+    "long": "KÖYCEĞİZ YO-ORTACA KYK-ORTACA KYK-KÖYCEĞİZ YO",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50466",
+    "short": "7-14",
+    "long": "KÖYCEĞİZ MERKEZ-BALCILAR-BALCILAR-KÖYCEĞİZ MERKEZ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10601",
+    "short": "8-1",
+    "long": "ORTACA-DALYAN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10605",
+    "short": "8-2",
+    "long": "ORTACA-MENGENLİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50329",
+    "short": "8-4",
+    "long": "BAHÇELİEVLER-OTOGAR-HASTANE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50213",
+    "short": "8-5",
+    "long": "DALAMAN-ORTACA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50035",
+    "short": "8-6",
+    "long": "ORTACA-SARIGERME",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50455",
+    "short": "8-7",
+    "long": "SARIGERME-HİLTON-HİLTON-SARIGERME",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50000",
+    "short": "8-8",
+    "long": "DALYAN-OKÇULAR-ORTACA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50002",
+    "short": "8-9",
+    "long": "DALYAN-ESKİKÖY-ORTACA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50001",
+    "short": "8-10",
+    "long": "DALYAN-İZTUZU",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50045",
+    "short": "8-11",
+    "long": "DALAMAN-HAVALİMANI-HAVALİMANI-DALAMAN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50046",
+    "short": "8-12",
+    "long": "DALAMAN-SARIGERME",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50047",
+    "short": "8-13",
+    "long": "DALAMAN-SARSALA-SARSALA-DALAMAN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50353",
+    "short": "8-14",
+    "long": "DALAMAN-GÜRLEYİK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50377",
+    "short": "8-15",
+    "long": "ŞEREFLER-KARGINKÜRÜ-DALAMAN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50378",
+    "short": "8-16",
+    "long": "KAPIKARGIN-DALAMAN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50381",
+    "short": "8-17",
+    "long": "DALAMAN-DARIYERİ-ÇÖĞMEN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50457",
+    "short": "8-18",
+    "long": "DALAMAN-İNCEBEL-İNCEBEL-DALAMAN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50460",
+    "short": "8-19",
+    "long": "OTOGAR-DEREKÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50206",
+    "short": "9-1",
+    "long": "ESKİDATÇA-REŞADİYE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50207",
+    "short": "9-2",
+    "long": "KARGI-ÖZBEL-MEZARLIK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50270",
+    "short": "9-3",
+    "long": "DATÇA-MESUDİYE-HIZIRŞAH",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50315",
+    "short": "9-4",
+    "long": "DATÇA-KURUCABÜK-AKTUR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50318",
+    "short": "9-5",
+    "long": "DATÇA-KİNİDOS-BELENÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50319",
+    "short": "9-6",
+    "long": "MENTEŞE-DATÇA-BELENKÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50074",
+    "short": "9-8",
+    "long": "DATÇA-KÖRMEN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50040",
+    "short": "9-9",
+    "long": "DATÇA-GÖLMAR-KIZLAN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50367",
+    "short": "9-10",
+    "long": "DATÇA-BELENKÖY",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50444",
+    "short": "9-11",
+    "long": "CUMHURİYET MEYDANI-DATÇA OTOGAR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50458",
+    "short": "9-12",
+    "long": "DATÇA-MESUDİYE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10802",
+    "short": "10-1A",
+    "long": "MARMARİS-İÇMELER-SİTELER",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10815",
+    "short": "10-1B",
+    "long": "MARMARİS-İÇMELER",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50424",
+    "short": "10-2/D",
+    "long": "BELDİBİ-ARMUTALAN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10803",
+    "short": "10-2A",
+    "long": "MARMARİS-ARMUTALAN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10038",
+    "short": "10-2B",
+    "long": "MARMARİS-ARMUTALAN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50265",
+    "short": "10-2C",
+    "long": "MARMARİS-ARMUTALAN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50316",
+    "short": "10-3/B",
+    "long": "MARMARİS-ORMAN TEKNİKERLERİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10812",
+    "short": "10-4",
+    "long": "MARMARİS-TURGUT",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10816",
+    "short": "10-5",
+    "long": "MARMARİS-SÖĞÜT",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10817",
+    "short": "10-6",
+    "long": "MARMARİS-TURUNÇ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50356",
+    "short": "10-7",
+    "long": "MARMARİS-KARACASÖĞÜT",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50246",
+    "short": "10-8",
+    "long": "MARMARİS-HİSARÖNÜ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50245",
+    "short": "10-9",
+    "long": "MARMARİS-ORHANİYE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50247",
+    "short": "10-10",
+    "long": "MARMARİS-TURGUT",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50260",
+    "short": "10-11",
+    "long": "MARMARİS-SELİMİYE-BOZBURUN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50165",
+    "short": "10-12",
+    "long": "MARMARİS-SİTELER",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50286",
+    "short": "10-13",
+    "long": "TAŞLICA-SÖĞÜT-MARMARİS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50287",
+    "short": "10-14",
+    "long": "MARMARİS-AKSAZ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50201",
+    "short": "10-15",
+    "long": "MARMARİS-TURUNÇ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50304",
+    "short": "10-16A",
+    "long": "MİGROS ÖNÜ-BELDİBİ SANAYİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50430",
+    "short": "10-16B",
+    "long": "MARMARİS-KARŞIYAKA-BELDİBİ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50317",
+    "short": "10-17",
+    "long": "MARMARİS-YALANCIBOGAZ",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50330",
+    "short": "10-18",
+    "long": "MARMARİS-ÇAMLI",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50242",
+    "short": "10-19",
+    "long": "MARMARİS-TURUNÇ-KUMLUBÜK",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50372",
+    "short": "10-20",
+    "long": "MARMARİS-AKSAZ KAMP KOM.",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50409",
+    "short": "10-99",
+    "long": "MARMARİS-BAYIR",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10028",
+    "short": "12-1",
+    "long": "ULA-KIZILYAKA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50285",
+    "short": "12-3",
+    "long": "GÖKOVA-ELMALI-ESENTEPE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10024",
+    "short": "12-4",
+    "long": "MENTEŞE-ULA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50020",
+    "short": "12-5",
+    "long": "MENTEŞE-AKYAKA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50022",
+    "short": "12-6",
+    "long": "AKYAKA-GÖKÇE-MARMARİS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50162",
+    "short": "12-7",
+    "long": "GÖKÇE-MENTEŞE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50163",
+    "short": "12-8",
+    "long": "GÖKÇE-AKÇAPINAR-AKYAKA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50362",
+    "short": "12-9",
+    "long": "GÖKOVA-ULA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50363",
+    "short": "12-10",
+    "long": "YÜCELEN-AKYAKA",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50428",
+    "short": "12-11",
+    "long": "KARABÖRTLEN-MENTEŞE",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50406",
+    "short": "12-99",
+    "long": "ULA OTOGAR-ULA MYO",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50470",
+    "short": "14-1",
+    "long": "GÜLLÜK LİMAN-IASOS ADASI-IASOS ADASI-GÜLLÜK LİMAN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50471",
+    "short": "14-2",
+    "long": "FETHİYE LİMAN-ŞOVALYE ADASI-ŞOVALYE ADASI-FETHİYE LİMAN",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50064",
+    "short": "48-1",
+    "long": "MUĞLA-BODRUM",
+    "color": "48E85B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50160",
+    "short": "48-2",
+    "long": "FETHİYE-MUĞLA",
+    "color": "48E85B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30110",
+    "short": "48-5",
+    "long": "MUĞLA-MİLAS",
+    "color": "48E85B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50080",
+    "short": "48-6",
+    "long": "BODRUM-MİLAS",
+    "color": "48E85B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50090",
+    "short": "48-7",
+    "long": "MENTEŞE-MARMARİS",
+    "color": "48E85B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50148",
+    "short": "48-8",
+    "long": "MARMARİS-FETHİYE",
+    "color": "48E85B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50212",
+    "short": "48-9",
+    "long": "ORTACA-FETHİYE",
+    "color": "48E85B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50200",
+    "short": "48-10",
+    "long": "SEYDİKEMER-FETHİYE",
+    "color": "48E85B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50050",
+    "short": "48-11",
+    "long": "YATAĞAN-MENTEŞE",
+    "color": "48E85B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50036",
+    "short": "48-12",
+    "long": "DALAMAN-MENTEŞE",
+    "color": "48E85B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50211",
+    "short": "48-13",
+    "long": "DALAMAN-MARMARİS",
+    "color": "48E85B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50044",
+    "short": "48-14",
+    "long": "DALAMAN-FETHİYE",
+    "color": "48E85B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50069",
+    "short": "48-15",
+    "long": "DATÇA-MENTEŞE",
+    "color": "48E85B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50071",
+    "short": "48-16",
+    "long": "DATÇA-MARMARİS",
+    "color": "48E85B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50226",
+    "short": "48-17",
+    "long": "KAVAKLIDERE-YATAĞAN",
+    "color": "48E85B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50225",
+    "short": "48-18",
+    "long": "KAVAKLIDERE-YEŞİLKÖY-YATAĞAN",
+    "color": "48E85B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50227",
+    "short": "48-19",
+    "long": "MENTEŞE-KAVAKLIDERE-MUĞLA",
+    "color": "48E85B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50228",
+    "short": "48-20",
+    "long": "KAVAKLIDERE-MENTEŞE(MERKEZ)",
+    "color": "48E85B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50060",
+    "short": "48-21",
+    "long": "MENTEŞE-ULA",
+    "color": "48E85B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50384",
+    "short": "48-25",
+    "long": "FETHİYE OTOG-DALAMAN H. LİMANI-DALAMAN H. LİMANI-FETHİYE OTOG",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50653",
+    "short": "48-39",
+    "long": "KAVAKLIDERE-MENTEŞE",
+    "color": "48E85B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50399",
+    "short": "48-51",
+    "long": "BODRUM-MUĞLA",
+    "color": "48E85B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50400",
+    "short": "48-52",
+    "long": "MARMARİS-MUĞLA",
+    "color": "48E85B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50370",
+    "short": "48-98",
+    "long": "TAMİR-BAKIM",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50371",
+    "short": "48-99",
+    "long": "SERVİS DIŞI-SERVİS DIŞI",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50395",
+    "short": "99-17",
+    "long": "BODRUM-SAĞLIK SERVİSİ-SAĞLIK SERVİSİ-BODRUM",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50651",
+    "short": "99-90",
+    "long": "KENT MEYDANI-YEKAP PARKI",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50368",
+    "short": "50368",
+    "long": "YENİKÖY-TIP FAKÜLTESİ-KAMPÜS",
+    "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "99999",
+    "short": "Test",
+    "long": "test-test",
+    "color": "8447FF",
+    "text_color": "FFFFFF"
+  }
+]

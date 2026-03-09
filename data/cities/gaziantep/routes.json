@@ -1,0 +1,1115 @@
+[
+  {
+    "id": "00010",
+    "short": "B01",
+    "long": "GAZİKENT-ENSAR SİTESİ",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00020",
+    "short": "B02",
+    "long": "MAVİKENT-İSTASYON",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00030",
+    "short": "B03",
+    "long": "İNCİLİKAYA-ÇOCUK HAST.",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00040",
+    "short": "B04",
+    "long": "İNCİLİKAYA-ÇOCUK HAST.",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00050",
+    "short": "B05",
+    "long": "İNCİLİKAYA-GRAND HOTEL",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00060",
+    "short": "B06",
+    "long": "GÜNEŞ MAH.-SEFAŞEHİR",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00070",
+    "short": "B07",
+    "long": "GÜZELYURT KONUTLARI-GRAND HOTEL",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00080",
+    "short": "B08",
+    "long": "BEYKENT-BALIKLI",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00100",
+    "short": "B10",
+    "long": "ESKİ ADLİYE-H.BAHÇESİ",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00110",
+    "short": "B11",
+    "long": "HAYVAN PAZARI-İSTASYON",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00120",
+    "short": "B12",
+    "long": "AKKENT-N.TOPCUOĞLU M.Y.O",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00131",
+    "short": "B13",
+    "long": "OĞUZELİ-MİMAR SİNAN VİLLALARI",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00140",
+    "short": "B14",
+    "long": "ÇAKMAK MAH-ÖVÜNDÜK",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00180",
+    "short": "B18",
+    "long": "SEYRANTEPE-AKTOPRAK",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "02000",
+    "short": "B200",
+    "long": "ANKA HASTANESİ-BALIKLI",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "02100",
+    "short": "B201",
+    "long": "BALIKLI-YEŞİLKENT MEZARLIĞI",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00230",
+    "short": "B23",
+    "long": "OTOGAR-ŞEHİR HASTANESİ-BALIKLI-OTOGAR-TUR",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00250",
+    "short": "B25",
+    "long": "ÜMMÜ GÜLSÜM YURDU-HASAN KALYONCU ÜNV.",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "02700",
+    "short": "B270",
+    "long": "İSTASYON-KALYON STADI",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00280",
+    "short": "B28",
+    "long": "ÖNDERBİRLİK-BALIKLI",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00290",
+    "short": "B29",
+    "long": "YAMAÇTEPE KONUTLARI-BEYKENT",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00300",
+    "short": "B30",
+    "long": "GAZİKENT-İPEKEVLER",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00310",
+    "short": "B31",
+    "long": "GİBTÜ-İSTASYON",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00330",
+    "short": "B33",
+    "long": "ÇOCUK HST-GÜZELYURT KONUTLARI",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00350",
+    "short": "B35",
+    "long": "İSTASYON-BEYKENT",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00370",
+    "short": "B37",
+    "long": "İSTASYON-MİMARSİNAN VİLLALARI",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00380",
+    "short": "B38",
+    "long": "ŞEHİR HASTANESİ-İSTASYON",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00390",
+    "short": "B39",
+    "long": "OĞUZELİ-İSTASYON",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00400",
+    "short": "B40",
+    "long": "ENSAR SİTESİ-BALIKLI",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00410",
+    "short": "B41",
+    "long": "SEYRANTEPE-ALTINOVA",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00430",
+    "short": "B43",
+    "long": "İPEKEVLER-SEFAŞEHİR",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00440",
+    "short": "B44",
+    "long": "ÇOCUK HAST.-BEYKENT",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00450",
+    "short": "B45",
+    "long": "iNCİLİKAYA-ŞEHİR HASTANESİ",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00460",
+    "short": "B46",
+    "long": "BEYKENT-MAVİKENT",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00490",
+    "short": "B49",
+    "long": "ÖNDERBİRLİK-ABDULHAMİTHAN MAH.",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00500",
+    "short": "B50",
+    "long": "İSTASYON-İPEKEVLER",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00510",
+    "short": "B51",
+    "long": "OTOGAR-TAŞLICA",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00530",
+    "short": "B53",
+    "long": "H.KALYONCU ÜNV.-ÖNDERBİRLİK",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00560",
+    "short": "B56",
+    "long": "SEYRANTEPE-KABARCIK",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00570",
+    "short": "B57",
+    "long": "GAZİKENT-BALIKLI",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00580",
+    "short": "B58",
+    "long": "İPEKEVLER-BEYKENT",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00590",
+    "short": "B59",
+    "long": "BEYKENT-MAVİKENT",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00600",
+    "short": "B60",
+    "long": "GİBTÜ-DUMLUPINAR",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00601",
+    "short": "B601",
+    "long": "GİBTÜ-NARLITEPE",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00610",
+    "short": "B61",
+    "long": "DUMLUPINAR-BEYKENT",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00611",
+    "short": "B611",
+    "long": "NARLITEPE-BEYKENT",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00620",
+    "short": "B62",
+    "long": "ÖNDERBİRLİK-MAVİKENT",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00630",
+    "short": "B63",
+    "long": "OSMANLI MAH.-İSTASYON",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00640",
+    "short": "B64",
+    "long": "BALIKLI-DÜLÜK",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00650",
+    "short": "B65",
+    "long": "İSTASYON-HUZUREVİ",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00660",
+    "short": "B66",
+    "long": "BALIKLI-YIĞINLI",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00670",
+    "short": "B67",
+    "long": "ÇOCUK HST.-MAVİKENT",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00690",
+    "short": "B69",
+    "long": "İSTASYON-SİNAN",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00740",
+    "short": "B74",
+    "long": "GAZİANTEP ÜNİVERSİTESİ-UYGULAMA OTELİ",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00750",
+    "short": "B75",
+    "long": "BEYKENT-MAVİKENT",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00760",
+    "short": "B76",
+    "long": "BEYKENT-İPEKEVLER",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00770",
+    "short": "B77",
+    "long": "BEYKENT-GİBTÜ",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00780",
+    "short": "B78",
+    "long": "HEYBELİADA SİT.-BEYKENT",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00790",
+    "short": "B79",
+    "long": "MAVİKENT-GAZİKENT",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00800",
+    "short": "B80",
+    "long": "İPEKEVLER-GAZİKENT",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00840",
+    "short": "B84",
+    "long": "BEYKENT-BALIKLI",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00850",
+    "short": "B85",
+    "long": "ERKEK YURDU-GAÜN NİZİP YERLEŞKESİ",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00860",
+    "short": "B86",
+    "long": "İSTASYON-BURÇ",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00870",
+    "short": "B87",
+    "long": "SEYRANTEPE-MUHACIROSMAN",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00880",
+    "short": "B88",
+    "long": "SEYRANTEPE-BEŞKUYU",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00890",
+    "short": "B89",
+    "long": "OĞUZELİ-GÖKTÜRK MAH.",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00900",
+    "short": "B90",
+    "long": "HOŞGÖR-ZEYTİNLİ",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00910",
+    "short": "B91",
+    "long": "ÇAKMAK MAH.-DIMIŞKILI",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00920",
+    "short": "B92",
+    "long": "KUZEYŞEHİR-İSTASYON",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00930",
+    "short": "B93",
+    "long": "BALIKLI-SAM",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10100",
+    "short": "GA1",
+    "long": "GAZİRAY BAŞPINAR İSTASYONU-AKTOPRAK",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10200",
+    "short": "GA2",
+    "long": "GAZİRAY BAŞPINAR İSTASYONU-KUZEYŞEHİR",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10300",
+    "short": "GA3",
+    "long": "GAZİRAY BAŞPINAR İSTASYONU-BEYKENT",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10400",
+    "short": "GA4",
+    "long": "OSB HASTANESİ-OTOGAR",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50110",
+    "short": "GR01",
+    "long": "BAŞPINAR-TAŞLICA",
+    "color": "00B31E",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "80500",
+    "short": "IS01",
+    "long": "AĞABEY-FEVZİPAŞA",
+    "color": "7F6EFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "80510",
+    "short": "IS02",
+    "long": "BAHÇELİEVLER-HASTANE",
+    "color": "7F6EFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00090",
+    "short": "K09",
+    "long": "İSTASYON-KARAKESEK",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00150",
+    "short": "K15",
+    "long": "İSTASYON-ÇÖREKLİ",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00160",
+    "short": "K16",
+    "long": "ESKİ ADLİYE-İNCEYOL",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00170",
+    "short": "K17",
+    "long": "İSTASYON-KABASAKIZ",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00190",
+    "short": "K19",
+    "long": "19 MAYIS LİSESİ-ULUYATIR",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00200",
+    "short": "K20",
+    "long": "BALIKLI-YAYIKTAŞ",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00210",
+    "short": "K21",
+    "long": "İSTASYON-SOFALICI",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00220",
+    "short": "K22",
+    "long": "İSTASYON-AŞAĞI ÇARDAK",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00240",
+    "short": "K24",
+    "long": "İSTASYON-ÖNCÜLER",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00260",
+    "short": "K26",
+    "long": "İSTASYON-KARKAMIŞ",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00270",
+    "short": "K27",
+    "long": "İSTASYON-DEMİRKONAK",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00320",
+    "short": "K32",
+    "long": "İSTASYON-ATALAR",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00340",
+    "short": "K34",
+    "long": "YEDİTEPE-YOĞUNTAŞ",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00360",
+    "short": "K36",
+    "long": "İSTASYON-YENİYAZI",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00470",
+    "short": "K47",
+    "long": "İSTASYON-SARIKAYA",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00480",
+    "short": "K48",
+    "long": "İSTASYON-EREN KÖY",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00520",
+    "short": "K52",
+    "long": "İSTASYON-KAYABAŞI",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00540",
+    "short": "K54",
+    "long": "İSTASYON-MORCALI",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00550",
+    "short": "K55",
+    "long": "İSTASYON-HALİL BAŞI",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00680",
+    "short": "K68",
+    "long": "İSTASYON-BEKİŞLİ",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00700",
+    "short": "K70",
+    "long": "İSTASYON-YAVUZELİ",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00701",
+    "short": "K701",
+    "long": "İSTASYON-HİSAR KÖY",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00710",
+    "short": "K71",
+    "long": "İSTASYON-DOKUR",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00720",
+    "short": "K72",
+    "long": "İSTASYON-KAMIŞLI",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00730",
+    "short": "K73",
+    "long": "İSTASYON-KARAYUSUFLU",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00940",
+    "short": "K94",
+    "long": "İSTASYON-KARTAL",
+    "color": "9E3F00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20010",
+    "short": "M01",
+    "long": "MAVİKENT-KAYAÖNÜ-OTOGAR",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20020",
+    "short": "M02",
+    "long": "YEDİTEPE-OTOGAR",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20030",
+    "short": "M03",
+    "long": "GAZİKENT-MAVİKENT",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20040",
+    "short": "M04",
+    "long": "YEDİTEPE-GAZİKENT",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20050",
+    "short": "M05",
+    "long": "GAZİKENT-BALIKLI",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20060",
+    "short": "M06",
+    "long": "YENİ ÇOCUK HAST.-OTOGAR",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20070",
+    "short": "M07",
+    "long": "YENİ ÇOCUK HAST.-OTOGAR",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20080",
+    "short": "M08",
+    "long": "KARACA AHMET MAHALLESİ-YEDİTEPE",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20090",
+    "short": "M09",
+    "long": "İPEKEVLER-OTOGAR",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20100",
+    "short": "M10",
+    "long": "İPEKEVLER-OTOGAR",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20110",
+    "short": "M11",
+    "long": "İPEKEVLER-OTOGAR",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20120",
+    "short": "M12",
+    "long": "SERİNEVLER-15 TEMMUZ YERLEŞKESİ",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20140",
+    "short": "M13",
+    "long": "VATAN MAHALLESİ-TUGAY",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20160",
+    "short": "M14",
+    "long": "VATAN MAHALLESİ-ENSAR SİT.",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20170",
+    "short": "M15",
+    "long": "NARLITEPE-OTOGAR",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20190",
+    "short": "M16",
+    "long": "MAVİKENT-OTOGAR",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20200",
+    "short": "M17",
+    "long": "OTOGAR-MAVİKENT",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20220",
+    "short": "M18",
+    "long": "YENİ ÇOCUK HASTANESİ-AYAKKABICILAR SİTESİ",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20230",
+    "short": "M19",
+    "long": "GİRNE-BALIKLI-GİRNE-BALIKLI",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "80010",
+    "short": "N01",
+    "long": "AKÇAKENT-İSTASYON",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "80050",
+    "short": "N05",
+    "long": "Cezaevi-Cezaevi-Nizip Devlet Hastanesi",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30010",
+    "short": "S01",
+    "long": "KARATAŞ-GATEM",
+    "color": "D9D900",
+    "text_color": "000000"
+  },
+  {
+    "id": "30021",
+    "short": "S02",
+    "long": "İNCİLİKAYA-ÇOCUK HAST.",
+    "color": "D9D900",
+    "text_color": "000000"
+  },
+  {
+    "id": "30030",
+    "short": "S03",
+    "long": "MAVİKENT-CUMHURİYET-GATEM",
+    "color": "D9D900",
+    "text_color": "000000"
+  },
+  {
+    "id": "30040",
+    "short": "S04",
+    "long": "KARATAŞ-60.YIL-GATEM",
+    "color": "D9D900",
+    "text_color": "000000"
+  },
+  {
+    "id": "30050",
+    "short": "S05",
+    "long": "İBNİ SİNA-SÜMERBANK-GATEM",
+    "color": "D9D900",
+    "text_color": "000000"
+  },
+  {
+    "id": "30060",
+    "short": "S06",
+    "long": "BAŞPINAR-YAKACAK PAZARI",
+    "color": "D9D900",
+    "text_color": "000000"
+  },
+  {
+    "id": "30070",
+    "short": "S07",
+    "long": "BAŞPINAR-YEŞİLKENT-MAVİKENT",
+    "color": "D9D900",
+    "text_color": "000000"
+  },
+  {
+    "id": "30080",
+    "short": "S08",
+    "long": "BİNEVLER-GAZİKENT",
+    "color": "D9D900",
+    "text_color": "000000"
+  },
+  {
+    "id": "30090",
+    "short": "S09",
+    "long": "ONUR MH.-KARAGÖZ",
+    "color": "D9D900",
+    "text_color": "000000"
+  },
+  {
+    "id": "30100",
+    "short": "S10",
+    "long": "BEYLERBEYİ-SAÇAKLI",
+    "color": "D9D900",
+    "text_color": "000000"
+  },
+  {
+    "id": "30110",
+    "short": "S11",
+    "long": "ABDULKADİR YÜKSEL HAST.-İBRAHİMLİ",
+    "color": "D9D900",
+    "text_color": "000000"
+  },
+  {
+    "id": "30120",
+    "short": "S12",
+    "long": "DÜZTEPE-KARATAŞ",
+    "color": "D9D900",
+    "text_color": "000000"
+  },
+  {
+    "id": "50010",
+    "short": "T1",
+    "long": "İBNİ SİNA-GAR",
+    "color": "FF2B0A",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50020",
+    "short": "T2",
+    "long": "ADLİYE-GAR",
+    "color": "08FF08",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50030",
+    "short": "T3",
+    "long": "ADLİYE-MÜZEYYEN ERKUL BİLİM MERKEZİ",
+    "color": "0D0DFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10010",
+    "short": "TA1",
+    "long": "GAÜN-GÜNEY ŞEHİR",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10020",
+    "short": "TA2",
+    "long": "ÜMMÜ GÜLSÜM YURDU-GAÜN",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10030",
+    "short": "TA3",
+    "long": "GİBTÜ-GAÜN",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10050",
+    "short": "TA500",
+    "long": "TRAMVAY AKTARMA-TRAMVAY AKTARMA",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00501",
+    "short": "TA501",
+    "long": "İBNİ SİNA-GAR",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00502",
+    "short": "TA502",
+    "long": "ADLİYE-GAR",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00503",
+    "short": "TA503",
+    "long": "BURÇ-ADLİYE",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10040",
+    "short": "TA6",
+    "long": "KARATAŞ2-TRAMVAY AKTARMA",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00181",
+    "short": "B18-1",
+    "long": "İSTASYON-KARACABURÇ",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00921",
+    "short": "B92-1",
+    "long": "KUZEYŞEHİR 6.ETAP-İSTASYON",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00161",
+    "short": "K16-1",
+    "long": "ESKİ ADLİYE-HAVALİMANI",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20130",
+    "short": "M12-1",
+    "long": "SERİNEVLER-MAVİKENT",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20150",
+    "short": "M13-1",
+    "long": "GÜZELVADİ-TUGAY",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20180",
+    "short": "M15-1",
+    "long": "GÜZELVADİ-OTOGAR",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20210",
+    "short": "M17-1",
+    "long": "BEYKENT-İPEKEVLER",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30011",
+    "short": "S01-1",
+    "long": "İBNİ SİNA-GÜNEŞ MAH.-GATEM",
+    "color": "D9D900",
+    "text_color": "000000"
+  },
+  {
+    "id": "30020",
+    "short": "S02-1",
+    "long": "SEYRANTEPE-PERİLİKAYA-ÇEVİK KUVVET",
+    "color": "D9D900",
+    "text_color": "000000"
+  },
+  {
+    "id": "30111",
+    "short": "S11-1",
+    "long": "ŞEHİR HASTANESİ-İBRAHİMLİ-2",
+    "color": "D9D900",
+    "text_color": "000000"
+  },
+  {
+    "id": "30121",
+    "short": "S12-1",
+    "long": "DÜZTEPE-VATAN",
+    "color": "D9D900",
+    "text_color": "000000"
+  },
+  {
+    "id": "20151",
+    "short": "M13-2",
+    "long": "KARACA AHMET-DÜZTEPE",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  }
+]

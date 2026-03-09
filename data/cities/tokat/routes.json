@@ -1,0 +1,170 @@
+[
+  {
+    "id": "60210",
+    "short": "1",
+    "long": "SOFOR EVLERi",
+    "color": "null",
+    "text_color": "null"
+  },
+  {
+    "id": "60220",
+    "short": "1/A",
+    "long": "HASTANE-SOFOR EVLERi",
+    "color": "null",
+    "text_color": "null"
+  },
+  {
+    "id": "60230",
+    "short": "3",
+    "long": "ESENTEPE",
+    "color": "null",
+    "text_color": "null"
+  },
+  {
+    "id": "60240",
+    "short": "3/A",
+    "long": "HASTANE-ESENTEPE",
+    "color": "null",
+    "text_color": "null"
+  },
+  {
+    "id": "60250",
+    "short": "4",
+    "long": "VALi KONUTLARI",
+    "color": "null",
+    "text_color": "null"
+  },
+  {
+    "id": "60260",
+    "short": "4/A",
+    "long": "TEKBiR EVLERi",
+    "color": "null",
+    "text_color": "null"
+  },
+  {
+    "id": "60270",
+    "short": "4/B",
+    "long": "ORMAN FiDANLIK",
+    "color": "null",
+    "text_color": "null"
+  },
+  {
+    "id": "60290",
+    "short": "4/H",
+    "long": "HASTANE-TEKBiR EVLERi",
+    "color": "null",
+    "text_color": "null"
+  },
+  {
+    "id": "60300",
+    "short": "5",
+    "long": "BEDESTENLiOGLU-60557 - İMREN",
+    "color": "null",
+    "text_color": "null"
+  },
+  {
+    "id": "60310",
+    "short": "5/A",
+    "long": "ORGANiZE SANAYi",
+    "color": "null",
+    "text_color": "null"
+  },
+  {
+    "id": "60330",
+    "short": "6",
+    "long": "SANAYi",
+    "color": "null",
+    "text_color": "null"
+  },
+  {
+    "id": "60340",
+    "short": "6/A",
+    "long": "SANAYi-HAL",
+    "color": "null",
+    "text_color": "null"
+  },
+  {
+    "id": "60370",
+    "short": "9",
+    "long": "CAY-KASIKCI BAGLARI",
+    "color": "null",
+    "text_color": "null"
+  },
+  {
+    "id": "60390",
+    "short": "11",
+    "long": "TOKi EVLERi",
+    "color": "null",
+    "text_color": "null"
+  },
+  {
+    "id": "60400",
+    "short": "12",
+    "long": "HASTANE-YAZICIOGLU",
+    "color": "null",
+    "text_color": "null"
+  },
+  {
+    "id": "60410",
+    "short": "12/H",
+    "long": "HASTANE-YAZICIOGLU",
+    "color": "null",
+    "text_color": "null"
+  },
+  {
+    "id": "60420",
+    "short": "13",
+    "long": "GEZiRLiK",
+    "color": "null",
+    "text_color": "null"
+  },
+  {
+    "id": "60430",
+    "short": "14",
+    "long": "TOKi-KARSIYAKA",
+    "color": "null",
+    "text_color": "null"
+  },
+  {
+    "id": "60100",
+    "short": "100",
+    "long": "Çarşı2",
+    "color": "null",
+    "text_color": "null"
+  },
+  {
+    "id": "00100",
+    "short": "100",
+    "long": "Test Start 1-Test End 1",
+    "color": "null",
+    "text_color": "null"
+  },
+  {
+    "id": "60101",
+    "short": "101",
+    "long": "G.O.P. UNiVERSiTESi",
+    "color": "null",
+    "text_color": "null"
+  },
+  {
+    "id": "60102",
+    "short": "102",
+    "long": "KAMPUS-TOKi",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "60103",
+    "short": "103",
+    "long": "KARSIYAKA-UNiVERSiTE",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "60104",
+    "short": "104",
+    "long": "BEDESTENLiOGLU-UNiVERSiTE",
+    "color": "",
+    "text_color": ""
+  }
+]

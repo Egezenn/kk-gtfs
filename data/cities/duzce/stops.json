@@ -1,0 +1,7400 @@
+[
+  {
+    "id": "10001",
+    "name": "LALEZAR KONAKLARI DURAĞI",
+    "lat": 40.8302039,
+    "lon": 31.1715546
+  },
+  {
+    "id": "10002",
+    "name": "YENİKENT POLİS MERKEZİ DURAĞI",
+    "lat": 40.8657764,
+    "lon": 31.216743
+  },
+  {
+    "id": "10003",
+    "name": "ŞEHİR MEZARLIĞI DURAĞI",
+    "lat": 40.8279715,
+    "lon": 31.1731077
+  },
+  {
+    "id": "10004",
+    "name": "İSMET PAŞA OKUL DURAĞI",
+    "lat": 40.8264533,
+    "lon": 31.1702257
+  },
+  {
+    "id": "10005",
+    "name": "ŞEHİT CİHAN AKSARI",
+    "lat": 40.8439544,
+    "lon": 31.1156763
+  },
+  {
+    "id": "10006",
+    "name": "ŞEHİT CİHAN AKSARI",
+    "lat": 40.8437678,
+    "lon": 31.1156227
+  },
+  {
+    "id": "10007",
+    "name": "FÜPAŞ FİDANLIK",
+    "lat": 40.8433274,
+    "lon": 31.1195454
+  },
+  {
+    "id": "10008",
+    "name": "FÜPAŞ FİDANLIK",
+    "lat": 40.8434817,
+    "lon": 31.1195387
+  },
+  {
+    "id": "10009",
+    "name": "TÜRKOĞLU SİTESİ",
+    "lat": 40.8426071,
+    "lon": 31.1229263
+  },
+  {
+    "id": "10010",
+    "name": "TÜRKOĞLU SİTESİ",
+    "lat": 40.8429337,
+    "lon": 31.1221672
+  },
+  {
+    "id": "10011",
+    "name": "ZAFER HALI SAHA",
+    "lat": 40.8420998,
+    "lon": 31.1256272
+  },
+  {
+    "id": "10012",
+    "name": "ZAFER HALI SAHA",
+    "lat": 40.8422338,
+    "lon": 31.12552
+  },
+  {
+    "id": "10013",
+    "name": "AZİZİYE 1050 BULVARI",
+    "lat": 40.8426281,
+    "lon": 31.1277255
+  },
+  {
+    "id": "10014",
+    "name": "AZİZİYE 1050 BULVARI",
+    "lat": 40.8425442,
+    "lon": 31.1276067
+  },
+  {
+    "id": "10015",
+    "name": "PAZARYERİ 1053. SOKAK DURAĞI",
+    "lat": 40.8442034,
+    "lon": 31.1295224
+  },
+  {
+    "id": "10016",
+    "name": "ESKİ PAZARYERİ",
+    "lat": 40.845182,
+    "lon": 31.1344276
+  },
+  {
+    "id": "10017",
+    "name": "ESKİ PAZARYERİ",
+    "lat": 40.8455229,
+    "lon": 31.1341437
+  },
+  {
+    "id": "10018",
+    "name": "ESKİ PAZARYERİ ORTASI",
+    "lat": 40.8465577,
+    "lon": 31.1383249
+  },
+  {
+    "id": "10019",
+    "name": "MERGİÇ MEYDAN",
+    "lat": 40.8462473,
+    "lon": 31.1192973
+  },
+  {
+    "id": "10020",
+    "name": "MERGİÇ MEYDAN",
+    "lat": 40.8460849,
+    "lon": 31.1193295
+  },
+  {
+    "id": "10021",
+    "name": "MERGİÇ CAMİ",
+    "lat": 40.8467261,
+    "lon": 31.1209683
+  },
+  {
+    "id": "10022",
+    "name": "MERGİÇ CAMİ",
+    "lat": 40.8468215,
+    "lon": 31.1209281
+  },
+  {
+    "id": "10023",
+    "name": "MERGİÇ DEĞİRMEN",
+    "lat": 40.847209,
+    "lon": 31.1226044
+  },
+  {
+    "id": "10024",
+    "name": "MERGİÇ DEĞİRMEN",
+    "lat": 40.8473084,
+    "lon": 31.1226098
+  },
+  {
+    "id": "10025",
+    "name": "MERGİÇ TALEBE YURDU",
+    "lat": 40.8468985,
+    "lon": 31.1248279
+  },
+  {
+    "id": "10026",
+    "name": "MERGİÇ TALEBE YURDU",
+    "lat": 40.8468012,
+    "lon": 31.1248467
+  },
+  {
+    "id": "10031",
+    "name": "KÜCÜK SANAYİ PETROL OFİSİ",
+    "lat": 40.8517516,
+    "lon": 31.1240715
+  },
+  {
+    "id": "10032",
+    "name": "HAL DURAĞI",
+    "lat": 40.8494631,
+    "lon": 31.1253966
+  },
+  {
+    "id": "10033",
+    "name": "HAL DURAĞI",
+    "lat": 40.849522,
+    "lon": 31.1256032
+  },
+  {
+    "id": "10037",
+    "name": "ESKİ HALK PAZARI",
+    "lat": 40.8470538,
+    "lon": 31.1417037
+  },
+  {
+    "id": "10038",
+    "name": "ESKİ HALK PAZARI",
+    "lat": 40.8475028,
+    "lon": 31.1421014
+  },
+  {
+    "id": "10039",
+    "name": "SOSYAL HİZMETLER DURAĞI",
+    "lat": 40.8451896,
+    "lon": 31.1413741
+  },
+  {
+    "id": "10040",
+    "name": "SOSYAL HİZMETLER DURAĞI",
+    "lat": 40.8452969,
+    "lon": 31.1410963
+  },
+  {
+    "id": "10041",
+    "name": "15 TEMMUZ LİSESİ",
+    "lat": 40.8428023,
+    "lon": 31.1402995
+  },
+  {
+    "id": "10042",
+    "name": "HALK EĞİTİM",
+    "lat": 40.8428763,
+    "lon": 31.1405919
+  },
+  {
+    "id": "10043",
+    "name": "15 TEMMUZ ANADOLU LİSESİ",
+    "lat": 40.8436211,
+    "lon": 31.1401162
+  },
+  {
+    "id": "10044",
+    "name": "15 TEMMUZ ANADOLU LİSESİ",
+    "lat": 40.8435506,
+    "lon": 31.1400763
+  },
+  {
+    "id": "10045",
+    "name": "DEVLET HASTANESİ ACİL",
+    "lat": 40.8437495,
+    "lon": 31.1381747
+  },
+  {
+    "id": "10046",
+    "name": "DEVLET HASTANESİ ACİL",
+    "lat": 40.8439321,
+    "lon": 31.1376932
+  },
+  {
+    "id": "10048",
+    "name": "GÜNLÜ CAMİ",
+    "lat": 40.8435416,
+    "lon": 31.1355066
+  },
+  {
+    "id": "10049",
+    "name": "GÜNLÜ CAMİ",
+    "lat": 40.8436866,
+    "lon": 31.1353423
+  },
+  {
+    "id": "10050",
+    "name": "DİŞ HASTANESİ",
+    "lat": 40.8418745,
+    "lon": 31.1357566
+  },
+  {
+    "id": "10051",
+    "name": "DİŞ HASTANESİ",
+    "lat": 40.8418674,
+    "lon": 31.1358746
+  },
+  {
+    "id": "10052",
+    "name": "AL GÜN SİTESİ",
+    "lat": 40.8397014,
+    "lon": 31.1285348
+  },
+  {
+    "id": "10053",
+    "name": "AL GÜN SİTESİ",
+    "lat": 40.8397561,
+    "lon": 31.1282773
+  },
+  {
+    "id": "10054",
+    "name": "BAĞDAT CAMİ",
+    "lat": 40.8374834,
+    "lon": 31.1289747
+  },
+  {
+    "id": "10055",
+    "name": "BAĞDAT CAMİ",
+    "lat": 40.8373251,
+    "lon": 31.1291195
+  },
+  {
+    "id": "10056",
+    "name": "GÜNLÜ PUSAT YAPI",
+    "lat": 40.8375768,
+    "lon": 31.1313404
+  },
+  {
+    "id": "10057",
+    "name": "GÜNLÜ PUSAT YAPI",
+    "lat": 40.8377005,
+    "lon": 31.131268
+  },
+  {
+    "id": "10058",
+    "name": "BELMEK SPOR MERKEZİ",
+    "lat": 40.8381203,
+    "lon": 31.1338935
+  },
+  {
+    "id": "10872",
+    "name": "KONURALP MERKEZ DURAĞI",
+    "lat": 40.9048332,
+    "lon": 31.1472807
+  },
+  {
+    "id": "10870",
+    "name": "KONURALP BELEDİYE DURAĞI",
+    "lat": 40.9047348,
+    "lon": 31.1495097
+  },
+  {
+    "id": "10868",
+    "name": "ÜSKÜBÜ İLK OKULU DURAĞI",
+    "lat": 40.904821,
+    "lon": 31.1524601
+  },
+  {
+    "id": "10861",
+    "name": "KONURALP LİSE DURAĞI",
+    "lat": 40.9056663,
+    "lon": 31.1536001
+  },
+  {
+    "id": "10860",
+    "name": "GÖLCÜK BAŞI CAMI DURAĞI",
+    "lat": 40.9052467,
+    "lon": 31.1573122
+  },
+  {
+    "id": "10857",
+    "name": "GÖLCÜK BAŞI İÇ YOL DURAĞI",
+    "lat": 40.9050298,
+    "lon": 31.16004
+  },
+  {
+    "id": "10855",
+    "name": "GÖLCÜK BAŞI ALA FIRIN DURAĞI",
+    "lat": 40.9041196,
+    "lon": 31.1626364
+  },
+  {
+    "id": "10853",
+    "name": "GÖLCÜK BAŞI DURAĞI",
+    "lat": 40.9039959,
+    "lon": 31.1640634
+  },
+  {
+    "id": "10851",
+    "name": "GÖLCÜK BAŞI USTA KARDEŞLER DURAĞI",
+    "lat": 40.902289,
+    "lon": 31.1663888
+  },
+  {
+    "id": "10850",
+    "name": "GÖLCÜK BAŞI ACADEMİA TOWER DURAĞI",
+    "lat": 40.9016118,
+    "lon": 31.1687277
+  },
+  {
+    "id": "10842",
+    "name": "TEKNO PARK DURAĞI",
+    "lat": 40.9007842,
+    "lon": 31.174781
+  },
+  {
+    "id": "11267",
+    "name": "ÜNİVERSİTE VADİ DURAĞI",
+    "lat": 40.9035388,
+    "lon": 31.1727779
+  },
+  {
+    "id": "10840",
+    "name": "CAHİT ZARİF OĞLU DURAĞI",
+    "lat": 40.9061248,
+    "lon": 31.1722669
+  },
+  {
+    "id": "10838",
+    "name": "ÜNİVERSİTE POLİKİL��NİK DURAĞI",
+    "lat": 40.9040162,
+    "lon": 31.1744998
+  },
+  {
+    "id": "10836",
+    "name": "ÜNİVERSİTE ORMAN FAKÜLTESİ DURAĞI",
+    "lat": 40.9064488,
+    "lon": 31.1782576
+  },
+  {
+    "id": "10837",
+    "name": "ÜNİVERSİTE EĞİTİM FAKÜLTESİ DURAĞI",
+    "lat": 40.9069475,
+    "lon": 31.1813904
+  },
+  {
+    "id": "10832",
+    "name": "ÜNİVERSİTE FEN EDEBİYAT DURAĞI",
+    "lat": 40.9064285,
+    "lon": 31.1853614
+  },
+  {
+    "id": "11311",
+    "name": "ÜNİVERSİTE KEMER KAPI",
+    "lat": 40.902893,
+    "lon": 31.1829273
+  },
+  {
+    "id": "11310",
+    "name": "ÜNİVERSİTE GİRİŞ DURAĞI",
+    "lat": 40.90088,
+    "lon": 31.1831875
+  },
+  {
+    "id": "11168",
+    "name": "ÜNİVERSİTE GİRİŞ DURAĞI",
+    "lat": 40.9008961,
+    "lon": 31.183453
+  },
+  {
+    "id": "11309",
+    "name": "ÜNİVERSİTE KEMER KAPI",
+    "lat": 40.9029255,
+    "lon": 31.1831874
+  },
+  {
+    "id": "10833",
+    "name": "ÜNİVERSİTE FEN EDEBİYAT DURAĞI",
+    "lat": 40.9067387,
+    "lon": 31.1853185
+  },
+  {
+    "id": "10834",
+    "name": "ÜNİVERSİTE KAMPÜS DURAĞI",
+    "lat": 40.904153,
+    "lon": 31.180791
+  },
+  {
+    "id": "10835",
+    "name": "ÜNİVERSİTE KAMPÜS PARK DURAĞI",
+    "lat": 40.9037921,
+    "lon": 31.1783339
+  },
+  {
+    "id": "11133",
+    "name": "KAMPÜS ORTA CAFE",
+    "lat": 40.9051494,
+    "lon": 31.177355
+  },
+  {
+    "id": "10839",
+    "name": "CAHİT ZARİF OĞLU DURAĞI",
+    "lat": 40.9059683,
+    "lon": 31.1716942
+  },
+  {
+    "id": "11266",
+    "name": "ÜNİVERSİTE VADİ DURAĞI",
+    "lat": 40.9034719,
+    "lon": 31.1727095
+  },
+  {
+    "id": "10841",
+    "name": "TEKNO PARK DURAĞI",
+    "lat": 40.9009428,
+    "lon": 31.1735181
+  },
+  {
+    "id": "10849",
+    "name": "GÖLCÜK BAŞI ACADEMİA TOWER DURAĞI",
+    "lat": 40.9016787,
+    "lon": 31.1687867
+  },
+  {
+    "id": "10852",
+    "name": "GÖLCÜK BAŞI USTA KARDEŞLER DURAĞI",
+    "lat": 40.9023822,
+    "lon": 31.166421
+  },
+  {
+    "id": "10854",
+    "name": "GÖLCÜK BAŞI DURAĞI",
+    "lat": 40.904079,
+    "lon": 31.1640821
+  },
+  {
+    "id": "10856",
+    "name": "GÖLCÜK BAŞI ALA FIRIN DURAĞI",
+    "lat": 40.9041855,
+    "lon": 31.1626109
+  },
+  {
+    "id": "10858",
+    "name": "GÖLCÜK BAŞI İÇ YOL DURAĞI",
+    "lat": 40.9051129,
+    "lon": 31.1600776
+  },
+  {
+    "id": "10859",
+    "name": "GÖLCÜK BAŞI CAMI DURAĞI",
+    "lat": 40.906013,
+    "lon": 31.1569233
+  },
+  {
+    "id": "10862",
+    "name": "KONURALP LİSE DURAĞI",
+    "lat": 40.9057383,
+    "lon": 31.153639
+  },
+  {
+    "id": "10869",
+    "name": "ÜSKÜBÜ İLK OKULU DURAĞI",
+    "lat": 40.9049203,
+    "lon": 31.1525218
+  },
+  {
+    "id": "10871",
+    "name": "KONURALP BELEDİYE DURAĞI",
+    "lat": 40.9047759,
+    "lon": 31.1494809
+  },
+  {
+    "id": "10873",
+    "name": "KONURALP MERKEZ DURAĞI",
+    "lat": 40.9049482,
+    "lon": 31.1471775
+  },
+  {
+    "id": "10843",
+    "name": "ÜNİVERSİTE KAVŞAĞI DURAĞI",
+    "lat": 40.9007148,
+    "lon": 31.1712356
+  },
+  {
+    "id": "10845",
+    "name": "ÜNİVERSİTE CAFELER DURAĞI",
+    "lat": 40.8983944,
+    "lon": 31.170152
+  },
+  {
+    "id": "10847",
+    "name": "BEÇİ SAPAK DURAĞI",
+    "lat": 40.8956107,
+    "lon": 31.1681296
+  },
+  {
+    "id": "10900",
+    "name": "BEÇİ SAPAK D655 DURAĞI",
+    "lat": 40.8935417,
+    "lon": 31.1671251
+  },
+  {
+    "id": "10901",
+    "name": "YAPILOJİ DURAĞI",
+    "lat": 40.8822178,
+    "lon": 31.1703826
+  },
+  {
+    "id": "10903",
+    "name": "ÇAM KÖY CAMİ DURAĞI",
+    "lat": 40.8803217,
+    "lon": 31.1700608
+  },
+  {
+    "id": "10904",
+    "name": "ÇAMKÖY MEZARLIK DURAĞI",
+    "lat": 40.8784762,
+    "lon": 31.1697738
+  },
+  {
+    "id": "10907",
+    "name": "YIĞILCA SAPAK DURAĞI",
+    "lat": 40.8758195,
+    "lon": 31.169409
+  },
+  {
+    "id": "10909",
+    "name": "DELTA TUĞLA FABRİKA DURAĞI",
+    "lat": 40.87327,
+    "lon": 31.1689422
+  },
+  {
+    "id": "10911",
+    "name": "SANCAKLAR MEZARLIK DURAĞI",
+    "lat": 40.8695382,
+    "lon": 31.1683442
+  },
+  {
+    "id": "10914",
+    "name": "PRESTİJ SAPAK DURAĞI",
+    "lat": 40.865606,
+    "lon": 31.1676561
+  },
+  {
+    "id": "10915",
+    "name": "ZİGANA ERMEK DURAĞI",
+    "lat": 40.8632988,
+    "lon": 31.1675288
+  },
+  {
+    "id": "10918",
+    "name": "MEHMET AKİF İNAN DURAĞI",
+    "lat": 40.8617572,
+    "lon": 31.1672606
+  },
+  {
+    "id": "10919",
+    "name": "PTT DURAĞI",
+    "lat": 40.860327,
+    "lon": 31.1670433
+  },
+  {
+    "id": "10921",
+    "name": "BEYCİLER SAPAK DURAĞI",
+    "lat": 40.8577893,
+    "lon": 31.1666222
+  },
+  {
+    "id": "10925",
+    "name": "BEYCİLER GALERİ DURAĞI",
+    "lat": 40.856359,
+    "lon": 31.1662708
+  },
+  {
+    "id": "10449",
+    "name": "DTK HALI SAHA",
+    "lat": 40.855791,
+    "lon": 31.1645139
+  },
+  {
+    "id": "10454",
+    "name": "SERVET BUCURGAT DURAĞI",
+    "lat": 40.8561552,
+    "lon": 31.162108
+  },
+  {
+    "id": "10455",
+    "name": "KÖRPEŞLER ANA OKULU",
+    "lat": 40.8562434,
+    "lon": 31.1606006
+  },
+  {
+    "id": "10460",
+    "name": "KÖRPEŞLER MUHTARLIK",
+    "lat": 40.8560618,
+    "lon": 31.1566618
+  },
+  {
+    "id": "10462",
+    "name": "AŞIYAN",
+    "lat": 40.8559898,
+    "lon": 31.1523689
+  },
+  {
+    "id": "10463",
+    "name": "AŞIYAN",
+    "lat": 40.8566187,
+    "lon": 31.1493796
+  },
+  {
+    "id": "10466",
+    "name": "HAMİT ŞERİFOĞLU",
+    "lat": 40.8562495,
+    "lon": 31.1465083
+  },
+  {
+    "id": "10467",
+    "name": "FEN LİSESİ",
+    "lat": 40.8564402,
+    "lon": 31.1440514
+  },
+  {
+    "id": "10388",
+    "name": "ÖĞRETMEN LİSESİ",
+    "lat": 40.855859,
+    "lon": 31.1421376
+  },
+  {
+    "id": "10387",
+    "name": "EKŞİOĞLU",
+    "lat": 40.8531983,
+    "lon": 31.1419941
+  },
+  {
+    "id": "10385",
+    "name": "FMA GARAJ DURAĞI",
+    "lat": 40.8498669,
+    "lon": 31.1418708
+  },
+  {
+    "id": "10566",
+    "name": "EMNİYET MÜDÜRLÜĞÜ DURAĞI",
+    "lat": 40.8404441,
+    "lon": 31.1370589
+  },
+  {
+    "id": "11132",
+    "name": "YENİ PAZARYERİ",
+    "lat": 40.8448066,
+    "lon": 31.1316784
+  },
+  {
+    "id": "11115",
+    "name": "YENİ PAZARYERİ SON DURAK",
+    "lat": 40.8435649,
+    "lon": 31.1272286
+  },
+  {
+    "id": "11116",
+    "name": "YENİ PAZARYERİ SON DURAK",
+    "lat": 40.8431529,
+    "lon": 31.1274995
+  },
+  {
+    "id": "10501",
+    "name": "PAZARYERİ HACI HİLMİ",
+    "lat": 40.8438165,
+    "lon": 31.1296426
+  },
+  {
+    "id": "10502",
+    "name": "YENİ PAZARYERİ",
+    "lat": 40.8443875,
+    "lon": 31.131689
+  },
+  {
+    "id": "10565",
+    "name": "EMNİYET MÜDÜRLÜĞÜ DURAĞI",
+    "lat": 40.8402678,
+    "lon": 31.1368459
+  },
+  {
+    "id": "10384",
+    "name": "FMA GARAJ DURAĞI",
+    "lat": 40.8497744,
+    "lon": 31.142006
+  },
+  {
+    "id": "10386",
+    "name": "EKŞİOĞLU",
+    "lat": 40.85318,
+    "lon": 31.1421974
+  },
+  {
+    "id": "10389",
+    "name": "ÖĞRETMEN LİSESİ",
+    "lat": 40.8558807,
+    "lon": 31.1423631
+  },
+  {
+    "id": "10468",
+    "name": "FEN LİSESİ",
+    "lat": 40.8563347,
+    "lon": 31.144148
+  },
+  {
+    "id": "10465",
+    "name": "HAMİT ŞERİFOĞLU",
+    "lat": 40.8561379,
+    "lon": 31.1465807
+  },
+  {
+    "id": "10464",
+    "name": "MEMUR-SEN",
+    "lat": 40.8564715,
+    "lon": 31.1494117
+  },
+  {
+    "id": "10461",
+    "name": "MEMUR-SEN",
+    "lat": 40.8559014,
+    "lon": 31.1522333
+  },
+  {
+    "id": "10459",
+    "name": "KÖRPEŞLER MUHTARLIK",
+    "lat": 40.8560202,
+    "lon": 31.1567261
+  },
+  {
+    "id": "10456",
+    "name": "KÖRPEŞLER ANA OKULU",
+    "lat": 40.8560962,
+    "lon": 31.1606562
+  },
+  {
+    "id": "10453",
+    "name": "SERVET BUCURGAT DURAĞI",
+    "lat": 40.8560405,
+    "lon": 31.1621483
+  },
+  {
+    "id": "10450",
+    "name": "DTK HALI SAHA",
+    "lat": 40.8556307,
+    "lon": 31.1643638
+  },
+  {
+    "id": "10924",
+    "name": "BEYCİLER GALERİ DURAĞI",
+    "lat": 40.8563854,
+    "lon": 31.1667322
+  },
+  {
+    "id": "10922",
+    "name": "BEYCİLER SAPAK DURAĞI",
+    "lat": 40.8583836,
+    "lon": 31.1671211
+  },
+  {
+    "id": "10920",
+    "name": "PTT DURAĞI",
+    "lat": 40.860465,
+    "lon": 31.1674429
+  },
+  {
+    "id": "10917",
+    "name": "MEHMET AKİF İNAN DURAĞI",
+    "lat": 40.8617612,
+    "lon": 31.1676387
+  },
+  {
+    "id": "10916",
+    "name": "ZİGANA ERMEK DURAĞI",
+    "lat": 40.8635899,
+    "lon": 31.1679767
+  },
+  {
+    "id": "10913",
+    "name": "PRESTİJ SAPAK DURAĞI",
+    "lat": 40.8657379,
+    "lon": 31.1682797
+  },
+  {
+    "id": "10912",
+    "name": "SANCAKLAR MEZARLIK DURAĞI",
+    "lat": 40.8697349,
+    "lon": 31.1687706
+  },
+  {
+    "id": "10910",
+    "name": "DELTA TUĞLA FABRİKA DURAĞI",
+    "lat": 40.8724811,
+    "lon": 31.1692963
+  },
+  {
+    "id": "10908",
+    "name": "YIĞILCA SAPAK DURAĞI",
+    "lat": 40.8758678,
+    "lon": 31.1698708
+  },
+  {
+    "id": "10906",
+    "name": "YIĞILCA SAPAK DURAĞI",
+    "lat": 40.8770809,
+    "lon": 31.169983
+  },
+  {
+    "id": "10905",
+    "name": "ÇAMKÖY MEZARLIK DURAĞI",
+    "lat": 40.8789517,
+    "lon": 31.1702458
+  },
+  {
+    "id": "10902",
+    "name": "ÇAM KÖY CAMİ DURAĞI",
+    "lat": 40.88107,
+    "lon": 31.1705624
+  },
+  {
+    "id": "10848",
+    "name": "BEÇİ SAPAK DURAĞI",
+    "lat": 40.895218,
+    "lon": 31.1677386
+  },
+  {
+    "id": "10846",
+    "name": "ÜNİVERSİTE CAFELER DURAĞI",
+    "lat": 40.8983764,
+    "lon": 31.1704558
+  },
+  {
+    "id": "10844",
+    "name": "ÜNİVERSİTE KAVŞAĞI DURAĞI",
+    "lat": 40.9000224,
+    "lon": 31.1712053
+  },
+  {
+    "id": "10821",
+    "name": "BEÇİ ORHAN GAZİ CAMİ DURAĞI",
+    "lat": 40.9003792,
+    "lon": 31.1864249
+  },
+  {
+    "id": "10807",
+    "name": "KAZIKOĞLU CAMİ DURAĞI",
+    "lat": 40.8660109,
+    "lon": 31.2122975
+  },
+  {
+    "id": "11022",
+    "name": "1. CADDE PARK DURAĞI",
+    "lat": 40.8676224,
+    "lon": 31.2202972
+  },
+  {
+    "id": "11020",
+    "name": "1. CADDE DURAĞI",
+    "lat": 40.8678526,
+    "lon": 31.2235843
+  },
+  {
+    "id": "11018",
+    "name": "GENÇLİK MERKEZİ DURAĞI",
+    "lat": 40.868165,
+    "lon": 31.2265722
+  },
+  {
+    "id": "11044",
+    "name": "BAHÇEŞEHİR İTFAİYE DURAĞI",
+    "lat": 40.8676234,
+    "lon": 31.2301074
+  },
+  {
+    "id": "11046",
+    "name": "ZÜBEYDE HANIM KIZ MESLEK DURAĞI",
+    "lat": 40.8653455,
+    "lon": 31.2301932
+  },
+  {
+    "id": "11048",
+    "name": "4. CADDE DURAĞI",
+    "lat": 40.8635524,
+    "lon": 31.2295683
+  },
+  {
+    "id": "11050",
+    "name": "BAHÇELİEVLER TELEKOM DURAĞI",
+    "lat": 40.8621507,
+    "lon": 31.2291096
+  },
+  {
+    "id": "11053",
+    "name": "BAHÇELİEVLER TEVHİT CAMİ DURAĞI",
+    "lat": 40.8598686,
+    "lon": 31.2288012
+  },
+  {
+    "id": "11056",
+    "name": "ZAHİDÜL KEVSERİ KIZ YURDU DURAĞI",
+    "lat": 40.858548,
+    "lon": 31.2286349
+  },
+  {
+    "id": "11057",
+    "name": "ATATÜRK LİSESİ DURAĞI",
+    "lat": 40.8570691,
+    "lon": 31.2284605
+  },
+  {
+    "id": "11058",
+    "name": "9. CADDE DURAĞI",
+    "lat": 40.855582,
+    "lon": 31.2271006
+  },
+  {
+    "id": "11060",
+    "name": "AFAD DURAĞI",
+    "lat": 40.853882,
+    "lon": 31.2243433
+  },
+  {
+    "id": "11059",
+    "name": "9. CADDE DURAĞI",
+    "lat": 40.8553558,
+    "lon": 31.2271583
+  },
+  {
+    "id": "11061",
+    "name": "9. CADDE DURAĞI",
+    "lat": 40.8561278,
+    "lon": 31.2285088
+  },
+  {
+    "id": "11063",
+    "name": "ANIT MEYDAN DURAĞI",
+    "lat": 40.856848,
+    "lon": 31.2307109
+  },
+  {
+    "id": "11065",
+    "name": "BAHÇELİEVLER SAĞLIK OCAĞI DURAĞI",
+    "lat": 40.8602784,
+    "lon": 31.2313895
+  },
+  {
+    "id": "11134",
+    "name": "BAHÇELİEVLER MAHALLESİ",
+    "lat": 40.8635889,
+    "lon": 31.2331665
+  },
+  {
+    "id": "11069",
+    "name": "BAHÇELİEVLER ANA OKULU DURAĞI",
+    "lat": 40.8643252,
+    "lon": 31.2347932
+  },
+  {
+    "id": "11071",
+    "name": "BAYRAK TEPE SPOR OKULU DURAĞI",
+    "lat": 40.8656498,
+    "lon": 31.2375103
+  },
+  {
+    "id": "11073",
+    "name": "ESENTEPE SEYİR PARK DURAĞI",
+    "lat": 40.8645971,
+    "lon": 31.2408362
+  },
+  {
+    "id": "11075",
+    "name": "ESENTEPE CADDE DURAĞI",
+    "lat": 40.8636579,
+    "lon": 31.2407142
+  },
+  {
+    "id": "10973",
+    "name": "HAZRETİ ÖMER CAMİ DURAĞI",
+    "lat": 40.8619397,
+    "lon": 31.2404446
+  },
+  {
+    "id": "11078",
+    "name": "KADIGİL DURAĞI",
+    "lat": 40.8610786,
+    "lon": 31.2402716
+  },
+  {
+    "id": "11079",
+    "name": "ESENTEPE MAHALLE DURAĞI",
+    "lat": 40.8592478,
+    "lon": 31.2394924
+  },
+  {
+    "id": "11082",
+    "name": "ESENTEPE BÜFE DURAĞI",
+    "lat": 40.8582944,
+    "lon": 31.2387414
+  },
+  {
+    "id": "11100",
+    "name": "YEŞİLTEPE MERDİVEN DURAĞI",
+    "lat": 40.8568764,
+    "lon": 31.2418474
+  },
+  {
+    "id": "11097",
+    "name": "YEŞİLTEPE SOKAK DURAĞI",
+    "lat": 40.8550586,
+    "lon": 31.240686
+  },
+  {
+    "id": "11096",
+    "name": "YEŞİLTEPE MEYDAN DURAĞI",
+    "lat": 40.8534985,
+    "lon": 31.2408094
+  },
+  {
+    "id": "11093",
+    "name": "YEŞİLTEPE UMUT CAMİ DURAĞI",
+    "lat": 40.8528879,
+    "lon": 31.2426172
+  },
+  {
+    "id": "11091",
+    "name": "YEŞİLTEPE 14. BÖLGE DURAĞI",
+    "lat": 40.8517172,
+    "lon": 31.2437491
+  },
+  {
+    "id": "11088",
+    "name": "YEŞİLTEPE CADDE DURAĞI",
+    "lat": 40.8502808,
+    "lon": 31.2402408
+  },
+  {
+    "id": "10350",
+    "name": "SALLAR MUHTARLIK",
+    "lat": 40.8500698,
+    "lon": 31.2361585
+  },
+  {
+    "id": "10352",
+    "name": "SALLAR MERKEZ",
+    "lat": 40.8503041,
+    "lon": 31.234289
+  },
+  {
+    "id": "10351",
+    "name": "SALLAR MUHTARLIK",
+    "lat": 40.8497584,
+    "lon": 31.2362349
+  },
+  {
+    "id": "11087",
+    "name": "YEŞİLTEPE HUZUR EVİ DURAĞI",
+    "lat": 40.8498223,
+    "lon": 31.2375532
+  },
+  {
+    "id": "11142",
+    "name": "YEŞİLTEPE CADDE DURAĞI",
+    "lat": 40.8501712,
+    "lon": 31.2404627
+  },
+  {
+    "id": "11089",
+    "name": "YEŞİLTEPE CADDE DURAĞI",
+    "lat": 40.8506905,
+    "lon": 31.2419627
+  },
+  {
+    "id": "11090",
+    "name": "YEŞİLTEPE 14. BÖLGE DURAĞI",
+    "lat": 40.8513764,
+    "lon": 31.2435774
+  },
+  {
+    "id": "11092",
+    "name": "YEŞİLTEPE YOKUŞ DURAĞI",
+    "lat": 40.8524172,
+    "lon": 31.2444384
+  },
+  {
+    "id": "11094",
+    "name": "YEŞİLTEPE UMUT CAMİ DURAĞI",
+    "lat": 40.8530968,
+    "lon": 31.2426119
+  },
+  {
+    "id": "11095",
+    "name": "YEŞİLTEPE MEYDAN DURAĞI",
+    "lat": 40.8537075,
+    "lon": 31.2409516
+  },
+  {
+    "id": "11098",
+    "name": "YEŞİLTEPE SOKAK DURAĞI",
+    "lat": 40.8549998,
+    "lon": 31.2409221
+  },
+  {
+    "id": "11099",
+    "name": "YEŞİLTEPE MERDİVEN DURAĞI",
+    "lat": 40.856852,
+    "lon": 31.2421532
+  },
+  {
+    "id": "11085",
+    "name": "ESENTEPE MUHTARLIK DURAĞI",
+    "lat": 40.8561967,
+    "lon": 31.235512
+  },
+  {
+    "id": "11084",
+    "name": "ESENTEPE YOKUŞ DURAĞI",
+    "lat": 40.8568622,
+    "lon": 31.2364776
+  },
+  {
+    "id": "11081",
+    "name": "ESENTEPE BÜFE DURAĞI",
+    "lat": 40.8582254,
+    "lon": 31.2388433
+  },
+  {
+    "id": "11080",
+    "name": "ESENTEPE MAHALLE DURAĞI",
+    "lat": 40.8592215,
+    "lon": 31.2396105
+  },
+  {
+    "id": "11077",
+    "name": "KADIGİL DURAĞI",
+    "lat": 40.8610573,
+    "lon": 31.240391
+  },
+  {
+    "id": "10974",
+    "name": "HAZRETİ ÖMER CAMİ",
+    "lat": 40.8619235,
+    "lon": 31.2405868
+  },
+  {
+    "id": "11076",
+    "name": "ESENTEPE CADDE DURAĞI",
+    "lat": 40.8636214,
+    "lon": 31.2408362
+  },
+  {
+    "id": "11074",
+    "name": "ESENTEPE SEYİR PARK DURAĞI",
+    "lat": 40.8647634,
+    "lon": 31.2409033
+  },
+  {
+    "id": "11072",
+    "name": "BAYRAK TEPE SPOR OKULU DURAĞI",
+    "lat": 40.8657776,
+    "lon": 31.2374137
+  },
+  {
+    "id": "11070",
+    "name": "BAHÇELİEVLER ANA OKULU DURAĞI",
+    "lat": 40.8645169,
+    "lon": 31.2347852
+  },
+  {
+    "id": "11067",
+    "name": "BAHÇELİEVLER MAHALLE DURAĞI",
+    "lat": 40.8637897,
+    "lon": 31.2331624
+  },
+  {
+    "id": "11066",
+    "name": "BAHÇELİEVLER SAĞLIK OCAĞI DURAĞI",
+    "lat": 40.8604772,
+    "lon": 31.2311535
+  },
+  {
+    "id": "11062",
+    "name": "ANIT MEYDAN DURAĞI",
+    "lat": 40.8570549,
+    "lon": 31.2305312
+  },
+  {
+    "id": "11055",
+    "name": "ZAHİDÜL KEVSERİ KIZ YURDU DURAĞI",
+    "lat": 40.8585094,
+    "lon": 31.2289539
+  },
+  {
+    "id": "11054",
+    "name": "BAHÇELİEVLER TEVHİT CAMİ DURAĞI",
+    "lat": 40.8598747,
+    "lon": 31.2290533
+  },
+  {
+    "id": "11049",
+    "name": "BAHÇELİEVLER TELEKOM DURAĞI",
+    "lat": 40.8621385,
+    "lon": 31.2294073
+  },
+  {
+    "id": "11047",
+    "name": "4. CADDE DURAĞI",
+    "lat": 40.8638688,
+    "lon": 31.2299786
+  },
+  {
+    "id": "11045",
+    "name": "ZÜBEYDE HANIM KIZ MESLEK DURAĞI",
+    "lat": 40.8654145,
+    "lon": 31.2305339
+  },
+  {
+    "id": "11043",
+    "name": "BAHÇEŞEHİR İTFAİYE DURAĞI",
+    "lat": 40.8678364,
+    "lon": 31.2302603
+  },
+  {
+    "id": "11017",
+    "name": "3. BÖLGE HİCRET CAMİ DURAĞI",
+    "lat": 40.8686274,
+    "lon": 31.2271248
+  },
+  {
+    "id": "11019",
+    "name": "1. CADDE DURAĞI",
+    "lat": 40.8680342,
+    "lon": 31.2233496
+  },
+  {
+    "id": "11021",
+    "name": "1. CADDE PARK DURAĞI",
+    "lat": 40.8678668,
+    "lon": 31.2204809
+  },
+  {
+    "id": "10679",
+    "name": "TOTAL ENERDİES DURAĞI",
+    "lat": 40.8605989,
+    "lon": 31.211509
+  },
+  {
+    "id": "10678",
+    "name": "GO PETROL DURAĞI",
+    "lat": 40.8586048,
+    "lon": 31.2093256
+  },
+  {
+    "id": "10676",
+    "name": "KUYUMCUHACIALİ ALT GEÇİT DURAĞI",
+    "lat": 40.8560831,
+    "lon": 31.2061177
+  },
+  {
+    "id": "10673",
+    "name": "PARK ARENA DURAĞI",
+    "lat": 40.8535513,
+    "lon": 31.2023251
+  },
+  {
+    "id": "10672",
+    "name": "YAHYALAR EKMEK DURAĞI",
+    "lat": 40.8511735,
+    "lon": 31.1977492
+  },
+  {
+    "id": "10670",
+    "name": "KUŞCUOĞLU SİTELER DURAĞI",
+    "lat": 40.8484852,
+    "lon": 31.1924358
+  },
+  {
+    "id": "10667",
+    "name": "TAÇMAHAL DURAĞI",
+    "lat": 40.8474586,
+    "lon": 31.1903597
+  },
+  {
+    "id": "10665",
+    "name": "ALLI TURNA SİTE DURAĞI",
+    "lat": 40.8461255,
+    "lon": 31.1878143
+  },
+  {
+    "id": "10663",
+    "name": "TOKİ SAPAK DURAĞI",
+    "lat": 40.8441858,
+    "lon": 31.1844642
+  },
+  {
+    "id": "10662",
+    "name": "BAĞLANTI YOLU HALKMAR DURAĞI",
+    "lat": 40.8420856,
+    "lon": 31.1812134
+  },
+  {
+    "id": "10660",
+    "name": "BAĞLANTI YOLU TRAFO",
+    "lat": 40.840513,
+    "lon": 31.1788973
+  },
+  {
+    "id": "11135",
+    "name": "HAYDAR GÖRDEBİL DURAĞI",
+    "lat": 40.83545,
+    "lon": 31.1705704
+  },
+  {
+    "id": "10583",
+    "name": "TERMİNAL DURAĞI",
+    "lat": 40.8267196,
+    "lon": 31.1681766
+  },
+  {
+    "id": "10584",
+    "name": "TERMİNAL ÇEVRE YOL DURAĞI",
+    "lat": 40.82883,
+    "lon": 31.167054
+  },
+  {
+    "id": "10585",
+    "name": "YENİ CAMİ DURAĞI",
+    "lat": 40.8316165,
+    "lon": 31.1683227
+  },
+  {
+    "id": "10586",
+    "name": "HAYDAR GÖRDEBİL DURAĞI",
+    "lat": 40.8352999,
+    "lon": 31.1709888
+  },
+  {
+    "id": "10597",
+    "name": "BAZLAMACI DURAĞI",
+    "lat": 40.8354196,
+    "lon": 31.1720053
+  },
+  {
+    "id": "10599",
+    "name": "FATİH ORTA OKUL DURAĞI",
+    "lat": 40.8340772,
+    "lon": 31.1746795
+  },
+  {
+    "id": "10601",
+    "name": "BİZİM MARKET DURAĞI",
+    "lat": 40.833234,
+    "lon": 31.1763103
+  },
+  {
+    "id": "10603",
+    "name": "ALGÜN AGORA DURAĞI",
+    "lat": 40.8320945,
+    "lon": 31.1785446
+  },
+  {
+    "id": "10605",
+    "name": "KAPSAN DURAĞI",
+    "lat": 40.8307154,
+    "lon": 31.1812322
+  },
+  {
+    "id": "10607",
+    "name": "MESKAP DURAĞI",
+    "lat": 40.8296459,
+    "lon": 31.1833069
+  },
+  {
+    "id": "10609",
+    "name": "KADIN EMEĞİ MERKEZİ",
+    "lat": 40.8276255,
+    "lon": 31.1870901
+  },
+  {
+    "id": "10611",
+    "name": "ADELET SARAYI DURAĞI",
+    "lat": 40.8266371,
+    "lon": 31.1899105
+  },
+  {
+    "id": "10613",
+    "name": "KÜLTÜR MERKEZİ DURAĞI",
+    "lat": 40.8259338,
+    "lon": 31.1919771
+  },
+  {
+    "id": "10615",
+    "name": "SOĞANCI YURT DURAĞI",
+    "lat": 40.8250935,
+    "lon": 31.1943857
+  },
+  {
+    "id": "10647",
+    "name": "AKPINAR SAPAĞI DURAĞI",
+    "lat": 40.8240503,
+    "lon": 31.1969231
+  },
+  {
+    "id": "10645",
+    "name": "JANDARMA ALAY KOMUTANLIĞI DURAĞI",
+    "lat": 40.8222844,
+    "lon": 31.200359
+  },
+  {
+    "id": "10643",
+    "name": "HACIALİLER SAPAK",
+    "lat": 40.8203663,
+    "lon": 31.2041329
+  },
+  {
+    "id": "10642",
+    "name": "GÖKÇE KÖY DURAĞI",
+    "lat": 40.8191098,
+    "lon": 31.2067265
+  },
+  {
+    "id": "10641",
+    "name": "GÖKÇE KÖY DURAĞI",
+    "lat": 40.8193859,
+    "lon": 31.2069975
+  },
+  {
+    "id": "10232",
+    "name": "HACIALİLER SAPAK",
+    "lat": 40.8206444,
+    "lon": 31.2046505
+  },
+  {
+    "id": "10644",
+    "name": "JANDARMA ALAY KOMUTANLIĞI DURAĞI",
+    "lat": 40.8226417,
+    "lon": 31.2008472
+  },
+  {
+    "id": "10646",
+    "name": "AKPINAR SAPAĞI DURAĞI",
+    "lat": 40.8244339,
+    "lon": 31.197135
+  },
+  {
+    "id": "10614",
+    "name": "SOĞANCI YURT DURAĞI",
+    "lat": 40.8252519,
+    "lon": 31.1944984
+  },
+  {
+    "id": "10612",
+    "name": "KÜLTÜR MERKEZİ DURAĞI",
+    "lat": 40.8260465,
+    "lon": 31.1921112
+  },
+  {
+    "id": "10610",
+    "name": "ADELET SARAYI DURAĞI",
+    "lat": 40.8267802,
+    "lon": 31.1899359
+  },
+  {
+    "id": "10608",
+    "name": "KADIN EMEĞİ MERKEZİ",
+    "lat": 40.8277605,
+    "lon": 31.1872269
+  },
+  {
+    "id": "10606",
+    "name": "MESKAP DURAĞI",
+    "lat": 40.8297393,
+    "lon": 31.1833592
+  },
+  {
+    "id": "10604",
+    "name": "KAPSAN DURAĞI",
+    "lat": 40.8308474,
+    "lon": 31.1812778
+  },
+  {
+    "id": "10602",
+    "name": "ALGÜN AGORA DURAĞI",
+    "lat": 40.832199,
+    "lon": 31.1786251
+  },
+  {
+    "id": "10600",
+    "name": "BİZİM MARKET DURAĞI",
+    "lat": 40.8333517,
+    "lon": 31.1764015
+  },
+  {
+    "id": "10598",
+    "name": "FATİH ORTA OKUL DURAĞI",
+    "lat": 40.8341979,
+    "lon": 31.1747305
+  },
+  {
+    "id": "10596",
+    "name": "BAZLAMACI DURAĞI",
+    "lat": 40.8355901,
+    "lon": 31.1720188
+  },
+  {
+    "id": "10659",
+    "name": "BAĞLANTI YOLU TRAFO",
+    "lat": 40.8403182,
+    "lon": 31.1791374
+  },
+  {
+    "id": "10661",
+    "name": "BAĞLANTI YOLU HALKMAR DURAĞI",
+    "lat": 40.8420511,
+    "lon": 31.1818491
+  },
+  {
+    "id": "10664",
+    "name": "TOKİ SAPAK DURAĞI",
+    "lat": 40.8440518,
+    "lon": 31.1847942
+  },
+  {
+    "id": "10666",
+    "name": "ALLI TURNA SİTE DURAĞI",
+    "lat": 40.8460281,
+    "lon": 31.188399
+  },
+  {
+    "id": "10668",
+    "name": "TAÇMAHAL DURAĞI",
+    "lat": 40.8472009,
+    "lon": 31.1906548
+  },
+  {
+    "id": "10669",
+    "name": "KUŞCUOĞLU SİTELER DURAĞI",
+    "lat": 40.8482397,
+    "lon": 31.1926772
+  },
+  {
+    "id": "10671",
+    "name": "YAHYALAR EKMEK DURAĞI",
+    "lat": 40.8507961,
+    "lon": 31.1978136
+  },
+  {
+    "id": "10674",
+    "name": "PARK ARENA DURAĞI",
+    "lat": 40.853323,
+    "lon": 31.2025705
+  },
+  {
+    "id": "10675",
+    "name": "KUYUMCUHACIALİ ALT GEÇİT DURAĞI",
+    "lat": 40.8559411,
+    "lon": 31.2065147
+  },
+  {
+    "id": "10677",
+    "name": "GO PETROL DURAĞI",
+    "lat": 40.8585094,
+    "lon": 31.2096475
+  },
+  {
+    "id": "10680",
+    "name": "TOTAL ENERDİES DURAĞI",
+    "lat": 40.8606597,
+    "lon": 31.2121259
+  },
+  {
+    "id": "10682",
+    "name": "BAĞLANTI YOLU KAVŞAK DURAĞI",
+    "lat": 40.8628871,
+    "lon": 31.2142207
+  },
+  {
+    "id": "10823",
+    "name": "BEÇİ YURT DURAĞI",
+    "lat": 40.9002434,
+    "lon": 31.1878116
+  },
+  {
+    "id": "10820",
+    "name": "BEÇİ ORHAN GAZİ CAMİ DURAĞI",
+    "lat": 40.9004847,
+    "lon": 31.1864598
+  },
+  {
+    "id": "10939",
+    "name": "PRESTİJ 1. ETAP DURAĞI",
+    "lat": 40.865378,
+    "lon": 31.170496
+  },
+  {
+    "id": "10941",
+    "name": "PRESTİJ 2. ETAP DURAĞI",
+    "lat": 40.8651508,
+    "lon": 31.1722039
+  },
+  {
+    "id": "10943",
+    "name": "PRESTİJ 3. ETAP DURAĞI",
+    "lat": 40.8648526,
+    "lon": 31.1759482
+  },
+  {
+    "id": "10945",
+    "name": "BEYCİLER DURAĞI",
+    "lat": 40.8635686,
+    "lon": 31.1780243
+  },
+  {
+    "id": "10948",
+    "name": "BEYCİLER ORTA OKUL DURAĞI",
+    "lat": 40.8614184,
+    "lon": 31.1780243
+  },
+  {
+    "id": "11109",
+    "name": "BEYCİLER MEZARLIK DURAĞI",
+    "lat": 40.8579556,
+    "lon": 31.1795518
+  },
+  {
+    "id": "11111",
+    "name": "BEYCİLER DÖRT YOL DURAĞI",
+    "lat": 40.8565396,
+    "lon": 31.1782952
+  },
+  {
+    "id": "11113",
+    "name": "BEYCİLER İÇ MAHALLE DURAĞI",
+    "lat": 40.8553041,
+    "lon": 31.1773376
+  },
+  {
+    "id": "10727",
+    "name": "METEK TOKİ SAPAK DURAĞI",
+    "lat": 40.8538718,
+    "lon": 31.1763667
+  },
+  {
+    "id": "10725",
+    "name": "METEK TOKİ DURAĞI",
+    "lat": 40.8524344,
+    "lon": 31.1781718
+  },
+  {
+    "id": "10723",
+    "name": "TOKİ ÇOCUK PARKI DURAĞI",
+    "lat": 40.8512181,
+    "lon": 31.1796872
+  },
+  {
+    "id": "10721",
+    "name": "TOKİ İŞ MERKEZİ DURAĞI",
+    "lat": 40.8500637,
+    "lon": 31.1823399
+  },
+  {
+    "id": "10719",
+    "name": "TOKİ MEHMET AKİF ORTA OKUL DURAĞI",
+    "lat": 40.8497736,
+    "lon": 31.1853842
+  },
+  {
+    "id": "10717",
+    "name": "TOKİ METEK DURAĞI",
+    "lat": 40.8475255,
+    "lon": 31.1850865
+  },
+  {
+    "id": "10715",
+    "name": "KORU SİTESİ DURAĞI",
+    "lat": 40.8453748,
+    "lon": 31.1834195
+  },
+  {
+    "id": "10712",
+    "name": "KORU SİTESİ DURAĞI",
+    "lat": 40.8450156,
+    "lon": 31.1835282
+  },
+  {
+    "id": "10713",
+    "name": "KORU SİTESİ DURAĞI",
+    "lat": 40.8453058,
+    "lon": 31.1835657
+  },
+  {
+    "id": "10716",
+    "name": "TOKİ METEK DURAĞI",
+    "lat": 40.8474626,
+    "lon": 31.1852609
+  },
+  {
+    "id": "10718",
+    "name": "TOKİ MEHMET AKİF ORTA OKUL DURAĞI",
+    "lat": 40.8497878,
+    "lon": 31.1855532
+  },
+  {
+    "id": "10720",
+    "name": "TOKİ İŞ MERKEZİ DURAĞI",
+    "lat": 40.8501834,
+    "lon": 31.1824445
+  },
+  {
+    "id": "10722",
+    "name": "TOKİ ÇOCUK PARKI DURAĞI",
+    "lat": 40.8513236,
+    "lon": 31.1797677
+  },
+  {
+    "id": "10724",
+    "name": "METEK TOKİ DURAĞI",
+    "lat": 40.8524557,
+    "lon": 31.1783166
+  },
+  {
+    "id": "10726",
+    "name": "METEK TOKİ SAPAK DURAĞI",
+    "lat": 40.8539976,
+    "lon": 31.1764364
+  },
+  {
+    "id": "11114",
+    "name": "BEYCİLER İÇ MAHALLE DURAĞI",
+    "lat": 40.8551844,
+    "lon": 31.1773805
+  },
+  {
+    "id": "11112",
+    "name": "BEYCİLER DÖRT YOL DURAĞI",
+    "lat": 40.8565274,
+    "lon": 31.1784051
+  },
+  {
+    "id": "11110",
+    "name": "BEYCİLER MEZARLIK DURAĞI",
+    "lat": 40.8579536,
+    "lon": 31.1796336
+  },
+  {
+    "id": "10947",
+    "name": "BEYCİLER ORTA OKUL DURAĞI",
+    "lat": 40.861463,
+    "lon": 31.1782388
+  },
+  {
+    "id": "10944",
+    "name": "BEYCİLER DURAĞI",
+    "lat": 40.8636913,
+    "lon": 31.1780511
+  },
+  {
+    "id": "10942",
+    "name": "PRESTİJ 3. ETAP DURAĞI",
+    "lat": 40.8648668,
+    "lon": 31.1760743
+  },
+  {
+    "id": "10940",
+    "name": "PRESTİJ 2. ETAP DURAĞI",
+    "lat": 40.8652847,
+    "lon": 31.1722092
+  },
+  {
+    "id": "10938",
+    "name": "PRESTİJ 1. ETAP DURAĞI",
+    "lat": 40.8654378,
+    "lon": 31.1704859
+  },
+  {
+    "id": "10877",
+    "name": "TAŞLIK KIZ YURDU DURAĞI",
+    "lat": 40.8941955,
+    "lon": 31.1628966
+  },
+  {
+    "id": "10878",
+    "name": "TAŞLIK MERKEZ DURAĞI",
+    "lat": 40.8966002,
+    "lon": 31.1630736
+  },
+  {
+    "id": "10926",
+    "name": "ÖZDİLEK DURAĞI",
+    "lat": 40.8544987,
+    "lon": 31.1659972
+  },
+  {
+    "id": "10928",
+    "name": "ÇOBAN DURAĞI",
+    "lat": 40.8482336,
+    "lon": 31.1650799
+  },
+  {
+    "id": "10595",
+    "name": "ATATÜRK BULVARI DURAĞI",
+    "lat": 40.8447133,
+    "lon": 31.1643825
+  },
+  {
+    "id": "10593",
+    "name": "HALK BANKASI DURAĞI",
+    "lat": 40.8420085,
+    "lon": 31.1636315
+  },
+  {
+    "id": "10590",
+    "name": "BAŞARAN DURAĞI",
+    "lat": 40.8388603,
+    "lon": 31.1621161
+  },
+  {
+    "id": "10577",
+    "name": "ŞAGUÇ KÖPRÜSÜ DURAĞI",
+    "lat": 40.8375118,
+    "lon": 31.1582027
+  },
+  {
+    "id": "10574",
+    "name": "VALİLİK",
+    "lat": 40.8378537,
+    "lon": 31.1555017
+  },
+  {
+    "id": "11292",
+    "name": "VALİLİK BATI DURAĞI",
+    "lat": 40.839537,
+    "lon": 31.1543873
+  },
+  {
+    "id": "11137",
+    "name": "KREM PARK DURAĞI",
+    "lat": 40.8404562,
+    "lon": 31.151744
+  },
+  {
+    "id": "10569",
+    "name": "ORMAN İŞLETME MÜDÜRLÜK DURAĞI",
+    "lat": 40.8404146,
+    "lon": 31.1470032
+  },
+  {
+    "id": "10568",
+    "name": "YEŞİLAY DURAĞI",
+    "lat": 40.8404471,
+    "lon": 31.1422677
+  },
+  {
+    "id": "10567",
+    "name": "YEŞİLAY DURAĞI",
+    "lat": 40.8403507,
+    "lon": 31.141915
+  },
+  {
+    "id": "10570",
+    "name": "OSMAN ÇATANA KARAKOL DURAĞI",
+    "lat": 40.8402492,
+    "lon": 31.1468168
+  },
+  {
+    "id": "10571",
+    "name": "ESKİ KIZILAY DURAĞI",
+    "lat": 40.8402777,
+    "lon": 31.1501561
+  },
+  {
+    "id": "10572",
+    "name": "ŞEHİT MUSTAFA BAZNA DURAĞI",
+    "lat": 40.8367671,
+    "lon": 31.1498503
+  },
+  {
+    "id": "10573",
+    "name": "ÇAY MAHALLESİ MUHATARLIK",
+    "lat": 40.8359239,
+    "lon": 31.150659
+  },
+  {
+    "id": "10575",
+    "name": "VALİLİK",
+    "lat": 40.8374083,
+    "lon": 31.154858
+  },
+  {
+    "id": "10576",
+    "name": "ŞAGUÇ KÖPRÜSÜ DURAĞI",
+    "lat": 40.8370065,
+    "lon": 31.1582202
+  },
+  {
+    "id": "10578",
+    "name": "BELEDİYE DURAĞI",
+    "lat": 40.8363186,
+    "lon": 31.1608474
+  },
+  {
+    "id": "11136",
+    "name": "CELAL KASAPOĞLU DURAĞI",
+    "lat": 40.8361267,
+    "lon": 31.1634452
+  },
+  {
+    "id": "10589",
+    "name": "ADİL SEVEN DURAĞI",
+    "lat": 40.8382606,
+    "lon": 31.164404
+  },
+  {
+    "id": "10591",
+    "name": "BURHANİYE DURAĞI",
+    "lat": 40.839257,
+    "lon": 31.1628041
+  },
+  {
+    "id": "10592",
+    "name": "HALK BANKASI DURAĞI",
+    "lat": 40.8419974,
+    "lon": 31.1637858
+  },
+  {
+    "id": "10594",
+    "name": "ATATÜRK BULVARI DURAĞI",
+    "lat": 40.8448645,
+    "lon": 31.16464
+  },
+  {
+    "id": "10929",
+    "name": "ÇOBAN DURAĞI",
+    "lat": 40.8480835,
+    "lon": 31.1653642
+  },
+  {
+    "id": "10927",
+    "name": "ÖZDİLER DURAĞI",
+    "lat": 40.8542735,
+    "lon": 31.1664425
+  },
+  {
+    "id": "10879",
+    "name": "ENBİYA DURAĞI",
+    "lat": 40.9206049,
+    "lon": 31.1432709
+  },
+  {
+    "id": "10881",
+    "name": "VALİDE CAMİ DURAĞI",
+    "lat": 40.9157731,
+    "lon": 31.1429034
+  },
+  {
+    "id": "11230",
+    "name": "TEMİZLİK GARAJ",
+    "lat": 40.9138901,
+    "lon": 31.1427371
+  },
+  {
+    "id": "10883",
+    "name": "SERTOĞLU MAHALLE DURAĞI",
+    "lat": 40.9112246,
+    "lon": 31.1425279
+  },
+  {
+    "id": "10885",
+    "name": "SERTOĞLU CAMİ DURAĞI",
+    "lat": 40.9094834,
+    "lon": 31.1424045
+  },
+  {
+    "id": "10886",
+    "name": "TABAKHANE KÖPRU DURAĞI",
+    "lat": 40.9061042,
+    "lon": 31.142308
+  },
+  {
+    "id": "10875",
+    "name": "KONURALP ÇARŞI İÇİ DURAĞI",
+    "lat": 40.9052396,
+    "lon": 31.1451565
+  },
+  {
+    "id": "10866",
+    "name": "KONURALP MÜZE DURAĞI",
+    "lat": 40.903038,
+    "lon": 31.1547521
+  },
+  {
+    "id": "10864",
+    "name": "HUZUREVLERİ SİTESİ DURAĞI",
+    "lat": 40.9012327,
+    "lon": 31.1557271
+  },
+  {
+    "id": "10894",
+    "name": "KONURALP AYKUT DURAĞI",
+    "lat": 40.9000204,
+    "lon": 31.1571084
+  },
+  {
+    "id": "10896",
+    "name": "TUNA LOJİSTİK DURAĞI",
+    "lat": 40.8985668,
+    "lon": 31.1624487
+  },
+  {
+    "id": "10897",
+    "name": "STANDART PROFİL DURAĞI",
+    "lat": 40.8969306,
+    "lon": 31.1648117
+  },
+  {
+    "id": "10579",
+    "name": "KÜÇÜKSU DURAĞI",
+    "lat": 40.8353648,
+    "lon": 31.162682
+  },
+  {
+    "id": "10580",
+    "name": "ÖĞRETMEN EVİ DURAĞI",
+    "lat": 40.8332847,
+    "lon": 31.1657076
+  },
+  {
+    "id": "10582",
+    "name": "AZMİMİLLİ MAHALLE DURAĞI",
+    "lat": 40.8320792,
+    "lon": 31.1674993
+  },
+  {
+    "id": "10233",
+    "name": "HACIALİLER SAPAK",
+    "lat": 40.8205957,
+    "lon": 31.2047712
+  },
+  {
+    "id": "10587",
+    "name": "İMAMHATIP CAMİİ DURAĞI",
+    "lat": 40.8365195,
+    "lon": 31.1689771
+  },
+  {
+    "id": "10588",
+    "name": "TÜTÜNCÜ OĞLU DURAĞI",
+    "lat": 40.8370024,
+    "lon": 31.1673208
+  },
+  {
+    "id": "10899",
+    "name": "BEÇİ SAPAK D655 DURAĞI",
+    "lat": 40.8956797,
+    "lon": 31.1663647
+  },
+  {
+    "id": "10898",
+    "name": "STANDART PROFİL DURAĞI",
+    "lat": 40.897257,
+    "lon": 31.1648895
+  },
+  {
+    "id": "10895",
+    "name": "TUNA LOJİSTİK DURAĞI",
+    "lat": 40.8992317,
+    "lon": 31.1617567
+  },
+  {
+    "id": "10863",
+    "name": "KONURALP TRAFO DURAĞI",
+    "lat": 40.9007563,
+    "lon": 31.1573685
+  },
+  {
+    "id": "10865",
+    "name": "HUZUREVLERİ SİTESİ DURAĞI",
+    "lat": 40.9013483,
+    "lon": 31.1557083
+  },
+  {
+    "id": "10867",
+    "name": "KONURALP MÜZE DURAĞI",
+    "lat": 40.9030614,
+    "lon": 31.1548084
+  },
+  {
+    "id": "10874",
+    "name": "KONURALP ÇARŞI İÇİ DURAĞI",
+    "lat": 40.9053359,
+    "lon": 31.1451645
+  },
+  {
+    "id": "10887",
+    "name": "TABAKHANE KÖPRU DURAĞI",
+    "lat": 40.9064407,
+    "lon": 31.1425815
+  },
+  {
+    "id": "10884",
+    "name": "SERTOĞLU MAHALLE DURAĞI",
+    "lat": 40.9110787,
+    "lon": 31.142898
+  },
+  {
+    "id": "11117",
+    "name": "ŞEHİT KEMAL IŞILDAK DURAĞI",
+    "lat": 40.9069921,
+    "lon": 31.1418681
+  },
+  {
+    "id": "11118",
+    "name": "ESEN MAHALLE DURAĞI",
+    "lat": 40.9080868,
+    "lon": 31.1395667
+  },
+  {
+    "id": "11119",
+    "name": "KURAN KURS DURAĞI",
+    "lat": 40.9097246,
+    "lon": 31.1379145
+  },
+  {
+    "id": "11120",
+    "name": "YAKA İÇ KÖY YOL DURAĞI",
+    "lat": 40.9114952,
+    "lon": 31.1352645
+  },
+  {
+    "id": "11121",
+    "name": "YAKA İÇ KÖY YOL DURAĞI",
+    "lat": 40.9126111,
+    "lon": 31.1336981
+  },
+  {
+    "id": "11122",
+    "name": "YAKA MEZARLIK DURAĞI",
+    "lat": 40.914711,
+    "lon": 31.1315094
+  },
+  {
+    "id": "11123",
+    "name": "YAKA ORTA MAHALLE DURAĞI",
+    "lat": 40.9170095,
+    "lon": 31.1297365
+  },
+  {
+    "id": "11124",
+    "name": "YAKA CAMİ DURAĞI",
+    "lat": 40.9183776,
+    "lon": 31.1291786
+  },
+  {
+    "id": "11125",
+    "name": "YAKA CAMİ DURAĞI",
+    "lat": 40.9197801,
+    "lon": 31.1311634
+  },
+  {
+    "id": "11126",
+    "name": "EMBİYA KÖYÜ GİRİŞ DURAĞI",
+    "lat": 40.9213204,
+    "lon": 31.1342399
+  },
+  {
+    "id": "11127",
+    "name": "EMBİYA KÖY YOLU",
+    "lat": 40.9218139,
+    "lon": 31.1366807
+  },
+  {
+    "id": "11128",
+    "name": "EMBİYA MUHATARLIK DURAĞI",
+    "lat": 40.9220196,
+    "lon": 31.138062
+  },
+  {
+    "id": "11129",
+    "name": "EMBİYA CAMİ DURAĞI",
+    "lat": 40.9224817,
+    "lon": 31.139446
+  },
+  {
+    "id": "11130",
+    "name": "EMBİYA KÖY SON DURAĞI",
+    "lat": 40.9232012,
+    "lon": 31.1412431
+  },
+  {
+    "id": "11131",
+    "name": "EMBİYA SAPAK DURAĞI",
+    "lat": 40.9226783,
+    "lon": 31.1438221
+  },
+  {
+    "id": "11152",
+    "name": "SANAYİ YENİ YOL DURAĞI",
+    "lat": 40.854821,
+    "lon": 31.1343371
+  },
+  {
+    "id": "11154",
+    "name": "GALERİCİLER SİTESİ DURAĞI",
+    "lat": 40.8505922,
+    "lon": 31.1194998
+  },
+  {
+    "id": "11156",
+    "name": "PEKİNTAŞ KÜÇÜK SANAYİ DURAĞI",
+    "lat": 40.8505618,
+    "lon": 31.1154282
+  },
+  {
+    "id": "11157",
+    "name": "TOPÇUOĞLU DURAĞI",
+    "lat": 40.8483867,
+    "lon": 31.1123289
+  },
+  {
+    "id": "11158",
+    "name": "AQUA PARK DURAĞI",
+    "lat": 40.848333,
+    "lon": 31.1086959
+  },
+  {
+    "id": "11162",
+    "name": "TAŞKÖPRÜ SİTELER DURAĞI",
+    "lat": 40.8512973,
+    "lon": 31.1038692
+  },
+  {
+    "id": "11161",
+    "name": "TAŞKÖPRÜ KÖY KONAĞI",
+    "lat": 40.8545636,
+    "lon": 31.1047745
+  },
+  {
+    "id": "11160",
+    "name": "TAŞKÖPRÜ CAMİİ",
+    "lat": 40.8578896,
+    "lon": 31.1084893
+  },
+  {
+    "id": "11295",
+    "name": "KADIOĞLU OKUL DURAĞI",
+    "lat": 40.8799649,
+    "lon": 31.126517
+  },
+  {
+    "id": "11296",
+    "name": "KADIOĞLU MUHTARLIK DURAĞI",
+    "lat": 40.877349,
+    "lon": 31.1248827
+  },
+  {
+    "id": "11297",
+    "name": "KADIOĞLU CAMİ DURAĞI",
+    "lat": 40.8762562,
+    "lon": 31.1231369
+  },
+  {
+    "id": "11298",
+    "name": "KADIOĞLU CAMİ LOJMAN DURAĞI",
+    "lat": 40.8752114,
+    "lon": 31.1226336
+  },
+  {
+    "id": "11299",
+    "name": "KADIOĞLU MELEN DURAĞI",
+    "lat": 40.8730903,
+    "lon": 31.1218861
+  },
+  {
+    "id": "11300",
+    "name": "TAŞKÖPRÜ DURAĞI",
+    "lat": 40.8710319,
+    "lon": 31.1204787
+  },
+  {
+    "id": "11159",
+    "name": "TAŞKÖPRÜ MAHALLESİ İLK DURAK",
+    "lat": 40.8604264,
+    "lon": 31.1108617
+  },
+  {
+    "id": "11155",
+    "name": "GALERİCİLER SİTESİ DURAĞI",
+    "lat": 40.8504218,
+    "lon": 31.119469
+  },
+  {
+    "id": "10060",
+    "name": "KASIM AKTAŞ OKULU",
+    "lat": 40.8387835,
+    "lon": 31.136433
+  },
+  {
+    "id": "10062",
+    "name": "AZİZİYE İLK OKULU",
+    "lat": 40.8382241,
+    "lon": 31.1384456
+  },
+  {
+    "id": "11140",
+    "name": "ATLAS TAVUKÇULUK DURAĞI",
+    "lat": 40.8393534,
+    "lon": 31.1398618
+  },
+  {
+    "id": "10479",
+    "name": "DİŞ HEKİMİ SERDAR ÇİLESİZ DURAĞI",
+    "lat": 40.8544886,
+    "lon": 31.1550619
+  },
+  {
+    "id": "10481",
+    "name": "HÜRRİYET CADDESİ DURAĞI",
+    "lat": 40.8513277,
+    "lon": 31.1545442
+  },
+  {
+    "id": "10483",
+    "name": "YENİ MAHALLE DURAĞI",
+    "lat": 40.8496965,
+    "lon": 31.1533157
+  },
+  {
+    "id": "10521",
+    "name": "KUYUMCUZADE DURAĞI",
+    "lat": 40.8468803,
+    "lon": 31.1518593
+  },
+  {
+    "id": "10519",
+    "name": "MESLEKİ EĞİTİM MERKEZİ",
+    "lat": 40.8450806,
+    "lon": 31.1515884
+  },
+  {
+    "id": "10517",
+    "name": "15 TEMMUZ ŞEHİTLER PARKI DURAĞI",
+    "lat": 40.842248,
+    "lon": 31.1511512
+  },
+  {
+    "id": "11251",
+    "name": "GÖGÇEKÖY MAHALLESİ SAPAK DURAĞI",
+    "lat": 40.818572,
+    "lon": 31.2071477
+  },
+  {
+    "id": "11250",
+    "name": "GÖGÇEKÖY MAHALLESİ CAMİ DURAĞI",
+    "lat": 40.8151648,
+    "lon": 31.2025946
+  },
+  {
+    "id": "11249",
+    "name": "GÖGÇEKÖY MAHALLESİ CAMİ DURAĞI",
+    "lat": 40.8149811,
+    "lon": 31.2027059
+  },
+  {
+    "id": "11337",
+    "name": "GÖKÇE MAHALLESİ İÇ YOL DURAĞI",
+    "lat": 40.8126587,
+    "lon": 31.2005897
+  },
+  {
+    "id": "11338",
+    "name": "GÖKÇE MAHALLESİ PARK DURAĞI",
+    "lat": 40.810044,
+    "lon": 31.1973335
+  },
+  {
+    "id": "11248",
+    "name": "GÖGÇEKÖY TOKİ DÖRT YOL DURAĞI",
+    "lat": 40.80829,
+    "lon": 31.2003778
+  },
+  {
+    "id": "11318",
+    "name": "KİRAZLI TOKİ ARKA GİRİŞ DURAĞI",
+    "lat": 40.806948,
+    "lon": 31.2031471
+  },
+  {
+    "id": "11308",
+    "name": "KİRAZLI TOKİ CAMİ DURAĞI",
+    "lat": 40.8062342,
+    "lon": 31.2047657
+  },
+  {
+    "id": "11307",
+    "name": "KİRAZLI TOKİ GİRİŞ DURAĞI",
+    "lat": 40.8067306,
+    "lon": 31.2082714
+  },
+  {
+    "id": "11196",
+    "name": "KİRAZLI MERKEZ DURAĞI",
+    "lat": 40.8083872,
+    "lon": 31.2102446
+  },
+  {
+    "id": "11193",
+    "name": "KİRAZLI MUHTARLIK DURAĞI",
+    "lat": 40.8123177,
+    "lon": 31.211922
+  },
+  {
+    "id": "11247",
+    "name": "KİRAZLI SAPAK DURAĞI",
+    "lat": 40.8152226,
+    "lon": 31.2134992
+  },
+  {
+    "id": "10640",
+    "name": "KİRAZLI SAPAĞI DURAĞI",
+    "lat": 40.8153667,
+    "lon": 31.2139176
+  },
+  {
+    "id": "10638",
+    "name": "KİRAZLI DURAĞI",
+    "lat": 40.8141569,
+    "lon": 31.2163208
+  },
+  {
+    "id": "10636",
+    "name": "KİRAZLI ÖRME TEKSTİL DURAĞI",
+    "lat": 40.8124111,
+    "lon": 31.2196897
+  },
+  {
+    "id": "10635",
+    "name": "KİRAZLI ÖRME TEKSTİL DURAĞI",
+    "lat": 40.8121614,
+    "lon": 31.2211274
+  },
+  {
+    "id": "10637",
+    "name": "KİRAZLI DURAĞI",
+    "lat": 40.8144127,
+    "lon": 31.2167017
+  },
+  {
+    "id": "10639",
+    "name": "KİRAZLI SAPAĞI DURAĞI",
+    "lat": 40.8157078,
+    "lon": 31.2140785
+  },
+  {
+    "id": "11108",
+    "name": "HACI DAYI DURAĞI",
+    "lat": 40.817488,
+    "lon": 31.2105621
+  },
+  {
+    "id": "11105",
+    "name": "GÖSTERİŞLİ DURAĞI",
+    "lat": 40.8333821,
+    "lon": 31.168261
+  },
+  {
+    "id": "11106",
+    "name": "KÜÇÜK SU DURAĞI",
+    "lat": 40.8355231,
+    "lon": 31.1641827
+  },
+  {
+    "id": "11319",
+    "name": "MİMAR SİNAN DURAĞI",
+    "lat": 40.8365285,
+    "lon": 31.1623219
+  },
+  {
+    "id": "11238",
+    "name": "ASAR PARK DURAĞI",
+    "lat": 40.8372073,
+    "lon": 31.1602438
+  },
+  {
+    "id": "10516",
+    "name": "15 TEMMUZ ŞEHİTLER PARKI DURAĞI",
+    "lat": 40.8422399,
+    "lon": 31.1513014
+  },
+  {
+    "id": "10518",
+    "name": "MESLEKİ EĞİTİM MERKEZİ",
+    "lat": 40.8453443,
+    "lon": 31.1518379
+  },
+  {
+    "id": "10520",
+    "name": "KUYUMCUZADE DURAĞI",
+    "lat": 40.8464786,
+    "lon": 31.1519666
+  },
+  {
+    "id": "10484",
+    "name": "YENİ MAHALLE DURAĞI",
+    "lat": 40.8499217,
+    "lon": 31.1537583
+  },
+  {
+    "id": "10482",
+    "name": "HÜRRİYET CADDESİ DURAĞI",
+    "lat": 40.8512161,
+    "lon": 31.1547266
+  },
+  {
+    "id": "10480",
+    "name": "DİŞ HEKİMİ SERDAR ÇİLESİZ DURAĞI",
+    "lat": 40.8545494,
+    "lon": 31.1552121
+  },
+  {
+    "id": "10391",
+    "name": "ATATÜRK ORMAN PARK DURAĞI",
+    "lat": 40.856359,
+    "lon": 31.1418359
+  },
+  {
+    "id": "10063",
+    "name": "AZİZİYE İLK OKULU",
+    "lat": 40.8383215,
+    "lon": 31.1385126
+  },
+  {
+    "id": "10061",
+    "name": "KASIM AKTAŞ OKULU",
+    "lat": 40.8388633,
+    "lon": 31.1363749
+  },
+  {
+    "id": "10792",
+    "name": "ÇAVUŞLAR SAPAK DURAĞI",
+    "lat": 40.8771965,
+    "lon": 31.1759563
+  },
+  {
+    "id": "10789",
+    "name": "TOKUŞLAR BARAJ YOLU DURAĞI",
+    "lat": 40.8780605,
+    "lon": 31.1790462
+  },
+  {
+    "id": "10787",
+    "name": "DİVAPAN DURAĞI",
+    "lat": 40.8790907,
+    "lon": 31.1822219
+  },
+  {
+    "id": "10786",
+    "name": "TOKUŞLAR ALT GEÇİT DURAĞI",
+    "lat": 40.8802689,
+    "lon": 31.1859206
+  },
+  {
+    "id": "10784",
+    "name": "TOKUŞLAR İÇ YOL DURAĞI",
+    "lat": 40.8848814,
+    "lon": 31.1912355
+  },
+  {
+    "id": "10782",
+    "name": "ÇAKIRLAR BAHÇEŞEHIR YOLU DURAĞI",
+    "lat": 40.886454,
+    "lon": 31.1944273
+  },
+  {
+    "id": "10768",
+    "name": "ÇAKIRLAR SAPAK DURAĞI",
+    "lat": 40.8872367,
+    "lon": 31.1969955
+  },
+  {
+    "id": "10770",
+    "name": "ÇAKIRLAR MUHTARLIK DURAĞI",
+    "lat": 40.8857706,
+    "lon": 31.200292
+  },
+  {
+    "id": "10772",
+    "name": "ÇAKIRLAR OKUL DURAĞI",
+    "lat": 40.8847749,
+    "lon": 31.2014131
+  },
+  {
+    "id": "10773",
+    "name": "ÇAKIRLAR PARK DURAĞI",
+    "lat": 40.883179,
+    "lon": 31.2025343
+  },
+  {
+    "id": "10776",
+    "name": "ÇAKIRLAR KÖY YOLU DURAĞI",
+    "lat": 40.8822462,
+    "lon": 31.205879
+  },
+  {
+    "id": "10778",
+    "name": "ÇAKIRLAR ÜÇ YOL DURAĞI",
+    "lat": 40.8814776,
+    "lon": 31.2081562
+  },
+  {
+    "id": "10780",
+    "name": "ÇAKIRLAR KOY ARKA YOL DURAĞI",
+    "lat": 40.8784955,
+    "lon": 31.2083922
+  },
+  {
+    "id": "10979",
+    "name": "DÜNYA BANKASI ENGELSİZ YAŞAM MERKEZİ DURAĞI",
+    "lat": 40.8726008,
+    "lon": 31.2111147
+  },
+  {
+    "id": "10981",
+    "name": "DÜNYA BANKASI SAĞLIK OCAĞI DURAĞI",
+    "lat": 40.8712236,
+    "lon": 31.2105943
+  },
+  {
+    "id": "10983",
+    "name": "DÜNYA BANKASI VALİ KONAĞI DURAĞI",
+    "lat": 40.869382,
+    "lon": 31.2107821
+  },
+  {
+    "id": "10969",
+    "name": "DÜNYA BANKASI DEMETEVLER DURAĞI",
+    "lat": 40.8674266,
+    "lon": 31.2126489
+  },
+  {
+    "id": "10967",
+    "name": "DÜNYA BANKASI POLİS MERKEZİ DURAĞI",
+    "lat": 40.8659906,
+    "lon": 31.2138157
+  },
+  {
+    "id": "11243",
+    "name": "YEŞİLTEPE 113. SOKAK DURAĞI",
+    "lat": 40.8532439,
+    "lon": 31.2448763
+  },
+  {
+    "id": "11104",
+    "name": "YEŞİLTEPE UZUN CADDE DURAĞI",
+    "lat": 40.8554055,
+    "lon": 31.2439395
+  },
+  {
+    "id": "11101",
+    "name": "YEŞİLTEPE MARKET DURAĞI",
+    "lat": 40.8568906,
+    "lon": 31.2438484
+  },
+  {
+    "id": "11102",
+    "name": "YEŞİLTEPE ÇOCUK PARKI DURAĞI",
+    "lat": 40.8556287,
+    "lon": 31.2423758
+  },
+  {
+    "id": "11103",
+    "name": "YEŞİLTEPE HALK SAĞLIĞI DURAĞI",
+    "lat": 40.8539895,
+    "lon": 31.2423651
+  },
+  {
+    "id": "11027",
+    "name": "ÇAMLIEVLER BİM DURAĞI",
+    "lat": 40.8694692,
+    "lon": 31.2196602
+  },
+  {
+    "id": "11025",
+    "name": "POLİS LOJMANLARI PARK DURAĞI",
+    "lat": 40.8695584,
+    "lon": 31.217269
+  },
+  {
+    "id": "11023",
+    "name": "POLİS LOJMANLARI DURAĞI",
+    "lat": 40.8684571,
+    "lon": 31.2167902
+  },
+  {
+    "id": "10966",
+    "name": "DÜNYA BANKASI POLİS MERKEZİ DURAĞI",
+    "lat": 40.8660758,
+    "lon": 31.2139122
+  },
+  {
+    "id": "10970",
+    "name": "DÜNYA BANKASI DEMETEVLER DURAĞI",
+    "lat": 40.8675878,
+    "lon": 31.2128486
+  },
+  {
+    "id": "10984",
+    "name": "DÜNYA BANKASI VALİ KONAĞI DURAĞI",
+    "lat": 40.8694692,
+    "lon": 31.2109403
+  },
+  {
+    "id": "10982",
+    "name": "DÜNYA BANKASI SAĞLIK OCAĞI DURAĞI",
+    "lat": 40.871252,
+    "lon": 31.2107231
+  },
+  {
+    "id": "10980",
+    "name": "DÜNYA BANKASI ENGELSİZ YAŞAM MERKEZİ DURAĞI",
+    "lat": 40.8725521,
+    "lon": 31.2112112
+  },
+  {
+    "id": "10777",
+    "name": "ÇAKIRLAR ÜÇ YOL DURAĞI",
+    "lat": 40.8815364,
+    "lon": 31.2082957
+  },
+  {
+    "id": "10775",
+    "name": "ÇAKIRLAR KÖY YOLU DURAĞI",
+    "lat": 40.8823233,
+    "lon": 31.205879
+  },
+  {
+    "id": "10774",
+    "name": "ÇAKIRLAR PARK DURAĞI",
+    "lat": 40.8832034,
+    "lon": 31.202663
+  },
+  {
+    "id": "10771",
+    "name": "ÇAKIRLAR OKUL DURAĞI",
+    "lat": 40.8847972,
+    "lon": 31.2015687
+  },
+  {
+    "id": "10769",
+    "name": "ÇAKIRLAR MUHTARLIK DURAĞI",
+    "lat": 40.8858639,
+    "lon": 31.2003644
+  },
+  {
+    "id": "10767",
+    "name": "ÇAKIRLAR SAPAK DURAĞI",
+    "lat": 40.8873685,
+    "lon": 31.1969754
+  },
+  {
+    "id": "10781",
+    "name": "ÇAKIRLAR BAHÇEŞEHIR YOLU DURAĞI",
+    "lat": 40.8865371,
+    "lon": 31.1943831
+  },
+  {
+    "id": "10783",
+    "name": "TOKUŞLAR İÇ YOL DURAĞI",
+    "lat": 40.8849209,
+    "lon": 31.191151
+  },
+  {
+    "id": "10785",
+    "name": "TOKUŞLAR ALT GEÇİT DURAĞI",
+    "lat": 40.8803297,
+    "lon": 31.1858214
+  },
+  {
+    "id": "10788",
+    "name": "DİVAPAN DURAĞI",
+    "lat": 40.878898,
+    "lon": 31.181373
+  },
+  {
+    "id": "10790",
+    "name": "TOKUŞLAR BARAJ YOLU DURAĞI",
+    "lat": 40.8781497,
+    "lon": 31.1789657
+  },
+  {
+    "id": "10791",
+    "name": "ÇAVUŞLAR SAPAK DURAĞI",
+    "lat": 40.877376,
+    "lon": 31.1756398
+  },
+  {
+    "id": "11226",
+    "name": "YEŞİLTEPE 113.SOKAK",
+    "lat": 40.8532672,
+    "lon": 31.2448823
+  },
+  {
+    "id": "11086",
+    "name": "ESENTEPE MUHTARLIK DURAĞI",
+    "lat": 40.8560679,
+    "lon": 31.235331
+  },
+  {
+    "id": "10681",
+    "name": "BAĞLANTI YOLU KAVŞAK DURAĞI",
+    "lat": 40.8628952,
+    "lon": 31.2137996
+  },
+  {
+    "id": "10950",
+    "name": "BEYCİLER ORTA MAHALLE DURAĞI",
+    "lat": 40.8611273,
+    "lon": 31.1753716
+  },
+  {
+    "id": "10952",
+    "name": "BEYCİLER MUHATARLIK DURAĞI",
+    "lat": 40.8606293,
+    "lon": 31.1737247
+  },
+  {
+    "id": "10954",
+    "name": "BEYCİLER UN FABRİKASI DURAĞI",
+    "lat": 40.8585982,
+    "lon": 31.1735973
+  },
+  {
+    "id": "10956",
+    "name": "BEYCİLER İBNİ SİNA İMAM HATİP  DURAĞI",
+    "lat": 40.8583025,
+    "lon": 31.1720952
+  },
+  {
+    "id": "10965",
+    "name": "BEYCİLER BULVAR SİTELER",
+    "lat": 40.8554694,
+    "lon": 31.1680049
+  },
+  {
+    "id": "11232",
+    "name": "ATLAS TAVUKÇULUK DURAĞI",
+    "lat": 40.8397947,
+    "lon": 31.1397196
+  },
+  {
+    "id": "10457",
+    "name": "KÖRPEŞLER MEYDAN",
+    "lat": 40.8558691,
+    "lon": 31.156631
+  },
+  {
+    "id": "10964",
+    "name": "BEYCİLER BULVAR SİTELER",
+    "lat": 40.8553862,
+    "lon": 31.1679499
+  },
+  {
+    "id": "10955",
+    "name": "BEYCİLER İBNİ SİNA İMAM HATİP  DURAĞI",
+    "lat": 40.8582173,
+    "lon": 31.1721288
+  },
+  {
+    "id": "10953",
+    "name": "BEYCİLER UN FABRİKASI DURAĞI",
+    "lat": 40.8585561,
+    "lon": 31.1736616
+  },
+  {
+    "id": "10951",
+    "name": "BEYCİLER MUHATARLIK DURAĞI",
+    "lat": 40.8605674,
+    "lon": 31.1737528
+  },
+  {
+    "id": "10949",
+    "name": "BEYCİLER ORTA MAHALLE DURAĞI",
+    "lat": 40.8610594,
+    "lon": 31.1753528
+  },
+  {
+    "id": "11083",
+    "name": "ESENTEPE YOKUŞ DURAĞI",
+    "lat": 40.856919,
+    "lon": 31.2364106
+  },
+  {
+    "id": "10996",
+    "name": "GÜZELBAHÇE MUHARREM SANCAK HUZUR EVİ DURAĞI",
+    "lat": 40.8529548,
+    "lon": 31.2307887
+  },
+  {
+    "id": "10998",
+    "name": "GÜZELBAHÇE BİLGİ ORTA OKUL DURAĞI",
+    "lat": 40.8518816,
+    "lon": 31.2304293
+  },
+  {
+    "id": "11000",
+    "name": "GÜZELBAHÇE DURAĞI",
+    "lat": 40.8508367,
+    "lon": 31.2284954
+  },
+  {
+    "id": "11002",
+    "name": "GÜZELBAHÇE MAHALLE DURAĞI",
+    "lat": 40.8518988,
+    "lon": 31.2280756
+  },
+  {
+    "id": "11004",
+    "name": "GÜZELBAHÇE ÜÇ YOL DURAĞI",
+    "lat": 40.8533058,
+    "lon": 31.2285517
+  },
+  {
+    "id": "11005",
+    "name": "GÜZELBAHÇE MUHARLIK DURAĞI",
+    "lat": 40.8542248,
+    "lon": 31.2277792
+  },
+  {
+    "id": "11008",
+    "name": "GÜZELBAHÇE ORTA MAHALLE DURAĞI",
+    "lat": 40.8561683,
+    "lon": 31.2249468
+  },
+  {
+    "id": "11010",
+    "name": "GÜZELBAHÇE PARK DURAĞI",
+    "lat": 40.8580509,
+    "lon": 31.2259124
+  },
+  {
+    "id": "11012",
+    "name": "GÜZELBAHCE CADDE DURAĞI",
+    "lat": 40.8594487,
+    "lon": 31.2247832
+  },
+  {
+    "id": "11014",
+    "name": "GÜZELBAHÇE İÇ MAHALLE DURAĞI",
+    "lat": 40.860252,
+    "lon": 31.2253652
+  },
+  {
+    "id": "11015",
+    "name": "GÜZELBAHÇE HUZUR EVİ DURAĞI",
+    "lat": 40.8616557,
+    "lon": 31.2271221
+  },
+  {
+    "id": "10649",
+    "name": "KARACA D-100 DURAĞI",
+    "lat": 40.8453626,
+    "lon": 31.1665551
+  },
+  {
+    "id": "11350",
+    "name": "İTFAİYE DURAĞI",
+    "lat": 40.8434208,
+    "lon": 31.1655976
+  },
+  {
+    "id": "11016",
+    "name": "GÜZELBAHÇE HUZUR EVİ DURAĞI",
+    "lat": 40.8618829,
+    "lon": 31.2273125
+  },
+  {
+    "id": "11013",
+    "name": "GÜZELBAHÇE İÇ MAHALLE DURAĞI",
+    "lat": 40.8602844,
+    "lon": 31.2252969
+  },
+  {
+    "id": "11011",
+    "name": "GÜZELBAHCE CADDE DURAĞI",
+    "lat": 40.8593959,
+    "lon": 31.2246571
+  },
+  {
+    "id": "11009",
+    "name": "GÜZELBAHÇE PARK DURAĞI",
+    "lat": 40.8579921,
+    "lon": 31.2258159
+  },
+  {
+    "id": "11007",
+    "name": "GÜZELBAHÇE ORTA MAHALLE DURAĞI",
+    "lat": 40.8561075,
+    "lon": 31.2248449
+  },
+  {
+    "id": "11006",
+    "name": "GÜZELBAHÇE MUHARLIK DURAĞI",
+    "lat": 40.8541812,
+    "lon": 31.2277122
+  },
+  {
+    "id": "11003",
+    "name": "GÜZELBAHÇE ÜÇ YOL DURAĞI",
+    "lat": 40.8533301,
+    "lon": 31.2284364
+  },
+  {
+    "id": "11001",
+    "name": "GÜZELBAHÇE MAHALLE DURAĞI",
+    "lat": 40.8519018,
+    "lon": 31.2279589
+  },
+  {
+    "id": "10999",
+    "name": "GÜZELBAHÇE DURAĞI",
+    "lat": 40.8507961,
+    "lon": 31.2284096
+  },
+  {
+    "id": "10997",
+    "name": "GÜZELBAHÇE BİLGİ ORTA OKUL DURAĞI",
+    "lat": 40.851839,
+    "lon": 31.2305634
+  },
+  {
+    "id": "10995",
+    "name": "GÜZELBAHÇE MUHARREM SANCAK HUZUR EVİ DURAĞI",
+    "lat": 40.8529264,
+    "lon": 31.2309147
+  },
+  {
+    "id": "10978",
+    "name": "DÜNYA BANKASI İLK OKUL DURAĞI",
+    "lat": 40.8717976,
+    "lon": 31.2143441
+  },
+  {
+    "id": "10972",
+    "name": "DÜNYA BANKASI DURAĞI",
+    "lat": 40.8694104,
+    "lon": 31.2136561
+  },
+  {
+    "id": "10683",
+    "name": "KAZIKOĞLU PARK DURAĞI",
+    "lat": 40.8630777,
+    "lon": 31.2126999
+  },
+  {
+    "id": "10685",
+    "name": "KAZIKOĞLU ÜÇ YOL DURAĞI",
+    "lat": 40.8625828,
+    "lon": 31.2101652
+  },
+  {
+    "id": "10688",
+    "name": "KAZIKOĞLU HALISAHA DURAĞI",
+    "lat": 40.8611628,
+    "lon": 31.2080918
+  },
+  {
+    "id": "10690",
+    "name": "ÇAKIL RESTORANT DURAĞI",
+    "lat": 40.8599903,
+    "lon": 31.2062693
+  },
+  {
+    "id": "10691",
+    "name": "KAZIKOĞLU SEDAŞ LOJMANLARI DURAĞI",
+    "lat": 40.8592438,
+    "lon": 31.2051199
+  },
+  {
+    "id": "10693",
+    "name": "KUYUMCU HACI ALİ CAMİ DURAĞI",
+    "lat": 40.8574545,
+    "lon": 31.2027542
+  },
+  {
+    "id": "10695",
+    "name": "KUYUMCU HACI ALİ DOKUZPINAR SİTE DURAĞI",
+    "lat": 40.8553893,
+    "lon": 31.2015137
+  },
+  {
+    "id": "10698",
+    "name": "YAHYALAR KÖPRÜ DURAĞI",
+    "lat": 40.853179,
+    "lon": 31.1998239
+  },
+  {
+    "id": "10986",
+    "name": "DÜNYA BANKASI KÜTÜPHANE DURAĞI",
+    "lat": 40.8681386,
+    "lon": 31.2117986
+  },
+  {
+    "id": "11068",
+    "name": "BAHÇELİEVLER MAHALLE DURAĞI",
+    "lat": 40.8634875,
+    "lon": 31.2329613
+  },
+  {
+    "id": "11233",
+    "name": "BAHÇELİEVLER 4",
+    "lat": 40.8623069,
+    "lon": 31.233908
+  },
+  {
+    "id": "11234",
+    "name": "BAHÇELİEVLER 6",
+    "lat": 40.8611201,
+    "lon": 31.2350694
+  },
+  {
+    "id": "11235",
+    "name": "BAHÇELİEVLER TRAFO 1",
+    "lat": 40.860181,
+    "lon": 31.2335366
+  },
+  {
+    "id": "11236",
+    "name": "BAHÇELİEVLER TABELA DURAK",
+    "lat": 40.8585926,
+    "lon": 31.2324945
+  },
+  {
+    "id": "11237",
+    "name": "FARABİ LİSESİ",
+    "lat": 40.8570954,
+    "lon": 31.2333354
+  },
+  {
+    "id": "11064",
+    "name": "ANIT MEYDAN DURAĞI",
+    "lat": 40.85717,
+    "lon": 31.2315578
+  },
+  {
+    "id": "11024",
+    "name": "POLİS LOJMANLARI DURAĞI",
+    "lat": 40.8685605,
+    "lon": 31.2168975
+  },
+  {
+    "id": "11026",
+    "name": "POLİS LOJMANLARI PARK DURAĞI",
+    "lat": 40.8695686,
+    "lon": 31.2176163
+  },
+  {
+    "id": "11028",
+    "name": "ÇAMLIEVLER BİM DURAĞI",
+    "lat": 40.8697136,
+    "lon": 31.2194604
+  },
+  {
+    "id": "11029",
+    "name": "ÇAMLIEVLER ÜÇ YOL DURAĞI",
+    "lat": 40.8697714,
+    "lon": 31.2214223
+  },
+  {
+    "id": "11030",
+    "name": "ÇAMLIEVLER PARK DURAĞI",
+    "lat": 40.8693049,
+    "lon": 31.2232302
+  },
+  {
+    "id": "11031",
+    "name": "ÇAMLIEVLER COCUK PARKI DURAĞI",
+    "lat": 40.8717733,
+    "lon": 31.2249844
+  },
+  {
+    "id": "11032",
+    "name": "ÇAMLIEVLER TEPE PARK DURAĞI",
+    "lat": 40.8716435,
+    "lon": 31.2264864
+  },
+  {
+    "id": "11033",
+    "name": "ÇAMLIEVLER CADDE DURAĞI",
+    "lat": 40.8700026,
+    "lon": 31.2264301
+  },
+  {
+    "id": "11034",
+    "name": "ÇAMLIEVLER KENT ORMAN YOL DURAĞI",
+    "lat": 40.8705138,
+    "lon": 31.2281038
+  },
+  {
+    "id": "11035",
+    "name": "ÇAMLIEVLER CUMHURİYET İLK OKULU DURAĞI",
+    "lat": 40.8715441,
+    "lon": 31.2312447
+  },
+  {
+    "id": "11036",
+    "name": "ÇAMLIEVLER KADINLAR LOKALİ",
+    "lat": 40.8726292,
+    "lon": 31.2327494
+  },
+  {
+    "id": "11037",
+    "name": "ÇAMLIEVLER TEPE COCUK PARK DURAĞI",
+    "lat": 40.8718564,
+    "lon": 31.2346967
+  },
+  {
+    "id": "11294",
+    "name": "ERGUVAN SOSYAL TESİS DURAĞI",
+    "lat": 40.8704245,
+    "lon": 31.2337056
+  },
+  {
+    "id": "11038",
+    "name": "ÇAMLIEVLER CUMHURİYET İLK OKULU DURAĞI",
+    "lat": 40.8710026,
+    "lon": 31.2331517
+  },
+  {
+    "id": "11039",
+    "name": "ÇAMLIEVLER CUMHURİYET İLK OKULU DURAĞI",
+    "lat": 40.8705665,
+    "lon": 31.2314807
+  },
+  {
+    "id": "11040",
+    "name": "ÇAMLIEVLER MARKET DURAĞI",
+    "lat": 40.8699316,
+    "lon": 31.2295817
+  },
+  {
+    "id": "11041",
+    "name": "YENİKENT POLİS MERKEZİ DURAĞI",
+    "lat": 40.8657055,
+    "lon": 31.2170328
+  },
+  {
+    "id": "11042",
+    "name": "BAHÇEŞEHİR İTFAİYE DURAĞI",
+    "lat": 40.8684408,
+    "lon": 31.2300752
+  },
+  {
+    "id": "10993",
+    "name": "NALBANTOĞLU ÜÇ YOL DURAĞI",
+    "lat": 40.8647715,
+    "lon": 31.2234743
+  },
+  {
+    "id": "10991",
+    "name": "NALBANTOĞLU İÇ YOL DURAĞI",
+    "lat": 40.8640017,
+    "lon": 31.222046
+  },
+  {
+    "id": "10989",
+    "name": "NALBANTOĞLU DURAĞI",
+    "lat": 40.8637167,
+    "lon": 31.2211341
+  },
+  {
+    "id": "10988",
+    "name": "NALBANTOĞLU NUR BEY SİTESİ DURAĞI",
+    "lat": 40.8643151,
+    "lon": 31.217104
+  },
+  {
+    "id": "10963",
+    "name": "BEYCİLER BULVAR ÜÇ YOL DURAĞI",
+    "lat": 40.8551174,
+    "lon": 31.1707259
+  },
+  {
+    "id": "10961",
+    "name": "BEYCİLER BULVAR KAVŞAK DURAĞI",
+    "lat": 40.8545656,
+    "lon": 31.1752482
+  },
+  {
+    "id": "10711",
+    "name": "TOKİ SAPAK ÜÇ YOL DURAĞI",
+    "lat": 40.8451049,
+    "lon": 31.1831258
+  },
+  {
+    "id": "10709",
+    "name": "KOÇYAZI MUHTARLIĞI DURAĞI",
+    "lat": 40.844898,
+    "lon": 31.1811598
+  },
+  {
+    "id": "10707",
+    "name": "KOÇYAZI TERZİOĞLU SOKAK DURAĞI",
+    "lat": 40.844272,
+    "lon": 31.178145
+  },
+  {
+    "id": "10706",
+    "name": "KOÇYAZI ECZANELER DURAĞI",
+    "lat": 40.8439666,
+    "lon": 31.1759697
+  },
+  {
+    "id": "10701",
+    "name": "KOÇYAZI ANAOKULU DURAĞI",
+    "lat": 40.8442709,
+    "lon": 31.1734471
+  },
+  {
+    "id": "10702",
+    "name": "KOÇYAZI CAMİ DURAĞI",
+    "lat": 40.8426792,
+    "lon": 31.1722381
+  },
+  {
+    "id": "10704",
+    "name": "KOÇYAZI ANAOKULU DURAĞI",
+    "lat": 40.8441827,
+    "lon": 31.1734202
+  },
+  {
+    "id": "10705",
+    "name": "KOÇYAZI ECZANELER DURAĞI",
+    "lat": 40.8438834,
+    "lon": 31.1760153
+  },
+  {
+    "id": "10708",
+    "name": "KOÇYAZI TERZİOĞLU SOKAK DURAĞI",
+    "lat": 40.8442223,
+    "lon": 31.178149
+  },
+  {
+    "id": "10710",
+    "name": "KOÇYAZI MUHTARLIĞI DURAĞI",
+    "lat": 40.8448087,
+    "lon": 31.1811759
+  },
+  {
+    "id": "10714",
+    "name": "TOKİ SAPAK ÜÇ YOL DURAĞI",
+    "lat": 40.8450167,
+    "lon": 31.183103
+  },
+  {
+    "id": "10960",
+    "name": "BEYCİLER BULVAR KAVŞAK DURAĞI",
+    "lat": 40.8546842,
+    "lon": 31.175275
+  },
+  {
+    "id": "10962",
+    "name": "BEYCİLER BULVAR ÜÇ YOL DURAĞI",
+    "lat": 40.8552057,
+    "lon": 31.170734
+  },
+  {
+    "id": "11239",
+    "name": "HALKMAR DURAĞI",
+    "lat": 40.8396346,
+    "lon": 31.1786711
+  },
+  {
+    "id": "10329",
+    "name": "19 MAYIS İLK OKULU",
+    "lat": 40.8377107,
+    "lon": 31.1786465
+  },
+  {
+    "id": "10327",
+    "name": "CUMHURİYET PARK DURAĞI",
+    "lat": 40.8357179,
+    "lon": 31.1785473
+  },
+  {
+    "id": "10325",
+    "name": "CUMHURİYET CAMİ DURAĞI",
+    "lat": 40.8336541,
+    "lon": 31.1798079
+  },
+  {
+    "id": "10323",
+    "name": "CUMHURİYET MAHALLESİ DURAĞI",
+    "lat": 40.833234,
+    "lon": 31.1817284
+  },
+  {
+    "id": "10321",
+    "name": "DERELİ TÜTÜNCÜ HASTANE DURAĞI",
+    "lat": 40.8328687,
+    "lon": 31.1833216
+  },
+  {
+    "id": "10319",
+    "name": "ABDULLAH KARABACAK DURAĞI",
+    "lat": 40.83241,
+    "lon": 31.1855881
+  },
+  {
+    "id": "10316",
+    "name": "DERELİ TÜTÜNCÜ MEYDAN",
+    "lat": 40.831514,
+    "lon": 31.1875944
+  },
+  {
+    "id": "10306",
+    "name": "SEVEN SOKAK SİTE",
+    "lat": 40.8328037,
+    "lon": 31.1888067
+  },
+  {
+    "id": "10304",
+    "name": "SEVEN SOKAK İÇ YOLU",
+    "lat": 40.8349204,
+    "lon": 31.1899064
+  },
+  {
+    "id": "10303",
+    "name": "FERDA SEVEN DURAĞI",
+    "lat": 40.8366189,
+    "lon": 31.1896275
+  },
+  {
+    "id": "10300",
+    "name": "SEVEN SOKAK DURAĞI",
+    "lat": 40.8390438,
+    "lon": 31.190062
+  },
+  {
+    "id": "10298",
+    "name": "DEDELER DURAĞI",
+    "lat": 40.8403446,
+    "lon": 31.1975937
+  },
+  {
+    "id": "10297",
+    "name": "DEDELER KOY İÇ YOLU",
+    "lat": 40.8397338,
+    "lon": 31.1986129
+  },
+  {
+    "id": "10294",
+    "name": "DEDELER CAMİ",
+    "lat": 40.8380171,
+    "lon": 31.1985351
+  },
+  {
+    "id": "10292",
+    "name": "DEDELER KÖY DURAĞI",
+    "lat": 40.8377107,
+    "lon": 31.199502
+  },
+  {
+    "id": "10291",
+    "name": "DEDELER DÖRT YOL",
+    "lat": 40.8370978,
+    "lon": 31.2007694
+  },
+  {
+    "id": "10288",
+    "name": "DEDELER ÜÇ YOL",
+    "lat": 40.8347134,
+    "lon": 31.2003134
+  },
+  {
+    "id": "10287",
+    "name": "SOĞUK PINAR İLK OKULU",
+    "lat": 40.834685,
+    "lon": 31.2031136
+  },
+  {
+    "id": "10285",
+    "name": "SOĞUK PINAR MUHTARLIK",
+    "lat": 40.8351071,
+    "lon": 31.2059072
+  },
+  {
+    "id": "10283",
+    "name": "SOĞUK PINAR İÇ YOL",
+    "lat": 40.8358924,
+    "lon": 31.2075742
+  },
+  {
+    "id": "10281",
+    "name": "SOĞUK PINAR KÖY DURAĞI",
+    "lat": 40.8353141,
+    "lon": 31.2102617
+  },
+  {
+    "id": "10278",
+    "name": "SOĞUK PINAR",
+    "lat": 40.8344638,
+    "lon": 31.2153311
+  },
+  {
+    "id": "10258",
+    "name": "GÜNDOLAMASI ÜÇ YOL",
+    "lat": 40.8345149,
+    "lon": 31.2171534
+  },
+  {
+    "id": "10261",
+    "name": "GÜNDOLAMASI İÇ YOL",
+    "lat": 40.8363389,
+    "lon": 31.2183285
+  },
+  {
+    "id": "10263",
+    "name": "GÜNDOLAMASI CAMİ",
+    "lat": 40.8367123,
+    "lon": 31.2203173
+  },
+  {
+    "id": "10265",
+    "name": "YEŞİLÇİMEN",
+    "lat": 40.8366504,
+    "lon": 31.2225248
+  },
+  {
+    "id": "10266",
+    "name": "YEŞİLÇİMEN CAMİ",
+    "lat": 40.8344577,
+    "lon": 31.2250139
+  },
+  {
+    "id": "10268",
+    "name": "YEŞİLÇİMEN KÖY İÇ YOLU",
+    "lat": 40.832615,
+    "lon": 31.2253223
+  },
+  {
+    "id": "10270",
+    "name": "YEŞİLÇİMEN KÖY YOLU",
+    "lat": 40.8316551,
+    "lon": 31.223886
+  },
+  {
+    "id": "10273",
+    "name": "YEŞİLÇİMEN İÇ YOL",
+    "lat": 40.830135,
+    "lon": 31.2215807
+  },
+  {
+    "id": "10274",
+    "name": "YEŞİLÇİMEN KÖY DURAĞI",
+    "lat": 40.8307154,
+    "lon": 31.2190191
+  },
+  {
+    "id": "10277",
+    "name": "YEŞİLÇİMEN ÜÇ YOL",
+    "lat": 40.8313121,
+    "lon": 31.2166347
+  },
+  {
+    "id": "10259",
+    "name": "GÜNDOLAMASI ÜÇ YOL",
+    "lat": 40.8345628,
+    "lon": 31.2168835
+  },
+  {
+    "id": "10279",
+    "name": "SOĞUK PINAR",
+    "lat": 40.8346424,
+    "lon": 31.2154035
+  },
+  {
+    "id": "10280",
+    "name": "SOĞUK PINAR KÖY DURAĞI",
+    "lat": 40.835445,
+    "lon": 31.2103006
+  },
+  {
+    "id": "10282",
+    "name": "SOĞUK PINAR İÇ YOL",
+    "lat": 40.8360081,
+    "lon": 31.2076573
+  },
+  {
+    "id": "10284",
+    "name": "SOĞUK PINAR MUHTARLIK",
+    "lat": 40.8352329,
+    "lon": 31.2058334
+  },
+  {
+    "id": "10286",
+    "name": "SOĞUK PINAR İLK OKULU",
+    "lat": 40.8349874,
+    "lon": 31.2028991
+  },
+  {
+    "id": "10289",
+    "name": "DEDELER ÜÇ YOL",
+    "lat": 40.8348169,
+    "lon": 31.2004649
+  },
+  {
+    "id": "10290",
+    "name": "DEDELER DÖRT YOL",
+    "lat": 40.8371486,
+    "lon": 31.2008955
+  },
+  {
+    "id": "10293",
+    "name": "DEDELER KÖY DURAĞI",
+    "lat": 40.8377868,
+    "lon": 31.1995812
+  },
+  {
+    "id": "10295",
+    "name": "DEDELER CAMİ",
+    "lat": 40.8380658,
+    "lon": 31.1987242
+  },
+  {
+    "id": "10296",
+    "name": "DEDELER KOY İÇ YOLU",
+    "lat": 40.8397419,
+    "lon": 31.1987711
+  },
+  {
+    "id": "10299",
+    "name": "DEDELER DURAĞI",
+    "lat": 40.8404826,
+    "lon": 31.1976822
+  },
+  {
+    "id": "10301",
+    "name": "SEVEN SOKAK DURAĞI",
+    "lat": 40.8391007,
+    "lon": 31.1898904
+  },
+  {
+    "id": "10302",
+    "name": "FERDA SEVEN DURAĞI",
+    "lat": 40.8365844,
+    "lon": 31.1894934
+  },
+  {
+    "id": "10305",
+    "name": "SEVEN SOKAK İÇ YOLU",
+    "lat": 40.834892,
+    "lon": 31.189708
+  },
+  {
+    "id": "10307",
+    "name": "SEVEN SOKAK SİTE",
+    "lat": 40.8328869,
+    "lon": 31.1887155
+  },
+  {
+    "id": "10318",
+    "name": "ABDULLAH KARABACAK DURAĞI",
+    "lat": 40.8325582,
+    "lon": 31.1856793
+  },
+  {
+    "id": "10320",
+    "name": "DERELİ TÜTÜNCÜ HASTANE DURAĞI",
+    "lat": 40.8329823,
+    "lon": 31.1833551
+  },
+  {
+    "id": "10322",
+    "name": "CUMHURİYET MAHALLESİ DURAĞI",
+    "lat": 40.8333456,
+    "lon": 31.1817874
+  },
+  {
+    "id": "10324",
+    "name": "CUMHURİYET CAMİ DURAĞI",
+    "lat": 40.833788,
+    "lon": 31.1799125
+  },
+  {
+    "id": "10326",
+    "name": "CUMHURİYET PARK DURAĞI",
+    "lat": 40.835724,
+    "lon": 31.1786975
+  },
+  {
+    "id": "10328",
+    "name": "19 MAYIS İLK OKULU",
+    "lat": 40.8376965,
+    "lon": 31.1787994
+  },
+  {
+    "id": "11139",
+    "name": "ŞIRALIK KÖPRU DURAĞI",
+    "lat": 40.8076506,
+    "lon": 31.1804455
+  },
+  {
+    "id": "11138",
+    "name": "ŞIRALIK DOKTORLAR SİTESİ",
+    "lat": 40.8067495,
+    "lon": 31.1845238
+  },
+  {
+    "id": "10117",
+    "name": "İSABET OKULLARI",
+    "lat": 40.807147,
+    "lon": 31.1868434
+  },
+  {
+    "id": "10119",
+    "name": "ŞIRALIK SPOR TESİSLERİ",
+    "lat": 40.8105962,
+    "lon": 31.1873208
+  },
+  {
+    "id": "10122",
+    "name": "TED KOLEJİ",
+    "lat": 40.8122933,
+    "lon": 31.1874898
+  },
+  {
+    "id": "11278",
+    "name": "ŞIRALIK SPOR TASİSİ YAN SAHA DURAĞ",
+    "lat": 40.8123958,
+    "lon": 31.1900178
+  },
+  {
+    "id": "10124",
+    "name": "KARADENİZ CAMİ",
+    "lat": 40.8149404,
+    "lon": 31.1889917
+  },
+  {
+    "id": "10126",
+    "name": "ŞIRALIK ÜÇ YOL",
+    "lat": 40.8168089,
+    "lon": 31.187392
+  },
+  {
+    "id": "10128",
+    "name": "ŞIRALIK DÖRT YOL",
+    "lat": 40.818242,
+    "lon": 31.1878388
+  },
+  {
+    "id": "10130",
+    "name": "FLORA VİLLALARI",
+    "lat": 40.8195909,
+    "lon": 31.1884342
+  },
+  {
+    "id": "10975",
+    "name": "ŞIRALIK ORTA MAHALLE DURAĞI",
+    "lat": 40.8194915,
+    "lon": 31.1897455
+  },
+  {
+    "id": "10132",
+    "name": "ŞIRALIK ROYAL SİTESİ",
+    "lat": 40.8204664,
+    "lon": 31.1912251
+  },
+  {
+    "id": "10134",
+    "name": "ALGÜN REZİDANS",
+    "lat": 40.8217217,
+    "lon": 31.1913199
+  },
+  {
+    "id": "10136",
+    "name": "MEVLANA KIZ MESLEK",
+    "lat": 40.8239895,
+    "lon": 31.1918217
+  },
+  {
+    "id": "10137",
+    "name": "MEVLANA KIZ MESLEK",
+    "lat": 40.8238703,
+    "lon": 31.1916334
+  },
+  {
+    "id": "10135",
+    "name": "ALGÜN REZİDANS",
+    "lat": 40.8217949,
+    "lon": 31.1911928
+  },
+  {
+    "id": "10133",
+    "name": "ŞIRALIK ROYAL SİTESİ",
+    "lat": 40.8204947,
+    "lon": 31.1910022
+  },
+  {
+    "id": "10976",
+    "name": "ŞIRALIK ORTA MAHALLE DURAĞI",
+    "lat": 40.8196051,
+    "lon": 31.1898045
+  },
+  {
+    "id": "10131",
+    "name": "FLORA VİLLALARI",
+    "lat": 40.8196203,
+    "lon": 31.1883142
+  },
+  {
+    "id": "10129",
+    "name": "ŞIRALIK DÖRT YOL",
+    "lat": 40.8182166,
+    "lon": 31.1880073
+  },
+  {
+    "id": "10127",
+    "name": "ŞIRALIK ÜÇ YOL",
+    "lat": 40.8168141,
+    "lon": 31.1872886
+  },
+  {
+    "id": "10125",
+    "name": "KARADENİZ CAMİ",
+    "lat": 40.8148694,
+    "lon": 31.1888148
+  },
+  {
+    "id": "10123",
+    "name": "TED KOLEJİ",
+    "lat": 40.812338,
+    "lon": 31.1873369
+  },
+  {
+    "id": "10121",
+    "name": "ŞIRALIK SPOR TESİSLERİ",
+    "lat": 40.8106429,
+    "lon": 31.1871277
+  },
+  {
+    "id": "10118",
+    "name": "İSABET OKULLARI",
+    "lat": 40.8071287,
+    "lon": 31.1866985
+  },
+  {
+    "id": "10564",
+    "name": "AZİZİYE A101",
+    "lat": 40.8407434,
+    "lon": 31.1329444
+  },
+  {
+    "id": "10562",
+    "name": "GÜNEŞ EĞİTİM MERKEZİ DURAĞI",
+    "lat": 40.8414099,
+    "lon": 31.1295514
+  },
+  {
+    "id": "10064",
+    "name": "HEMŞİN CAFE",
+    "lat": 40.8386279,
+    "lon": 31.1407094
+  },
+  {
+    "id": "10095",
+    "name": "AYDINPINAR CADDE",
+    "lat": 40.8335309,
+    "lon": 31.1559155
+  },
+  {
+    "id": "10093",
+    "name": "AYDINPINAR DURAĞI",
+    "lat": 40.8314964,
+    "lon": 31.1543469
+  },
+  {
+    "id": "10090",
+    "name": "ŞEMSETTİN ÖNEY CAMİ",
+    "lat": 40.8298099,
+    "lon": 31.15302
+  },
+  {
+    "id": "10089",
+    "name": "AYDINPINAR MİS EKMEK",
+    "lat": 40.8285636,
+    "lon": 31.1520593
+  },
+  {
+    "id": "10087",
+    "name": "KAVAKLI DURAĞI",
+    "lat": 40.8299929,
+    "lon": 31.1492388
+  },
+  {
+    "id": "10084",
+    "name": "SUPHİ PAŞA CAMİ",
+    "lat": 40.8326271,
+    "lon": 31.1489732
+  },
+  {
+    "id": "10083",
+    "name": "ÖZEL İDARE LOJMANLARI",
+    "lat": 40.8343907,
+    "lon": 31.1489169
+  },
+  {
+    "id": "10081",
+    "name": "ÇAY MAHALLESİ DURAĞI",
+    "lat": 40.8343319,
+    "lon": 31.1469482
+  },
+  {
+    "id": "10078",
+    "name": "ÇAY MAHALLESİ",
+    "lat": 40.8327534,
+    "lon": 31.1429368
+  },
+  {
+    "id": "10076",
+    "name": "AĞA KÖYÜ MUHTARLIK",
+    "lat": 40.8313852,
+    "lon": 31.1422919
+  },
+  {
+    "id": "10075",
+    "name": "AĞA KÖYÜ CAMİ",
+    "lat": 40.8292988,
+    "lon": 31.1405618
+  },
+  {
+    "id": "10073",
+    "name": "DADAŞ MARKET",
+    "lat": 40.8283592,
+    "lon": 31.1383624
+  },
+  {
+    "id": "10071",
+    "name": "HOCAOĞLU MARKET",
+    "lat": 40.8281622,
+    "lon": 31.1350954
+  },
+  {
+    "id": "10068",
+    "name": "RIZA MALATYALI İLKOKULU",
+    "lat": 40.8297474,
+    "lon": 31.1349185
+  },
+  {
+    "id": "10066",
+    "name": "BAYRAM TURAN ANA OKULU",
+    "lat": 40.8316612,
+    "lon": 31.1354254
+  },
+  {
+    "id": "10067",
+    "name": "BAYRAM TURAN ANA OKULU",
+    "lat": 40.8316125,
+    "lon": 31.1352323
+  },
+  {
+    "id": "10069",
+    "name": "RIZA MALATYALI İLKOKULU",
+    "lat": 40.8297697,
+    "lon": 31.13472
+  },
+  {
+    "id": "10070",
+    "name": "HOCAOĞLU MARKET",
+    "lat": 40.82828,
+    "lon": 31.1348111
+  },
+  {
+    "id": "10072",
+    "name": "DADAŞ MARKET",
+    "lat": 40.8282861,
+    "lon": 31.1385529
+  },
+  {
+    "id": "10074",
+    "name": "AĞA KÖYÜ CAMİ",
+    "lat": 40.8292988,
+    "lon": 31.1407335
+  },
+  {
+    "id": "10077",
+    "name": "AĞA KÖYÜ MUHTARLIK",
+    "lat": 40.8313527,
+    "lon": 31.1424716
+  },
+  {
+    "id": "10079",
+    "name": "ÇAY MAHALLESİ",
+    "lat": 40.8328057,
+    "lon": 31.1430455
+  },
+  {
+    "id": "10080",
+    "name": "ÇAY MAHALLESİ DURAĞI",
+    "lat": 40.8342247,
+    "lon": 31.1470097
+  },
+  {
+    "id": "10082",
+    "name": "ÖZEL İDARE LOJMANLARI",
+    "lat": 40.8344009,
+    "lon": 31.1487855
+  },
+  {
+    "id": "10085",
+    "name": "SUPHİ PAŞA CAMİ",
+    "lat": 40.8326048,
+    "lon": 31.1488659
+  },
+  {
+    "id": "10086",
+    "name": "KAVAKLI DURAĞI",
+    "lat": 40.8300032,
+    "lon": 31.149093
+  },
+  {
+    "id": "10088",
+    "name": "AYDINPINAR MİS EKMEK",
+    "lat": 40.8285012,
+    "lon": 31.1521774
+  },
+  {
+    "id": "10091",
+    "name": "ŞEMSETTİN ÖNEY CAMİ",
+    "lat": 40.8297544,
+    "lon": 31.1531419
+  },
+  {
+    "id": "10092",
+    "name": "AYDINPINAR DURAĞI",
+    "lat": 40.8316118,
+    "lon": 31.154522
+  },
+  {
+    "id": "10094",
+    "name": "AYDINPINAR CADDE",
+    "lat": 40.833479,
+    "lon": 31.1561444
+  },
+  {
+    "id": "10065",
+    "name": "HEMŞİN CAFE",
+    "lat": 40.8386746,
+    "lon": 31.1406584
+  },
+  {
+    "id": "10059",
+    "name": "BELMEK SPOR MERKEZİ",
+    "lat": 40.8382261,
+    "lon": 31.1338429
+  },
+  {
+    "id": "10561",
+    "name": "GÜNEŞ EĞİTİM MERKEZİ DURAĞI",
+    "lat": 40.8412933,
+    "lon": 31.1295259
+  },
+  {
+    "id": "10563",
+    "name": "AZİZİYE A101",
+    "lat": 40.8406449,
+    "lon": 31.13277
+  },
+  {
+    "id": "10116",
+    "name": "KIREMİT OCAĞI URAL DURAĞI",
+    "lat": 40.8376651,
+    "lon": 31.1410452
+  },
+  {
+    "id": "10114",
+    "name": "DARICI AŞAR CAMİ",
+    "lat": 40.8330543,
+    "lon": 31.1616761
+  },
+  {
+    "id": "10112",
+    "name": "DARICI HUZUR AMBARI",
+    "lat": 40.8318163,
+    "lon": 31.1617388
+  },
+  {
+    "id": "10110",
+    "name": "DARICI EKMEK FIRINI",
+    "lat": 40.8299522,
+    "lon": 31.1621312
+  },
+  {
+    "id": "10109",
+    "name": "DARICI SOSYAL TESİSİ",
+    "lat": 40.8262935,
+    "lon": 31.163486
+  },
+  {
+    "id": "10107",
+    "name": "YABALI DEDE",
+    "lat": 40.8233199,
+    "lon": 31.162641
+  },
+  {
+    "id": "10104",
+    "name": "DARICI PARKI",
+    "lat": 40.8238756,
+    "lon": 31.1586838
+  },
+  {
+    "id": "10103",
+    "name": "DARICI OKUL SOKAĞI",
+    "lat": 40.8240552,
+    "lon": 31.1561875
+  },
+  {
+    "id": "10100",
+    "name": "MÜEZZİN CAMİ",
+    "lat": 40.8229847,
+    "lon": 31.155524
+  },
+  {
+    "id": "10099",
+    "name": "DARICI 5752. CADDE",
+    "lat": 40.8197736,
+    "lon": 31.1548928
+  },
+  {
+    "id": "10097",
+    "name": "ANADOLU ARSAL LİSESİ",
+    "lat": 40.8191037,
+    "lon": 31.1562098
+  },
+  {
+    "id": "11185",
+    "name": "OTLUOĞLU SAPAK DURAĞI",
+    "lat": 40.8183395,
+    "lon": 31.1439414
+  },
+  {
+    "id": "11184",
+    "name": "OTLUOĞLU MERKEZ CAMİ DURAĞI",
+    "lat": 40.8197979,
+    "lon": 31.1378528
+  },
+  {
+    "id": "11181",
+    "name": "OTLUOĞLU ORTA MAHALLE CAMİ DURAĞI",
+    "lat": 40.821298,
+    "lon": 31.1327043
+  },
+  {
+    "id": "11179",
+    "name": "OTLUOĞLU DÖRT YOL DURAĞI",
+    "lat": 40.821099,
+    "lon": 31.1275558
+  },
+  {
+    "id": "11175",
+    "name": "OTLUOĞLU MAHALLE DURAĞI",
+    "lat": 40.8227756,
+    "lon": 31.1252357
+  },
+  {
+    "id": "11173",
+    "name": "OTLUOĞLU MAHALLE İÇ DURAĞI",
+    "lat": 40.8251981,
+    "lon": 31.1173379
+  },
+  {
+    "id": "11171",
+    "name": "OZANLAR KURUOĞLU GİRİŞ DURAĞI",
+    "lat": 40.8235896,
+    "lon": 31.1149132
+  },
+  {
+    "id": "11212",
+    "name": "OZANLAR MUHTARLIK DURAĞI",
+    "lat": 40.8229702,
+    "lon": 31.1071399
+  },
+  {
+    "id": "11166",
+    "name": "OZANLAR MERKEZ CAMİ DURAĞI",
+    "lat": 40.8215593,
+    "lon": 31.1071039
+  },
+  {
+    "id": "11165",
+    "name": "OZANLAR PARK DURAĞI",
+    "lat": 40.8162051,
+    "lon": 31.1073078
+  },
+  {
+    "id": "11163",
+    "name": "OZANLAR MOLLAOĞLU CAMİİ",
+    "lat": 40.8161889,
+    "lon": 31.1093838
+  },
+  {
+    "id": "11164",
+    "name": "OZANLAR PARK DURAĞI",
+    "lat": 40.8162944,
+    "lon": 31.1072461
+  },
+  {
+    "id": "11167",
+    "name": "OZANLAR MERKEZ CAMİ DURAĞI",
+    "lat": 40.8216161,
+    "lon": 31.1070319
+  },
+  {
+    "id": "11213",
+    "name": "OZANLAR MUHTARLIK DURAĞI",
+    "lat": 40.8229237,
+    "lon": 31.1073115
+  },
+  {
+    "id": "11174",
+    "name": "OTLUOĞLU MAHALLE İÇ DURAĞI",
+    "lat": 40.8251199,
+    "lon": 31.1172936
+  },
+  {
+    "id": "11176",
+    "name": "OTLUOĞLU MAHALLE DURAĞI",
+    "lat": 40.8226295,
+    "lon": 31.1252277
+  },
+  {
+    "id": "11180",
+    "name": "OTLUOĞLU DÖRT YOL DURAĞI",
+    "lat": 40.821034,
+    "lon": 31.1275249
+  },
+  {
+    "id": "11182",
+    "name": "OTLUOĞLU ORTA MAHALLE CAMİ DURAĞI",
+    "lat": 40.8212127,
+    "lon": 31.1327097
+  },
+  {
+    "id": "11183",
+    "name": "OTLUOĞLU MERKEZ CAMİ DURAĞI",
+    "lat": 40.8196812,
+    "lon": 31.1376838
+  },
+  {
+    "id": "11186",
+    "name": "OTLUOĞLU SAPAK DURAĞI",
+    "lat": 40.8182076,
+    "lon": 31.1439373
+  },
+  {
+    "id": "10096",
+    "name": "ANADOLU ARSAL LİSESİ",
+    "lat": 40.8192417,
+    "lon": 31.1560408
+  },
+  {
+    "id": "10098",
+    "name": "DARICI 5752. CADDE",
+    "lat": 40.8197531,
+    "lon": 31.1550013
+  },
+  {
+    "id": "10101",
+    "name": "MÜEZZİN CAMİ",
+    "lat": 40.8230221,
+    "lon": 31.1556402
+  },
+  {
+    "id": "10102",
+    "name": "DARICI OKUL SOKAĞI",
+    "lat": 40.823924,
+    "lon": 31.1562205
+  },
+  {
+    "id": "10105",
+    "name": "DARICI PARKI",
+    "lat": 40.8237896,
+    "lon": 31.1586602
+  },
+  {
+    "id": "10106",
+    "name": "YABALI DEDE",
+    "lat": 40.8232332,
+    "lon": 31.1623001
+  },
+  {
+    "id": "10108",
+    "name": "DARICI SOSYAL TESİSİ",
+    "lat": 40.8262481,
+    "lon": 31.1636664
+  },
+  {
+    "id": "10120",
+    "name": "DARICI EKMEK FIRINI",
+    "lat": 40.8299338,
+    "lon": 31.1620186
+  },
+  {
+    "id": "10111",
+    "name": "DARICI HUZUR AMBARI",
+    "lat": 40.8318197,
+    "lon": 31.1618457
+  },
+  {
+    "id": "10113",
+    "name": "DARICI AŞAR CAMİ",
+    "lat": 40.8330201,
+    "lon": 31.1618753
+  },
+  {
+    "id": "10115",
+    "name": "KIREMİT OCAĞI DURAĞI",
+    "lat": 40.8355961,
+    "lon": 31.1414765
+  },
+  {
+    "id": "11190",
+    "name": "KARSLIOĞLU İNŞAAT DURAĞI",
+    "lat": 40.8261813,
+    "lon": 31.1502205
+  },
+  {
+    "id": "11187",
+    "name": "OTLUOĞLU MEZARLIK DURAĞI",
+    "lat": 40.8199725,
+    "lon": 31.145438
+  },
+  {
+    "id": "11188",
+    "name": "OTLUOĞLU MEZARLIK DURAĞI",
+    "lat": 40.8196487,
+    "lon": 31.1454246
+  },
+  {
+    "id": "11189",
+    "name": "KARSLIOĞLU İNŞAAT DURAĞI",
+    "lat": 40.8261226,
+    "lon": 31.1503506
+  },
+  {
+    "id": "11302",
+    "name": "TOKUŞLAR ALT GEÇİT DURAĞI",
+    "lat": 40.8813645,
+    "lon": 31.1850022
+  },
+  {
+    "id": "11303",
+    "name": "TOKUŞLAR KANAL DURAĞI",
+    "lat": 40.8830535,
+    "lon": 31.1863943
+  },
+  {
+    "id": "11304",
+    "name": "TOKUŞLAR MEYDAN DURAĞI",
+    "lat": 40.884252,
+    "lon": 31.1890677
+  },
+  {
+    "id": "10765",
+    "name": "ATALAY KÖY YOLU DURAĞI",
+    "lat": 40.8883398,
+    "lon": 31.1996295
+  },
+  {
+    "id": "10763",
+    "name": "ATALAY KÖY YOLU DURAĞI",
+    "lat": 40.8894976,
+    "lon": 31.2023063
+  },
+  {
+    "id": "10762",
+    "name": "AKYAZI MEYDAN DURAĞI",
+    "lat": 40.897551,
+    "lon": 31.2101424
+  },
+  {
+    "id": "10760",
+    "name": "AKYAZI SAPAK DURAĞI",
+    "lat": 40.8937008,
+    "lon": 31.2080811
+  },
+  {
+    "id": "10759",
+    "name": "G.ÇİFTLİK KOY YOLU DURAĞI",
+    "lat": 40.8945828,
+    "lon": 31.2127884
+  },
+  {
+    "id": "10757",
+    "name": "EVCEK DURAĞI",
+    "lat": 40.8958459,
+    "lon": 31.2177907
+  },
+  {
+    "id": "10755",
+    "name": "G.ÇİFTLİK YIĞILCA YOLU DURAĞI",
+    "lat": 40.8987675,
+    "lon": 31.2223893
+  },
+  {
+    "id": "10753",
+    "name": "G.ÇİFTLİK MUHTARLIK DURAĞI",
+    "lat": 40.9015226,
+    "lon": 31.2229888
+  },
+  {
+    "id": "10751",
+    "name": "G.ÇİFTLİK PERİHAN TULAN ORTA OKUL DURAĞI",
+    "lat": 40.9032377,
+    "lon": 31.2232892
+  },
+  {
+    "id": "10749",
+    "name": "G.ÇİFTLİK DÖRT YOL DURAĞI",
+    "lat": 40.9053683,
+    "lon": 31.2244748
+  },
+  {
+    "id": "10747",
+    "name": "G.ÇİFTLİK İÇ YOL DURAĞI",
+    "lat": 40.9078921,
+    "lon": 31.2273903
+  },
+  {
+    "id": "10745",
+    "name": "G.ÇİFTLİK ÜÇ YOL DURAĞI",
+    "lat": 40.9109895,
+    "lon": 31.2302335
+  },
+  {
+    "id": "10743",
+    "name": "NUHLAR SAPAK DURAĞI",
+    "lat": 40.9128746,
+    "lon": 31.2348281
+  },
+  {
+    "id": "10742",
+    "name": "NUHLAR SAPAK DURAĞI",
+    "lat": 40.9130449,
+    "lon": 31.2345867
+  },
+  {
+    "id": "10744",
+    "name": "G.ÇİFTLİK ÜÇ YOL DURAĞI",
+    "lat": 40.9110382,
+    "lon": 31.230043
+  },
+  {
+    "id": "10746",
+    "name": "G.ÇİFTLİK İÇ YOL DURAĞI",
+    "lat": 40.9079428,
+    "lon": 31.2272884
+  },
+  {
+    "id": "10750",
+    "name": "G.ÇİFTLİK PERİHAN TULAN ORTA OKUL DURAĞI",
+    "lat": 40.9032925,
+    "lon": 31.2231927
+  },
+  {
+    "id": "10752",
+    "name": "G.ÇİFTLİK MUHTARLIK DURAĞI",
+    "lat": 40.9014841,
+    "lon": 31.2228627
+  },
+  {
+    "id": "10754",
+    "name": "G.ÇİFTLİK YIĞILCA YOLU DURAĞI",
+    "lat": 40.898805,
+    "lon": 31.2222968
+  },
+  {
+    "id": "10756",
+    "name": "EVCEK DURAĞI",
+    "lat": 40.8959027,
+    "lon": 31.2176914
+  },
+  {
+    "id": "10758",
+    "name": "G.ÇİFTLİK KOY YOLU DURAĞI",
+    "lat": 40.8946598,
+    "lon": 31.2126355
+  },
+  {
+    "id": "10764",
+    "name": "ATALAY KÖY YOLU DURAĞI",
+    "lat": 40.8895432,
+    "lon": 31.2022003
+  },
+  {
+    "id": "10766",
+    "name": "ATALAY KÖY YOLU DURAĞI",
+    "lat": 40.8883894,
+    "lon": 31.1995731
+  },
+  {
+    "id": "11210",
+    "name": "AKYAZI MUHTARLIK DURAĞI",
+    "lat": 40.8989702,
+    "lon": 31.2082406
+  },
+  {
+    "id": "11202",
+    "name": "AKYAZI CAMİ DURAĞI",
+    "lat": 40.8994064,
+    "lon": 31.2060614
+  },
+  {
+    "id": "11200",
+    "name": "AKYAZI KÜME EVLERİ",
+    "lat": 40.9017254,
+    "lon": 31.2028293
+  },
+  {
+    "id": "11201",
+    "name": "AKYAZI KÜME EVLERİ",
+    "lat": 40.9017913,
+    "lon": 31.2028132
+  },
+  {
+    "id": "11203",
+    "name": "AKYAZI CAMİ DURAĞI",
+    "lat": 40.8993731,
+    "lon": 31.2059065
+  },
+  {
+    "id": "11211",
+    "name": "AKYAZI MUHTARLIK DURAĞI",
+    "lat": 40.8988757,
+    "lon": 31.2082213
+  },
+  {
+    "id": "10523",
+    "name": "ESKİ SANAYİ OPET DURAĞI",
+    "lat": 40.8455838,
+    "lon": 31.1526452
+  },
+  {
+    "id": "10525",
+    "name": "ESKİ SANAYİ ÇARŞISI DURAĞI",
+    "lat": 40.845389,
+    "lon": 31.154386
+  },
+  {
+    "id": "10527",
+    "name": "ESKİ SANAYİ DÖRT YOL DURAĞI",
+    "lat": 40.8451861,
+    "lon": 31.1563051
+  },
+  {
+    "id": "10528",
+    "name": "RASİM BETİR DURAĞI",
+    "lat": 40.8449466,
+    "lon": 31.1582322
+  },
+  {
+    "id": "10531",
+    "name": "RASİM BETİR PAŞA DURAĞI",
+    "lat": 40.8447336,
+    "lon": 31.1598201
+  },
+  {
+    "id": "10533",
+    "name": "VERONA HOME DURAĞI",
+    "lat": 40.8441735,
+    "lon": 31.1627114
+  },
+  {
+    "id": "11330",
+    "name": "GÜLTEPE VİLLA DURAĞI",
+    "lat": 40.9105334,
+    "lon": 31.1693956
+  },
+  {
+    "id": "11331",
+    "name": "VADİ ÜSKÜP DURAĞI",
+    "lat": 40.9131766,
+    "lon": 31.1706576
+  },
+  {
+    "id": "11332",
+    "name": "HATIPLI KETENCİ ÜÇ YOL DURAĞI",
+    "lat": 40.9140279,
+    "lon": 31.1677474
+  },
+  {
+    "id": "11329",
+    "name": "HATIPLI CAMİ DURAĞI",
+    "lat": 40.9146887,
+    "lon": 31.169519
+  },
+  {
+    "id": "11328",
+    "name": "HATIPLI KETENCİ MUHTARLIK DURAĞI",
+    "lat": 40.9174589,
+    "lon": 31.1708762
+  },
+  {
+    "id": "11327",
+    "name": "HATIPLI KETENCİ SON DURAK",
+    "lat": 40.9207763,
+    "lon": 31.1778446
+  },
+  {
+    "id": "11321",
+    "name": "MELEN CADDESİ PARK DURAĞI",
+    "lat": 40.8829195,
+    "lon": 31.1768655
+  },
+  {
+    "id": "11333",
+    "name": "TAŞLI MAHALLE DURAĞI",
+    "lat": 40.9137807,
+    "lon": 31.1597477
+  },
+  {
+    "id": "11334",
+    "name": "AKTEPE MAHALLESİ MEYDAN DURAĞI",
+    "lat": 40.9095797,
+    "lon": 31.1582899
+  },
+  {
+    "id": "11335",
+    "name": "AKTEPE ARTEMİS DURAĞI",
+    "lat": 40.9069475,
+    "lon": 31.1574115
+  },
+  {
+    "id": "11336",
+    "name": "AKTEPE TEPE DURAĞI",
+    "lat": 40.9069293,
+    "lon": 31.1542706
+  },
+  {
+    "id": "10532",
+    "name": "VERONA HOME DURAĞI",
+    "lat": 40.8442506,
+    "lon": 31.1627544
+  },
+  {
+    "id": "10530",
+    "name": "RASİM BETİR PAŞA DURAĞI",
+    "lat": 40.844831,
+    "lon": 31.1598174
+  },
+  {
+    "id": "10529",
+    "name": "RASİM BETİR DURAĞI",
+    "lat": 40.845045,
+    "lon": 31.1581115
+  },
+  {
+    "id": "10526",
+    "name": "ESKİ SANAYİ DÖRT YOL DURAĞI",
+    "lat": 40.845251,
+    "lon": 31.1563238
+  },
+  {
+    "id": "10524",
+    "name": "ESKİ SANAYİ ÇARŞISI DURAĞI",
+    "lat": 40.8454529,
+    "lon": 31.1543819
+  },
+  {
+    "id": "10522",
+    "name": "ESKİ SANAYİ OPET DURAĞI",
+    "lat": 40.845669,
+    "lon": 31.1526506
+  },
+  {
+    "id": "10431",
+    "name": "ARAP ÇİFTLİĞİ SAĞLIK OCAĞI",
+    "lat": 40.8723513,
+    "lon": 31.1541808
+  },
+  {
+    "id": "10433",
+    "name": "AK ŞEMSETTİN OKULU",
+    "lat": 40.873767,
+    "lon": 31.1526827
+  },
+  {
+    "id": "10430",
+    "name": "ARAP ÇİFTLİĞİ İÇ YOL  DURAĞI",
+    "lat": 40.8718047,
+    "lon": 31.1502688
+  },
+  {
+    "id": "10424",
+    "name": "ARAP ÇİFTLİĞİ CAMİ",
+    "lat": 40.8702825,
+    "lon": 31.1483671
+  },
+  {
+    "id": "10428",
+    "name": "ARAP ÇİFTLİĞİ MEZARLIK",
+    "lat": 40.8687654,
+    "lon": 31.1498959
+  },
+  {
+    "id": "10439",
+    "name": "ARAP ÇİFTLİĞİ DURAĞI",
+    "lat": 40.8667127,
+    "lon": 31.1516944
+  },
+  {
+    "id": "10441",
+    "name": "KÖRPEŞLER MAHALLE DURAĞI",
+    "lat": 40.8643232,
+    "lon": 31.1530073
+  },
+  {
+    "id": "10443",
+    "name": "KÖRPEŞLER PARK DURAĞI",
+    "lat": 40.8632177,
+    "lon": 31.1536537
+  },
+  {
+    "id": "10445",
+    "name": "KÖRPEŞLER MEZARLIK",
+    "lat": 40.8614793,
+    "lon": 31.154504
+  },
+  {
+    "id": "10447",
+    "name": "KÖRPEŞLER SİTELER",
+    "lat": 40.8603899,
+    "lon": 31.1544262
+  },
+  {
+    "id": "10458",
+    "name": "KÖRPEŞLER MEYDAN",
+    "lat": 40.8557849,
+    "lon": 31.1565371
+  },
+  {
+    "id": "10486",
+    "name": "HAMİDİYE KANAL DURAK",
+    "lat": 40.8546306,
+    "lon": 31.1571848
+  },
+  {
+    "id": "10488",
+    "name": "HAMİDİYE KEMAL KUYUMCU DURAĞI",
+    "lat": 40.8535756,
+    "lon": 31.1589833
+  },
+  {
+    "id": "10489",
+    "name": "HAMİDİYE SOKAK DURAĞI",
+    "lat": 40.8503904,
+    "lon": 31.159973
+  },
+  {
+    "id": "10491",
+    "name": "HAMİDİYE KATİP CELEBİ DURAĞI",
+    "lat": 40.8481728,
+    "lon": 31.1594902
+  },
+  {
+    "id": "10650",
+    "name": "HAMİDİYE ÜST GEÇİT DURAĞI",
+    "lat": 40.8473692,
+    "lon": 31.158597
+  },
+  {
+    "id": "10652",
+    "name": "ALPAY HALI SAHA DURAĞI",
+    "lat": 40.8478786,
+    "lon": 31.1554709
+  },
+  {
+    "id": "10653",
+    "name": "ÖZTÜRKLER DURAĞI",
+    "lat": 40.848258,
+    "lon": 31.1536644
+  },
+  {
+    "id": "10655",
+    "name": "SOYLU DİZEL DURAĞI",
+    "lat": 40.8485319,
+    "lon": 31.1499844
+  },
+  {
+    "id": "10656",
+    "name": "DEVLET SU İŞLERİ DURAĞI",
+    "lat": 40.848574,
+    "lon": 31.1475088
+  },
+  {
+    "id": "10478",
+    "name": "YENİ MAHALLE MEZARLIK",
+    "lat": 40.8503351,
+    "lon": 31.1474008
+  },
+  {
+    "id": "10476",
+    "name": "KARA HACI MUSA TRAFO",
+    "lat": 40.8513926,
+    "lon": 31.1462079
+  },
+  {
+    "id": "10473",
+    "name": "KARA HACI MUSA CAMİ",
+    "lat": 40.8528848,
+    "lon": 31.1455213
+  },
+  {
+    "id": "10472",
+    "name": "KARA HACI MUSA SAĞLIK OCAĞI",
+    "lat": 40.8541193,
+    "lon": 31.1453013
+  },
+  {
+    "id": "10470",
+    "name": "TURGUT ÖZAL",
+    "lat": 40.8555932,
+    "lon": 31.1459906
+  },
+  {
+    "id": "10390",
+    "name": "ATATÜRK ORMAN PARK DURAĞI",
+    "lat": 40.8564808,
+    "lon": 31.1417715
+  },
+  {
+    "id": "10393",
+    "name": "AKINLAR",
+    "lat": 40.8566958,
+    "lon": 31.1391993
+  },
+  {
+    "id": "10395",
+    "name": "AKINLAR OKUL",
+    "lat": 40.8575113,
+    "lon": 31.1378582
+  },
+  {
+    "id": "10396",
+    "name": "AKINLAR MAHALLE DURAĞI",
+    "lat": 40.8592275,
+    "lon": 31.1386776
+  },
+  {
+    "id": "10399",
+    "name": "AKINLAR YEŞİLKÖY DURAĞI",
+    "lat": 40.860463,
+    "lon": 31.1384939
+  },
+  {
+    "id": "10400",
+    "name": "AKINAR VİLLALAR DURAĞI",
+    "lat": 40.862175,
+    "lon": 31.1389472
+  },
+  {
+    "id": "10403",
+    "name": "AKINLAR YOL İÇ DURAĞI",
+    "lat": 40.8645829,
+    "lon": 31.1375444
+  },
+  {
+    "id": "10404",
+    "name": "AMERİKAN EVLERİ",
+    "lat": 40.8667086,
+    "lon": 31.1379923
+  },
+  {
+    "id": "10407",
+    "name": "GÖKKUŞAĞI DURAĞI",
+    "lat": 40.8689905,
+    "lon": 31.1383356
+  },
+  {
+    "id": "10408",
+    "name": "SARAYYERİ MAHALLE DURAĞI",
+    "lat": 40.8698261,
+    "lon": 31.1392555
+  },
+  {
+    "id": "10411",
+    "name": "SARAYYERİ ÜÇ YOL",
+    "lat": 40.8716922,
+    "lon": 31.1386172
+  },
+  {
+    "id": "10412",
+    "name": "SARAYYERİ ÇIKMAZI DURAĞI",
+    "lat": 40.8731058,
+    "lon": 31.1392033
+  },
+  {
+    "id": "10415",
+    "name": "SARAYYERİ MEYDAN",
+    "lat": 40.8749879,
+    "lon": 31.1391376
+  },
+  {
+    "id": "10417",
+    "name": "SARAYYERİ MEZARLIK",
+    "lat": 40.8751421,
+    "lon": 31.1406343
+  },
+  {
+    "id": "10419",
+    "name": "SARAYYERİ SİTELER",
+    "lat": 40.8738167,
+    "lon": 31.1419915
+  },
+  {
+    "id": "10420",
+    "name": "GÜLERYÜZ DURAĞI",
+    "lat": 40.8727255,
+    "lon": 31.1433125
+  },
+  {
+    "id": "10422",
+    "name": "KAFKAS DURAĞI",
+    "lat": 40.8706496,
+    "lon": 31.1462024
+  },
+  {
+    "id": "10426",
+    "name": "ARAP ÇİFTLİĞİ CAMİ",
+    "lat": 40.8703312,
+    "lon": 31.1484905
+  },
+  {
+    "id": "10429",
+    "name": "ARAP ÇİFTLİĞİ İÇ YOL DURAĞI",
+    "lat": 40.8717358,
+    "lon": 31.150313
+  },
+  {
+    "id": "10435",
+    "name": "BOTAŞ DURAĞI",
+    "lat": 40.8739009,
+    "lon": 31.1568455
+  },
+  {
+    "id": "10437",
+    "name": "BOTAŞ SON DURAK",
+    "lat": 40.8744485,
+    "lon": 31.1626874
+  },
+  {
+    "id": "10438",
+    "name": "BOTAŞ SON DURAK",
+    "lat": 40.8745539,
+    "lon": 31.1626284
+  },
+  {
+    "id": "10436",
+    "name": "BOTAŞ DURAĞI",
+    "lat": 40.8739931,
+    "lon": 31.1568335
+  },
+  {
+    "id": "10492",
+    "name": "HAMİDİYE KATİP CELEBİ DURAĞI",
+    "lat": 40.8481139,
+    "lon": 31.1595975
+  },
+  {
+    "id": "11153",
+    "name": "ÇOBAN ORKİDE SOKAK DURAĞI",
+    "lat": 40.8474471,
+    "lon": 31.1647562
+  },
+  {
+    "id": "11107",
+    "name": "HACI DAYI DURAĞI",
+    "lat": 40.8172262,
+    "lon": 31.2103811
+  },
+  {
+    "id": "10634",
+    "name": "ERCİYES DURAĞI",
+    "lat": 40.8088229,
+    "lon": 31.2265307
+  },
+  {
+    "id": "10632",
+    "name": "KELEBEK MOBİLYA DURAĞI",
+    "lat": 40.8054862,
+    "lon": 31.2326809
+  },
+  {
+    "id": "10630",
+    "name": "YİĞİTLER DURAĞI",
+    "lat": 40.804802,
+    "lon": 31.2339161
+  },
+  {
+    "id": "10628",
+    "name": "YİĞİTLER SİTE DURAĞI",
+    "lat": 40.8035311,
+    "lon": 31.2359466
+  },
+  {
+    "id": "10626",
+    "name": "DOĞANLI MURAT CAMİ",
+    "lat": 40.8031514,
+    "lon": 31.237462
+  },
+  {
+    "id": "10147",
+    "name": "MERCANLAR DURAĞI",
+    "lat": 40.8073573,
+    "lon": 31.2411446
+  },
+  {
+    "id": "10149",
+    "name": "MUNCURLU ÜÇ YOL",
+    "lat": 40.8082797,
+    "lon": 31.2412519
+  },
+  {
+    "id": "10151",
+    "name": "ATATÜRK DEVLET HASTANESİ",
+    "lat": 40.8118751,
+    "lon": 31.243218
+  },
+  {
+    "id": "10150",
+    "name": "ATATÜRK DEVLET HASTANESİ",
+    "lat": 40.811972,
+    "lon": 31.2428577
+  },
+  {
+    "id": "10148",
+    "name": "MUNCURLU ÜÇ YOL",
+    "lat": 40.8083094,
+    "lon": 31.2411133
+  },
+  {
+    "id": "10146",
+    "name": "MERCANLAR DURAĞI",
+    "lat": 40.8072529,
+    "lon": 31.2410515
+  },
+  {
+    "id": "10627",
+    "name": "YİĞİTLER SİTE DURAĞI",
+    "lat": 40.8039158,
+    "lon": 31.2362041
+  },
+  {
+    "id": "10629",
+    "name": "YİĞİTLER DURAĞI",
+    "lat": 40.8051634,
+    "lon": 31.2341414
+  },
+  {
+    "id": "10631",
+    "name": "KELEBEK MOBİLYA DURAĞI",
+    "lat": 40.8061522,
+    "lon": 31.2323336
+  },
+  {
+    "id": "10633",
+    "name": "ERCİYES DURAĞI",
+    "lat": 40.8090817,
+    "lon": 31.2268351
+  },
+  {
+    "id": "10654",
+    "name": "AS TAKSİ DURAĞI",
+    "lat": 40.8480348,
+    "lon": 31.1511646
+  },
+  {
+    "id": "10423",
+    "name": "KAFKAS DURAĞI",
+    "lat": 40.8705076,
+    "lon": 31.1460872
+  },
+  {
+    "id": "10421",
+    "name": "GÜLERYÜZ DURAĞI",
+    "lat": 40.8728117,
+    "lon": 31.1434774
+  },
+  {
+    "id": "10418",
+    "name": "SARAYYERİ SİTELER",
+    "lat": 40.8738927,
+    "lon": 31.142147
+  },
+  {
+    "id": "10416",
+    "name": "SARAYYERİ MEZARLIK",
+    "lat": 40.8752729,
+    "lon": 31.1406611
+  },
+  {
+    "id": "10414",
+    "name": "SARAYYERİ MEYDAN",
+    "lat": 40.8750538,
+    "lon": 31.1389766
+  },
+  {
+    "id": "10413",
+    "name": "SARAYYERİ ÇIKMAZI DURAĞI",
+    "lat": 40.8730957,
+    "lon": 31.1390759
+  },
+  {
+    "id": "10410",
+    "name": "SARAYYERİ ÜÇ YOL",
+    "lat": 40.8717145,
+    "lon": 31.1384188
+  },
+  {
+    "id": "10409",
+    "name": "SARAYYERİ MAHALLE DURAĞI",
+    "lat": 40.8699337,
+    "lon": 31.1392368
+  },
+  {
+    "id": "10406",
+    "name": "GÖKKUŞAĞI DURAĞI",
+    "lat": 40.8689682,
+    "lon": 31.1381881
+  },
+  {
+    "id": "10405",
+    "name": "AMERİKAN EVLERİ",
+    "lat": 40.8667269,
+    "lon": 31.1378314
+  },
+  {
+    "id": "10402",
+    "name": "AKINLAR YOL İÇ DURAĞI",
+    "lat": 40.8645058,
+    "lon": 31.137421
+  },
+  {
+    "id": "10401",
+    "name": "AKINAR VİLLALAR DURAĞI",
+    "lat": 40.8621507,
+    "lon": 31.1387379
+  },
+  {
+    "id": "10398",
+    "name": "AKINLAR YEŞİLKÖY DURAĞI",
+    "lat": 40.860469,
+    "lon": 31.1383665
+  },
+  {
+    "id": "10397",
+    "name": "AKINLAR MAHALLE DURAĞI",
+    "lat": 40.8592194,
+    "lon": 31.1385529
+  },
+  {
+    "id": "10394",
+    "name": "AKINLAR OKUL",
+    "lat": 40.857491,
+    "lon": 31.1377388
+  },
+  {
+    "id": "10392",
+    "name": "AKINLAR",
+    "lat": 40.8566218,
+    "lon": 31.1391121
+  },
+  {
+    "id": "10469",
+    "name": "TURGUT ÖZAL",
+    "lat": 40.855576,
+    "lon": 31.145886
+  },
+  {
+    "id": "10471",
+    "name": "KARA HACI MUSA SAĞLIK OCAĞI",
+    "lat": 40.8541153,
+    "lon": 31.1451457
+  },
+  {
+    "id": "10474",
+    "name": "KARA HACI MUSA CAMİ",
+    "lat": 40.8528868,
+    "lon": 31.1453938
+  },
+  {
+    "id": "10475",
+    "name": "KARA HACI MUSA TRAFO",
+    "lat": 40.8512729,
+    "lon": 31.1462991
+  },
+  {
+    "id": "10477",
+    "name": "YENİ MAHALLE MEZARLIK",
+    "lat": 40.8503477,
+    "lon": 31.1473063
+  },
+  {
+    "id": "10490",
+    "name": "HAMİDİYE SOKAK DURAĞI",
+    "lat": 40.8503863,
+    "lon": 31.1601125
+  },
+  {
+    "id": "10487",
+    "name": "HAMİDİYE KEMAL KUYUMCU DURAĞI",
+    "lat": 40.8536669,
+    "lon": 31.1590449
+  },
+  {
+    "id": "10485",
+    "name": "HAMİDİYE KANAL DURAK",
+    "lat": 40.8546671,
+    "lon": 31.1572854
+  },
+  {
+    "id": "10448",
+    "name": "KÖRPEŞLER SİTELER",
+    "lat": 40.8603859,
+    "lon": 31.1546488
+  },
+  {
+    "id": "10446",
+    "name": "KÖRPEŞLER MEZARLIK",
+    "lat": 40.8615046,
+    "lon": 31.1546434
+  },
+  {
+    "id": "10444",
+    "name": "KÖRPEŞLER PARK DURAĞI",
+    "lat": 40.8632623,
+    "lon": 31.1538053
+  },
+  {
+    "id": "10442",
+    "name": "KÖRPEŞLER MAHALLE DURAĞI",
+    "lat": 40.8643597,
+    "lon": 31.1531816
+  },
+  {
+    "id": "10440",
+    "name": "ARAP ÇİFTLİĞİ DURAĞI",
+    "lat": 40.8667553,
+    "lon": 31.1518727
+  },
+  {
+    "id": "10427",
+    "name": "ARAP ÇİFTLİĞİ MEZARLIK",
+    "lat": 40.868881,
+    "lon": 31.1499952
+  },
+  {
+    "id": "10494",
+    "name": "HAMİDİYE ESKİ AKÇAKOCA CAD DURAĞI",
+    "lat": 40.8479526,
+    "lon": 31.1611029
+  },
+  {
+    "id": "10496",
+    "name": "HİKMET AKIN ORTA OKULU",
+    "lat": 40.8496031,
+    "lon": 31.1615072
+  },
+  {
+    "id": "10498",
+    "name": "HAMİDİYE YURT SOKAK DURAĞI",
+    "lat": 40.8520033,
+    "lon": 31.162041
+  },
+  {
+    "id": "10500",
+    "name": "TENİS KORT DURAĞI",
+    "lat": 40.8550931,
+    "lon": 31.163307
+  },
+  {
+    "id": "10451",
+    "name": "MEHMET AKİF CAMİ",
+    "lat": 40.8563448,
+    "lon": 31.1638112
+  },
+  {
+    "id": "10560",
+    "name": "SANCAKLAR MEYDAN",
+    "lat": 40.8580428,
+    "lon": 31.1641975
+  },
+  {
+    "id": "10558",
+    "name": "SANCAKLAR KALMAK SOKAK DURAĞI",
+    "lat": 40.859966,
+    "lon": 31.164463
+  },
+  {
+    "id": "10556",
+    "name": "SANCAKLAR YOL DURAĞI",
+    "lat": 40.8621203,
+    "lon": 31.1648466
+  },
+  {
+    "id": "10554",
+    "name": "SANCAKLAR ŞENKARDEŞLER ORTA OKULU DURAĞI",
+    "lat": 40.8640605,
+    "lon": 31.1651389
+  },
+  {
+    "id": "10552",
+    "name": "TÜVTÜRK DURAĞI",
+    "lat": 40.8675443,
+    "lon": 31.1656834
+  },
+  {
+    "id": "10550",
+    "name": "SANCAKLAR MAHALLE DURAĞI",
+    "lat": 40.8692319,
+    "lon": 31.1660992
+  },
+  {
+    "id": "10547",
+    "name": "PLANTAFARMA",
+    "lat": 40.8714163,
+    "lon": 31.1663808
+  },
+  {
+    "id": "10546",
+    "name": "ÇAM KÖY MAHALLE YOLU DURAĞI",
+    "lat": 40.8726495,
+    "lon": 31.1665846
+  },
+  {
+    "id": "10544",
+    "name": "ESKİ AKÇAKOCA CADDESİ DURAĞI",
+    "lat": 40.8743227,
+    "lon": 31.1668421
+  },
+  {
+    "id": "10542",
+    "name": "ÇAM KÖY ÜÇ YOL DURAĞI",
+    "lat": 40.8759777,
+    "lon": 31.1671399
+  },
+  {
+    "id": "10540",
+    "name": "ÇAM KÖY CADDE DURAĞI",
+    "lat": 40.8784995,
+    "lon": 31.1675194
+  },
+  {
+    "id": "10538",
+    "name": "ÇAM KÖY ESKİ AKÇAKOCA CADDE DURAĞI",
+    "lat": 40.8806522,
+    "lon": 31.1679016
+  },
+  {
+    "id": "10535",
+    "name": "ÇAM KÖY YOLU DURAĞI",
+    "lat": 40.8826538,
+    "lon": 31.1667
+  },
+  {
+    "id": "10534",
+    "name": "ÇAM KÖY TOKİ",
+    "lat": 40.8842274,
+    "lon": 31.1631031
+  },
+  {
+    "id": "10536",
+    "name": "ÇAM KÖY YOLU DURAĞI",
+    "lat": 40.8826224,
+    "lon": 31.1665793
+  },
+  {
+    "id": "10537",
+    "name": "ÇAM KÖY ESKİ AKÇAKOCA CADDE DURAĞI",
+    "lat": 40.8806522,
+    "lon": 31.1677594
+  },
+  {
+    "id": "10539",
+    "name": "ÇAM KÖY CADDE DURAĞI",
+    "lat": 40.8785259,
+    "lon": 31.1674175
+  },
+  {
+    "id": "10541",
+    "name": "ÇAM KÖY ÜÇ YOL DURAĞI",
+    "lat": 40.8759148,
+    "lon": 31.1669548
+  },
+  {
+    "id": "10543",
+    "name": "ESKİ AKÇAKOCA CADDESİ DURAĞI",
+    "lat": 40.8743217,
+    "lon": 31.1667214
+  },
+  {
+    "id": "10545",
+    "name": "ÇAM KÖY MAHALLE YOLU DURAĞI",
+    "lat": 40.8726292,
+    "lon": 31.1664639
+  },
+  {
+    "id": "10548",
+    "name": "PLANTAFARMA",
+    "lat": 40.8714244,
+    "lon": 31.166244
+  },
+  {
+    "id": "10549",
+    "name": "SANCAKLAR MAHALLE DURAĞI",
+    "lat": 40.8692035,
+    "lon": 31.1659932
+  },
+  {
+    "id": "10551",
+    "name": "TÜVTÜRK DURAĞI",
+    "lat": 40.8675423,
+    "lon": 31.1655815
+  },
+  {
+    "id": "10553",
+    "name": "SANCAKLAR ŞENKARDEŞLER ORTA OKULU DURAĞI",
+    "lat": 40.8640646,
+    "lon": 31.1650424
+  },
+  {
+    "id": "10555",
+    "name": "SANCAKLAR YOL DURAĞI",
+    "lat": 40.8621,
+    "lon": 31.1647138
+  },
+  {
+    "id": "10557",
+    "name": "SANCAKLAR KALMAK SOKAK DURAĞI",
+    "lat": 40.8599741,
+    "lon": 31.1643785
+  },
+  {
+    "id": "10559",
+    "name": "SANCAKLAR MEYDAN",
+    "lat": 40.8580489,
+    "lon": 31.1640607
+  },
+  {
+    "id": "10499",
+    "name": "TENİS KORT DURAĞI",
+    "lat": 40.8551449,
+    "lon": 31.1632104
+  },
+  {
+    "id": "10497",
+    "name": "HAMİDİYE YURT SOKAK DURAĞI",
+    "lat": 40.8520226,
+    "lon": 31.1619444
+  },
+  {
+    "id": "10495",
+    "name": "HİKMET AKIN ORTA OKULU",
+    "lat": 40.8496518,
+    "lon": 31.1613865
+  },
+  {
+    "id": "10493",
+    "name": "HAMİDİYE ESKİ AKÇAKOCA CAD DURAĞI",
+    "lat": 40.8479404,
+    "lon": 31.1610003
+  },
+  {
+    "id": "11254",
+    "name": "COBAN ORKİDE SOKAK DURAĞI",
+    "lat": 40.8474484,
+    "lon": 31.1648526
+  },
+  {
+    "id": "10796",
+    "name": "ÇAVUŞLAR MEYDAN DURAĞI",
+    "lat": 40.8717794,
+    "lon": 31.1773859
+  },
+  {
+    "id": "10931",
+    "name": "ÇAVUŞLAR TOKİ ÜÇ YOL",
+    "lat": 40.8701122,
+    "lon": 31.1773913
+  },
+  {
+    "id": "10932",
+    "name": "ÇAVUŞLAR TOKİ DURAĞI",
+    "lat": 40.8698039,
+    "lon": 31.1794995
+  },
+  {
+    "id": "10934",
+    "name": "ÇAVUŞLAR TOKİ YOL DURAĞI",
+    "lat": 40.8681264,
+    "lon": 31.179761
+  },
+  {
+    "id": "10936",
+    "name": "ÇAVUŞLAR YENİ TOKİ DURAĞI",
+    "lat": 40.8662177,
+    "lon": 31.1797395
+  },
+  {
+    "id": "10957",
+    "name": "MAVİ HİLAL EVLERİ DURAĞI",
+    "lat": 40.8632238,
+    "lon": 31.1789121
+  },
+  {
+    "id": "10729",
+    "name": "KARACA ÜÇ YOL DURAĞI 10729",
+    "lat": 40.8528797,
+    "lon": 31.1748593
+  },
+  {
+    "id": "10730",
+    "name": "KARACA KANAL DURAĞI",
+    "lat": 40.8521899,
+    "lon": 31.1723916
+  },
+  {
+    "id": "10731",
+    "name": "ÇALIK DURAĞI",
+    "lat": 40.8506561,
+    "lon": 31.1723031
+  },
+  {
+    "id": "10733",
+    "name": "KARAC 100. YIL DURAĞI",
+    "lat": 40.8488362,
+    "lon": 31.1719491
+  },
+  {
+    "id": "10735",
+    "name": "KARACA SANAT SOKAK DURAĞI",
+    "lat": 40.8481271,
+    "lon": 31.1708614
+  },
+  {
+    "id": "10737",
+    "name": "KARACA ROYAL REZİDANS DURAĞI",
+    "lat": 40.8480368,
+    "lon": 31.1684836
+  },
+  {
+    "id": "10739",
+    "name": "KARACA ÖĞRENCI EVİ DURAĞI",
+    "lat": 40.8479151,
+    "lon": 31.1670218
+  },
+  {
+    "id": "10741",
+    "name": "KARACA AKÇABAT EKMEK DURAĞI",
+    "lat": 40.8465668,
+    "lon": 31.166421
+  },
+  {
+    "id": "10740",
+    "name": "KARACA ÖĞRENCI EVİ DURAĞI",
+    "lat": 40.8478116,
+    "lon": 31.1670138
+  },
+  {
+    "id": "10738",
+    "name": "KARACA ROYAL REZİDANS DURAĞI",
+    "lat": 40.8479496,
+    "lon": 31.1685051
+  },
+  {
+    "id": "10736",
+    "name": "KARACA SANAT SOKAK DURAĞI",
+    "lat": 40.8480561,
+    "lon": 31.1708534
+  },
+  {
+    "id": "10734",
+    "name": "KARAC 100. YIL DURAĞI",
+    "lat": 40.8488453,
+    "lon": 31.1721006
+  },
+  {
+    "id": "10732",
+    "name": "ÇALIK DURAĞI",
+    "lat": 40.8506511,
+    "lon": 31.1724064
+  },
+  {
+    "id": "10728",
+    "name": "KARACA ÜÇ YOL DURAĞI",
+    "lat": 40.8528189,
+    "lon": 31.1750202
+  },
+  {
+    "id": "10946",
+    "name": "MAVİ HİLAL EVLERİ DURAĞI",
+    "lat": 40.8632177,
+    "lon": 31.1790247
+  },
+  {
+    "id": "10937",
+    "name": "ÇAVUŞLAR YENİ TOKİ DURAĞI",
+    "lat": 40.8659865,
+    "lon": 31.1800788
+  },
+  {
+    "id": "10935",
+    "name": "ÇAVUŞLAR TOKİ YOL DURAĞI",
+    "lat": 40.8681275,
+    "lon": 31.1798643
+  },
+  {
+    "id": "10933",
+    "name": "ÇAVUŞLAR TOKİ DURAĞI",
+    "lat": 40.869817,
+    "lon": 31.179596
+  },
+  {
+    "id": "10930",
+    "name": "ÇAVUŞLAR TOKİ ÜÇ YOL",
+    "lat": 40.8701994,
+    "lon": 31.1773698
+  },
+  {
+    "id": "10795",
+    "name": "ÇAVUŞLAR MEYDAN DURAĞI",
+    "lat": 40.8717479,
+    "lon": 31.1775213
+  },
+  {
+    "id": "10383",
+    "name": "AŞAĞI YAHYALAR SİTELER",
+    "lat": 40.8455574,
+    "lon": 31.1889355
+  },
+  {
+    "id": "10381",
+    "name": "AŞAĞI YAHYALAR DÖRT YOL",
+    "lat": 40.8461986,
+    "lon": 31.1915158
+  },
+  {
+    "id": "10507",
+    "name": "AŞAĞI YAHYALAR ÜÇ YOL",
+    "lat": 40.8465942,
+    "lon": 31.1938492
+  },
+  {
+    "id": "10379",
+    "name": "AŞAĞI YAHYALAR KÖY YOLU",
+    "lat": 40.8470974,
+    "lon": 31.1972906
+  },
+  {
+    "id": "10377",
+    "name": "AŞAĞI YAHYALAR CAMİ",
+    "lat": 40.8490675,
+    "lon": 31.1993934
+  },
+  {
+    "id": "10374",
+    "name": "AŞAĞI YAHYALAR KÖY İÇ DURAĞI",
+    "lat": 40.8483229,
+    "lon": 31.2023251
+  },
+  {
+    "id": "10372",
+    "name": "AŞAĞI YAHYALAR DURAĞI",
+    "lat": 40.8479049,
+    "lon": 31.2041731
+  },
+  {
+    "id": "10371",
+    "name": "YAHYALAR ÜÇ YOL",
+    "lat": 40.8466835,
+    "lon": 31.2072925
+  },
+  {
+    "id": "10369",
+    "name": "YAHYALAR CAMİ",
+    "lat": 40.8455229,
+    "lon": 31.2089662
+  },
+  {
+    "id": "10367",
+    "name": "YAHYALAR KÖY DURAĞI",
+    "lat": 40.8450278,
+    "lon": 31.2106372
+  },
+  {
+    "id": "10364",
+    "name": "YAHYALAR MEZARLIK",
+    "lat": 40.8454072,
+    "lon": 31.2170289
+  },
+  {
+    "id": "10363",
+    "name": "YAHYALAR DURAĞI",
+    "lat": 40.8460768,
+    "lon": 31.223536
+  },
+  {
+    "id": "10360",
+    "name": "SALLAR KÖPRÜ",
+    "lat": 40.8449426,
+    "lon": 31.2252016
+  },
+  {
+    "id": "10358",
+    "name": "SALLAR KUZEY ÇEVRE YOL DURAĞI",
+    "lat": 40.8465029,
+    "lon": 31.2282379
+  },
+  {
+    "id": "10357",
+    "name": "SALLAR KÖY DURAĞI",
+    "lat": 40.8480814,
+    "lon": 31.2298687
+  },
+  {
+    "id": "10354",
+    "name": "SALLAR KÖY İÇİ YOL DURAĞI",
+    "lat": 40.8489214,
+    "lon": 31.2311722
+  },
+  {
+    "id": "10353",
+    "name": "SALLAR MERKEZ",
+    "lat": 40.8502078,
+    "lon": 31.2343426
+  },
+  {
+    "id": "11143",
+    "name": "SALLAR GÜNBAŞI TABELA DURAK",
+    "lat": 40.8484725,
+    "lon": 31.2393174
+  },
+  {
+    "id": "10348",
+    "name": "GÜNBAŞI SALLAR KÖY YOLU",
+    "lat": 40.846862,
+    "lon": 31.2394468
+  },
+  {
+    "id": "10346",
+    "name": "GÜNBAŞI SALLAR DURAĞI",
+    "lat": 40.8462036,
+    "lon": 31.2404111
+  },
+  {
+    "id": "10344",
+    "name": "GÜNBAŞI MEYDAN",
+    "lat": 40.8451597,
+    "lon": 31.24218
+  },
+  {
+    "id": "10343",
+    "name": "GÜNBAŞI KÖY DURAĞI",
+    "lat": 40.8417265,
+    "lon": 31.2428559
+  },
+  {
+    "id": "10341",
+    "name": "ORDULU MAHALLESI ÜÇ YOL",
+    "lat": 40.8410173,
+    "lon": 31.2449266
+  },
+  {
+    "id": "10340",
+    "name": "ORDULU MAHALLE DURAĞI",
+    "lat": 40.8415337,
+    "lon": 31.2470362
+  },
+  {
+    "id": "10337",
+    "name": "ORDULU MAHALLESİ MUHTARLIK",
+    "lat": 40.8408458,
+    "lon": 31.2493107
+  },
+  {
+    "id": "10338",
+    "name": "ORDULU MAHALLESİ MUHTARLIK",
+    "lat": 40.8408854,
+    "lon": 31.2493992
+  },
+  {
+    "id": "10339",
+    "name": "ORDULU MAHALLE DURAĞI",
+    "lat": 40.8416271,
+    "lon": 31.247067
+  },
+  {
+    "id": "10505",
+    "name": "ORDULU MAHALLESI ÜÇ YOL",
+    "lat": 40.8411106,
+    "lon": 31.244944
+  },
+  {
+    "id": "10336",
+    "name": "GÜNBAŞI CAMİ",
+    "lat": 40.8396588,
+    "lon": 31.2444974
+  },
+  {
+    "id": "10334",
+    "name": "GÜNBAŞI KÖY MUHTARLIĞI",
+    "lat": 40.8372966,
+    "lon": 31.2444211
+  },
+  {
+    "id": "10333",
+    "name": "GÜNBAŞI KÖY YOLU",
+    "lat": 40.8375057,
+    "lon": 31.247818
+  },
+  {
+    "id": "10330",
+    "name": "GÜNBAŞI KÖY İÇİ DURAĞI",
+    "lat": 40.8379948,
+    "lon": 31.2504292
+  },
+  {
+    "id": "10331",
+    "name": "GÜNBAŞI KÖY İÇİ DURAĞI",
+    "lat": 40.8379156,
+    "lon": 31.2503608
+  },
+  {
+    "id": "10332",
+    "name": "GÜNBAŞI KÖY YOLU",
+    "lat": 40.8376153,
+    "lon": 31.2478046
+  },
+  {
+    "id": "10504",
+    "name": "GÜNBAŞI KÖY MUHTARLIĞI",
+    "lat": 40.8373414,
+    "lon": 31.2445028
+  },
+  {
+    "id": "10342",
+    "name": "GÜNBAŞI KÖY DURAĞI",
+    "lat": 40.8418401,
+    "lon": 31.2429552
+  },
+  {
+    "id": "10345",
+    "name": "GÜNBAŞI MEYDAN",
+    "lat": 40.8452348,
+    "lon": 31.242235
+  },
+  {
+    "id": "10347",
+    "name": "GÜNBAŞI SALLAR DURAĞI",
+    "lat": 40.8462513,
+    "lon": 31.240517
+  },
+  {
+    "id": "10349",
+    "name": "GÜNBAŞI SALLAR KÖY YOLU",
+    "lat": 40.8468864,
+    "lon": 31.2395729
+  },
+  {
+    "id": "10355",
+    "name": "SALLAR KÖY İÇİ YOL DURAĞI",
+    "lat": 40.8489985,
+    "lon": 31.2309013
+  },
+  {
+    "id": "10356",
+    "name": "SALLAR KÖY DURAĞI",
+    "lat": 40.8481058,
+    "lon": 31.2296782
+  },
+  {
+    "id": "10359",
+    "name": "SALLAR KUZEY ÇEVRE YOL DURAĞI",
+    "lat": 40.8466206,
+    "lon": 31.2280796
+  },
+  {
+    "id": "10361",
+    "name": "SALLAR KÖPRÜ",
+    "lat": 40.8450806,
+    "lon": 31.2252204
+  },
+  {
+    "id": "10362",
+    "name": "YAHYALAR DURAĞI",
+    "lat": 40.8461417,
+    "lon": 31.2236674
+  },
+  {
+    "id": "10365",
+    "name": "YAHYALAR MEZARLIK",
+    "lat": 40.8454965,
+    "lon": 31.2167124
+  },
+  {
+    "id": "10366",
+    "name": "YAHYALAR KÖY DURAĞI",
+    "lat": 40.8451364,
+    "lon": 31.2106493
+  },
+  {
+    "id": "10368",
+    "name": "YAHYALAR CAMİ",
+    "lat": 40.8456639,
+    "lon": 31.2089555
+  },
+  {
+    "id": "10370",
+    "name": "YAHYALAR ÜÇ YOL",
+    "lat": 40.8467667,
+    "lon": 31.2073784
+  },
+  {
+    "id": "10373",
+    "name": "AŞAĞI YAHYALAR DURAĞI",
+    "lat": 40.8480023,
+    "lon": 31.2042455
+  },
+  {
+    "id": "10375",
+    "name": "AŞAĞI YAHYALAR KÖY İÇ DURAĞI",
+    "lat": 40.8484304,
+    "lon": 31.2023304
+  },
+  {
+    "id": "10376",
+    "name": "AŞAĞI YAHYALAR CAMİ",
+    "lat": 40.8491649,
+    "lon": 31.1994927
+  },
+  {
+    "id": "10378",
+    "name": "AŞAĞI YAHYALAR KÖY YOLU",
+    "lat": 40.8471278,
+    "lon": 31.1966468
+  },
+  {
+    "id": "10380",
+    "name": "AŞAĞI YAHYALAR DÖRT YOL",
+    "lat": 40.8463244,
+    "lon": 31.1914675
+  },
+  {
+    "id": "10382",
+    "name": "AŞAĞI YAHYALAR SİTELER",
+    "lat": 40.8456609,
+    "lon": 31.1888067
+  },
+  {
+    "id": "10156",
+    "name": "ELMALIK DURAĞI",
+    "lat": 40.8147677,
+    "lon": 31.2512223
+  },
+  {
+    "id": "10153",
+    "name": "SAPSI CAMİ",
+    "lat": 40.8141166,
+    "lon": 31.248276
+  },
+  {
+    "id": "10155",
+    "name": "MUNCURLU DURAĞI",
+    "lat": 40.8133327,
+    "lon": 31.2467907
+  },
+  {
+    "id": "10154",
+    "name": "MUNCURLU DURAĞI",
+    "lat": 40.8132479,
+    "lon": 31.2470657
+  },
+  {
+    "id": "10152",
+    "name": "SAPSI CAMİ",
+    "lat": 40.8139983,
+    "lon": 31.2484678
+  },
+  {
+    "id": "10157",
+    "name": "ELMALIK DURAĞI",
+    "lat": 40.8146136,
+    "lon": 31.2512325
+  },
+  {
+    "id": "10971",
+    "name": "DÜNYA BANKASI DURAĞI",
+    "lat": 40.8693718,
+    "lon": 31.2137875
+  },
+  {
+    "id": "10977",
+    "name": "DÜNYA BANKASI İLK OKUL DURAĞI",
+    "lat": 40.8719102,
+    "lon": 31.2144513
+  },
+  {
+    "id": "10617",
+    "name": "KERVAN KAVŞAĞI DURAĞI",
+    "lat": 40.8361021,
+    "lon": 31.1744148
+  },
+  {
+    "id": "10618",
+    "name": "DADAŞ MOTOR DURAĞI",
+    "lat": 40.8330513,
+    "lon": 31.1790878
+  },
+  {
+    "id": "10619",
+    "name": "D 100 KAPSAN DURAĞI",
+    "lat": 40.8315658,
+    "lon": 31.1820529
+  },
+  {
+    "id": "10620",
+    "name": "D-100 SAYDAM YEMEK DURAĞI",
+    "lat": 40.8303095,
+    "lon": 31.184534
+  },
+  {
+    "id": "10648",
+    "name": "D-100 YAN YOL PETROL OFİSİ DURAĞI",
+    "lat": 40.8292765,
+    "lon": 31.1865564
+  },
+  {
+    "id": "10621",
+    "name": "D 100 HUZUR DURAĞI",
+    "lat": 40.8275484,
+    "lon": 31.1900634
+  },
+  {
+    "id": "10622",
+    "name": "D 100 ÜST GEÇİT DURAĞI",
+    "lat": 40.8263834,
+    "lon": 31.1923674
+  },
+  {
+    "id": "10230",
+    "name": "HACIALİLER İÇ YOL",
+    "lat": 40.8230029,
+    "lon": 31.2053881
+  },
+  {
+    "id": "10228",
+    "name": "HACIALİLER KÖY DURAĞI",
+    "lat": 40.8241339,
+    "lon": 31.2055658
+  },
+  {
+    "id": "10227",
+    "name": "HACIALİLER CAMİ",
+    "lat": 40.8253858,
+    "lon": 31.2062196
+  },
+  {
+    "id": "10225",
+    "name": "HACIALİLER KÖY YOLU",
+    "lat": 40.8250915,
+    "lon": 31.2078384
+  },
+  {
+    "id": "10223",
+    "name": "HACIALİLER KÖY İÇİ",
+    "lat": 40.8238412,
+    "lon": 31.2094624
+  },
+  {
+    "id": "10221",
+    "name": "HACIALİLER DURAĞI",
+    "lat": 40.8227188,
+    "lon": 31.2115317
+  },
+  {
+    "id": "10218",
+    "name": "GÜMÜŞPINAR KÖYÜ",
+    "lat": 40.8225097,
+    "lon": 31.2135206
+  },
+  {
+    "id": "10217",
+    "name": "GÜMÜŞPINAR KÖYÜ DURAĞI",
+    "lat": 40.8222753,
+    "lon": 31.2183271
+  },
+  {
+    "id": "10215",
+    "name": "GÜMÜŞPINAR KÖYÜ ÜÇ YOL",
+    "lat": 40.821912,
+    "lon": 31.2208095
+  },
+  {
+    "id": "10213",
+    "name": "GÜMÜŞPINAR HİLAL MARKET",
+    "lat": 40.8217283,
+    "lon": 31.2244855
+  },
+  {
+    "id": "10211",
+    "name": "GÜMÜŞPINAR PARK DURAĞI",
+    "lat": 40.8236545,
+    "lon": 31.2258936
+  },
+  {
+    "id": "10209",
+    "name": "GÜMÜŞPINAR DURAĞI",
+    "lat": 40.8252234,
+    "lon": 31.2271275
+  },
+  {
+    "id": "10207",
+    "name": "GÜMÜŞPINAR İÇ YOL DURAĞI",
+    "lat": 40.828213,
+    "lon": 31.2285343
+  },
+  {
+    "id": "10205",
+    "name": "GÜMÜŞPINAR İÇ YOL",
+    "lat": 40.8293394,
+    "lon": 31.2301396
+  },
+  {
+    "id": "10203",
+    "name": "MUSABABA KÖY CAMİ",
+    "lat": 40.8305166,
+    "lon": 31.2322049
+  },
+  {
+    "id": "10202",
+    "name": "MUSABABA KÖY CAMİ",
+    "lat": 40.8306079,
+    "lon": 31.2322988
+  },
+  {
+    "id": "10199",
+    "name": "MUSABABA KÖY YOL DURAĞI",
+    "lat": 40.8268329,
+    "lon": 31.2367606
+  },
+  {
+    "id": "11144",
+    "name": "MUSABABA ORTAOKU DURAĞI",
+    "lat": 40.8266523,
+    "lon": 31.2382559
+  },
+  {
+    "id": "10198",
+    "name": "MUSABABA KÖY YOLU",
+    "lat": 40.8256223,
+    "lon": 31.2405439
+  },
+  {
+    "id": "10196",
+    "name": "MUSABABA KÖYÜ İÇ YOL",
+    "lat": 40.8271921,
+    "lon": 31.2434165
+  },
+  {
+    "id": "10194",
+    "name": "MUSABABA ÇEVRE YOL DURAĞI",
+    "lat": 40.8279106,
+    "lon": 31.2462381
+  },
+  {
+    "id": "10581",
+    "name": "KOZLUK MAHALLESİ DURAĞI",
+    "lat": 40.8294145,
+    "lon": 31.2456347
+  },
+  {
+    "id": "10192",
+    "name": "MUSABABA ÇEVRE YOLU",
+    "lat": 40.8304435,
+    "lon": 31.2460665
+  },
+  {
+    "id": "10190",
+    "name": "MUSABABA CAMİ",
+    "lat": 40.829106,
+    "lon": 31.2479548
+  },
+  {
+    "id": "10189",
+    "name": "MUSABABA CAMİ",
+    "lat": 40.8290736,
+    "lon": 31.2480889
+  },
+  {
+    "id": "10191",
+    "name": "MUSABABA ÇEVRE YOLU",
+    "lat": 40.8304292,
+    "lon": 31.2476168
+  },
+  {
+    "id": "10193",
+    "name": "MUSABABA ÇEVRE YOL DURAĞI",
+    "lat": 40.8280304,
+    "lon": 31.246222
+  },
+  {
+    "id": "10195",
+    "name": "MUSABABA KÖYÜ İÇ YOL",
+    "lat": 40.8273362,
+    "lon": 31.2433816
+  },
+  {
+    "id": "10197",
+    "name": "MUSABABA KÖY YOLU",
+    "lat": 40.8257126,
+    "lon": 31.2404822
+  },
+  {
+    "id": "10200",
+    "name": "MUSABABA KÖY YOL DURAĞI",
+    "lat": 40.826916,
+    "lon": 31.2369631
+  },
+  {
+    "id": "10201",
+    "name": "MUSABABA KÖY DURAĞI",
+    "lat": 40.8288158,
+    "lon": 31.2358365
+  },
+  {
+    "id": "10204",
+    "name": "GÜMÜŞPINAR İÇ YOL",
+    "lat": 40.8294186,
+    "lon": 31.2300993
+  },
+  {
+    "id": "10206",
+    "name": "GÜMÜŞPINAR İÇ YOL DURAĞI",
+    "lat": 40.8282323,
+    "lon": 31.2284216
+  },
+  {
+    "id": "10208",
+    "name": "GÜMÜŞPINAR DURAĞI",
+    "lat": 40.8252539,
+    "lon": 31.2270229
+  },
+  {
+    "id": "10210",
+    "name": "GÜMÜŞPINAR PARK DURAĞI",
+    "lat": 40.8237012,
+    "lon": 31.2258024
+  },
+  {
+    "id": "10212",
+    "name": "GÜMÜŞPINAR HİLAL MARKET",
+    "lat": 40.821779,
+    "lon": 31.2243621
+  },
+  {
+    "id": "10214",
+    "name": "GÜMÜŞPINAR KÖYÜ ÜÇ YOL",
+    "lat": 40.8219745,
+    "lon": 31.2208874
+  },
+  {
+    "id": "10216",
+    "name": "GÜMÜŞPINAR KÖYÜ DURAĞI",
+    "lat": 40.822324,
+    "lon": 31.2183405
+  },
+  {
+    "id": "10219",
+    "name": "GÜMÜŞPINAR KÖYÜ",
+    "lat": 40.8226112,
+    "lon": 31.2135152
+  },
+  {
+    "id": "10220",
+    "name": "HACIALİLER DURAĞI",
+    "lat": 40.8228507,
+    "lon": 31.2115948
+  },
+  {
+    "id": "10222",
+    "name": "HACIALİLER KÖY İÇİ",
+    "lat": 40.8239589,
+    "lon": 31.2095697
+  },
+  {
+    "id": "10224",
+    "name": "HACIALİLER KÖY YOLU",
+    "lat": 40.8251526,
+    "lon": 31.2079024
+  },
+  {
+    "id": "10226",
+    "name": "HACIALİLER CAMİ",
+    "lat": 40.8254629,
+    "lon": 31.2062143
+  },
+  {
+    "id": "10252",
+    "name": "HACIALİLER TÜRBESİ",
+    "lat": 40.8257078,
+    "lon": 31.2025537
+  },
+  {
+    "id": "10254",
+    "name": "AKPINAR DURAĞI",
+    "lat": 40.8255146,
+    "lon": 31.1992056
+  },
+  {
+    "id": "10256",
+    "name": "AKPINAR PARK DURAĞI",
+    "lat": 40.8249443,
+    "lon": 31.1979087
+  },
+  {
+    "id": "10308",
+    "name": "SOĞANCI DURAĞI",
+    "lat": 40.8258344,
+    "lon": 31.1951931
+  },
+  {
+    "id": "10310",
+    "name": "PAKMAYA İLK OKULU",
+    "lat": 40.8275271,
+    "lon": 31.1932217
+  },
+  {
+    "id": "10312",
+    "name": "İSHAK GÜNEY DURAĞI",
+    "lat": 40.8290736,
+    "lon": 31.1909686
+  },
+  {
+    "id": "10314",
+    "name": "DERELİ TÜTÜNCÜ MEZARLIK",
+    "lat": 40.829859,
+    "lon": 31.189016
+  },
+  {
+    "id": "10699",
+    "name": "ATATÜRK CADDESİ KOÇ YAZI DURAĞI",
+    "lat": 40.8406733,
+    "lon": 31.1772491
+  },
+  {
+    "id": "10700",
+    "name": "KOÇAYAZI MARKET DURAĞI",
+    "lat": 40.8414038,
+    "lon": 31.1756478
+  },
+  {
+    "id": "10703",
+    "name": "KOÇYAZI EKMEK DURAĞI",
+    "lat": 40.8425544,
+    "lon": 31.1702217
+  },
+  {
+    "id": "10514",
+    "name": "UZUNMUSTAFA DÖRT YOL DURAĞI",
+    "lat": 40.8458617,
+    "lon": 31.1510278
+  },
+  {
+    "id": "10512",
+    "name": "SABİHA ULUSOY KÜTÜPHANESİ DURAĞI",
+    "lat": 40.8460971,
+    "lon": 31.1484422
+  },
+  {
+    "id": "10510",
+    "name": "UZUNMUSTAFA CAMİ",
+    "lat": 40.8463812,
+    "lon": 31.1450304
+  },
+  {
+    "id": "10509",
+    "name": "UZUNMUSTAFA ALPASTAN TÜRKEŞ DURAĞI",
+    "lat": 40.84651,
+    "lon": 31.1430268
+  },
+  {
+    "id": "10511",
+    "name": "UZUNMUSTAFA CAMİ",
+    "lat": 40.8462899,
+    "lon": 31.1450304
+  },
+  {
+    "id": "10513",
+    "name": "SABİHA ULUSOY KÜTÜPHANESİ DURAĞI",
+    "lat": 40.845947,
+    "lon": 31.1484851
+  },
+  {
+    "id": "10515",
+    "name": "UZUNMUSTAFA DÖRT YOL DURAĞI",
+    "lat": 40.8457217,
+    "lon": 31.150993
+  },
+  {
+    "id": "10317",
+    "name": "DERELİ TÜTÜNCÜ MEYDAN",
+    "lat": 40.831442,
+    "lon": 31.1874737
+  },
+  {
+    "id": "10315",
+    "name": "DERELİ TÜTÜNCÜ MEZARLIK",
+    "lat": 40.8296905,
+    "lon": 31.1889596
+  },
+  {
+    "id": "10313",
+    "name": "İSHAK GÜNEY DURAĞI",
+    "lat": 40.8289335,
+    "lon": 31.1908613
+  },
+  {
+    "id": "10311",
+    "name": "PAKMAYA İLK OKULU",
+    "lat": 40.8273627,
+    "lon": 31.193109
+  },
+  {
+    "id": "10309",
+    "name": "SOĞANCI DURAĞI",
+    "lat": 40.8256781,
+    "lon": 31.1950643
+  },
+  {
+    "id": "10794",
+    "name": "ÇAVUŞLAR MEZARLIĞI DURAĞI",
+    "lat": 40.8733695,
+    "lon": 31.1771525
+  },
+  {
+    "id": "10798",
+    "name": "",
+    "lat": 40.8785655,
+    "lon": 31.1932726
+  },
+  {
+    "id": "10799",
+    "name": "MUTFAK SANATLARI MERKEZİ DURAĞI",
+    "lat": 40.8763366,
+    "lon": 31.1932217
+  },
+  {
+    "id": "10802",
+    "name": "MUTFAK SANATLARI MERKEZİ DURAĞI",
+    "lat": 40.8740185,
+    "lon": 31.1965503
+  },
+  {
+    "id": "11148",
+    "name": "TEPECİK MEYDAN DURAĞI",
+    "lat": 40.8709539,
+    "lon": 31.1922279
+  },
+  {
+    "id": "11147",
+    "name": "TEPECİK MAHALLE DURAĞI",
+    "lat": 40.8704082,
+    "lon": 31.1952976
+  },
+  {
+    "id": "11146",
+    "name": "TEPECİK İÇ YOL DURAĞI",
+    "lat": 40.8691406,
+    "lon": 31.1971082
+  },
+  {
+    "id": "11145",
+    "name": "TEPECİK KAVŞAK DURAĞI",
+    "lat": 40.8689529,
+    "lon": 31.2011181
+  },
+  {
+    "id": "11221",
+    "name": "LANE VİLLA DURAĞI",
+    "lat": 40.8654206,
+    "lon": 31.1994471
+  },
+  {
+    "id": "11219",
+    "name": "VİLLA KONAKLARI DURAĞI",
+    "lat": 40.8655545,
+    "lon": 31.206976
+  },
+  {
+    "id": "11220",
+    "name": "VİLLA KONAKLARI 3 YOL DURAĞI",
+    "lat": 40.8641224,
+    "lon": 31.2094906
+  },
+  {
+    "id": "10801",
+    "name": "MUTFAK SANATLARI MERKEZİ DURAĞI",
+    "lat": 40.8740996,
+    "lon": 31.1966763
+  },
+  {
+    "id": "10800",
+    "name": "MUTFAK SANATLARI MERKEZİ DURAĞI",
+    "lat": 40.8763326,
+    "lon": 31.1933397
+  },
+  {
+    "id": "10797",
+    "name": "YEM FABRİKASI DURAĞI",
+    "lat": 40.8786952,
+    "lon": 31.193219
+  },
+  {
+    "id": "10793",
+    "name": "ÇAVUŞLAR MEZARLIĞI DURAĞI",
+    "lat": 40.8733675,
+    "lon": 31.1770439
+  },
+  {
+    "id": "11273",
+    "name": "BEÇİ KOOP İLK DURAK",
+    "lat": 40.9010442,
+    "lon": 31.1863592
+  },
+  {
+    "id": "10813",
+    "name": "BEÇİ YÖRÜKLER JANDARMA DURAĞI",
+    "lat": 40.8942422,
+    "lon": 31.173089
+  },
+  {
+    "id": "10814",
+    "name": "BEÇİ YÖRÜKLER KÖY İÇİ DURAĞI",
+    "lat": 40.8937769,
+    "lon": 31.1770251
+  },
+  {
+    "id": "10816",
+    "name": "BEÇİ YÖRÜKLER APART DURAĞI",
+    "lat": 40.8961602,
+    "lon": 31.180567
+  },
+  {
+    "id": "10818",
+    "name": "BEÇİ İÇ YOL DURAĞI",
+    "lat": 40.8990229,
+    "lon": 31.1819805
+  },
+  {
+    "id": "10822",
+    "name": "BEÇİ YURT DURAĞI",
+    "lat": 40.900136,
+    "lon": 31.1878036
+  },
+  {
+    "id": "10825",
+    "name": "BEÇİ KÖY ÜÇ YOL DURAĞI",
+    "lat": 40.900213,
+    "lon": 31.1908908
+  },
+  {
+    "id": "10826",
+    "name": "BEÇİ KÖY MEYDAN DURAĞI",
+    "lat": 40.9020335,
+    "lon": 31.1929347
+  },
+  {
+    "id": "10828",
+    "name": "BEÇİ KÖY İÇ DURAĞI",
+    "lat": 40.9008455,
+    "lon": 31.1941886
+  },
+  {
+    "id": "10830",
+    "name": "BEÇİ KÖY KÖPRÜ DURAĞI",
+    "lat": 40.8992459,
+    "lon": 31.1938842
+  },
+  {
+    "id": "10824",
+    "name": "BEÇİ KÖY ÜÇ YOL DURAĞI",
+    "lat": 40.9002718,
+    "lon": 31.1910947
+  },
+  {
+    "id": "11150",
+    "name": "ÜNİVERSİTE YÜZME HAVUZ DURAĞI",
+    "lat": 40.9010138,
+    "lon": 31.178668
+  },
+  {
+    "id": "11223",
+    "name": "AZİZ YILDIRIM IŞIKLAR DURAĞI",
+    "lat": 40.8273758,
+    "lon": 31.164349
+  },
+  {
+    "id": "10808",
+    "name": "BEÇİ YÖRÜKLER İÇ YOL DURAĞI",
+    "lat": 40.8922754,
+    "lon": 31.169873
+  },
+  {
+    "id": "10810",
+    "name": "BEÇİ YÖRÜKLER YOL DURAĞI",
+    "lat": 40.8929699,
+    "lon": 31.1714233
+  },
+  {
+    "id": "10172",
+    "name": "ALTINPINAR SAPAK",
+    "lat": 40.815383,
+    "lon": 31.242687
+  },
+  {
+    "id": "10187",
+    "name": "BESNİ İÇ YOL",
+    "lat": 40.8173025,
+    "lon": 31.2412179
+  },
+  {
+    "id": "10185",
+    "name": "BESNİ MAHALLE DÖRT YOL",
+    "lat": 40.8192009,
+    "lon": 31.2405248
+  },
+  {
+    "id": "10184",
+    "name": "BESNİ MAHALLE İÇ YOLU 1",
+    "lat": 40.8187372,
+    "lon": 31.2417129
+  },
+  {
+    "id": "10171",
+    "name": "BESNİ CAMİ",
+    "lat": 40.8178513,
+    "lon": 31.2438698
+  },
+  {
+    "id": "10181",
+    "name": "BESNİ MAHALLE İÇ YOLU",
+    "lat": 40.8174855,
+    "lon": 31.2466853
+  },
+  {
+    "id": "10168",
+    "name": "MUNCURLU İÇ YOL 1",
+    "lat": 40.8196863,
+    "lon": 31.2477375
+  },
+  {
+    "id": "10166",
+    "name": "MUNCURLU ÇEVRE YOLU 1",
+    "lat": 40.8202953,
+    "lon": 31.2515758
+  },
+  {
+    "id": "10164",
+    "name": "MUNCURLU ÇEVRE YOLU",
+    "lat": 40.8208372,
+    "lon": 31.2544135
+  },
+  {
+    "id": "10162",
+    "name": "MUNCURLU KÖY İÇİ",
+    "lat": 40.8182593,
+    "lon": 31.2560524
+  },
+  {
+    "id": "10161",
+    "name": "MERCANLAR PARKE",
+    "lat": 40.816542,
+    "lon": 31.2566276
+  },
+  {
+    "id": "10159",
+    "name": "MUNCURLU İÇ YOL",
+    "lat": 40.8150327,
+    "lon": 31.2565647
+  },
+  {
+    "id": "10234",
+    "name": "ALİTINPINAR ÜÇ YOL",
+    "lat": 40.8140676,
+    "lon": 31.236947
+  },
+  {
+    "id": "10236",
+    "name": "ALTINPINAR KÖY DURAĞI",
+    "lat": 40.815184,
+    "lon": 31.2314002
+  },
+  {
+    "id": "10238",
+    "name": "ALTINPINAR KÖY YOLU",
+    "lat": 40.8152449,
+    "lon": 31.2300323
+  },
+  {
+    "id": "10241",
+    "name": "ALTINPINAR KÖY KONAĞI",
+    "lat": 40.815862,
+    "lon": 31.2264623
+  },
+  {
+    "id": "10242",
+    "name": "ALTINPINAR KÖY İÇİ DURAĞI",
+    "lat": 40.8165137,
+    "lon": 31.2251292
+  },
+  {
+    "id": "10244",
+    "name": "ALTINPINAR MEYDAN",
+    "lat": 40.8171084,
+    "lon": 31.2244587
+  },
+  {
+    "id": "10503",
+    "name": "ALTINPINAR CAMİ",
+    "lat": 40.81776,
+    "lon": 31.2223665
+  },
+  {
+    "id": "10248",
+    "name": "ALTINPINAR İÇ KÖY YOLU",
+    "lat": 40.8166923,
+    "lon": 31.2215431
+  },
+  {
+    "id": "10251",
+    "name": "ALTINPINAR KÖYÜ ÜÇ YOL",
+    "lat": 40.8139052,
+    "lon": 31.2228359
+  },
+  {
+    "id": "10250",
+    "name": "ALTINPINAR KÖYÜ ÜÇ YOL",
+    "lat": 40.8139629,
+    "lon": 31.2229418
+  },
+  {
+    "id": "10249",
+    "name": "ALTINPINAR İÇ KÖY YOLU",
+    "lat": 40.8166903,
+    "lon": 31.2216799
+  },
+  {
+    "id": "10247",
+    "name": "ALTINPINAR CAMİ",
+    "lat": 40.8177072,
+    "lon": 31.2224819
+  },
+  {
+    "id": "10245",
+    "name": "ALTINPINAR MEYDAN",
+    "lat": 40.8170516,
+    "lon": 31.224397
+  },
+  {
+    "id": "10243",
+    "name": "ALTINPINAR KÖY İÇİ DURAĞI",
+    "lat": 40.8164477,
+    "lon": 31.2250809
+  },
+  {
+    "id": "10240",
+    "name": "ALTINPINAR KÖY KONAĞI",
+    "lat": 40.8157687,
+    "lon": 31.2264435
+  },
+  {
+    "id": "10239",
+    "name": "ALTINPINAR KÖY YOLU",
+    "lat": 40.8151678,
+    "lon": 31.2300162
+  },
+  {
+    "id": "10237",
+    "name": "ALTINPINAR KÖY DURAĞI",
+    "lat": 40.8151029,
+    "lon": 31.2314592
+  },
+  {
+    "id": "10173",
+    "name": "ALTINPINAR SAPAK",
+    "lat": 40.8152956,
+    "lon": 31.2426467
+  },
+  {
+    "id": "11204",
+    "name": "MUNCURLU IŞIK MAHALLESİ DURAĞI",
+    "lat": 40.8211357,
+    "lon": 31.2497335
+  },
+  {
+    "id": "11206",
+    "name": "MUNCURLU MERKEZ TABELA DURAK",
+    "lat": 40.8194993,
+    "lon": 31.2552652
+  },
+  {
+    "id": "10144",
+    "name": "YILMAZLAR DURAĞI",
+    "lat": 40.806012,
+    "lon": 31.2422666
+  },
+  {
+    "id": "10142",
+    "name": "GİRESUNLULAR CAMİ",
+    "lat": 40.8052459,
+    "lon": 31.2435149
+  },
+  {
+    "id": "10140",
+    "name": "GÜPÜR FABRİKASI",
+    "lat": 40.8038977,
+    "lon": 31.2461125
+  },
+  {
+    "id": "10139",
+    "name": "EŞREF TAŞHAN İLK ÖĞRETİM",
+    "lat": 40.8025694,
+    "lon": 31.2474475
+  },
+  {
+    "id": "10177",
+    "name": "DOĞANLI DÖRT YOL",
+    "lat": 40.8025758,
+    "lon": 31.2458064
+  },
+  {
+    "id": "10175",
+    "name": "DOĞANLI İÇ YOL 2",
+    "lat": 40.8018993,
+    "lon": 31.2449274
+  },
+  {
+    "id": "10174",
+    "name": "DOĞANLI İÇ YOL 1",
+    "lat": 40.8008488,
+    "lon": 31.2438569
+  },
+  {
+    "id": "10624",
+    "name": "KERVAN OTO DURAĞI",
+    "lat": 40.7998927,
+    "lon": 31.2426333
+  },
+  {
+    "id": "10180",
+    "name": "ÖZEN LER HYUNDAİ",
+    "lat": 40.8023518,
+    "lon": 31.239703
+  },
+  {
+    "id": "10179",
+    "name": "DOĞANLI ÜÇ YOL",
+    "lat": 40.802889,
+    "lon": 31.2411058
+  },
+  {
+    "id": "10178",
+    "name": "DOĞANLI İÇ YOL 3",
+    "lat": 40.8027047,
+    "lon": 31.2432489
+  },
+  {
+    "id": "11151",
+    "name": "DAĞONLI TRAFO DURAĞI",
+    "lat": 40.8027301,
+    "lon": 31.2445672
+  },
+  {
+    "id": "10176",
+    "name": "DOĞANLI DÖRT YOL",
+    "lat": 40.8024845,
+    "lon": 31.245809
+  },
+  {
+    "id": "10138",
+    "name": "EŞREF TAŞHAN İLK ÖĞRETİM",
+    "lat": 40.8023103,
+    "lon": 31.247518
+  },
+  {
+    "id": "11218",
+    "name": "YEŞİLÇAM ERDAL MARKET DURAĞI",
+    "lat": 40.801253,
+    "lon": 31.2497009
+  },
+  {
+    "id": "11217",
+    "name": "YEŞİLÇAM MERKEZ MAHALLE DURAĞI",
+    "lat": 40.8004828,
+    "lon": 31.2525988
+  },
+  {
+    "id": "11216",
+    "name": "YEŞİLÇAM KÖY YOLU DURAĞI",
+    "lat": 40.8042796,
+    "lon": 31.2554405
+  },
+  {
+    "id": "11306",
+    "name": "YEŞİLÇAM DURAĞI",
+    "lat": 40.8063882,
+    "lon": 31.2573823
+  },
+  {
+    "id": "11305",
+    "name": "YEŞİLÇAM SON DURAK",
+    "lat": 40.8055944,
+    "lon": 31.2590421
+  },
+  {
+    "id": "11215",
+    "name": "YEŞİLÇAM CAMİ DURAĞI",
+    "lat": 40.8073786,
+    "lon": 31.2527407
+  },
+  {
+    "id": "11214",
+    "name": "YEŞİLÇAM 3 YOL DURAĞI",
+    "lat": 40.8080261,
+    "lon": 31.2503051
+  },
+  {
+    "id": "20000",
+    "name": "KABALAK MERKEZ",
+    "lat": 40.96096,
+    "lon": 31.1767489
+  },
+  {
+    "id": "20001",
+    "name": "KABALAK KÖY YOLU DURAĞI",
+    "lat": 40.9599118,
+    "lon": 31.1757605
+  },
+  {
+    "id": "20002",
+    "name": "KABALAK ESKİ SAĞLIK OCAĞI DURAĞI",
+    "lat": 40.9581627,
+    "lon": 31.1750832
+  },
+  {
+    "id": "20003",
+    "name": "KABALAK SAPAK DURAĞI",
+    "lat": 40.9571074,
+    "lon": 31.173787
+  },
+  {
+    "id": "20004",
+    "name": "DOKUZ PINAR SAPAK DURAĞI",
+    "lat": 40.9556135,
+    "lon": 31.1716647
+  },
+  {
+    "id": "20006",
+    "name": "ŞEKERPINAR SAPAK DURAĞI",
+    "lat": 40.9530206,
+    "lon": 31.1690684
+  },
+  {
+    "id": "20008",
+    "name": "BAY MARKETİM DURAĞI",
+    "lat": 40.9501379,
+    "lon": 31.1683334
+  },
+  {
+    "id": "20010",
+    "name": "ŞEKERPINAR YAN YOL DURAĞI",
+    "lat": 40.9473068,
+    "lon": 31.1671935
+  },
+  {
+    "id": "20012",
+    "name": "BOĞAZİÇİ BELEDİYE DURAĞI",
+    "lat": 40.9461419,
+    "lon": 31.1670071
+  },
+  {
+    "id": "20013",
+    "name": "BOĞAZİÇİ SAĞLIK OCAĞI DURAĞI",
+    "lat": 40.9450296,
+    "lon": 31.1663137
+  },
+  {
+    "id": "20015",
+    "name": "YAZLIK MERKEZ DURAĞI",
+    "lat": 40.9435091,
+    "lon": 31.1650357
+  },
+  {
+    "id": "20017",
+    "name": "YAZLIK MEZARLIK DURAĞI",
+    "lat": 40.9426572,
+    "lon": 31.1640902
+  },
+  {
+    "id": "20019",
+    "name": "YAZLIK COCUK PARKI DURAĞI",
+    "lat": 40.9412784,
+    "lon": 31.1622234
+  },
+  {
+    "id": "20021",
+    "name": "YEŞİLKÖY YAN YOL DURAĞI",
+    "lat": 40.9397588,
+    "lon": 31.1587217
+  },
+  {
+    "id": "20023",
+    "name": "YEŞİLKÖY SERT DURAĞI",
+    "lat": 40.9390588,
+    "lon": 31.156352
+  },
+  {
+    "id": "20024",
+    "name": "YEŞİLKÖY KARGANIN YERİ",
+    "lat": 40.9385502,
+    "lon": 31.1546508
+  },
+  {
+    "id": "20026",
+    "name": "YEŞİLKÖY MEYDAN DURAĞI",
+    "lat": 40.937758,
+    "lon": 31.1523139
+  },
+  {
+    "id": "20028",
+    "name": "YEŞİL VADİ DURAĞI",
+    "lat": 40.9349506,
+    "lon": 31.1492924
+  },
+  {
+    "id": "20040",
+    "name": "OSMANÇA DURAĞI",
+    "lat": 40.9306872,
+    "lon": 31.1477421
+  },
+  {
+    "id": "20042",
+    "name": "DÜZKÖY SAPAK DURAK",
+    "lat": 40.9245773,
+    "lon": 31.1449499
+  },
+  {
+    "id": "10889",
+    "name": "MACIRLAR MAHALLE DURAĞI",
+    "lat": 40.9041135,
+    "lon": 31.1433111
+  },
+  {
+    "id": "10891",
+    "name": "KONURAKP İLK OKULU DURAĞI",
+    "lat": 40.9022484,
+    "lon": 31.1455762
+  },
+  {
+    "id": "10893",
+    "name": "KONURALP D655 DURAĞI",
+    "lat": 40.9003894,
+    "lon": 31.1511297
+  },
+  {
+    "id": "10892",
+    "name": "KONURALP D655 DURAĞI",
+    "lat": 40.9006996,
+    "lon": 31.1508562
+  },
+  {
+    "id": "10890",
+    "name": "KONURAKP İLK OKULU DURAĞI",
+    "lat": 40.9029123,
+    "lon": 31.1450867
+  },
+  {
+    "id": "10888",
+    "name": "MACIRLAR MAHALLE DURAĞI",
+    "lat": 40.904677,
+    "lon": 31.1432494
+  },
+  {
+    "id": "11231",
+    "name": "TEMİZLİK GARAJ",
+    "lat": 40.9145144,
+    "lon": 31.1431702
+  },
+  {
+    "id": "10882",
+    "name": "VALİDE CAMİ DURAĞI",
+    "lat": 40.9169872,
+    "lon": 31.1433487
+  },
+  {
+    "id": "10880",
+    "name": "ENBİYA DURAĞI",
+    "lat": 40.9206334,
+    "lon": 31.1436491
+  },
+  {
+    "id": "20043",
+    "name": "DÜZKÖY SAPAK DURAK",
+    "lat": 40.92471,
+    "lon": 31.1453402
+  },
+  {
+    "id": "20041",
+    "name": "OSMANÇA DURAĞI",
+    "lat": 40.9303771,
+    "lon": 31.1480559
+  },
+  {
+    "id": "20029",
+    "name": "YEŞİL VADİ DURAĞI",
+    "lat": 40.9349415,
+    "lon": 31.149625
+  },
+  {
+    "id": "20027",
+    "name": "YEŞİLKÖY MEYDAN DURAĞI",
+    "lat": 40.9376172,
+    "lon": 31.153018
+  },
+  {
+    "id": "20025",
+    "name": "YEŞİLKÖY TUNAHAN MARKET",
+    "lat": 40.9382635,
+    "lon": 31.1549009
+  },
+  {
+    "id": "20022",
+    "name": "YEŞİLKÖY SERT DURAĞI",
+    "lat": 40.9389068,
+    "lon": 31.1570977
+  },
+  {
+    "id": "20020",
+    "name": "YAZLIK KAVŞAK DURAĞI",
+    "lat": 40.9401762,
+    "lon": 31.1608675
+  },
+  {
+    "id": "20018",
+    "name": "YAZLIK OKUL DURAĞI",
+    "lat": 40.9420559,
+    "lon": 31.1640037
+  },
+  {
+    "id": "20016",
+    "name": "YAZLIK MERKEZ DURAĞI",
+    "lat": 40.9431728,
+    "lon": 31.1652838
+  },
+  {
+    "id": "20014",
+    "name": "BOĞAZİÇİ SAĞLIK OCAĞI DURAĞI",
+    "lat": 40.944904,
+    "lon": 31.1667751
+  },
+  {
+    "id": "20011",
+    "name": "BOĞAZİÇİ BELEDİYE DURAĞI",
+    "lat": 40.9466463,
+    "lon": 31.167746
+  },
+  {
+    "id": "20044",
+    "name": "BAY MARKETİM DURAĞI",
+    "lat": 40.9477595,
+    "lon": 31.168088
+  },
+  {
+    "id": "20009",
+    "name": "BAY MARKETİM DURAĞI",
+    "lat": 40.949913,
+    "lon": 31.1686955
+  },
+  {
+    "id": "20007",
+    "name": "ŞEKERPINAR SAPAK DURAĞI",
+    "lat": 40.9528059,
+    "lon": 31.1694707
+  },
+  {
+    "id": "20005",
+    "name": "DOKUZ PINAR SAPAK DURAĞI",
+    "lat": 40.9553937,
+    "lon": 31.1718096
+  },
+  {
+    "id": "20030",
+    "name": "ÇAYIRTARLA İLK DURAK",
+    "lat": 40.9530094,
+    "lon": 31.1466317
+  },
+  {
+    "id": "20031",
+    "name": "ÇAYIRTARLA CAMİ DURAK",
+    "lat": 40.95219,
+    "lon": 31.1490108
+  },
+  {
+    "id": "20032",
+    "name": "ÇAYIRTARLA ÜÇ YOL DURAĞI",
+    "lat": 40.9531239,
+    "lon": 31.1502795
+  },
+  {
+    "id": "20033",
+    "name": "ÇAYIRTARLA MAHALLE DURAĞI",
+    "lat": 40.9537833,
+    "lon": 31.1524561
+  },
+  {
+    "id": "20034",
+    "name": "BALLAR ESKİ OKUL DURAĞI",
+    "lat": 40.9540253,
+    "lon": 31.1543082
+  },
+  {
+    "id": "20035",
+    "name": "BALLAR MEYDAN DURAĞI",
+    "lat": 40.9513595,
+    "lon": 31.1541097
+  },
+  {
+    "id": "20036",
+    "name": "BALLAR SOYER DURAĞI",
+    "lat": 40.9511934,
+    "lon": 31.1562447
+  },
+  {
+    "id": "20037",
+    "name": "BALLAR SAPAK DURAĞI",
+    "lat": 40.9490257,
+    "lon": 31.1558585
+  },
+  {
+    "id": "20038",
+    "name": "ÜST ŞEKERPINAR ÜÇ YOL DURAĞI",
+    "lat": 40.9510941,
+    "lon": 31.1643584
+  },
+  {
+    "id": "20039",
+    "name": "ÜST ŞEKERPINAR CAMİ DURAĞI",
+    "lat": 40.9519601,
+    "lon": 31.1652932
+  },
+  {
+    "id": "10831",
+    "name": "BEÇİ KÖY KÖPRÜ DURAĞI",
+    "lat": 40.8992875,
+    "lon": 31.1937581
+  },
+  {
+    "id": "10819",
+    "name": "BEÇİ İÇ YOL DURAĞI",
+    "lat": 40.899031,
+    "lon": 31.1817901
+  },
+  {
+    "id": "10817",
+    "name": "BEÇİ YÖRÜKLER APART DURAĞI",
+    "lat": 40.8962758,
+    "lon": 31.1804892
+  },
+  {
+    "id": "10815",
+    "name": "BEÇİ YÖRÜKLER KÖY İÇİ DURAĞI",
+    "lat": 40.8938357,
+    "lon": 31.1769782
+  },
+  {
+    "id": "10812",
+    "name": "BEÇİ YÖRÜKLER JANDARMA DURAĞI",
+    "lat": 40.8943152,
+    "lon": 31.1730434
+  },
+  {
+    "id": "11229",
+    "name": "İMTAŞ DURAĞI",
+    "lat": 40.8268664,
+    "lon": 31.1528692
+  },
+  {
+    "id": "11227",
+    "name": "DARICI AZİZ YILDIRIM BULVAR DURAĞI",
+    "lat": 40.8277483,
+    "lon": 31.1568737
+  },
+  {
+    "id": "11225",
+    "name": "SNN GARAJ DURAĞI",
+    "lat": 40.8279979,
+    "lon": 31.160716
+  },
+  {
+    "id": "11261",
+    "name": "AZİZİ YILDIRIM IŞIKLAR DURAĞI",
+    "lat": 40.8272064,
+    "lon": 31.1642739
+  },
+  {
+    "id": "11260",
+    "name": "AZİZİ YILDIRIM IŞIKLAR DURAĞI",
+    "lat": 40.8273911,
+    "lon": 31.1643799
+  },
+  {
+    "id": "11224",
+    "name": "SNN GARAJ DURAĞI",
+    "lat": 40.828144,
+    "lon": 31.1607347
+  },
+  {
+    "id": "11141",
+    "name": "DARICI AZİZ YILDIRIM BULVAR DURAĞI",
+    "lat": 40.8278964,
+    "lon": 31.1568576
+  },
+  {
+    "id": "11228",
+    "name": "İMTAŞ DURAĞI",
+    "lat": 40.8270197,
+    "lon": 31.1528544
+  },
+  {
+    "id": "10829",
+    "name": "BEÇİ KÖY İÇ DURAĞI",
+    "lat": 40.9009043,
+    "lon": 31.194265
+  },
+  {
+    "id": "10827",
+    "name": "BEÇİ KÖY MEYDAN DURAĞI",
+    "lat": 40.9021126,
+    "lon": 31.1928891
+  }
+]

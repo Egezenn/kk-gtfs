@@ -1,0 +1,226 @@
+[
+  {
+    "id": "67001",
+    "short": "1",
+    "long": "SAHİL DURAK-ADLİYE",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "67002",
+    "short": "2",
+    "long": "SAHİL DURAK-KEPEZ",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "67003",
+    "short": "3",
+    "long": "SAHİL DURAK-ÖMERLİ",
+    "color": "FF0A0A",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "67004",
+    "short": "4",
+    "long": "SAHİL DURAK-KADI TARLASI",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "67005",
+    "short": "5",
+    "long": "ALEMDAR-GÜLÜÇ",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "67006",
+    "short": "6",
+    "long": "SAHİL DURAK-LOJMAN",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10071",
+    "short": "7A",
+    "long": "SAHİL DURAK-KEMER",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10072",
+    "short": "7B",
+    "long": "SAHİL DURAK-BALI",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10073",
+    "short": "7C",
+    "long": "SAHİL DURAK-KEMER",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "67008",
+    "short": "8A",
+    "long": "ALEMDAR-GÖKTEPE",
+    "color": "f40101",
+    "text_color": "f70202"
+  },
+  {
+    "id": "10082",
+    "short": "8B",
+    "long": "ALEMDAR-MERVE",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "67009",
+    "short": "9A",
+    "long": "SAHİL DURAK-İLYAS KARACA",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "10092",
+    "short": "9B",
+    "long": "SAHİL DURAK-DAĞ EVLERİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "67010",
+    "short": "10",
+    "long": "SAHİL DURAK-GÜZELYUVA",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "67011",
+    "short": "11",
+    "long": "SAHİL DURAK-DORUK",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "67012",
+    "short": "12",
+    "long": "PAZARYERİ-AKTAŞ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "67013",
+    "short": "13",
+    "long": "PAZARYERİ-KESTANECİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "67014",
+    "short": "14",
+    "long": "PAZARYERİ-HATİP",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "67015",
+    "short": "15",
+    "long": "SAHİL DURAK-BÖLÜCEK",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "67016",
+    "short": "16",
+    "long": "SAHİL DURAK-ÇAVDARLI",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "67017",
+    "short": "17",
+    "long": "PAZARYERİ-ECEVİT",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "67018",
+    "short": "18",
+    "long": "ADİDAS ÖNÜ-KİRMANLI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "67019",
+    "short": "19",
+    "long": "PAZARYERİ-TOKİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "67020",
+    "short": "20",
+    "long": "PAZARYERİ-BELEN",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "67021",
+    "short": "21",
+    "long": "PAZARYERİ-UZUN ÇAYIR",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "67022",
+    "short": "22",
+    "long": "PAZARYERİ-TOPÇALI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "67023",
+    "short": "23",
+    "long": "ALEMDAR-ÇENGEL BURNU",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "67024",
+    "short": "24",
+    "long": "ALEMDAR-ATALAY",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "67025",
+    "short": "25",
+    "long": "ALEMDAR-TERMİNAL",
+    "color": "17FF17",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "67026",
+    "short": "26",
+    "long": "ALEMDAR-ÖREN",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "77777",
+    "short": "77",
+    "long": "KOOP-SON",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "99999",
+    "short": "99",
+    "long": "PAZARY-TOKİ",
+    "color": "F40000",
+    "text_color": "FFFFFF"
+  }
+]

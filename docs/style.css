@@ -1,0 +1,319 @@
+:root {
+  --gray-bg: #222222;
+  --gray-face: #333333;
+  --gray-highlight: #444444;
+  --gray-shadow: #111111;
+  --gray-dark-shadow: #000000;
+  --win-blue: #000080;
+  --win-text: #ffffff;
+  --win-text-dim: #bbbbbb;
+  --win-accent: #008080;
+  --border-outset: 1px solid var(--gray-highlight), 1px solid var(--gray-shadow);
+  --border-inset: 1px solid var(--gray-shadow), 1px solid var(--gray-highlight);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Verdana", "Tahoma", sans-serif;
+  background-color: #000000;
+  color: var(--win-text);
+  padding: 10px;
+  background-image: url("https://www.transparenttextures.com/patterns/carbon-fibre.png");
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  max-width: 1600px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+/* Classic Win98 3D Border Mixins */
+.win-outset {
+  background-color: var(--gray-face);
+  border-top: 2px solid #555;
+  border-left: 2px solid #555;
+  border-bottom: 2px solid #111;
+  border-right: 2px solid #111;
+}
+
+.win-inset {
+  background-color: #1a1a1a;
+  border-top: 2px solid #000;
+  border-left: 2px solid #000;
+  border-bottom: 2px solid #444;
+  border-right: 2px solid #444;
+}
+
+/* Header & Nav */
+header {
+  margin-bottom: 20px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px 10px;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.nav-links a {
+  color: var(--win-text);
+  text-decoration: none;
+  padding: 4px 12px;
+  font-size: 0.9rem;
+}
+
+.nav-links a:hover {
+  background: var(--win-blue);
+}
+
+.accent {
+  color: #00ffff;
+}
+
+/* Search Bar */
+.search-bar {
+  max-width: 500px;
+  margin: 0 auto 30px;
+}
+
+.search-bar input {
+  width: 100%;
+  background: #000;
+  color: #00ff00;
+  border: 2px solid #444;
+  padding: 8px 12px;
+  font-family: "Courier New", monospace;
+  font-size: 1rem;
+}
+
+/* Main scrolling area for landing page */
+body:not(.detail-page) main {
+  flex: 1;
+  overflow-y: auto;
+  padding: 10px;
+}
+
+/* Feed Grid & Cards */
+.feed-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 20px;
+  padding-bottom: 20px;
+}
+
+.feed-card {
+  padding: 15px;
+}
+
+.feed-card h3 {
+  background: var(--win-blue);
+  color: white;
+  padding: 4px 8px;
+  margin-bottom: 12px;
+  font-size: 1rem;
+}
+
+.feed-info {
+  font-size: 0.85rem;
+  color: var(--win-text-dim);
+  margin-bottom: 15px;
+}
+
+.card-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.explore-btn,
+.download-btn {
+  flex: 1;
+  padding: 6px;
+  text-align: center;
+  text-decoration: none;
+  color: var(--win-text);
+  font-size: 0.85rem;
+  font-weight: bold;
+}
+
+.explore-btn {
+  color: #ffff00;
+}
+.download-btn {
+  color: #00ffff;
+}
+
+/* Detail Page Layout */
+.detail-page .container {
+  display: grid;
+  grid-template-columns: 350px 1fr;
+  gap: 15px;
+  height: calc(100vh - 20px);
+  max-width: 98%;
+  position: relative;
+}
+
+.sidebar {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+
+#map {
+  height: 100%;
+  position: relative;
+  border: 2px solid #444;
+}
+
+.leaflet-tile-pane,
+.leaflet-marker-pane,
+.leaflet-shadow-pane,
+.leaflet-overlay-pane {
+  filter: invert(1) hue-rotate(180deg) brightness(5) contrast(0.5) saturate(1);
+}
+
+.win-outset:is(a, button, .tab-btn, .close-btn, #reverseBtn, .data-item) {
+  cursor: pointer;
+  user-select: none;
+}
+
+.win-outset:is(a, button, .tab-btn, .close-btn, #reverseBtn, .data-item):active {
+  border-top: 2px solid #111 !important;
+  border-left: 2px solid #111 !important;
+  border-bottom: 2px solid #555 !important;
+  border-right: 2px solid #555 !important;
+  padding-top: 2px;
+  padding-left: 2px;
+  transform: translate(1px, 1px);
+}
+
+/* Timetable Window Overlay */
+.win-overlay {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 300px;
+  max-height: 500px;
+  z-index: 2000;
+  display: none;
+  flex-direction: column;
+  pointer-events: auto;
+}
+
+.win-titlebar {
+  background: var(--win-blue);
+  color: white;
+  padding: 3px 6px;
+  font-weight: bold;
+  font-size: 0.8rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.win-content {
+  background-color: #000 !important;
+  padding: 10px;
+  overflow-y: auto;
+  font-size: 0.8rem;
+  color: #00ff00;
+  font-family: "Courier New", monospace;
+  border: 2px solid #333;
+}
+
+.close-btn {
+  background: var(--gray-face);
+  color: black;
+  border: 1px solid #fff;
+  width: 16px;
+  height: 14px;
+  font-size: 10px;
+  line-height: 12px;
+  text-align: center;
+  cursor: pointer;
+}
+
+/* Tabs */
+.tabs {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.tab-btn {
+  padding: 4px 10px;
+  background: var(--gray-face);
+  color: var(--win-text);
+  border: 2px solid #555;
+  cursor: pointer;
+  font-size: 0.8rem;
+}
+
+.tab-btn.active {
+  background: #1a1a1a;
+  border-bottom: none;
+}
+
+.data-list {
+  flex: 1;
+  overflow-y: auto;
+}
+
+.data-item {
+  padding: 6px;
+  margin-bottom: 4px;
+  cursor: pointer;
+  font-size: 0.8rem;
+  border: 1px solid transparent;
+}
+
+.data-item:hover {
+  border: 1px solid var(--win-blue);
+}
+.data-item.active {
+  background: var(--win-blue);
+}
+
+.route-orb {
+  width: 12px;
+  height: 12px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 0.8rem;
+  color: #555;
+}
+
+.hidden {
+  display: none;
+}
+
+.tab-content {
+  display: none;
+}
+.tab-content.active {
+  display: block;
+}

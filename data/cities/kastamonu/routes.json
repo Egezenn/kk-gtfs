@@ -1,0 +1,191 @@
+[
+  {
+    "id": "37001",
+    "short": "1",
+    "long": "Askeriye-Cezaevi-1",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37002",
+    "short": "2",
+    "long": "Askeriye-Kuzeykent-2",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37011",
+    "short": "3",
+    "long": "Kuzeykent-SütMahalle-3",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37004",
+    "short": "4",
+    "long": "Askeriye-SütDeğirmen-4",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37013",
+    "short": "4+",
+    "long": "Kuzeykent-SütDeğirmen-4",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37005",
+    "short": "5",
+    "long": "Askeriye-Doğakent-5",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37014",
+    "short": "5+",
+    "long": "Kuzeykent-Doğakent-5",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37006",
+    "short": "6",
+    "long": "Askeriye-Yeşilkent-6",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37015",
+    "short": "6+",
+    "long": "Kuzeykent-Yeşilkent -6",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37007",
+    "short": "7",
+    "long": "Anadurak-Cezaevi-7",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37010",
+    "short": "8",
+    "long": "Kuzeykent-Kuzeykent-8",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37009",
+    "short": "9",
+    "long": "Askeriye-SütDeğirmen-9",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37003",
+    "short": "10",
+    "long": "Askeriye-Kuzeykent-10",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37016",
+    "short": "11",
+    "long": "Kuzeykent-Cezaevi Gece-11",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37017",
+    "short": "12",
+    "long": "Kuzeykent-Kuzeykent Gece-12",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37018",
+    "short": "13",
+    "long": "Kuzeykent-SütDeğ Gece-13",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37020",
+    "short": "13+",
+    "long": "Kuzeykent-SütMah Gece-13",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37019",
+    "short": "17",
+    "long": "Kuzeykent-Doğakent Gece-17",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37021",
+    "short": "18",
+    "long": "Kuzeykent-PolisOkulu Gece-18",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37022",
+    "short": "30",
+    "long": "C.Meydanı-Esentepe",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37023",
+    "short": "32",
+    "long": "C.Meydanı-Esentepe-Tosya Yolu",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37012",
+    "short": "33",
+    "long": "Anadurak-Nazarkent-33",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37024",
+    "short": "34",
+    "long": "Kastamal-Tosya Yolu",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37025",
+    "short": "36",
+    "long": "C.Meydanı-Huzur-2",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37026",
+    "short": "38",
+    "long": "C.Meydanı-Hayvan Pazarı",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37028",
+    "short": "40",
+    "long": "Askeriye-Havalimanı",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "37030",
+    "short": "42",
+    "long": "Askeriye-Tosya Yolu",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  }
+]

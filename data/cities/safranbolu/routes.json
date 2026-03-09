@@ -1,0 +1,79 @@
+[
+  {
+    "id": "00011",
+    "short": "1A",
+    "long": "TARİHİ ÇARŞI-ESENTEPE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00012",
+    "short": "1B",
+    "long": "YAZIKÖY-ESENTEPE",
+    "color": "FF1D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00020",
+    "short": "2",
+    "long": "YENİ ÇARŞI-GAYZA BAŞI",
+    "color": "9EFF0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00035",
+    "short": "3S",
+    "long": "YENİ ÇARŞI-SÜLÜKGÖLÜ",
+    "color": "FF3BEB",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00050",
+    "short": "5",
+    "long": "KIRANKÖY-BARIŞ MAHALLESİ",
+    "color": "FFFA69",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00070",
+    "short": "7",
+    "long": "KİRKİLLE-KIRANKÖY",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00180",
+    "short": "8",
+    "long": "SAFRANBOLU MYO- KYK-BOSTANBÜKÜ- KYK- KBÜ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00181",
+    "short": "8A",
+    "long": "İSMAİL NECATİ EFENDİ YURDU-KBÜ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00182",
+    "short": "8B",
+    "long": "KATİP ÇELEBİ-BAHATTİN GAZİ-KARABÜK ÜNİVERSİTESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00100",
+    "short": "SK",
+    "long": "SAFRANBOLU-KARABÜK",
+    "color": "FF525D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00101",
+    "short": "SK1",
+    "long": "SAFRANBOLU MYO-KYK KARABÜK SOĞUKSU",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  }
+]

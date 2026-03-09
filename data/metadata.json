@@ -1,0 +1,232 @@
+[
+  {
+    "city": "Adana",
+    "slug": "adana",
+    "filename": "adana.zip",
+    "size_mb": 6.04,
+    "last_updated": "2026-03-09 15:25:35",
+    "route_count": 291,
+    "stop_count": 6659,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/adana.zip"
+  },
+  {
+    "city": "Alanya",
+    "slug": "alanya",
+    "filename": "alanya.zip",
+    "size_mb": 0.05,
+    "last_updated": "2026-03-09 15:25:35",
+    "route_count": 25,
+    "stop_count": 331,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/alanya.zip"
+  },
+  {
+    "city": "Alapli",
+    "slug": "alapli",
+    "filename": "alapli.zip",
+    "size_mb": 0.0,
+    "last_updated": "2026-03-09 15:25:35",
+    "route_count": 0,
+    "stop_count": 50,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/alapli.zip"
+  },
+  {
+    "city": "Antalya",
+    "slug": "antalya",
+    "filename": "antalya.zip",
+    "size_mb": 8.38,
+    "last_updated": "2026-03-09 15:25:35",
+    "route_count": 170,
+    "stop_count": 4579,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/antalya.zip"
+  },
+  {
+    "city": "Burdur",
+    "slug": "burdur",
+    "filename": "burdur.zip",
+    "size_mb": 0.13,
+    "last_updated": "2026-03-09 15:25:35",
+    "route_count": 18,
+    "stop_count": 350,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/burdur.zip"
+  },
+  {
+    "city": "Canakkale",
+    "slug": "canakkale",
+    "filename": "canakkale.zip",
+    "size_mb": 0.2,
+    "last_updated": "2026-03-09 15:25:35",
+    "route_count": 32,
+    "stop_count": 350,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/canakkale.zip"
+  },
+  {
+    "city": "Duzce",
+    "slug": "duzce",
+    "filename": "duzce.zip",
+    "size_mb": 1.71,
+    "last_updated": "2026-03-09 15:25:35",
+    "route_count": 63,
+    "stop_count": 1233,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/duzce.zip"
+  },
+  {
+    "city": "Edirne",
+    "slug": "edirne",
+    "filename": "edirne.zip",
+    "size_mb": 0.04,
+    "last_updated": "2026-03-09 15:25:35",
+    "route_count": 19,
+    "stop_count": 383,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/edirne.zip"
+  },
+  {
+    "city": "Eregli",
+    "slug": "eregli",
+    "filename": "eregli.zip",
+    "size_mb": 0.06,
+    "last_updated": "2026-03-09 15:25:35",
+    "route_count": 32,
+    "stop_count": 466,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/eregli.zip"
+  },
+  {
+    "city": "Erzurum",
+    "slug": "erzurum",
+    "filename": "erzurum.zip",
+    "size_mb": 2.53,
+    "last_updated": "2026-03-09 15:25:35",
+    "route_count": 59,
+    "stop_count": 746,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/erzurum.zip"
+  },
+  {
+    "city": "Gaziantep",
+    "slug": "gaziantep",
+    "filename": "gaziantep.zip",
+    "size_mb": 12.87,
+    "last_updated": "2026-03-09 15:25:36",
+    "route_count": 159,
+    "stop_count": 3031,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/gaziantep.zip"
+  },
+  {
+    "city": "Kastamonu",
+    "slug": "kastamonu",
+    "filename": "kastamonu.zip",
+    "size_mb": 0.31,
+    "last_updated": "2026-03-09 15:25:36",
+    "route_count": 27,
+    "stop_count": 91,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/kastamonu.zip"
+  },
+  {
+    "city": "Kirklareli",
+    "slug": "kirklareli",
+    "filename": "kirklareli.zip",
+    "size_mb": 0.17,
+    "last_updated": "2026-03-09 15:25:36",
+    "route_count": 8,
+    "stop_count": 159,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/kirklareli.zip"
+  },
+  {
+    "city": "Kocaeli",
+    "slug": "kocaeli",
+    "filename": "kocaeli.zip",
+    "size_mb": 16.75,
+    "last_updated": "2026-03-09 15:25:36",
+    "route_count": 411,
+    "stop_count": 8508,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/kocaeli.zip"
+  },
+  {
+    "city": "Luleburgaz",
+    "slug": "luleburgaz",
+    "filename": "luleburgaz.zip",
+    "size_mb": 0.27,
+    "last_updated": "2026-03-09 15:25:36",
+    "route_count": 12,
+    "stop_count": 63,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/luleburgaz.zip"
+  },
+  {
+    "city": "Mardin",
+    "slug": "mardin",
+    "filename": "mardin.zip",
+    "size_mb": 2.71,
+    "last_updated": "2026-03-09 15:25:36",
+    "route_count": 92,
+    "stop_count": 781,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/mardin.zip"
+  },
+  {
+    "city": "Mugla",
+    "slug": "mugla",
+    "filename": "mugla.zip",
+    "size_mb": 5.99,
+    "last_updated": "2026-03-09 15:25:36",
+    "route_count": 382,
+    "stop_count": 3441,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/mugla.zip"
+  },
+  {
+    "city": "Nigde",
+    "slug": "nigde",
+    "filename": "nigde.zip",
+    "size_mb": 0.09,
+    "last_updated": "2026-03-09 15:25:36",
+    "route_count": 10,
+    "stop_count": 221,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/nigde.zip"
+  },
+  {
+    "city": "Ordu",
+    "slug": "ordu",
+    "filename": "ordu.zip",
+    "size_mb": 1.21,
+    "last_updated": "2026-03-09 15:25:36",
+    "route_count": 44,
+    "stop_count": 681,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/ordu.zip"
+  },
+  {
+    "city": "Osmaniye",
+    "slug": "osmaniye",
+    "filename": "osmaniye.zip",
+    "size_mb": 0.31,
+    "last_updated": "2026-03-09 15:25:36",
+    "route_count": 16,
+    "stop_count": 237,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/osmaniye.zip"
+  },
+  {
+    "city": "Safranbolu",
+    "slug": "safranbolu",
+    "filename": "safranbolu.zip",
+    "size_mb": 0.05,
+    "last_updated": "2026-03-09 15:25:36",
+    "route_count": 11,
+    "stop_count": 167,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/safranbolu.zip"
+  },
+  {
+    "city": "Sivas",
+    "slug": "sivas",
+    "filename": "sivas.zip",
+    "size_mb": 0.12,
+    "last_updated": "2026-03-09 15:25:36",
+    "route_count": 111,
+    "stop_count": 616,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/sivas.zip"
+  },
+  {
+    "city": "Tokat",
+    "slug": "tokat",
+    "filename": "tokat.zip",
+    "size_mb": 0.15,
+    "last_updated": "2026-03-09 15:25:36",
+    "route_count": 24,
+    "stop_count": 283,
+    "download_url": "https://egezenn.github.io/kk-gtfs/data/tokat.zip"
+  }
+]

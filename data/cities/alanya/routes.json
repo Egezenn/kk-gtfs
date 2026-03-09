@@ -1,0 +1,177 @@
+[
+  {
+    "id": "00001",
+    "short": "1",
+    "long": "YAT LİMANI-KARGICAK",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00002",
+    "short": "2",
+    "long": "DİNEK-MAHMUTLAR",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00003",
+    "short": "3",
+    "long": "DİNEK-MAHMUTLAR",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00004",
+    "short": "4",
+    "long": "CUMA PAZARI-KALE",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00005",
+    "short": "5",
+    "long": "CUMA PAZARI-TEPE",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00006",
+    "short": "6",
+    "long": "CUMA PAZARI-HASBAHÇE",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00007",
+    "short": "7",
+    "long": "CUMA PAZARI-SUGÖZÜ-KÜTÜRÜP",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00008",
+    "short": "8",
+    "long": "CUMA PAZARI-BEKTAŞ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00009",
+    "short": "9",
+    "long": "CUMA PAZARI-HACIMEHMETLİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00010",
+    "short": "10",
+    "long": "CUMA PAZARI-DİM ÇAYI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00111",
+    "short": "11",
+    "long": "CUMA PAZARI-KARAKOCALI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00012",
+    "short": "12",
+    "long": "CUMA PAZARI-DEĞİRMENDERE",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00013",
+    "short": "13",
+    "long": "CUMA PAZARI-BUCAKOLUK",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00014",
+    "short": "14",
+    "long": "CUMA PAZARI-CİKCİLLİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00015",
+    "short": "15",
+    "long": "CUMA PAZARI-TAŞKONAK",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00016",
+    "short": "16",
+    "long": "CUMA PAZARI-TOSMUR",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00017",
+    "short": "17",
+    "long": "KOY DURAGI-OBA MERKEZ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00018",
+    "short": "18",
+    "long": "KOY DURAGI-CIPLAKLI MERKEZ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00019",
+    "short": "19",
+    "long": "KOY DURAGI-ORMAN DEPOSU",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00020",
+    "short": "20",
+    "long": "CUMA PAZARI-KARGICAK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00040",
+    "short": "40",
+    "long": "CUMA PAZARI-MAHMUTLAR",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00052",
+    "short": "52",
+    "long": "ELİKESİK-ARİFİYE YURDU",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00055",
+    "short": "55",
+    "long": "ÜNİVERSİTE-ÜNİVERSİTE KAVŞAĞI",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00101",
+    "short": "101",
+    "long": "ELİKESİK-ALANTUR",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00202",
+    "short": "202",
+    "long": "DİNEK-FAKÜLTE",
+    "color": "",
+    "text_color": ""
+  }
+]

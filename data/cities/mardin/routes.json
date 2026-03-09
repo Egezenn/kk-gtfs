@@ -1,0 +1,646 @@
+[
+  {
+    "id": "51010",
+    "short": "A1",
+    "long": "NUSAYBİN-MİDYAT",
+    "color": "AB8A4B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "90011",
+    "short": "B1A",
+    "long": "AKDOĞAN-K.TEPE OTOGARI",
+    "color": "AB8A4B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "90012",
+    "short": "B1B",
+    "long": "OFİS-K.TEPE OTOGARI",
+    "color": "AB8A4B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "90020",
+    "short": "B2",
+    "long": "YARDERE-OTOGAR",
+    "color": "AB8A4B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "90030",
+    "short": "B3",
+    "long": "ÇATALCA-KIZILTEPE OTOGAR",
+    "color": "AB8A4B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "90040",
+    "short": "B4",
+    "long": "ERYERİ-MEYDANBAŞI",
+    "color": "AB8A4B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "90041",
+    "short": "B4A",
+    "long": "ERYERİ-DEVLET HASTANESİ",
+    "color": "AB8A4B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "90042",
+    "short": "B4B",
+    "long": "GÖLLÜ-DEVLET HASTANESİ",
+    "color": "AB8A4B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "90050",
+    "short": "B5",
+    "long": "GÖKÇE-HASTANE",
+    "color": "AB8A4B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "90051",
+    "short": "B5A",
+    "long": "GÖKÇE-KIZILTEPE OTOGAR",
+    "color": "AB8A4B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "90060",
+    "short": "B6",
+    "long": "KABALA-DEVLET HASTANESİ",
+    "color": "AB8A4B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "90070",
+    "short": "B7",
+    "long": "ORTAKÖY-DEVLET HASTANESİ",
+    "color": "AB8A4B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "90071",
+    "short": "B7A",
+    "long": "ORTAKÖY-DEVLET HASTANESİ",
+    "color": "AB8A4B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "90072",
+    "short": "B7B",
+    "long": "ORTAKÖY-KIZILTEPE OTOGAR",
+    "color": "AB8A4B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "90080",
+    "short": "B8",
+    "long": "SULTANKÖY-OTOGAR",
+    "color": "AB8A4B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "60010",
+    "short": "D1",
+    "long": "TEPEBAĞ-HASTANE",
+    "color": "AB8A4B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "60020",
+    "short": "D2",
+    "long": "SÖĞÜTÖZÜ-HASTANE",
+    "color": "AB8A4B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "60030",
+    "short": "D3",
+    "long": "ZEYTİNPINAR-HASTANE",
+    "color": "AB8A4B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "60040",
+    "short": "D4",
+    "long": "DEVLET HASTANESİ-YİBO",
+    "color": "AB8A4B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00010",
+    "short": "H1",
+    "long": "ÜNİVERSİTE-OTOGAR",
+    "color": "660099",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00020",
+    "short": "H2",
+    "long": "ÜNİVERSİTE-CEZAEVİ",
+    "color": "660099",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00030",
+    "short": "H3",
+    "long": "OSB-OTOGAR",
+    "color": "660099",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00040",
+    "short": "H4",
+    "long": "OSB-ÜNİVERSİTE",
+    "color": "660099",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20010",
+    "short": "K1",
+    "long": "SÜREKLİ-OTOGAR",
+    "color": "005FFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20100",
+    "short": "K10",
+    "long": "ATATÜRK MAH-OTOGAR",
+    "color": "005FFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20110",
+    "short": "K11",
+    "long": "ŞENYURT-KIZILTEPE OTOGAR",
+    "color": "005FFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20011",
+    "short": "K1A",
+    "long": "SÜREKLİ-HAVAALANI",
+    "color": "005FFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20020",
+    "short": "K2",
+    "long": "EYMİRLİ-KIZILTEPE OTOGAR",
+    "color": "005FFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20021",
+    "short": "K2A",
+    "long": "GALERİCİLER-HAVAALANI",
+    "color": "005FFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20030",
+    "short": "K3",
+    "long": "TOKİ-OTOGAR",
+    "color": "005FFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20040",
+    "short": "K4",
+    "long": "YÜCELİ-OTOGAR",
+    "color": "005FFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20050",
+    "short": "K5",
+    "long": "GÜNLÜCE-OTOGAR",
+    "color": "005FFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20051",
+    "short": "K5A",
+    "long": "GÜNLÜCE MAH-HAVAALANI",
+    "color": "005FFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20060",
+    "short": "K6",
+    "long": "HOCAKÖY-OTOGAR",
+    "color": "005FFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20061",
+    "short": "K6A",
+    "long": "HOCAKÖY-HAVAALANI",
+    "color": "005FFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20070",
+    "short": "K7",
+    "long": "ERSOYLU-OTOGAR",
+    "color": "005FFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20080",
+    "short": "K8",
+    "long": "HAVAALANI-OTOGAR",
+    "color": "005FFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20090",
+    "short": "K9",
+    "long": "ESENLİ-OTOGAR",
+    "color": "005FFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51020",
+    "short": "KA",
+    "long": "KIZILTEPE OTOGAR-MARDİN OTOGAR",
+    "color": "005FFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51030",
+    "short": "KA1",
+    "long": "KIZILTEPE OTOGAR-ARTUKLU OTOGAR",
+    "color": "005FFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51040",
+    "short": "KA2",
+    "long": "KIZILTEPE OTOGAR-ARTUKLU OTOGAR",
+    "color": "005FFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00191",
+    "short": "M10",
+    "long": "ÜNİVERİSTE-OTOGAR",
+    "color": "00EEC6",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00210",
+    "short": "M11",
+    "long": "CEZAEVİ-CEZAEVİ",
+    "color": "00EEC6",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00220",
+    "short": "M12",
+    "long": "MEYDANBAŞI-MEYDANBAŞI",
+    "color": "00EEC6",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00151",
+    "short": "M5",
+    "long": "ÜNİVERİSTE-PARK HASTANESİ",
+    "color": "00EEC6",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00160",
+    "short": "M6",
+    "long": "ÜNİVERSİTE-MEYDANBAŞI",
+    "color": "00EEC6",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00171",
+    "short": "M7A",
+    "long": "TOKİ-CEZAEVİ",
+    "color": "00EEC6",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00172",
+    "short": "M7B",
+    "long": "TOKİ-OTOGAR",
+    "color": "00EEC6",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00180",
+    "short": "M8",
+    "long": "HASTANE-MEYDANBAŞI",
+    "color": "00EEC6",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00190",
+    "short": "M9",
+    "long": "HASTANE-MEYDANBAŞI",
+    "color": "00EEC6",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "40011",
+    "short": "MD1A",
+    "long": "JANDARMA TABURU-FATİH ANADOLU LİSESİ",
+    "color": "FFA063",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "40012",
+    "short": "MD1B",
+    "long": "YENİ TOKİ-DİŞ HASTANESİ",
+    "color": "FFA063",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "40020",
+    "short": "MD2",
+    "long": "TABUR-FATİH ANADOLU LİSESİ",
+    "color": "FFA063",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "40030",
+    "short": "MD3",
+    "long": "GÖLBAŞI CAD.-DEVLET HASTANESİ",
+    "color": "FFA063",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "40040",
+    "short": "MD4",
+    "long": "DİŞ HASTANESİ-OTOGAR",
+    "color": "FFA063",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30010",
+    "short": "N1",
+    "long": "ÇARŞI-OKULLAR",
+    "color": "00CF0C",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30100",
+    "short": "N10",
+    "long": "DURUCA-DEVLET HASTANESİ",
+    "color": "00CF0C",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30111",
+    "short": "N11A",
+    "long": "DEVLET HASTANESİ-BALABAN MAH.",
+    "color": "00CF0C",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30112",
+    "short": "N11B",
+    "long": "DEVLET HASTANESİ-GİRMELİ MAH.",
+    "color": "00CF0C",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30120",
+    "short": "N12",
+    "long": "BARAJ-ÇARŞI",
+    "color": "00CF0C",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30130",
+    "short": "N13",
+    "long": "GIRNAVAS MAH.-DEVLET HASTANESİ-DEVLET HASTANESİ-GIRNAVAS MAH.",
+    "color": "00CF0C",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30020",
+    "short": "N2",
+    "long": "OTOGAR-OKULLAR",
+    "color": "00CF0C",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30030",
+    "short": "N3",
+    "long": "OTOGAR-ÇARŞI",
+    "color": "00CF0C",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30040",
+    "short": "N4",
+    "long": "TOKİ-DEVLET HASTANESİ",
+    "color": "00CF0C",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30050",
+    "short": "N5",
+    "long": "SANAYİ-ÇARŞI",
+    "color": "00CF0C",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30060",
+    "short": "N6",
+    "long": "DİCLE MAH.-DEVLET HASTANESİ",
+    "color": "00CF0C",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30070",
+    "short": "N7",
+    "long": "AKÇA TARLA-ÇARŞI",
+    "color": "00CF0C",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30080",
+    "short": "N8",
+    "long": "AKARSU-ÇARŞI",
+    "color": "00CF0C",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30090",
+    "short": "N9",
+    "long": "BAHÇEBAŞI-DEVLET HASTANESİ",
+    "color": "00CF0C",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10000",
+    "short": "TR",
+    "long": "ARTUKLU OTOGAR-ÜNİVERSİTE",
+    "color": "FF4B00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10100",
+    "short": "TR10",
+    "long": "ARTUKLU-YEŞİLLİ",
+    "color": "FF4B00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10170",
+    "short": "TR17",
+    "long": "ARTUKLU-DARGEÇİT",
+    "color": "FF4B00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10180",
+    "short": "TR18",
+    "long": "KILAVUZ-DARGEÇİT",
+    "color": "FF4B00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10190",
+    "short": "TR19",
+    "long": "MAVİŞEHİR-KAMPÜS",
+    "color": "FF4B00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10020",
+    "short": "TR2",
+    "long": "MARDİN OTOGAR-HAVAALANI",
+    "color": "FF4B00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10191",
+    "short": "TR20",
+    "long": "CEZAEVİ-YENİ TOKİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10200",
+    "short": "TR21",
+    "long": "CEZAEVİ-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10201",
+    "short": "TR22",
+    "long": "ORTAKÖY-KAMPÜS",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10210",
+    "short": "TR23",
+    "long": "DİYARBAKIRKAPI-HAMZABEY",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10211",
+    "short": "TR24",
+    "long": "ARTUKLU-DERİK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10212",
+    "short": "TR25",
+    "long": "NUSAYBİN-AKARSU",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10213",
+    "short": "TR26",
+    "long": "MİDYAT-NUSAYBİN",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10214",
+    "short": "TR27 ",
+    "long": "DARGEÇİT-YONCALI",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10030",
+    "short": "TR3",
+    "long": "ARTUKLU OTOGAR-KIZILTEPE OTOGAR",
+    "color": "FF4B00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10040",
+    "short": "TR4",
+    "long": "DARGEÇİT-MİDYAT",
+    "color": "FF4B00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10050",
+    "short": "TR5",
+    "long": "ARTUKLU-MAZIDAĞI",
+    "color": "FF4B00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10060",
+    "short": "TR6",
+    "long": "ARTUKLU-MİDYAT",
+    "color": "FF4B00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10070",
+    "short": "TR7",
+    "long": "ARTUKLU-NUSAYBİN",
+    "color": "FF4B00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10080",
+    "short": "TR8",
+    "long": "ARTUKLU-ÖMERLİ",
+    "color": "FF4B00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10090",
+    "short": "TR9",
+    "long": "ARTUKLU-SAVUR",
+    "color": "FF4B00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10980",
+    "short": "TR98",
+    "long": "GÖREVLİ-GÖREVLİ",
+    "color": "FF4B00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10990",
+    "short": "TR99",
+    "long": "SERBEST-SERBEST",
+    "color": "FF4B00",
+    "text_color": "FFFFFF"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "00001",
+    "short": "1",
+    "long": "OTOGAR-ATATÜRK MAHALLESİ",
+    "color": "FF0000",
+    "text_color": "752616"
+  },
+  {
+    "id": "00002",
+    "short": "2",
+    "long": "SANAYİ-ÇENDİK",
+    "color": "F4A460",
+    "text_color": "FF456C"
+  },
+  {
+    "id": "00003",
+    "short": "3",
+    "long": "SANAYİ - NATO-AĞIL - TUGAY",
+    "color": "A0522D",
+    "text_color": "AB2B9B"
+  },
+  {
+    "id": "00004",
+    "short": "4",
+    "long": "ÇERÇİN-TUGAY",
+    "color": "FFFF00",
+    "text_color": "FFB5E5"
+  },
+  {
+    "id": "00005",
+    "short": "5",
+    "long": "OTOGAR-ŞELALE EVLERİ",
+    "color": "800080",
+    "text_color": "2E573A"
+  },
+  {
+    "id": "00006",
+    "short": "6",
+    "long": "OTOGAR-ÜNİVERSİTE",
+    "color": "F64DFF",
+    "text_color": "994085"
+  },
+  {
+    "id": "00007",
+    "short": "7",
+    "long": "DİŞ HASTANESİ - ŞİRİNEVLER MAH-TUGAY",
+    "color": "DDDDDD",
+    "text_color": "787BFF"
+  },
+  {
+    "id": "00009",
+    "short": "9",
+    "long": "SALI PAZARI-TEPE-MANASTIR MAHALLESI",
+    "color": "FF69B4",
+    "text_color": "FF0D08"
+  },
+  {
+    "id": "00011",
+    "short": "11",
+    "long": "SANAYİ - AKDERE-EMEK MAH. - POLİS LOJMANLARI",
+    "color": "FF6A2D",
+    "text_color": "000000"
+  },
+  {
+    "id": "00012",
+    "short": "12",
+    "long": "SANAYİ - ÖZARMAĞAN-ATATÜRK MAHALLESİ",
+    "color": "55FF70",
+    "text_color": "A9A9A9"
+  },
+  {
+    "id": "00013",
+    "short": "13",
+    "long": "OTOGAR - EMEK MAH.-ATATÜRK MAH. POLİS LOJ.",
+    "color": "CFFF7A",
+    "text_color": "A86BB2"
+  },
+  {
+    "id": "00021",
+    "short": "21",
+    "long": "SANAYİ - AKDERE-TUGAY - POLİS LOJ.",
+    "color": "DDFFBE",
+    "text_color": "ACACAC"
+  },
+  {
+    "id": "00022",
+    "short": "22",
+    "long": "SANAYİ - AKDERE-TUGAY - PLAJ",
+    "color": "C00000",
+    "text_color": "F5F5F5"
+  },
+  {
+    "id": "00031",
+    "short": "31",
+    "long": "NATO - OTOGAR-TUGAY",
+    "color": "F38BFF",
+    "text_color": "575757"
+  },
+  {
+    "id": "00061",
+    "short": "61",
+    "long": "KYK-ÜNİVERSİTE",
+    "color": "00FF00",
+    "text_color": "C7C3D6"
+  },
+  {
+    "id": "00062",
+    "short": "62",
+    "long": "DİYANET YURDU-KAMPÜS",
+    "color": "6F4262",
+    "text_color": "4BC714"
+  },
+  {
+    "id": "00063",
+    "short": "63",
+    "long": "KAMPÜS-MEYDAN",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00071",
+    "short": "71",
+    "long": "DİŞ HASTANESİ - OTOGAR-TUGAY",
+    "color": "DFAFBF",
+    "text_color": "6E6E6E"
+  }
+]

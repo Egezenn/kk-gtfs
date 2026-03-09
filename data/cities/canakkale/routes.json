@@ -1,0 +1,226 @@
+[
+  {
+    "id": "70013",
+    "short": "11Ç",
+    "long": "SSK-İSKELE-KEPEZ-ÇINARLI-SSK İSTASYON",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70011",
+    "short": "11G",
+    "long": "Ç-11/G GÜZELYALI-HALK BAHÇESİ-HALK PLAJI",
+    "color": "925711",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70012",
+    "short": "11K",
+    "long": "Ç11/K DARDANOS-KEPEZ-SSK-İSKELE-KEPEZ-DARDANOS",
+    "color": "7E4C29",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "71012",
+    "short": "11K-E",
+    "long": "Ç11/K DARDANOS-KEPEZ--ESKİ HASTANE-İSKELE",
+    "color": "7E4C29",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "71016",
+    "short": "960",
+    "long": "PARK 17 EVLERİ-D.HASTANESİ-BELEDİYE-NUSRAT YURDU",
+    "color": "D2D2D2",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70001",
+    "short": "Ç1",
+    "long": "Ç-1 MAVİ- ÜNİVERSİTE-İSKELE-GAZİ MECLİSİ İST.",
+    "color": "1C1781",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70010",
+    "short": "Ç10",
+    "long": "Ç-10 MOR NUSRAT ÖĞRENCİ YURDU-TERZİOĞLU KAMPÜSÜ",
+    "color": "060606",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70018",
+    "short": "Ç12",
+    "long": "Ç12 ÜNİVERSİTE-KEPEZ-DARDANOS KAMPÜS",
+    "color": "1CFF28",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70019",
+    "short": "Ç13",
+    "long": "Ç13 NUSRAT YURDU-DARDANOS KAMPÜS",
+    "color": "1FFF32",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70020",
+    "short": "Ç14",
+    "long": "Ç14 NUSRAT YURDU-HAVAALANI-ÜNİVERSİTE",
+    "color": "FC36FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70021",
+    "short": "Ç15",
+    "long": "Ç15 ÜNİVERSİTE-OTOGAR",
+    "color": "9E0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70022",
+    "short": "Ç17",
+    "long": "Ç17 ÜNİVERSİTE-TERZİOĞLU KYK-AVM-ÜNİVERSİTE",
+    "color": "3429FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "71001",
+    "short": "Ç1EKS",
+    "long": "Ç1EKS-ÜNİVERSİTE-HALK BAHÇESİ",
+    "color": "1C1781",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70002",
+    "short": "Ç2",
+    "long": "Ç-2 MAVİ- ÜNİVERSİTE-İSKELE-GAZİ MECLİSİ İST.",
+    "color": "225BFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70003",
+    "short": "Ç3",
+    "long": "Ç-3 KIRMIZI-ÜNİVERSİTE-İSKELE-SSK İSTASYON",
+    "color": "CD0B1C",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "71003",
+    "short": "Ç3EKS",
+    "long": "Ç-3 EKS ÜNİVERSİTE-HALK BAHÇESİ",
+    "color": "FF1D01",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70004",
+    "short": "Ç4",
+    "long": "Ç-4 ÜNİVERSİTE-İSKELE-SALI PAZARI",
+    "color": "DF4F37",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70005",
+    "short": "Ç5",
+    "long": "Ç-5 YEŞİL- NUSRAT YURDU-BELEDİYE-NUSRAT YURDU",
+    "color": "156207",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70006",
+    "short": "Ç6",
+    "long": "Ç-6 YEŞİL NUSRAT YURDU-ESENLER-NUSRAT YURDU",
+    "color": "0AD821",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70007",
+    "short": "Ç7",
+    "long": "Ç-7 SARI PARK 17 EVLERİ-PLAJ YOLU-SSK İSTASYON",
+    "color": "CBB307",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "74004",
+    "short": "Ç7EKS",
+    "long": "Ç7E ESKİ HASTANE ÖNÜ-PARK 17 EVLERİ",
+    "color": "FFC924",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70008",
+    "short": "Ç8",
+    "long": "Ç-8 SARI ÜNİVERSİTE-HAVAALANI-NUSRAT YURDU",
+    "color": "FCFF01",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "74005",
+    "short": "Ç8EKS",
+    "long": "Ç8E GAZİ İLKOKULU-NUSRAT YURDU",
+    "color": "FFD53D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70009",
+    "short": "Ç9",
+    "long": "Ç-9 MOR YENİ OTOGAR-HALK BAHÇESİ",
+    "color": "95380E",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "71009",
+    "short": "Ç9EKS",
+    "long": "Ç9EKS-ÜNİVERSİTE-OTOGAR-OTOGAR",
+    "color": "95380E",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70014",
+    "short": "ÇT1",
+    "long": "ÇT-1 KEPEZ TOKİ-DEV. HAST.-KAMPÜS-AVM-KEPEZ TOKİ",
+    "color": "AFAFAF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70015",
+    "short": "ÇT2",
+    "long": "ÇT-2 KEPEZ TOKİ-KEPEZ 144 TOKİ-ÜNİVERSİTE",
+    "color": "5F5F5F",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70016",
+    "short": "ÇT3",
+    "long": "ÇT-3 D.HASTANESİ-İSKELE-TROYA CAD-GAZİ MECLİSİ İST.",
+    "color": "5A5954",
+    "text_color": "CD0820"
+  },
+  {
+    "id": "73011",
+    "short": "ÇT3E",
+    "long": "ÇT3E DEVLET HASTANESİ-HALK BAHÇESİ",
+    "color": "BA7249",
+    "text_color": "EEFF57"
+  },
+  {
+    "id": "74001",
+    "short": "OGR1",
+    "long": "OGR1 KEPEZ 144 TOKİ-İSKELE-SSK İSTASYON",
+    "color": "7D0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "74002",
+    "short": "OGR2",
+    "long": "OGR2 KEPEZ 144 TOKİ-TACETTİN ASLAN LİSESİ",
+    "color": "730000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "74003",
+    "short": "OGR3",
+    "long": "OGR3 NUSRAT YURDU-NUSRAT YURDU RİNG",
+    "color": "750000",
+    "text_color": "FFFFFF"
+  }
+]

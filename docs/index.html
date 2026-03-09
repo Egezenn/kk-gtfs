@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>KK-GTFS | Retro Transit</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚌</text></svg>"
+    />
+    <link rel="manifest" href="manifest.json" />
+    <meta name="theme-color" content="#000080" />
+    <link rel="apple-touch-icon" href="icon-192.png" />
+  </head>
+  <body>
+    <header class="container win-outset">
+      <nav>
+        <div class="logo">
+          <span>🚌</span>
+          <span>KK-GTFS</span>
+        </div>
+        <div class="nav-links">
+          <a href="https://github.com/egezenn/kk-gtfs" target="_blank" rel="noopener">SOURCE</a>
+        </div>
+      </nav>
+    </header>
+
+    <main class="container">
+      <div class="search-bar win-inset">
+        <input type="text" id="citySearch" placeholder="C:\FIND_CITY\>" />
+      </div>
+
+      <div id="loading" class="loading hidden">
+        <p>Scanning directory...</p>
+      </div>
+
+      <div id="feedList" class="feed-grid"></div>
+
+      <div id="noResults" class="no-results hidden">
+        <p>0 files found.</p>
+      </div>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

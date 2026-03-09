@@ -1,0 +1,58 @@
+[
+  {
+    "id": "00001",
+    "short": "01",
+    "long": "Karahıdır-Kampüs",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00002",
+    "short": "02",
+    "long": "Balaban-Cezaevi",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00003",
+    "short": "03",
+    "long": "Pınar-Minimall",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00004",
+    "short": "04",
+    "long": "Karahıdır Meydan-Toki",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00005",
+    "short": "05",
+    "long": "Otogar-Y.Hastane",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00006",
+    "short": "06",
+    "long": "Hundi Hatun-Kampüs",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00007",
+    "short": "07",
+    "long": "Kavaklı-Kırklareli",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00008",
+    "short": "08",
+    "long": "Üsküp-Kırklareli",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  }
+]

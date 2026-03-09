@@ -1,0 +1,2879 @@
+[
+  {
+    "id": "41010",
+    "short": "10",
+    "long": "OTOGAR-BAYINDIRLIK-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41011",
+    "short": "11",
+    "long": "DOĞUKIŞLA-VALİLİK-ERENLER-İZMİ KENT",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41013",
+    "short": "13",
+    "long": "ALİKAHYA-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41014",
+    "short": "14",
+    "long": "A KAPISI-BESYO-İLAHİYAT-AĞLIK FAKÜLTESİ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42015",
+    "short": "15KS",
+    "long": "OTOGAR-KOCAELİ STADYUM",
+    "color": "006633",
+    "text_color": "000000"
+  },
+  {
+    "id": "41016",
+    "short": "16",
+    "long": "DOĞUKIŞLA-ERENLER-İZMİT KENT-SANTRAL-BULVAR-DOĞUKIŞLA",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41020",
+    "short": "20",
+    "long": "BATI TERMİNALİ-GÜLTEPE-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41024",
+    "short": "24",
+    "long": "GÜNEY TERMİNALİ-YAHYA KAPTAN-İZMİT OTOGAR-YEŞİLOVA-UMUTTEPE",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41025",
+    "short": "25",
+    "long": "KİPA AVM-PLAJYOLU-YUVAM AKARCA-SOLAKLAR CAD-ISU SANTİYE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41026",
+    "short": "26",
+    "long": "YUVAM AKARCA-OTOGAR-KAVANIUM-BATI TERMİNALİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41028",
+    "short": "28",
+    "long": "YUVAM AKARCA-OTOGAR-BATI TERMİNALİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41029",
+    "short": "29T",
+    "long": "OTOGAR-ALİKAHYA-KAVANİUM",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42032",
+    "short": "32B",
+    "long": "TREN GARI-BAÇ-ŞEHİR HASTANESİ-BOĞAZOVA-BAYINDIRLIK",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41033",
+    "short": "33",
+    "long": "BATI TERMİNALİ-SEKA PARK-DOĞU KIŞLA-ÜÇ TEPELER-UMUTTEPE",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41034",
+    "short": "34",
+    "long": "ÖZBEK ÇEŞM-BOĞAZOVA-ŞEHİR HAST-B.DERE-SANAYİ-GÜNEY TERM",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42041",
+    "short": "41Ç",
+    "long": "SAHİL- BALIKHAN-LEYLA  ATAKAN-CUMHURİYET PARKI-SEKA PARK",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41041",
+    "short": "41K",
+    "long": "AŞAĞI HEREKE-KÖRFEZ-DERİNCE-İZMİT-KARTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41042",
+    "short": "42",
+    "long": "CUMHURİYET PARKI-AKÇAKOCA-BAĞÇEŞME-KAYMAZ SOKAK-ÇINARLI",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41043",
+    "short": "43",
+    "long": "BATI TERMİNALİ-CUMHURİYET PARK-BAĞÇEŞME-UMUTTEPE",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41044",
+    "short": "44",
+    "long": "GÜNEY TERMİNALİ-CUMHURİYET PARKI-BAĞÇEŞME",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41045",
+    "short": "45",
+    "long": "İZMİT VADİ EVLERİ-GÜLTEPE-HÜR SOKAK-BATI TERMİNALİ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42045",
+    "short": "45H",
+    "long": "BEYHAN-HÜR SOKAK-HUZUR EVİ-BATI TERMİNALİ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41051",
+    "short": "51",
+    "long": "BATI TERMİNALİ-TOPÇULAR-TUANA EVLERİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41053",
+    "short": "53",
+    "long": "B.TERMİMALİ-HALKEVİ-TOPÇULAR-TUANA EVLERİ-UMUTTEPE",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41054",
+    "short": "54",
+    "long": "BAĞÇEŞME-CUMHURIYET PARKI-EREN CAMİ-GÜNEY TERMİNALİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41055",
+    "short": "55",
+    "long": "BEYHAN-GÜLTEPE-HALKEVİ-CUMHURİYET PARKI",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41059",
+    "short": "59",
+    "long": "TÜYSÜZLER-TREN GARI-EMNİYET-CUMHURİYET PARKI",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41061",
+    "short": "61",
+    "long": "KULFALLI-AKPINAR-HATİPKÖY-KURUÇEŞME TRAMVAY",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41062",
+    "short": "62",
+    "long": "ARIZLI-AĞAKÖY-YENİDOĞAN-BİLİM MERKEZİ-BATI TERMİNALİ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41065",
+    "short": "65",
+    "long": "BATI TERMİNALİ-BİLİM MERKEZİ-ORDU EVİ-ORKİDE SOKAK-SEKA DH.",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42065",
+    "short": "65T",
+    "long": "BATI TERMİNALİ–ORDUEVİ–D-100-SERDAR BAYIRI-EĞİTİM KAMPÜ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41066",
+    "short": "66",
+    "long": "BATI TERMİNALİ-DOĞUKIŞLA-YEŞİLOVA-SEPETÇİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41067",
+    "short": "67",
+    "long": "BATI TERMİNALİ-SEKA PARK-DOĞU KIŞLA-ÜÇ TEPELER-SEKBANLI",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41069",
+    "short": "69",
+    "long": "BATI TERMİNALİ-KABAOĞLU-SEKBANLI",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41070",
+    "short": "70",
+    "long": "AKPINAR-KURUÇEŞME-D.KIŞLA-ŞEHİR HAST-BAYINDIRLK-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41071",
+    "short": "71",
+    "long": "BATI TERMİNALİ-HALKEVİ-DEVLET HAST.-B.DERE-TAVŞANTEPE",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41073",
+    "short": "73",
+    "long": "ARIZLI YURT-UMUTTEPE",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41074",
+    "short": "74",
+    "long": "RADAR-HALKEVİ -M.İRADE MEYDANI-GÜNEY TERMİNALİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41080",
+    "short": "80",
+    "long": "KİPA AVM-PLAJ YOLU-TREN GARI-Y.KAPTAN-YUVAM AKARCA",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41081",
+    "short": "81",
+    "long": "BAYINDIRLIK-G.DOĞDU-ŞEHİR HAST-CUMHURİYET PARKI-TREN GARI",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42081",
+    "short": "81B",
+    "long": "BAYINDIRLIK-BOĞAZOVA CADDESİ-CUMHURİYET PARKI-TREN GARI",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41085",
+    "short": "85",
+    "long": "AKPINAR TOKİ-KURUÇEŞME-BAÇ-DOGU KIŞLA-D.BANKASI-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41086",
+    "short": "86",
+    "long": "BATI TERMİNALİ-TREN GARI-DOĞUKIŞLA-YEŞİLOVA-ÇAYIRKÖY",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41088",
+    "short": "88",
+    "long": "DÜNYA BANKASI-TREN GARI",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41089",
+    "short": "89",
+    "long": "AKPINAR TOKİ-KURUÇEŞME-HALKEVİ-CUMHURİYET PARKI",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41090",
+    "short": "90",
+    "long": "BASIN SİTESİ-ŞİRİNTEPE-SANTRAL-CEZAEVİ-GIDA OSB-UMUT EVLER",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41091",
+    "short": "91",
+    "long": "ŞAHİN TEPESİ-CUMH. MAH.-PLAJYOLU TRAMVAY-D.KIŞLA PARKI",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41092",
+    "short": "92",
+    "long": "ÇENESUYU- KURUÇEŞME- BEKİRDERE-BAYINDIRLIK",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41094",
+    "short": "94",
+    "long": "F.SULTAN-ÇINARLIKENT-MERSİNCİK-K.ÇEŞME-EREN CAMİ-SANAYİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41100",
+    "short": "100",
+    "long": "YENİKENT-SOPALI-TREN GARI-YEŞİLOVA-BAYINDIRLIK",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41102",
+    "short": "102",
+    "long": "MERSİNCİK-YENİKENT-SOPALI",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41103",
+    "short": "103",
+    "long": "60 EVLER-SOPALI-YENİKENT-ÇINARLIKENT-ÇENESUYU-KİPA AVM",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41104",
+    "short": "104",
+    "long": "KÖRFEZKENT-SOPALI HAST.-GÜNEY TERMİNALİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41105",
+    "short": "105",
+    "long": "RAHMİ SEYMEN CAMİ-ÖĞRETMENLER-HALKEVİ-SEHİR HAST.-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41111",
+    "short": "111",
+    "long": "HARMANTARLA-EMNİYET-CUMHURİYET PARKI",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41114",
+    "short": "114",
+    "long": "KÖRFEZKENT-KAŞKAL-DERİNCE-İZMİT-SANAYİ-GÜNEY TERMİNALİ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41115",
+    "short": "115",
+    "long": "KÖRFEZKENT-SOPALI-DERİNCE-İZMİT-ÜÇYOL-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42115",
+    "short": "115Ç",
+    "long": "KÖRFEZKENT-SOPALI-ÇENEDAĞ-İZMİT-ÜÇYOL-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41118",
+    "short": "118",
+    "long": "ÖĞRETMENLER-DERİNCE-HALKEVİ-SANTRAL-B.DERE-OTOGAR-Y.KAPTAN",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41124",
+    "short": "124",
+    "long": "KÖRFEZKENT-SOPALI-HALKEVİ-SANAYİ-GÜNEY TERMİNALİ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41126",
+    "short": "126",
+    "long": "KÖRFEZKENT-SOPALI-DERİNCE-HALK EVİ-D.KIŞLA-Y.KAPTAN",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41133",
+    "short": "133",
+    "long": "YENİKENT-SOPALI HAST.-GÜLTEPE-ÜÇTEPELER-UMUTTEPE",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41134",
+    "short": "134",
+    "long": "YENİKENT-KAŞKAL-DERİNCE-EREN CAMİ-SANAYI-GÜNEY TERMİNA",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41135",
+    "short": "135",
+    "long": "KÖRFEZKENT-YENİKENT-KASKAL-DERİNCE-SANTRAL-YUVAM AKARCA",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41138",
+    "short": "138",
+    "long": "YENİKENT-KAŞKAL-DERİNCE-SANTRAL-BEKİRDERE-OTOGAR",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41144",
+    "short": "144",
+    "long": "60 EVLER-DERİNCE-KAŞIK-SANAYİ-GÜNEY TERMİNALİ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41145",
+    "short": "145",
+    "long": "60 EVLER-DERİNCE-HALKEVİ-ŞEHİR HASTANESİ-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41147",
+    "short": "147",
+    "long": "HARMANTARLA-ÇINARLI-SANTRAL-BEKİRDERE-KAYMAKAMLIK",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42150",
+    "short": "150KS",
+    "long": "KİRAZLIYALI-KÖRFEZ-DERİNCE-İZMİT-OTOGAR-KOCAELİ STADYUMU",
+    "color": "006633",
+    "text_color": "000000"
+  },
+  {
+    "id": "41151",
+    "short": "151",
+    "long": "TÜTÜNÇİFTLİK SAHİL-95 EVLER-SEKA-İZMİT-OTOGAR",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41152",
+    "short": "152",
+    "long": "KİRAZLIYALI-YARIMCA (ALT YOL)-TÜTÜNÇİFTLİK-İZMİT-OTOGAR",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41154",
+    "short": "154",
+    "long": "KİRAZLIYALI-YAVUZ SELİM-KÖRFEZ ESENTEPE-İZMİT-OTOGAR",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41161",
+    "short": "161",
+    "long": "SERAMİK-ŞEHİRİÇİ-KÖRFEZKENT-DERİNCE EĞ.AR.HAST.-95 EVLER",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41163",
+    "short": "163",
+    "long": "İLİMTEPE-TÜTÜNÇİFTLİK-95 EVLER-İZMİT-OTOGAR",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41169",
+    "short": "169",
+    "long": "İLİMTEPE-YAVUZ SELİM-TÜTÜNÇİFTLİK",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41170",
+    "short": "170",
+    "long": "KİRAZLIYALI-ALTYOL-İZMİT-OTOGAR-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41175",
+    "short": "175",
+    "long": "KİRAZLIYALI-ÇAMLITEPE-İZMİT-OTOGAR-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41181",
+    "short": "181",
+    "long": "AŞAĞI HEREKE-KÜLLÜK-KIŞLADÜZÜ-AŞAĞI HEREKE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41182",
+    "short": "182",
+    "long": "AŞAĞI HEREKE-KIŞLADÜZÜ-YUKARI HEREKE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41190",
+    "short": "190",
+    "long": "YUKARI HEREKE-AŞAĞI HEREKE-KÖRFEZ-İZMİT-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41192",
+    "short": "192",
+    "long": "HEREKE-TAVŞANCIL KAYAPINAR",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41200",
+    "short": "200",
+    "long": "İZMİT OTOGAR - DERİNCE-KÖRFEZ-DİLOVASI-GEBZE-PENDİK-KARTAL",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41201",
+    "short": "201",
+    "long": "ARSLANBEY-ATAKENT-RAHMİYE-İZMİT-BATI TERMİNALİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41202",
+    "short": "202",
+    "long": "ARSLANBEY-ATAKENT-DOĞAKENT-İZMİT-BATI TERMİNALİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41204",
+    "short": "204",
+    "long": "MAŞUKİYE-DERBENT-BALABAN-SUADIYE-RAHMIYE-ARSLANBY-İZMİT",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41205",
+    "short": "205",
+    "long": "BAHÇELİEVLER-ATAEVLER-İSTASYON-İZMİT-ORDU EVİ-PLAJYOLU DEPO",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41209",
+    "short": "209",
+    "long": "SUKENT-MAŞUKİYE-ACISU-DERBENT-ARSLANBEY M.Y.O",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41210",
+    "short": "210",
+    "long": "KARTEPE-ALİKAHYA-YUVAM AKARCA-YEŞİLOVA-BAYINDIRLIK-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41211",
+    "short": "211",
+    "long": "UZUNÇİFTLİK M.Y.O-EMEKEVLER-İZMİT-BATI TERMİNALİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41212",
+    "short": "212",
+    "long": "BAHÇELİEVLER-EMEK EVLER-İSTASYON-İZMİT-BATI TERMİNALİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41213",
+    "short": "213",
+    "long": "SARIMEŞE-KARTEPE KAYMAKAMLIK-İSTASYON-İZMİT",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41214",
+    "short": "214",
+    "long": "KARTEPE KAYMAKAMLIK-İSTASYON-İZMİT-BATI TERMİNALİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41215",
+    "short": "215",
+    "long": "KÖSEKÖY-HACIHALİM-İZMİT-BATI TERMİNALİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41216",
+    "short": "216",
+    "long": "UZUNBEY-ERTUĞRUL G.M.-BEŞEVLER-VİLLAM-İZMİT -BATI TERMİNALİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41218",
+    "short": "218",
+    "long": "KARTEPE KAYMAKAMLIK-SARIMEŞE-EMEKEVLER-İZMİT-BATI TERMİNALİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41220",
+    "short": "220",
+    "long": "SARIMEŞE MERKEZ - KÖSEKÖY-HACI HALİM-İZMİT-PLAJYOLU D.",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41240",
+    "short": "240",
+    "long": "PLAJYOLU GARAJ-SEKA-İZMİT-TEPETARLA-ACISU-SEKA KAMPI",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41241",
+    "short": "241",
+    "long": "DERBENT M.Y.O-ACISU-TEPETARLA-IZMIT-BATI TERMINALI",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41242",
+    "short": "242",
+    "long": "ŞİRİNSULHİYE-DERBENT-ACISU-T.TARLA-İZMİT-B.TERMİNALİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41243",
+    "short": "243",
+    "long": "BALABAN-DERBENT-ACISU-TEPETARLA-İZMİT-BATI TERMİNALİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41251",
+    "short": "251",
+    "long": "SUADİYE-ÇEPNİ-İZMİT-BATI TERMİNALİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41255",
+    "short": "255",
+    "long": "DERBENT-ARSLANBEY-KARATEPE-ATAKENT-RAHMİYE-İZMİT-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41260",
+    "short": "260",
+    "long": "MAŞUKİYE MERKEZ-ACISU-KÖSEKÖY-İZMİT-ORDU EVİ-PLAJYOLU DEP.",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41261",
+    "short": "261",
+    "long": "MAŞUKİYE-BEŞEVLER-ACISU-TEPETARLA-İZMİT-BATI TERMİNALİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41262",
+    "short": "262",
+    "long": "MAŞUKİYE-BEŞEVLER-DERBENT-TEPETARLA-İZMİT-BATI TERMİNALİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41265",
+    "short": "265",
+    "long": "MAŞUKİYE-DERBENT-ACISU-İZMİT-OTOGAR-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41279",
+    "short": "279",
+    "long": "BALABAN-DERBENT-MAŞUKİYE-KÖSEKÖY",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41280",
+    "short": "280",
+    "long": "İZMİT OTOGAR-EŞME-SAKARYA ÜNİVERSİTESİ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41281",
+    "short": "281",
+    "long": "UZUNTARLA-ORMANYA-İBRİKDERE-CENGİZ TOPEL-İZMİT-BATI TERMİN",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41287",
+    "short": "287",
+    "long": "EŞME-ORMANYA-CENGİZ TOPEL-KÖSEKÖY-İZMİT-BATI TERMİNALİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41289",
+    "short": "289",
+    "long": "EŞME-UZUNTARLA-CENGİZ TOPEL-KÖSEKÖY-KAYMAKAMLIK",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41299",
+    "short": "299",
+    "long": "SUADİYE-ARSLANBEY-M.Y.O-KÖSEKÖY-EMEKEVLER",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41300",
+    "short": "300",
+    "long": "DİLOVASI - KÖRFEZ-DERİNCE - İZMİT - UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41302",
+    "short": "302",
+    "long": "DİLOVASI DEVLET HASTANESİ-GEBZE-FATİH DEVLET HAST.",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41305",
+    "short": "305",
+    "long": "BİLİŞİM VADİSİ-DİLİSKELESİ-KÖRFEZ-İZMİT-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41306",
+    "short": "306",
+    "long": "DİLİSKELESİ-HASTANE",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41310",
+    "short": "310",
+    "long": "DİLİSKELESİ-DİLOVASI-GEBZE-DARICA",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41315",
+    "short": "315",
+    "long": "TAVŞANCIL-DİLOVASI-GEBZE-DARICA",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41320",
+    "short": "320",
+    "long": "ÇERKEŞLİ-ÇAĞDAŞKENT",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42320",
+    "short": "320H",
+    "long": "ÇERKEŞLİ-SIRASÖĞÜTLER",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41325",
+    "short": "325",
+    "long": "DİLİSKELESİ-GEBZE-ÇAĞDAŞKENT",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42325",
+    "short": "325H",
+    "long": "DİLİSKELESİ-SIRASÖĞÜTLER",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41397",
+    "short": "397",
+    "long": "TEPECİK - GEBZE-FATİH D.H. - TATLIKUYU PAZAR",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41400",
+    "short": "400",
+    "long": "İZMİT OTOGAR-MARMARAY-DARICA",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41404",
+    "short": "404",
+    "long": "BEYLİKBAĞI-MUSTAFA PAŞA CAMİ-HASKÖY SANAYİ SİTESİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41405",
+    "short": "405",
+    "long": "ÖZGÜNKENT-İZMİT-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41406",
+    "short": "406",
+    "long": "İNÖNÜ-SIRASÖĞÜTLER",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41407",
+    "short": "407",
+    "long": "İSTASYON-FATİH DEVLET HAST.-MUSTAFA PAŞA CAMİ-KİRAZPINAR",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41408",
+    "short": "408",
+    "long": "ESKİHİSAR-BARIŞ MAHALLESİ-GEBZE-GENÇLİK CADDESİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41409",
+    "short": "409",
+    "long": "İSTASYON-FATİH DEVLET HAST.-ANİBAL-BARIŞ MAHALLESİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41410",
+    "short": "410",
+    "long": "KİRAZPINAR-GEBZE-DARICA-BAYRAMOĞLU",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41411",
+    "short": "411",
+    "long": "İSTASYON-FATİH D.H.-MUSTAFA PAŞA CAMİ-KİRAZPINAR",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41412",
+    "short": "412",
+    "long": "BEYLİKBAĞI-GEBZE-ADALET SARAYI-MUTLUKENT-SGK",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41413",
+    "short": "413",
+    "long": "BEYLİKBAĞI-FATİH DEVLET HAST.-GEBZE-OTOGAR-M.PAŞA",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41414",
+    "short": "414",
+    "long": "MİMAR SİNAN-FENİŞ-FATİH DH.-MUSTAFA PAŞA CAMİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41415",
+    "short": "415",
+    "long": "KBB GRJ-ADLİYE-M.SİNAN-M.PAŞA-FARABİ HAST.-İSTASYON-DUDAYEV",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41416",
+    "short": "416",
+    "long": "ESKİHİSAR-ARAPÇEŞME",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41417",
+    "short": "417",
+    "long": "İSTASYON-FATİH DH-M.PAŞA-İNÖNÜ-YENİKENT-İNÖNÜ-M.PAŞA-FATİH D.",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41418",
+    "short": "418",
+    "long": "İSTASYON-FATİH DEVLET HAST.-MUSTAFA PAŞA CAMİ-MUTLUKENT",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41419",
+    "short": "419",
+    "long": "İSTASYON-FATİH DEVLET HAST.-MUSTAFA PAŞA CAMİ-MEVLANA PARK",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41420",
+    "short": "420",
+    "long": "ADALET SARAYI-MARMARAY İSTASYON-DARICA",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41421",
+    "short": "421",
+    "long": "BEYLİKBAĞI-FATİH D.H",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41422",
+    "short": "422",
+    "long": "YAVUZ SELİM-MUSTAFA PAŞA CAMİ-FATİH DEVLET HAST.-İSTASYON",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41423",
+    "short": "423",
+    "long": "DENİZLİ - GEBZE-TATLIKUYU KAPALI PAZAR ALANI",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41425",
+    "short": "425",
+    "long": "KBB GARAJ -ADLİYE - BEYLİKBAĞI-GEBZE-MARMARAY-DARICA",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41426",
+    "short": "426",
+    "long": "BALÇIK - GEBZE-TATLIKUYU KAPALI PAZAR ALANI",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41429",
+    "short": "429",
+    "long": "MUDURNUTEPE-BEYLİKBAĞI-OSMANGAZİ TREN İST.",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41430",
+    "short": "430",
+    "long": "FATİH TREN İST.-ADEM YAVUZ-BEY-GEBZE-GÜZELLER OSB",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41431",
+    "short": "431",
+    "long": "İSTASYON-KİRAZPINAR",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41434",
+    "short": "434",
+    "long": "TATLIKUYU KAPALI PAZAR ALANI-PELİTLİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41435",
+    "short": "435",
+    "long": "KBB GEBZE GARAJ-DİLOVASI-KÖRFEZ-İZMİT-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "43435",
+    "short": "435KS",
+    "long": "GEBZE CENTER-KOCAELİ STADYUMU",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42435",
+    "short": "435MR",
+    "long": "ÇAYIROVA TREN İSTASYONU-İZMİT OTOGAR",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41440",
+    "short": "440",
+    "long": "YAVUZ SELİM-GEBZE-FARABİ DH.-GEBZE TEKNİK",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41480",
+    "short": "480",
+    "long": "KİRAZPINAR-BEYLİKBAĞI-ÇAYIROVA-ÖZGÜNKENT",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42480",
+    "short": "480A",
+    "long": "KİRAZPINAR-MUTLUKENT - SGK",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41490",
+    "short": "490",
+    "long": "MUALLİMKÖY - GEBZE-YENİ MAHALLE - GTÜ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42490",
+    "short": "490E",
+    "long": "MUALLİMKÖY KYK YURDU-GEBZE TEKNİK ÜNİVERSİTESİ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41498",
+    "short": "498",
+    "long": "MUALLİMKÖY - OTOGAR-TÜBİTAK - GEBZE",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41499",
+    "short": "499",
+    "long": "TAVŞANLI - GEBZE-FATİH D.H. - TATLIKUYU PAZAR",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41500",
+    "short": "500",
+    "long": "HEREKE - DİLOVASI - GEBZE-İSTASYON - DARICA",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41501",
+    "short": "501",
+    "long": "B.OĞLU - DARICA-İSTASYON - GEBZE",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42501",
+    "short": "501B",
+    "long": "BAYRAMOĞLU-GEBZE",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "43501",
+    "short": "501E",
+    "long": "BAYRAMOĞLU - EREN SİTESİ-DARICA - İSTASYON - GEBZE",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41502",
+    "short": "502",
+    "long": "KENTÖNÜ - DARICA-FARABİ E.A.H. - GEBZE",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42502",
+    "short": "502S",
+    "long": "KENTÖNÜ - DARICA SAHİL-FARABİ E.A.H. - GEBZE",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41503",
+    "short": "503",
+    "long": "KENTÖNÜ - NENE HATUN-İSTASYON - GEBZE",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41504",
+    "short": "504",
+    "long": "KENT KENTÖNÜ-GEBZE TEKNİK ÜNİ.-S.SÖĞÜTLER-FARABİ DH-DARICA",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42504",
+    "short": "504B",
+    "long": "BAYRAMOĞLU-DARICA",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41506",
+    "short": "506",
+    "long": "DARICA - MEZBAHANE -TÜBİTAK-GEBZE OTOGAR",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41507",
+    "short": "507",
+    "long": "İSTASYON - NENE HATUN-DARICA",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41509",
+    "short": "509",
+    "long": "BAYRAMOĞLU-İMKB LİS.-ATATÜRK CAD.-GEBZE",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41510",
+    "short": "510",
+    "long": "KENTÖNÜ-GEBZE-OSB",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42510",
+    "short": "510B",
+    "long": "KENTÖNÜ-GOSB",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41515",
+    "short": "515",
+    "long": "ÇAYIROVA MARMARAY-DARICA-İSTASYON-GEBZE-TOSB",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42515",
+    "short": "515B",
+    "long": "KENTÖNÜ-DARICA-GEBZE-İNÖNÜ- ADLİYE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41520",
+    "short": "520",
+    "long": "SIRASÖĞÜTLER -DARICA-FARABİ E.A.H. - GEBZE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41525",
+    "short": "525",
+    "long": "ÇAYIROVA TREN İSTASYONU-MUSTAFA PAŞA CAMİİ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42525",
+    "short": "525S",
+    "long": "KBB GARAJ - Y.SELİM - MARMARAY-S.SÖĞÜTLER - FARABİ - DARICA",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41530",
+    "short": "530",
+    "long": "DARICA-MARMARAY İSTASYON-İZMİT-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41535",
+    "short": "535",
+    "long": "SIRASÖĞÜTLER - DARICA-ÇAYIROVA - BALÇIK MEZARLIK",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41550",
+    "short": "550",
+    "long": "ÖZGÜNKENT-ŞEKERPINAR-YENİ MAHALLE-İSTASYON-DARICA",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42550",
+    "short": "550B",
+    "long": "ÖZGÜNKENT-DARICA",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41552",
+    "short": "552",
+    "long": "GTÜ -EMEK-BOSNA CAD-ADLİYE - GEBZE - FATİH D.H.",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41553",
+    "short": "553",
+    "long": "ÇAYIROVA-FATİH DEVLET HAST.-MUSTAFA PAŞA CAMİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41557",
+    "short": "557",
+    "long": "SGK MD.LÜĞÜ-ÇAĞDAŞKENT-ÇİÇEKÇİLER-GEBZE-M.PAŞA",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41558",
+    "short": "558",
+    "long": "GTÜ-ÇİÇEKÇİLER-ÇAĞDAŞKENT-M.PAŞA CAMİ-FATİH DEVLET HAST.",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41559",
+    "short": "559",
+    "long": "FATİH TREN İSTASYONU-BELEDİYE-KAYMAKAMLIK-Ş.PINAR",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41560",
+    "short": "560",
+    "long": "FATİH TREN İSTASYONU-GEBZE OTOGAR",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41563",
+    "short": "563",
+    "long": "ÖZGÜNKENT-ŞEKERPINAR-MUTLUKENT-GEBZE ADLİYE-FATİH DEVLET HAST",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41565",
+    "short": "565",
+    "long": "KBB GEBZE GARAJ-Ç.KENT-YENİ MH-ANİBAL-TÜBİTAK-BARIŞ MAH.",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41570",
+    "short": "570",
+    "long": "K.B.B. GEBZE GARAJ - ÇAYIROVA-GEBZE - BARIŞ MH.",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41580",
+    "short": "580",
+    "long": "ÖZGÜNKENT-Ş.PINAR-MUTLUKENT-GEBZE-BARIŞ MAH.",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41590",
+    "short": "590",
+    "long": "TOSB-Ş.PINAR-ÇAYIROVA-GEBZE OTOGAR",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41600",
+    "short": "600",
+    "long": "DOĞANTEPE-KULLAR-İZMİT-UMUTTEPE(YENİ YOL)",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41611",
+    "short": "611",
+    "long": "MYO-MAHMUTPAŞA CAMİ-SANAYİ-İZMİT-BATI TERMİNALİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41612",
+    "short": "612",
+    "long": "KULLAR MERKEZ-YAYLACIK-VEZİRÇİFTLİĞİ-İZMİT-BATI TERMİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41613",
+    "short": "613",
+    "long": "KULLAR MERKEZ-VEZİRÇİFTLİĞİ-ORDULULAR-İZMİT-BATI TERMİNALİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41614",
+    "short": "614",
+    "long": "DOĞANTEPE-KULLAR-İZMİT-BATI TERMİNAL (YENİ YOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41615",
+    "short": "615",
+    "long": "KULLAR MERKEZ-KULLAR ARITMA-İZMİT-BATI TERMİNALİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41616",
+    "short": "616",
+    "long": "VEZİRÇİFTLİĞİ-KULLAR MERKEZ-TÜPRAŞ LİSESİ-OKULLAR BÖLGESİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41621",
+    "short": "621",
+    "long": "YUVACIK-İZMİT-BATI TERMİNALİ (YENİ YOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41622",
+    "short": "622",
+    "long": "YUVACIK-TINAZTEPE-İZMİT-BATI TERMİNALİ (YENİ YOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41623",
+    "short": "623",
+    "long": "YUVACIK - AYDINKENT-İZMİT-BATI TERMİNAL (YENİ YOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41624",
+    "short": "624",
+    "long": "YUVACIK-DİŞ HASTANESİ-İZMİT-BATI TERMİNAL (YENİ YOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41625",
+    "short": "625",
+    "long": "YUVACIK-AYDINKENT-İZMİT-BATI TERMİNALİ (ESKİYOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41626",
+    "short": "626",
+    "long": "YUVACIK ARITMA-TED KOLEJİ-İZMİT-BATI TERMİNAL (YENİ YOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41627",
+    "short": "627",
+    "long": "YUVACIK TINAZTEPE-İZMİT-BATI TERMİNALİ (ESKİYOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41628",
+    "short": "628",
+    "long": "YUVACIK-TINAZTEPE-OKULLAR BÖLGESİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41629",
+    "short": "629",
+    "long": "YUVACIK-AYDINKENT-OKULLAR BÖLGESİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41630",
+    "short": "630",
+    "long": "YUVACIK MERKEZ-AYDINKENT-İZMİT-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41631",
+    "short": "631",
+    "long": "BAHÇECİK-İZMİT-BATI TERMİNALİ (ESKİYOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41632",
+    "short": "632",
+    "long": "BAHÇECİK-İZMİT-BATI TERMİNALİ (YENİ YOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41633",
+    "short": "633",
+    "long": "YEŞİLKENT-İZMİT-BATI TERMİNALİ(ESKİYOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41634",
+    "short": "634",
+    "long": "YEŞİLKENT-İZMİT-BATI TERMİNALİ (YENİ YOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41635",
+    "short": "635",
+    "long": "BAHÇECİK-YEŞİLKENT-İZMİT-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41637",
+    "short": "637",
+    "long": "YEŞİLKENT-DAMLAR-İZMİT-BATI TERMİNALİ (ESKİYOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41639",
+    "short": "639",
+    "long": "BAHÇECİK-PAŞADAĞ ANADOLU LİSESİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41640",
+    "short": "640",
+    "long": "DÖNGEL-ALTINKENT-SANAYİ-İZMİT-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41641",
+    "short": "641",
+    "long": "DÖNGEL-BATI TERMİNALİ-İZMİT (ESKİ YOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41642",
+    "short": "642",
+    "long": "DÖNGEL-İZMİT-BATI TERMİNALİ (YENİ YOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41644",
+    "short": "644",
+    "long": "KARŞIYAKA-KALICI KONUTLAR-İZMİT-BATI TERMİNALİ (YENİ YOL",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41645",
+    "short": "645",
+    "long": "ALTINKENT-DÖNGEL-İZMİT-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41650",
+    "short": "650",
+    "long": "KİRAZLIKENT-YENİKÖY-İZMİT-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42650",
+    "short": "650S",
+    "long": "M.K.E.-SEPETLİPINAR-YENİKÖY-İZMİT",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41651",
+    "short": "651",
+    "long": "KİRAZLIKENT-YENİKÖY-ATAKENT-İZMİT-BATI TERMİNALİ (ESKİ YOL",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41652",
+    "short": "652",
+    "long": "YENİKÖY-İZMİT (YENİ YOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41656",
+    "short": "656",
+    "long": "KİRAZLIKENT-YENİKÖY-ATAKENT-GÖLCÜK-KERİM AĞA",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41662",
+    "short": "662",
+    "long": "KOSBAŞ-YUVAM SİTESİ-S.PINAR-M.K.E-BATI TERMİNALİ(YENİ YOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41670",
+    "short": "670",
+    "long": "D.DERE-GÖLCÜK-DEVLET HAST.-HİSAREYN-YAZLIK-YENİKÖY-HAVUZ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41671",
+    "short": "671",
+    "long": "YAZLIK MERKEZ-ILICA-ESKİ GARAJLAR-KERİM AĞA",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41676",
+    "short": "676",
+    "long": "HİSAREYN TAŞOCAKLARI-KARAKÖPRÜ-SANAYİ-GÖLCÜK-KERİM AĞA",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41677",
+    "short": "677",
+    "long": "HİSAREYN-ESENTEPE-KARAKÖPRÜ-Y.SANAYİ-GÖLCÜK-KERİM AĞA",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41678",
+    "short": "678",
+    "long": "HİSAREYN-KARAKÖPRÜ-Y.SANAYİ-GÖLCÜK-KERİM AĞA",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41680",
+    "short": "680",
+    "long": "İHSANİYE-SEYMEN-İZMİT-PLAJYOLU DEPOLAMA (ESKİ YOL)",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41681",
+    "short": "681",
+    "long": "İHSANİYE-GÖLCÜK DEVLET HAST.-ÇİFTLİK-ESKİ GARAJLA-KERİM AĞA",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41682",
+    "short": "682",
+    "long": "İHSANİYE-GÖLCÜK DEVLET HAST.-ÇİFTLİK-ESKİ GARAJLA-KERİM AĞA",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41692",
+    "short": "692",
+    "long": "İHSANİYE-GÖLCÜK DEVLET HAST.-İZMİT-BATI TERMİNALİ(YENİ YOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41695",
+    "short": "695",
+    "long": "HİSAREYN-ESENTEPE-YAZLIK-İZMİT-PLAJYOLU DEPO (ESKİ YOL)",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41698",
+    "short": "698",
+    "long": "İZMİT OTOGAR-Y.KAPTAN-KULLAR-KAYMAKALIK-OKULLAR B.-YENİKÖY",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41699",
+    "short": "699",
+    "long": "SYMBOL AVM-KULLAR-YUVACIK-KARŞIYAKA-BAHÇECİK-YENİKÖY",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41700",
+    "short": "700",
+    "long": "GÖLCÜK-K.MÜRSEL-ALTINOVA-GEBZE-ÇAYIROVA TREN İSTASYONU",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41701",
+    "short": "701",
+    "long": "GÖLCÜK-İZMİT-BATI TERMİNALİ (ESKİ YOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41702",
+    "short": "702",
+    "long": "GÖLCÜK-İZMİT OTOGAR-BATI TERMİNALİ (YENİ YOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41710",
+    "short": "710",
+    "long": "DEĞİRMENDERE-KONUTLAR-D.HAST.-ŞİRİNKÖY-İZMİT-PLAJ YOLU",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42710",
+    "short": "710S",
+    "long": "DEĞİRMENDERE-SARAYLI-DÜZAĞAÇ-SİVRİTEPE-İZMİT",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41711",
+    "short": "711",
+    "long": "SARAYLI-ÇARŞI-GARAJLAR-DİŞ HASTANESİ-OTOGAR",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41712",
+    "short": "712",
+    "long": "SARAYLI-BAYINDIRLIK-ÇARŞI-OTOGAR-DEVLET HAST.",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41713",
+    "short": "713",
+    "long": "SARAYLI-TELEKOM-SAHİL CAD.-DEVLET HAST.",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41714",
+    "short": "714",
+    "long": "SARAYLI-ŞİRİNKÖY-YÜKSEKOKUL-DEVLET HAST.",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41715",
+    "short": "715",
+    "long": "ŞİRİNKÖY-DEVLET HASTANESİ-ESKİ GARAJLAR-GÖLCÜK ÇARŞI",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41716",
+    "short": "716",
+    "long": "ŞİRİNKÖY-DEVLET HASTANESİ-ESKİ GARAJLAR-GÖLCÜK ÇARŞI",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41717",
+    "short": "717",
+    "long": "ŞİRİNKÖY-DEVLET HASTANESİ-ÇARŞAMBA PAZARI-GÖLCÜK ÇARŞI",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41718",
+    "short": "718",
+    "long": "ŞİRİNKÖY-ŞEHİTLER MAHALLESİ-GÖLCÜK ÇARŞI",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41721",
+    "short": "721",
+    "long": "YÜZBAŞILAR-KURTULUŞ-GÖLCÜK-İZMİT-BATI TERMİNAL (ESKİ YOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41722",
+    "short": "722",
+    "long": "YÜZBAŞILAR-KURTULUŞ-GÖLCÜK-İZMİT-BATI TERMİNALİ (YENİ YO)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41731",
+    "short": "731",
+    "long": "YÜZBAŞILAR-ÇINARLIK MEYDAN-KURTULUŞ-DONANMA-GÖLCÜK",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41732",
+    "short": "732",
+    "long": "ÇINARLIK MEYDAN-Y.DEĞİRMENDERE-ATATÜRK MAHALLESİ-GÖLCÜK",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41733",
+    "short": "733",
+    "long": "DEĞİRMENDERE-GÖLCÜK",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41740",
+    "short": "740",
+    "long": "ULAŞLI-HALIDERE-DEĞİRMENDERE-GÖLCÜK-İZMİT-PLAJYOLU-ESKİ YOL",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41750",
+    "short": "750",
+    "long": "KARAMÜRSEL-GÖLCÜK-İZMİT-UMUTTEPE (ESKİ YOL)",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42750",
+    "short": "750KS",
+    "long": "KARAMÜRSEL-ULAŞLI-HALİDERE-GÖLCÜK-BAŞİSKELE-KOCAELİ STAD",
+    "color": "006633",
+    "text_color": "000000"
+  },
+  {
+    "id": "41751",
+    "short": "751",
+    "long": "KARAMÜRSEL-TERMİNAL-İZMİT-BATI TERMİNALİ (ESKİ YOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41752",
+    "short": "752",
+    "long": "KARAMÜRSEL TERMİNAL-İZMİT-SANAYİ-BATI TERMİNAL(YENİ YOL)",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41753",
+    "short": "753",
+    "long": "KARAMÜRSEL-GÖLCÜK",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41755",
+    "short": "755",
+    "long": "KARAMÜRSEL-İZMİT OTOGAR-UMUTTEPE (YENİ YOL)",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41761",
+    "short": "761",
+    "long": "KENTKONUT- TERMİNAL-ALTINKEMER PLAJI-DEVLET HAST.",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41762",
+    "short": "762",
+    "long": "KARAMÜRSEL KENTKONUT-SAHİL- BALIKÇI BARINAĞI",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41763",
+    "short": "763",
+    "long": "ALTINKEMER PLAJI-DEREKÖY - KARAMÜRSEL TERMİNAL",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41764",
+    "short": "764",
+    "long": "KARAMÜRSEL TERMİNAL-TEPEKÖY",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41766",
+    "short": "766",
+    "long": "KARAMÜRSEL TERMİNAL-OLUKLU",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41772",
+    "short": "772",
+    "long": "ALTINKEMER-KARAMÜRSEL TERMİNAL-DEREKÖY ALTI-YALOVA",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41781",
+    "short": "781",
+    "long": "KIZDERBENT -YALAKDERE -HAYRİYE-K.AHMETLİ- OLUKLU-TERMİNAL",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41782",
+    "short": "782",
+    "long": "AVCIKÖY-YALAKDERE-KARAAHMETLİ-OLUKLU-K.MÜRSEL TERMİNAL",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41783",
+    "short": "783",
+    "long": "İNEBEYLİ-KARAAHMETLİ-OLUKLU-K.MÜRSEL TERMİNAL",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41793",
+    "short": "793",
+    "long": "AKÇAT-KARAPINAR-KARAMÜRSEL TERMİNAL",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41794",
+    "short": "794",
+    "long": "KARAPINAR-KARAMÜRSEL TERMİNAL",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41796",
+    "short": "796",
+    "long": "EREĞLİ-ALTINKEMER PLAJ-SAHİL-KARAMÜRSEL DEVLET HAST.",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41797",
+    "short": "797",
+    "long": "TAHTALI-FULACIK-HAYRİYE-K.AHMETLİ-OLUKLU-K.MÜRSEL TERM",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41800",
+    "short": "800",
+    "long": "PLAJYOLU DEPO-İZMİT-ÇAYIRKÖY-S.HOCALA-F TİPİ-KANDIRA OTOGAR",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41801",
+    "short": "801",
+    "long": "İZMİT OTOGAR-KANDIRA OTOGAR",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41806",
+    "short": "806",
+    "long": "KANDIRA OTOGAR-AKBAL-YENİÇAM-KAYMAZ-F TİPİ-İZMİT-PLAJYOLU",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41812",
+    "short": "812",
+    "long": "K.Y.K KANDIRA YURDU-TERMİNAL-ÇARŞI-YEŞİL CAMİ-YÜKSEK OKUL",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41813",
+    "short": "813",
+    "long": "YEŞİL CAMİ-KANDIRA TERMİNALİ-KANDIRA DEVLET HAST.",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "22203",
+    "short": "D.DERE",
+    "long": "D.DERE-İSKELE HATLARI",
+    "color": "134395",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "22205",
+    "short": "DERINC",
+    "long": "DERİNCE-İSKELE HATLARI",
+    "color": "134395",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41450",
+    "short": "G1",
+    "long": "FATİH TREN İST. - ÇAYIROVA-YENİKENT - GEBZE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42450",
+    "short": "G2",
+    "long": "GEBZE MARMARAY-DARICA-GEBZE MARMARAY",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "43450",
+    "short": "G3",
+    "long": "GEBZE MARMARAY TREN İSTASYONU-GEBZE MERKEZ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "22202",
+    "short": "GOLCUK",
+    "long": "GÖLCÜK-İSKELE HATLARI",
+    "color": "134395",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "22207",
+    "short": "HEREKE",
+    "long": "HEREKE-İSKELE HATLARI",
+    "color": "134395",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "22201",
+    "short": "IZMIT",
+    "long": "İZMİT-İSKELE HATLARI",
+    "color": "134395",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "22204",
+    "short": "K.MÜR",
+    "long": "KARAMÜRSEL-İSKELE HATLARI",
+    "color": "134395",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51001",
+    "short": "KM01",
+    "long": "CEZAEVİ-GONCAAYDIN-ÜĞÜMCE-BEYCE-DALCA-ÇAKIRCAALİ-KANDIRA",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51002",
+    "short": "KM02",
+    "long": "KEFKEN-YAYLAPINAR-KOÇUNÖYÜ-DURAKLI-ÖZBEY-DURAÇALI-KANDIRA",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51003",
+    "short": "KM03",
+    "long": "SARNIÇLAR- KATÇALI MEVKİ-YUSUFÇA-SÜLLÜ SAPAĞI- KANDIRA",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51004",
+    "short": "KM04",
+    "long": "CEZAEVİ- KOCAKAYMAS-ELMACIK-İNCECİK-PELİTPINARI-KANDIRA",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51005",
+    "short": "KM05",
+    "long": "KANATLAR-BALCI-ESENTEPE-AKBAL-KANDIRA",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51006",
+    "short": "KM06",
+    "long": "CEZAEVİ-AKÇAKESE-PİRCELER-LOKMANLI -BALCI-AKBAL-KANDIRA",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51007",
+    "short": "KM07",
+    "long": "KANDIRA-HÜDAVERDİLER-SEPETÇİ-DÖNGELLİ-FERİZLİ-SÜLLÜ-KANDIRA",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51010",
+    "short": "KM10",
+    "long": "KANDIRA-BABAKÖY-SARISU-DOĞANCILI-KARABIYIKLAR",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51011",
+    "short": "KM11",
+    "long": "PINARLI-BAĞIRGANLI-ÇALKÖY-SEYREK-KANDIRA",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51012",
+    "short": "KM12",
+    "long": "ÇERÇİLİ-BELEN-M.ERİKLİ-KAYPALI-KANDIRA",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51013",
+    "short": "KM13",
+    "long": "HACILAR-BALABAN-HEDİYELİ-KANDIRA",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51014",
+    "short": "KM14",
+    "long": "BEYLERBEYİ-ANTAPLI-GENCALİ-BOLLU-SAFALI-KANDIRA",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51015",
+    "short": "KM15",
+    "long": "AĞVA-YAĞCILAR-AVDAN-AKÇAGİL-G.AYDIN-CEZAEVİ-BEKİRDERE",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51016",
+    "short": "KM16",
+    "long": "TEKSEN-AKÇAOVA-HEDİYELİ-KANDIRA",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51017",
+    "short": "KM17",
+    "long": "TEKSEN-AKÇAOVA-ÇALCA-ÇAKMAKLAR-SEPETÇİ-İZMİT",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51018",
+    "short": "KM18",
+    "long": "SULTANİYE- PAZARÇAYIRI-SUADİYE-ARSLANBEY-KAYMAKAMLIK",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51019",
+    "short": "KM19",
+    "long": "KETENCİLER-KİRAZOĞLU-İZMİT",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51020",
+    "short": "KM20",
+    "long": "EŞMEAHMEDİYE-AVLUBURUN-İZMİT",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51021",
+    "short": "KM21",
+    "long": "FERHADİYE-YENİKÖY-SEYMEN-ESKİ GARAJLAR-KERİM AĞA",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51022",
+    "short": "KM22",
+    "long": "OSMANİYE-KARAMÜRSEL",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51023",
+    "short": "KM23",
+    "long": "SULUDERE-SAFİYE-NUSRETİYE-KARAMÜRSEL",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51024",
+    "short": "KM24",
+    "long": "BAĞIRGANLI-BEYLERBEYİ-ANTAPLI-ÇERCİLİ-HACILAR-İZMİT",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51025",
+    "short": "KM25",
+    "long": "AĞVA-YAĞCILAR-AVDAN-AKÇAOVA-AKINCI-KANDIRA",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51026",
+    "short": "KM26",
+    "long": "YUVACIK-AKSIĞIN-TEPECİK-SERİNDERE-CAMİDÜZÜ-YUVACIK",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51027",
+    "short": "KM27",
+    "long": "YUVACIK-KAZANDERE-SERVETİYE CAMİ",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51029",
+    "short": "KM29",
+    "long": "İSHAKÇILAR-ALACALAR-KARAGÖLLÜ-ÇAVUŞLU-KARAKADILAR",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51030",
+    "short": "KM30",
+    "long": "İSHAKÇILAR-KAŞIKÇI-TOYLAR-İZMİT",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51031",
+    "short": "KM31",
+    "long": "İSHAÇILAR-GEREDELİ-İZMİT",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51032",
+    "short": "KM32",
+    "long": "İSHAKÇILAR-TURAŞ",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51033",
+    "short": "KM33",
+    "long": "İSHAKÇILAR-DERİNCE",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51034",
+    "short": "KM34",
+    "long": "TURGUTLAR-TAHTALI-İZMİT",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51035",
+    "short": "KM35",
+    "long": "OSMANLI-KUTLUCA-SEVİNDİKLİ-SİPAHİLER-DEREKÖY-BELEN-KÖRFEZ",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51036",
+    "short": "KM36",
+    "long": "ŞEMSEDDİN-NAİPKÖY-ELMACIK-KALBURCU-KÖRFEZ",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51037",
+    "short": "KM37",
+    "long": "DİKENLİ-A.HOCALAR-CUMA-ÇIRAKLI-SİPAHİLER-DEREKÖY-BELEN-KÖRFEZ",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51038",
+    "short": "KM38",
+    "long": "AKMEŞE-KİRAZOĞLU-İZMİT",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51039",
+    "short": "KM39",
+    "long": "YENİCE-ÇAVUŞOĞLU-AMBARCI-GÜVERCİNLİK-İZMİT",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51040",
+    "short": "KM40",
+    "long": "SULTANİYE-BALÖREN-KOZLUCA-DAĞKÖY- İZMİT",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51041",
+    "short": "KM41",
+    "long": "HASANCIK -ORTABURUN-KURTDERE-İZMİT",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51044",
+    "short": "KM44",
+    "long": "MECİDİYE-GÜLBAHÇE-KISALAR-İZMİT",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51045",
+    "short": "KM45",
+    "long": "ARPALIK İHSANİYE-ORHANİYE-KULOĞLU-İZMİT",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51046",
+    "short": "KM46",
+    "long": "KABAKÇI-GEDİKLİ-CİVCİVOĞLU-T.KÖY-MANCARCI-BAYRAKTAR-İZMİT",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51047",
+    "short": "KM47",
+    "long": "MANCARCI-ZEYTİNBURNU-GEDİKLİ-BAYRAKTAR-İZMİT",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51048",
+    "short": "KM48",
+    "long": "NASUHLAR-TERZİLER-BULDUK-ÇAĞIRGAN-KAYNARCA-İZMİT",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51049",
+    "short": "KM49",
+    "long": "GIRGIRLAR-ŞAHİNLER-SARIŞEYH-GÖKÇELER-NEBİHOCALAR-İZMİT",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51050",
+    "short": "KM50",
+    "long": "BÖĞÜRGEN-SÜVERLER-ÇULCULAR-SEPETÇİ-İZMİT",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51051",
+    "short": "KM51",
+    "long": "ESKİFERADİYE-MAMURİYE-ÜMMİYE-SIRETİYE-GÖLCÜK",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51052",
+    "short": "KM52",
+    "long": "HASANEYN- NİMETİYE-GÖLCÜK",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51053",
+    "short": "KM53",
+    "long": "NÜZHETİYE- PANAYIR-GÖLCÜK",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51054",
+    "short": "KM54",
+    "long": "AYVAZPINARI-MESRURİYE-ŞEVKETİYE-İCADİYE- GÖLCÜK",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51055",
+    "short": "KM55",
+    "long": "SENAİYE-SOFULAR-LÜTFİYE-SELİMİYE-GÖLCÜK",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51056",
+    "short": "KM56",
+    "long": "HAMİDİYE-GÖLCÜK",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51057",
+    "short": "KM57",
+    "long": "ERİKLİTEPE-İRŞADİYE-GÖLCÜK",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51058",
+    "short": "KM58",
+    "long": "MUDARLI-TATLIKUYU KAPALI PAZAR ALANI",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51059",
+    "short": "KM59",
+    "long": "TEPEMANAYIR-AHATLI-KARGALI-GEBZE-FATİH D.H.-TATLIKUYU",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51060",
+    "short": "KM60",
+    "long": "ELBİZLİ-DURAKLI-HATİPLER-GEBZE-FATİH D.H.-TATLIKUYU",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51061",
+    "short": "KM61",
+    "long": "SELİMİYE-GÖLCÜK",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51062",
+    "short": "KM62",
+    "long": "TAVŞANCIL-DİLOVASI-GEBZE",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51063",
+    "short": "KM63",
+    "long": "TEPECİK-TOKİ-KÖSELER-DEMİRCİLER-DİLOVASI DH-TAVŞANC",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51064",
+    "short": "KM64",
+    "long": "DİLİSKELESİ-DİLOVASI-ÇERKEŞLİ-İMES-KÖSELER-MERMERCİLER OSB",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51065",
+    "short": "KM65",
+    "long": "BATI TERMİNALİ-İZMİT-ÇUBUKLU BALA-ÇERİBAŞILAR",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51066",
+    "short": "KM66",
+    "long": "OTOGAR-YEŞİLOVA-ÇAYIRKÖY-MURATKÖY-TEKKEKÖY-YASSIBAĞ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51067",
+    "short": "KM67",
+    "long": "PLAJYOLU DEPOLAMA-İZMİT-MANDIRA-ÇUBUKLU OSMANİYE",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51068",
+    "short": "KM68",
+    "long": "ESELER-İZMİT",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51077",
+    "short": "KM77",
+    "long": "KARAMÜRSEL TERMİNAL-KARAMÜRSEL TERMİNAL",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51080",
+    "short": "KM80",
+    "long": "KANDIRA-KURTYERİ-KEFKEN--YAYLAPINARI-AKÇABEYLİ-KARAAĞAÇ",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51081",
+    "short": "KM81",
+    "long": "KANDIRA-KURTYERİ-BALLAR-AKÇABEYLİ-KARAAĞAÇ-PINARDÜZÜ",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51082",
+    "short": "KM82",
+    "long": "KANDIRA-KERPE-KUMCAĞIZ-DOĞANLAR-KEFKEN-CEBECİ",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "51084",
+    "short": "KM84",
+    "long": "KANDIRA-KURTYERİ-KEFKEN-CEBECİ-BABALI-DİKİLİ",
+    "color": "C60D0D",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "65001",
+    "short": "N1",
+    "long": "BATI TERMİNALİ-TREN GARI-OTOGAR-ŞEHİR HAST.-UMUTTEPE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "65002",
+    "short": "N2",
+    "long": "İZMİT-HALKEVİ- OTOGAR-MAŞUKİYE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "65003",
+    "short": "N3",
+    "long": "KARAMÜRSEL-D.DERE-GÖLCÜK-BAŞİSKELE-İZMİT",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "65004",
+    "short": "N4",
+    "long": "İZMİT OTOGAR-DERİNCE-KÖRFEZ-DİLOVASI-GEBZE",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41460",
+    "short": "P1",
+    "long": "MEVLANA KAPALI PAZAR-MUSTAFA PAŞA - TRAFO MEYDAN",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70014",
+    "short": "PS-G1",
+    "long": "PS-G1-PS-G1",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70015",
+    "short": "PS-G2",
+    "long": "PS-G2-PS-G2",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70016",
+    "short": "PS-G3",
+    "long": "PS-G3-PS-G3",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70017",
+    "short": "PS-G4",
+    "long": "PS-G4-PS-G4",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70009",
+    "short": "PS-K1",
+    "long": "PS-K1-PS-K1",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70010",
+    "short": "PS-K2",
+    "long": "PS-K2-PS-K2",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70011",
+    "short": "PS-K3",
+    "long": "PS-K3-PS-K3",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70012",
+    "short": "PS-K4",
+    "long": "PS-K4-PS-K4",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70013",
+    "short": "PS-K5",
+    "long": "PS-K5-PS-K5",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70001",
+    "short": "PS-P1",
+    "long": "PS-P1-PS-P1",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70002",
+    "short": "PS-P2",
+    "long": "PS-P2-PS-P2",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70003",
+    "short": "PS-P3",
+    "long": "PS-P3-PS-P3",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70004",
+    "short": "PS-P4",
+    "long": "PS-P4-PS-P4",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70005",
+    "short": "PS-P5",
+    "long": "PS-P5-PS-P5",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70006",
+    "short": "PS-P6",
+    "long": "PS-P6-PS-P6",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70007",
+    "short": "PS-P7",
+    "long": "PS-P7-PS-P7",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70008",
+    "short": "PS-P8",
+    "long": "PS-P8-PS-P8",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41001",
+    "short": "SH1",
+    "long": "BATI TERMİNALİ-ŞEHİR HASTANESİ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "43010",
+    "short": "SH10",
+    "long": "D.DERE-GÖLCÜK KALICI KONUTLAR-K.KÖPRÜ-YAZLIK-ŞEHİR HASTANESİ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "43011",
+    "short": "SH11",
+    "long": "S.TEPE TOKİ-İHSANİYE-HİSAREYN-YAZLIK-BAŞİSKELE-ŞEHİR HAST.",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "43012",
+    "short": "SH12",
+    "long": "KİRAZLIKENT-YENİKÖY-BAHÇECİK--YEŞİLKENT-KARŞIYAKA-ŞEHİR HAST",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "43013",
+    "short": "SH13",
+    "long": "BAŞİSKELE BELEDİYESİ-YUVACIK-KULLAR-ŞEHİR HASTANESİ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "43014",
+    "short": "SH14",
+    "long": "EMEKEVLER -KENT MEYDANI-DUMLUPINAR MAH.-ŞEHİR HAST.",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "43015",
+    "short": "SH15",
+    "long": "ACISU-MAŞUKİYE-DERBENT-SUADİYE-ARSLANBEY-ŞEHİR HASTANESİ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "43016",
+    "short": "SH16",
+    "long": "UMUTTEPE-ŞEHİR HASTANESİ-KANDIRA OTOGAR",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "43017",
+    "short": "SH17",
+    "long": "İLİMTEPE-ÇAMLITEPE-YENİYALI-ESENTEPE-ŞEHİR HASTANESİ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "43018",
+    "short": "SH18",
+    "long": "Y.HEREKE-A.HEREKE-ALTYOL-T.ÇİFTLİK-ŞEHİR HASTANESİ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "43019",
+    "short": "SH19",
+    "long": "DİLİSKELESİ-DİLOVASI-TAVŞANCIL-HEREKE-ŞEHİR HASTANESİ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41002",
+    "short": "SH2",
+    "long": "YAHYA KAPTAN-BEKİRDERE-YEŞİLOVA-ŞEHİR HASTANESİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "43020",
+    "short": "SH20",
+    "long": "KBB GEBZE GARAJ - GEBZE-ŞEHİR HASTANESİ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "43021",
+    "short": "SH21",
+    "long": "GEBZE TEKNİK ÜNİ-DARICA-MARMARAY İSTASYON-ŞEHİR HAST.",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "43022",
+    "short": "SH22",
+    "long": "KBB GEBZE GARAJ-ÇAYIROVA-GEBZE-DİLOVASI-ŞEHİR HASTANESİ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41005",
+    "short": "SH5",
+    "long": "BATI TERMİNALİ-GÜLTEPE-TÜYSÜZLER-ŞEHİR HASTANESİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41006",
+    "short": "SH6",
+    "long": "BAĞÇEŞME-ERENLER-İZMİTKENT-ŞEHİR HASTANESİ-YEŞİLOVA",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41007",
+    "short": "SH7",
+    "long": "OTOGAR-ŞEHİR HASTANESİ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41008",
+    "short": "SH8",
+    "long": "KÖRFEZKENT-DERİNCE-ÜÇYOL-ŞEHİR HASTANESİ",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "43009",
+    "short": "SH9",
+    "long": "KARAMÜRSEL-DEĞİRMENDERE-GÖLCÜK-ŞEHİR HASTANESİ",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42001",
+    "short": "T1",
+    "long": "OTOGAR-KURUÇEŞME",
+    "color": "DEDC00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42003",
+    "short": "T2",
+    "long": "ŞEHİR HASTANESI-KURUÇEŞME",
+    "color": "DEDC00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42004",
+    "short": "T3",
+    "long": "KURUÇEŞME-OTOGAR-KOCAELİ STADYUMU",
+    "color": "DEDC00",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "61001",
+    "short": "TF1",
+    "long": "UMUTTEPE-İZMİT-ORMANYA-SEKA KAMPI-TELEFERİK",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "61002",
+    "short": "TF2",
+    "long": "KÖRFEZ-DERİNCE-İZMİT-ORMANYA-S.KAMPI-TELEFERİK",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "61003",
+    "short": "TF3",
+    "long": "KARAMÜRSEL-GÖLCÜK-BAŞİSKELE-ORMANYA-TELEFERİK",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "61004",
+    "short": "TF4",
+    "long": "ÇAYIROVA-GEBZE-DİLOVASI-ORMANYA-SEKA KAMPI-TELEFERİK",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "22206",
+    "short": "TUTUNC",
+    "long": "TÜTÜNÇİFTLİK-İSKELE HATLARI",
+    "color": "134395",
+    "text_color": "FFFFFF"
+  }
+]

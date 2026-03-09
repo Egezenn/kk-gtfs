@@ -1,0 +1,779 @@
+[
+  {
+    "id": "10010",
+    "short": "1-A",
+    "long": "KÜMBET-BAĞDAT CAD / ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10011",
+    "short": "1-B",
+    "long": "KÜMBET-MEYDAN -YENİŞEHİR -TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10012",
+    "short": "1-C",
+    "long": "KÜMBET-MEYDAN-NUMUNE HASTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10013",
+    "short": "1-D",
+    "long": "KÜMBET-R.T.E. BULVARI-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10020",
+    "short": "2-A",
+    "long": "ŞİRİNEVLER-BAĞDAT CAD.-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10021",
+    "short": "2-B",
+    "long": "ŞİRİNEVLER-MEYDAN-YENİŞEHİR-TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10022",
+    "short": "2-C",
+    "long": "ŞİRİNEVLER-MEYDAN-NUMUNE HASTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10023",
+    "short": "2-D",
+    "long": "ŞİRİNEVLER-R.T.E. BULVARI-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10030",
+    "short": "3-A",
+    "long": "YUMURTATEPE-BAĞDAT CAD.-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10031",
+    "short": "3-B",
+    "long": "YUMURTATEPE-MEYDAN-YENİŞEHİR-TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10032",
+    "short": "3-C",
+    "long": "YUMURTATEPE-MEYDAN-NUMUNE HASTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10033",
+    "short": "3-D",
+    "long": "YUMURTA TEPE-R.T.E. BULVARI-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10034",
+    "short": "3-E",
+    "long": "YUMURTATEPE-Y ŞEHİR-TERMİNAL-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10040",
+    "short": "4-A",
+    "long": "KARŞIYAKA-BAĞDAT CAD.-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10041",
+    "short": "4-B",
+    "long": "KARŞIYAKA-ESENYURT-AVM-MEYDAN-YENİŞEHİR-TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10042",
+    "short": "4-C",
+    "long": "KARŞIYAKA-ESENYURT-AVM-MEYDAN-NUMUNE HASTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10043",
+    "short": "4-D",
+    "long": "KARŞIYAKA-ESENYURT-AVM-R.T.E. BULVARI-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10050",
+    "short": "5-A",
+    "long": "ESENYURT-KARŞIYAKA-AVM-BAĞDAT CAD.-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10051",
+    "short": "5-B",
+    "long": "ESENYURT-KARŞIYAKA-AVM-MEYDAN-YENİŞEHİR-TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10052",
+    "short": "5-C",
+    "long": "ESENYURT-KARŞIYAKA-AVM-MEYDAN-NUMUNE HASTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10053",
+    "short": "5-D",
+    "long": "ESENYURT-KARŞIYAKA-AVM-R.T.E. BULVARI-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10060",
+    "short": "6-A",
+    "long": "POLİS LOJ.-TOKİ-MEYDAN-YENİŞEHİR-TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10061",
+    "short": "6-B",
+    "long": "POLİS LOJ.-NUMUNE HAS.-TOKİ-MEYDAN-YENİŞEHİR-TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10062",
+    "short": "6-C",
+    "long": "POLİS-NUMUNE-TOKİ-HAMİDİYE-MEYDAN-YENİŞEHİR-TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10063",
+    "short": "6-D",
+    "long": "POLİS LOJMANLARI-TOKİ-R.T.E. BULVARI-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10070",
+    "short": "7-A",
+    "long": "POLİSLOJ.-AVM-TOKİ-BAĞDAT CAD.-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10071",
+    "short": "7-B",
+    "long": "POLİS LOJ.-AVM-TOKİ-MEYDAN-NUMUNE HASTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10072",
+    "short": "7-C",
+    "long": "POLİS-LOJ-AVM-TOKİ-HAMİDİYE-MEYDAN-NUMUNE HASTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10073",
+    "short": "7-D",
+    "long": "POLİS LOJMANLARI-AVM-TOKİ-R.T.E. BULVARI-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10080",
+    "short": "8-B",
+    "long": "TOKİ - 3.ETAP-MEYDAN-YENİŞEHİR-TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10081",
+    "short": "8-C",
+    "long": "TOKİ - 3.ETAP-MEYDAN-NUMUNE HASTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10090",
+    "short": "9-A",
+    "long": "AYDOĞAN - FATİH-BAĞDAT CAD. - ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10091",
+    "short": "9-B",
+    "long": "AYDOĞAN - FATİH-MEYDAN - YENİŞEHİR - TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10092",
+    "short": "9-C",
+    "long": "AYDOĞAN - FATİH-MEYDAN - NUMUNE HASTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10093",
+    "short": "9-D",
+    "long": "AYDOĞAN-FATİH-R.T.E. BULVARI-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10100",
+    "short": "10-A",
+    "long": "CUMARTESİ - TÜRK-İŞ-BAĞDAT CAD. - ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10101",
+    "short": "10-B",
+    "long": "CUMARTESİ - TÜRK-İŞ-MEYDAN - YENİŞEHİR - TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10102",
+    "short": "10-C",
+    "long": "CUMARTESİ - TÜRK-İŞ-MEYDAN - NUMUNE HASTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10103",
+    "short": "10-D",
+    "long": "CUMARTESİ-TÜRK-İŞ-R.T.E. BULVARI-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10110",
+    "short": "11-A",
+    "long": "BÜLBÜLLER-BAĞDAT CAD.-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10111",
+    "short": "11-B",
+    "long": "BÜLBÜLLER-İSTASYON CAD.-TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10112",
+    "short": "11-C",
+    "long": "BÜLBÜLLER-MEYDAN - NUMUNE HASTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10113",
+    "short": "11-D",
+    "long": "BÜLBÜLLER-R.T.E. BULVARI-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10114",
+    "short": "11-E",
+    "long": "BÜLBÜLLER-İSTA. CAD.-TERMİNAL-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10120",
+    "short": "12-A",
+    "long": "ÇİÇEKLİ-ESENTEPE-BAĞDAT CAD. - ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10121",
+    "short": "12-B",
+    "long": "ÇİÇEKLİ-ESENTEPE-MEYDAN - YENİŞEHİR - TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10122",
+    "short": "12-C",
+    "long": "ÇİÇEKLİ-ESENTEPE-MEYDAN - NUMUNE HASTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10123",
+    "short": "12-D",
+    "long": "ÇİÇEKLİ-ESENTEPE-R.T.E. BULVARI-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10130",
+    "short": "13-B",
+    "long": "TİCARET LİSESİ-ESENTEPE-İSTASYON CAD.-TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10131",
+    "short": "13-C",
+    "long": "TİCARET LİSESİ-ESENTEPE-MEYDAN-NUMUNE HASTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10132",
+    "short": "13-D",
+    "long": "TİCARET LİSESİ-ESENTEPE-R.T.E. BULVARI-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10133",
+    "short": "13-E",
+    "long": "TİCARET LİSESİ-ESENTEPE-İST.CAD.-TERMİNAL-LOJ.-ÜNİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10140",
+    "short": "14-A",
+    "long": "YİĞİTLER-VEFA KONUTLARI-TOKİ-BAĞDAT CAD. - ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10141",
+    "short": "14-B",
+    "long": "YİĞİTLER-VEFA KONUTLARI-TOKİ-İSTASYON CAD.-TERMİNAL-C.ÜNİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10142",
+    "short": "14-C",
+    "long": "YİĞİTLER-VEFA KONUTLARI-TOKİ-MEYDAN-NUMUNE HSTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10143",
+    "short": "14-D",
+    "long": "YİĞİTLER-VEFA KONUTLARI-TOKİ-R.T.E. BULVARI-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10144",
+    "short": "14-E",
+    "long": "YİĞİTLER VEFA KONUTLARI -TOKİ-İSTAS.CAD.-TERMİNAL-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10150",
+    "short": "15-A",
+    "long": "İHRAMCIZADE İ.H.L-BAĞDAT CAD.-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10151",
+    "short": "15-B",
+    "long": "HRAMCIZADE - İ.H.L-İSTASYON CAD.-TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10152",
+    "short": "15-C",
+    "long": "İHRAMCIZADE - İ.H.L-MEYDAN - NUMUNE HASTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10153",
+    "short": "15-D",
+    "long": "İHRAMCIZADE-İ.H.L.-R.T.E. BULVARI-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10154",
+    "short": "15-E",
+    "long": "İHRAMCIZADE - İ.H.L.-İSTAS CAD.-TERMİNAL-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10160",
+    "short": "16-A",
+    "long": "GÜLYURT-BAĞDAT CAD. - ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10161",
+    "short": "16-B",
+    "long": "GÜLYURT-İSTASYON CAD.-TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10162",
+    "short": "16-C",
+    "long": "GÜLYURT-MEYDAN - NUMUNE HASTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10163",
+    "short": "16-D",
+    "long": "GÜLYURT-R.T.E. BULVARI-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10164",
+    "short": "16-E",
+    "long": "GÜLYURT-İSTAS.CAD.-TERMİNAL-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10170",
+    "short": "17-A",
+    "long": "GÜLYURT-BAYTEM-BAĞDAT CAD.-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10171",
+    "short": "17-B",
+    "long": "GÜLYURT-BAYTEM-İSTASYON CAD.-TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10172",
+    "short": "17-C",
+    "long": "GÜLYURT-BAYTEM-MEYDAN - NUMUNE HASTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10173",
+    "short": "17-D",
+    "long": "GÜLYURT-BAYTEM-R.T.E. BULVARI-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10174",
+    "short": "17-E",
+    "long": "GÜLYURT-BAYTEM-İSTAS CAD.-TERMİNAL-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10180",
+    "short": "18-A",
+    "long": "NUM.HAS-TOKİ-EĞRİ KÖP.-ÜNİ-TOKİ-NUMUNE HAS.-SARAYBOSNA",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10181",
+    "short": "18-B",
+    "long": "NUMUNE HASTANESİ-SARAYBOSNA",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10182",
+    "short": "18-C",
+    "long": "NUMUNE HASTANESİ-EMNİYET TOKİ-SARAYBOSNA",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10190",
+    "short": "19-A",
+    "long": "ATASANAYİ-SARAYBOSNA",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10191",
+    "short": "19-B",
+    "long": "ATASANAYİ-YEŞİLYURT-SARAYBOSNA",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10192",
+    "short": "19-C",
+    "long": "NUMUNE HAS.-YEŞİLYURTQ-SARAYBOSNA",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10200",
+    "short": "20-A",
+    "long": "ALİBABA-BAĞDAT CADDESİ - ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10201",
+    "short": "20-B",
+    "long": "ALİBABA-MEYDAN - YENİŞEHİR - TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10202",
+    "short": "20-C",
+    "long": "ALİBABA-MEYDAN - NUMUNE HASTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10203",
+    "short": "20-D",
+    "long": "ALİBABA-R.T.E. BULVARI-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10210",
+    "short": "21-A",
+    "long": "MEVLANA-BAĞDAT CADDESİ - ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10211",
+    "short": "21-B",
+    "long": "MEVLANA-İSTASYON CAD.-TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10212",
+    "short": "21-C",
+    "long": "MEVLANA-MEYDAN - NUMUNE HASTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10213",
+    "short": "21-D",
+    "long": "MEVLANA-R.T.E. BULVARI-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10214",
+    "short": "21-E",
+    "long": "MEVLANA-İSTA. CAD.-TERMİNAL-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10220",
+    "short": "22-B",
+    "long": "ÇAYBOYU-MEYDAN - YENİŞEHİR - TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10221",
+    "short": "22-C",
+    "long": "ÇAYBOYU-MEYDAN - NUMUNE HASTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10230",
+    "short": "23-A",
+    "long": "GÜLTEPE-OKULLAR-ADLİYE-AVM-BAĞDAT CAD. - ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10231",
+    "short": "23-B",
+    "long": "GÜLTEPE-OKULLAR-ADLİYE-AVM-MEYDAN - YENİŞEHİR - TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10232",
+    "short": "23-C",
+    "long": "GÜLTEPE-OKULLAR-ADLİYE-AVM-MEYDAN - NUMUNE HASTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10233",
+    "short": "23-D",
+    "long": "GÜLTEPE -OKULLAR-ADLİE -AVM-R.T.E. BULVARI-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10240",
+    "short": "24-A",
+    "long": "4 EYLÜL SAN.-TOPTANCI-TERMİNAL-İSTASYON CAD.-SARAYBOSNA",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10241",
+    "short": "24-B",
+    "long": "TERMİNAL-GALERİCİLER",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10250",
+    "short": "25-A",
+    "long": "ORGANİZE-SARAYBOSNA",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10251",
+    "short": "25-B",
+    "long": "ORGANİZE-UZUNTEPE-SARAYBOSNA",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10252",
+    "short": "25-C",
+    "long": "UZUNTEPE-SARAYBOSNA",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10253",
+    "short": "26-A",
+    "long": "DİKİLİTAŞ-NURİ DEMİRAĞ O.S.B.",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10260",
+    "short": "40-A",
+    "long": "KYK RİNG-KYK RİNG",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10270",
+    "short": "41-A",
+    "long": "KAMPÜS RİNG-KAMPÜS RİNG",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10280",
+    "short": "42-A",
+    "long": "SOĞUK ÇERMİK-MEYDAN - YENİŞEHİR - TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10290",
+    "short": "43-A",
+    "long": "SICAK ÇERMİK-MEYDAN - YENİŞEHİR - TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10300",
+    "short": "44-A",
+    "long": "PAŞABAHÇE-MEYDAN - YENİŞEHİR - TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10310",
+    "short": "45-A",
+    "long": "STADYUM-MEYDAN",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10320",
+    "short": "46-A",
+    "long": "ESKİ ADLİYE ARKASI-ESKİ ADLİYE ARKASI",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10330",
+    "short": "46-B",
+    "long": "MEYDAN-MEYDAN",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10340",
+    "short": "46-C",
+    "long": "HALFELİK-HALFELİK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10350",
+    "short": "46-D",
+    "long": "SARAYBOSNA-SARAYBOSNA",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10360",
+    "short": "46-E",
+    "long": "DİKİLİTAŞ-DİKİLİTAŞ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10370",
+    "short": "46-F",
+    "long": "KYK-BİLİM TEKNOLOJİ ÜNİVERSİTESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  }
+]

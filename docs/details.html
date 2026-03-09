@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MAP_VIEWER | KK-GTFS</title>
+    <link rel="manifest" href="manifest.json" />
+    <meta name="theme-color" content="#000080" />
+    <link rel="apple-touch-icon" href="icon-192.png" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚌</text></svg>"
+    />
+  </head>
+  <body class="detail-page">
+    <div class="container" style="padding-top: 20px">
+      <aside class="sidebar win-outset">
+        <a
+          href="index.html"
+          class="back-link"
+          style="color: #00ffff; font-size: 0.8rem; text-decoration: none; margin-bottom: 10px; display: block"
+          >[ BACK ]</a
+        >
+        <h1 id="cityName" style="font-size: 1.2rem; background: #555; padding: 4px; margin-bottom: 5px">LOADING...</h1>
+        <div id="cityStats" class="stat-pills" style="margin-bottom: 15px"></div>
+
+        <div class="tabs">
+          <button class="tab-btn active" data-tab="route">ROUTES</button>
+          <button class="tab-btn" data-tab="stop">STOPS</button>
+        </div>
+
+        <div class="search-bar win-inset" style="margin-bottom: 10px">
+          <input type="text" id="sidebarSearch" placeholder="FILTER:*.*" />
+        </div>
+
+        <div id="routeList" class="data-list tab-content active"></div>
+        <div id="stopList" class="data-list tab-content"></div>
+
+        <div id="detailLoading" class="loading">
+          <p>READING DATA...</p>
+        </div>
+      </aside>
+
+      <main id="map" class="win-inset"></main>
+
+      <!-- Timetable Window Overlay (Outside map for filter isolation) -->
+      <div id="timetableWindow" class="win-overlay win-outset">
+        <div class="win-titlebar">
+          <span id="timetableTitle">SCHEDULE_VIEW</span>
+          <div style="display: flex; gap: 4px; align-items: center">
+            <button
+              id="reverseBtn"
+              class="win-outset"
+              style="
+                background: var(--gray-face);
+                color: white;
+                border: 1px solid #fff;
+                padding: 0 4px;
+                font-size: 0.6rem;
+                cursor: pointer;
+              "
+            >
+              REV
+            </button>
+            <div class="close-btn" onclick="document.getElementById('timetableWindow').style.display = 'none'">X</div>
+          </div>
+        </div>
+        <div id="timetableContent" class="win-content win-inset">Select a route to view schedule.</div>
+      </div>
+    </div>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="app.js"></script>
+  </body>
+</html>

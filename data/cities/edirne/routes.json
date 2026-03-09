@@ -1,0 +1,135 @@
+[
+  {
+    "id": "22011",
+    "short": "1A",
+    "long": "GAZİMİHAL-SERAKENT",
+    "color": "FFF40F",
+    "text_color": "FFF40F"
+  },
+  {
+    "id": "22031",
+    "short": "1F",
+    "long": "GAZİMİHAL-ECZACILIK FAKÜLTESİ",
+    "color": "FFF40F",
+    "text_color": "FFF40F"
+  },
+  {
+    "id": "22041",
+    "short": "1G",
+    "long": "GAR-OTOGAR",
+    "color": "FFF40F",
+    "text_color": "FFF40F"
+  },
+  {
+    "id": "22001",
+    "short": "1T",
+    "long": "GAZİMİHAL-OTOGAR",
+    "color": "FFF40F",
+    "text_color": "FFF40F"
+  },
+  {
+    "id": "22002",
+    "short": "2A",
+    "long": "PAZARTESİ PAZARI-OTOGAR",
+    "color": "FF0000",
+    "text_color": "FF0000"
+  },
+  {
+    "id": "22012",
+    "short": "2B",
+    "long": "PAZARTESİ PAZARI-OTOGAR",
+    "color": "FF0000",
+    "text_color": "FF0000"
+  },
+  {
+    "id": "22003",
+    "short": "3",
+    "long": "GAZİMİHAL-OTOGAR",
+    "color": "2EFF00",
+    "text_color": "2EFF00"
+  },
+  {
+    "id": "22013",
+    "short": "3A",
+    "long": "SARAYİÇİ YERLEŞKE-OTOGAR",
+    "color": "2EFF00",
+    "text_color": "2EFF00"
+  },
+  {
+    "id": "22023",
+    "short": "3C",
+    "long": "FEN LİSESİ-OTOGAR",
+    "color": "2EFF00",
+    "text_color": "2EFF00"
+  },
+  {
+    "id": "22004",
+    "short": "4",
+    "long": "İSTASYON-GAZİMİHAL",
+    "color": "000000",
+    "text_color": "000000"
+  },
+  {
+    "id": "22005",
+    "short": "5A",
+    "long": "GAZİMİHAL-OTOGAR",
+    "color": "0014FF",
+    "text_color": "0014FF"
+  },
+  {
+    "id": "22015",
+    "short": "5B",
+    "long": "SULTAN ÇELEBİ KYK-SULTAN 1. MURAT DEVLET H.",
+    "color": "0014FF",
+    "text_color": "0014FF"
+  },
+  {
+    "id": "22006",
+    "short": "6",
+    "long": "F TİPİ CEZAEVİ-TREDAŞ",
+    "color": "7FFFF9",
+    "text_color": "7FFFF9"
+  },
+  {
+    "id": "22016",
+    "short": "6A",
+    "long": "SULTAN ÇELEBİ MEHMET KYK-FEN LİSESİ",
+    "color": "7FFFF9",
+    "text_color": "7FFFF9"
+  },
+  {
+    "id": "22026",
+    "short": "6B",
+    "long": "ROLE-PAZARTESİ PAZARI",
+    "color": "7FFFF9",
+    "text_color": "7FFFF9"
+  },
+  {
+    "id": "22007",
+    "short": "7",
+    "long": "GAZİMİHAL-SULTAN 1. MURAT DEVLET H.",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "22017",
+    "short": "7A",
+    "long": "SULTAN ÇELEBİ MEHMET KYK-ECZACILIK FAKÜLTESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "22027",
+    "short": "7E",
+    "long": "SULTAN ÇELEBİ MEHMET KYK-OTOGAR",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "22009",
+    "short": "K1",
+    "long": "ECZACILIK FAKÜLTESİ-SABANCI",
+    "color": "FFB2FB",
+    "text_color": "FFB2FB"
+  }
+]

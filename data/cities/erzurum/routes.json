@@ -1,0 +1,415 @@
+[
+  {
+    "id": "10500",
+    "short": "A1",
+    "long": "HAVALİMANI SERVİSLERİ KALKIŞ NOKTASI-HAVALİMANI",
+    "color": "9ef4ff",
+    "text_color": "null"
+  },
+  {
+    "id": "10010",
+    "short": "B1",
+    "long": "ILICA-GÜRCÜKAPI YAKUTİYE 35 NOLU DURAĞI",
+    "color": "9696c0",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10020",
+    "short": "B2",
+    "long": "DADAŞKENT-GÜRCÜKAPI YAKUTİYE 35 NOLU DURAĞI",
+    "color": "9696c0",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10030",
+    "short": "B2/A",
+    "long": "DADAŞKENT-DADAŞ SİNEMASI YAKUTİYE 60 NOLU DURAĞI",
+    "color": "9696c0",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10040",
+    "short": "B3",
+    "long": "DADAŞKENT-GÜRCÜKAPI YAKUTİYE 35 NOLU DURAĞI",
+    "color": "9696c0",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10080",
+    "short": "B7",
+    "long": "ILICA-ŞEHİR HASTANESİ PALANDÖKEN 65 NOLU DURAĞI",
+    "color": "9696c0",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10100",
+    "short": "D1",
+    "long": "YILDIZKENT-MAKSUT EFENDİ",
+    "color": "ffa200",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10110",
+    "short": "D2",
+    "long": "İSTASYON-CANLI HAYVAN PAZARI",
+    "color": "ffa200",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10120",
+    "short": "G1",
+    "long": "KAYAKYOLU-ÜNİVERSİTE",
+    "color": "5ccbf0",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10408",
+    "short": "G1-A",
+    "long": "20242 - KAYAKYOLU SEVK İDARE-20248 - KAYAKYOLU SEVK İDARE -1",
+    "color": "5ccbf0",
+    "text_color": "ffffff"
+  },
+  {
+    "id": "10220",
+    "short": "G10",
+    "long": "KAYAKYOLU-ŞEHİR HST.",
+    "color": "5ccbf0",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10240",
+    "short": "G11",
+    "long": "İSTASYON-PALANDÖKEN",
+    "color": "5ccbf0",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10409",
+    "short": "G13",
+    "long": "30151 - İSTASYON SEVK İDARE MERKEZİ-30362 - ÇAT",
+    "color": "5ccbf0",
+    "text_color": "ffffff"
+  },
+  {
+    "id": "10260",
+    "short": "G14",
+    "long": "HİLALKENT SEVK İDARE-HİLALKENT SEVK İDARE -1",
+    "color": "5ccbf0",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10130",
+    "short": "G2",
+    "long": "KAYAKYOLU SEVK İDARE-ŞEHİR HASTANESİ PALANDÖKEN 65 NOLU DURAĞI",
+    "color": "5ccbf0",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10140",
+    "short": "G3",
+    "long": "KAYAKYOLU-MAHALLEBAŞI",
+    "color": "5ccbf0",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10150",
+    "short": "G4",
+    "long": "DADAŞKENT-30187 - EDEBİYAT FAK. YAKUTİYE 114 NOLU DURAĞI",
+    "color": "5ccbf0",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10160",
+    "short": "G4/A",
+    "long": "İSTASYON-MNG AVM YAKUTİYE 159 NOLU DURAĞI",
+    "color": "5ccbf0",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10550",
+    "short": "G4/B",
+    "long": "30110 - MEZARLIK SEVK İDARE-30202 - ANFİLER YAKUTİYE 104 NOLU DURAĞI",
+    "color": "5ccbf0",
+    "text_color": "ffffff"
+  },
+  {
+    "id": "10170",
+    "short": "G5",
+    "long": "KAYAKYOLU-YONCALIK",
+    "color": "5ccbf0",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10180",
+    "short": "G6",
+    "long": "EMNİYET TOKİLER-PALANDÖKEN 45 NOLU DURAĞI",
+    "color": "5ccbf0",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10190",
+    "short": "G7",
+    "long": "Y. KENT-EMNİYET TOKİLER",
+    "color": "5ccbf0",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10070",
+    "short": "G7/A",
+    "long": "YILDIZKENT-ETÜ",
+    "color": "5ccbf0",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10200",
+    "short": "G8",
+    "long": "İSTASYON-DUTÇU",
+    "color": "5ccbf0",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10210",
+    "short": "G9",
+    "long": "H. KENT-ŞEHİR HST.",
+    "color": "5ccbf0",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10270",
+    "short": "K1",
+    "long": "DADAŞKÖY-ŞEHİR HST.",
+    "color": "",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10480",
+    "short": "K1/A",
+    "long": "30326 - DADAŞKÖY YAKUTİYE 264 NOLU DURAĞI-20019 - ŞEHİR HASTANESİ PALANDÖKEN 66 NOLU DURAĞI",
+    "color": "000000",
+    "text_color": "ffffff"
+  },
+  {
+    "id": "10370",
+    "short": "K10",
+    "long": "YAKUTİYE 01 NOLU DURAĞI-MNG AVM YAKUTİYE 159 NOLU DURAĞI",
+    "color": "",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10380",
+    "short": "K11",
+    "long": "İSTASYON YAKUTİYE 284 NOLU DURAĞI-TEKSTİLKENT YAKUTİYE 260 NOLU DURAĞI",
+    "color": "",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10280",
+    "short": "K2",
+    "long": "ŞIH KÖYÜ YAKUTİYE 235 NOLU DURAĞI-ŞEHİR HASTANESİ PALANDÖKEN 65 NOLU DURAĞI",
+    "color": "",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10290",
+    "short": "K3",
+    "long": "HİLALKENT-ÜNİVERSİTE",
+    "color": "",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10300",
+    "short": "K4",
+    "long": "EMNİYET TOKİLER-OTOGAR",
+    "color": "",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10430",
+    "short": "K5",
+    "long": "20000 - YILDIZKENT SEVK İDARE-30143 - TEBRİZKAPI YAKUTİYE 242 NOLU DURAĞI",
+    "color": "5d5d5d",
+    "text_color": "ffffff"
+  },
+  {
+    "id": "10320",
+    "short": "K6",
+    "long": "YILDIZKENT SEVK İDARE-YAKUTİYE 252 NOLU DURAĞI",
+    "color": "",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10330",
+    "short": "K7",
+    "long": "HİLALKENT-ÇAT YOLU TOKİLER PALANDÖKEN 45 NOLU DURAĞI",
+    "color": "",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10340",
+    "short": "K7/A",
+    "long": "HİLALKENT-ÇAT YOLU TOKİLER PALANDÖKEN 45 NOLU DURAĞI",
+    "color": "",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10404",
+    "short": "M1",
+    "long": "10001 - AZİZİYE 01 NOLU DURAĞI-10004 - ŞEKER FABRİKASI AZİZİYE 04 NOLU DURAĞI",
+    "color": "5d5d5d",
+    "text_color": "FBDEFE"
+  },
+  {
+    "id": "10403",
+    "short": "M10",
+    "long": "YEŞİLDERE-ŞENYURT",
+    "color": "5d5d5d",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10360",
+    "short": "M11",
+    "long": "İSTASYON-ÇİFTLİK MAH.",
+    "color": "5d5d5d",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10405",
+    "short": "M12",
+    "long": "30345 - İSTASYON SEVK İDARE -1-30349 - GÜZELYURT DURAĞI",
+    "color": "5d5d5d",
+    "text_color": "ffffff"
+  },
+  {
+    "id": "10406",
+    "short": "M13 ",
+    "long": "30345 - İSTASYON SEVK İDARE -1",
+    "color": "5d5d5d",
+    "text_color": "ffffff"
+  },
+  {
+    "id": "10407",
+    "short": "M14 ",
+    "long": "30151 - İSTASYON SEVK İDARE MERKEZİ",
+    "color": "5d5d5d",
+    "text_color": "ffffff"
+  },
+  {
+    "id": "10410",
+    "short": "M15",
+    "long": "30151 - İSTASYON SEVK İDARE MERKEZİ-10177 - EĞERTİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "10420",
+    "short": "M16",
+    "long": "30151 - İSTASYON SEVK İDARE MERKEZİ-30365 - DEREBOĞAZI",
+    "color": "5d5d5d",
+    "text_color": "ffffff"
+  },
+  {
+    "id": "10440",
+    "short": "M17",
+    "long": "30345 - İSTASYON SEVK İDARE -1",
+    "color": "5d5d5d",
+    "text_color": ""
+  },
+  {
+    "id": "10660",
+    "short": "M18",
+    "long": "30151 - İSTASYON SEVK İDARE MERKEZİ-10172 - ILICA SEVK İDARE -1",
+    "color": "9696c0",
+    "text_color": "ffffff"
+  },
+  {
+    "id": "10661",
+    "short": "M19",
+    "long": "30151 - İSTASYON SEVK İDARE MERKEZİ-38128 - UZUNAHMET",
+    "color": "9696c0",
+    "text_color": "ffffff"
+  },
+  {
+    "id": "10050",
+    "short": "M2",
+    "long": "ÇİĞDEMLİ-DEMİRGEÇİT",
+    "color": "5d5d5d",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10060",
+    "short": "M3",
+    "long": "YARIMCA-SÖĞÜTLÜ",
+    "color": "9696c0",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10250",
+    "short": "M4",
+    "long": "BÖREKLİ-KONAKLI",
+    "color": "5d5d5d",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10390",
+    "short": "M5",
+    "long": "İKÖSEMEHMET-ÇAYIRTEPE",
+    "color": "5d5d5d",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10400",
+    "short": "M6",
+    "long": "GÜZELOVA-GÜZELOVA",
+    "color": "5d5d5d",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10350",
+    "short": "M7",
+    "long": "DUMLU-DUMLU",
+    "color": "5d5d5d",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10401",
+    "short": "M8",
+    "long": "MURATGELDİ-GÜLPINARI",
+    "color": "5d5d5d",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10402",
+    "short": "M9",
+    "long": "SÖĞÜTYANI-KÖŞKKÖY",
+    "color": "5d5d5d",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10450",
+    "short": "NA1",
+    "long": "30345 - İSTASYON SEVK İDARE -1",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "10460",
+    "short": "NA2",
+    "long": "30345 - İSTASYON SEVK İDARE -1",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "10470",
+    "short": "NAO",
+    "long": "30345 - İSTASYON SEVK İDARE -1",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "99001",
+    "short": "T6",
+    "long": "10001 - AZİZİYE 01 NOLU DURAĞI-10002 - AZİZİYE 02 NOLU DURAĞI",
+    "color": "",
+    "text_color": ""
+  }
+]

@@ -8,6 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pages: write
+      id-token: write
 
     steps:
       - name: Checkout repository
@@ -19,11 +21,26 @@ jobs:
       - name: Run GTFS Generator
         run: uv run kk-gtfs.py --force
 
+      - name: Generate Metadata
+        run: uv run scripts/generate_metadata.py
+
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Automated GTFS data update"
-          file_pattern: "data/*.zip"
+          commit_message: "Automated GTFS data and metadata update"
+          file_pattern: "data/*.zip data/metadata.json data/cities/**"
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "./"
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
 
       - name: Setup Java
         uses: actions/setup-java@v4

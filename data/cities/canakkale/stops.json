@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "2",
+    "name": "Beldemiz",
+    "lat": 40.1156819,
+    "lon": 26.4126497
+  },
+  {
+    "id": "3",
+    "name": "Ösem",
+    "lat": 40.1112597,
+    "lon": 26.417916
+  },
+  {
+    "id": "4",
+    "name": "KİPA",
+    "lat": 40.1140768,
+    "lon": 26.4082136
+  },
+  {
+    "id": "5",
+    "name": "ALTIN YILLAR",
+    "lat": 40.1216914,
+    "lon": 26.4132271
+  },
+  {
+    "id": "6",
+    "name": "İL ÖZEL İDARE",
+    "lat": 40.120542,
+    "lon": 26.4105532
+  },
+  {
+    "id": "7",
+    "name": "17 BURDA ALIŞ VERİŞ MERKEZİ",
+    "lat": 40.1237959,
+    "lon": 26.4102517
+  },
+  {
+    "id": "8",
+    "name": "TROYA PARK ALIŞ VERİŞ MERKEZİ",
+    "lat": 40.1275897,
+    "lon": 26.4101753
+  },
+  {
+    "id": "9",
+    "name": "TURKUAZ SİTESİ",
+    "lat": 40.1307919,
+    "lon": 26.4093192
+  },
+  {
+    "id": "10",
+    "name": "BADEM SOKAK",
+    "lat": 40.1365278,
+    "lon": 26.4203994
+  },
+  {
+    "id": "11",
+    "name": "HALK KÜTÜPHANESİ",
+    "lat": 40.1348086,
+    "lon": 26.4088539
+  },
+  {
+    "id": "12",
+    "name": "BARBAROS OKULU",
+    "lat": 40.1377076,
+    "lon": 26.408476
+  },
+  {
+    "id": "13",
+    "name": "BARBAROS POLİKLİNİĞİ",
+    "lat": 40.1397079,
+    "lon": 26.4082369
+  },
+  {
+    "id": "14",
+    "name": "İBRAHİM BODUR LİSESİ",
+    "lat": 40.1420043,
+    "lon": 26.4079199
+  },
+  {
+    "id": "15",
+    "name": "CUMA PAZARI",
+    "lat": 40.144532,
+    "lon": 26.4076424
+  },
+  {
+    "id": "16",
+    "name": "ADİLE NAŞİT KREŞİ",
+    "lat": 40.095028,
+    "lon": 26.3887148
+  },
+  {
+    "id": "17",
+    "name": "CUMHURİYET MEYDANI",
+    "lat": 40.1481084,
+    "lon": 26.4051997
+  },
+  {
+    "id": "18",
+    "name": "İSKELE",
+    "lat": 40.1502179,
+    "lon": 26.4031012
+  },
+  {
+    "id": "19",
+    "name": "VELİBEY SOKAK",
+    "lat": 40.1545821,
+    "lon": 26.4153512
+  },
+  {
+    "id": "20",
+    "name": "MESLEK LİSESİ",
+    "lat": 40.15156,
+    "lon": 26.40872
+  },
+  {
+    "id": "21",
+    "name": "İŞKUR",
+    "lat": 40.1530229,
+    "lon": 26.4100743
+  },
+  {
+    "id": "22",
+    "name": "ANAFARTALAR KAMPÜSÜ",
+    "lat": 40.155079,
+    "lon": 26.41188
+  },
+  {
+    "id": "23",
+    "name": "SERAMİK MÜZESİ",
+    "lat": 40.156905,
+    "lon": 26.41355
+  },
+  {
+    "id": "24",
+    "name": "ŞEHİTLER CAMİ",
+    "lat": 40.1598591,
+    "lon": 26.4146291
+  },
+  {
+    "id": "25",
+    "name": "Karacaören Caddesi 7",
+    "lat": 40.1618762,
+    "lon": 26.4319464
+  },
+  {
+    "id": "26",
+    "name": "HAVUZ",
+    "lat": 40.1625,
+    "lon": 26.4100083
+  },
+  {
+    "id": "27",
+    "name": "BARIŞKENT",
+    "lat": 40.1646071,
+    "lon": 26.4098565
+  },
+  {
+    "id": "28",
+    "name": "VAHİT TUNA LİSESİ",
+    "lat": 40.1663012,
+    "lon": 26.4105923
+  },
+  {
+    "id": "29",
+    "name": "Karacaören Caddesi",
+    "lat": 40.162235,
+    "lon": 26.4319035
+  },
+  {
+    "id": "30",
+    "name": "Gazi Meclisi Caddesi 1",
+    "lat": 40.1675128,
+    "lon": 26.4298221
+  },
+  {
+    "id": "31",
+    "name": "İSTEK YAPI KOOPERATİFİ",
+    "lat": 40.1687729,
+    "lon": 26.4163883
+  },
+  {
+    "id": "32",
+    "name": "BARIŞ CADDESİ",
+    "lat": 40.1703138,
+    "lon": 26.4243855
+  },
+  {
+    "id": "33",
+    "name": "ŞEHİT.ONB. FATİH DURU",
+    "lat": 40.1317606,
+    "lon": 26.4163228
+  },
+  {
+    "id": "34",
+    "name": "ATAM KREŞ",
+    "lat": 40.1345208,
+    "lon": 26.4184656
+  },
+  {
+    "id": "35",
+    "name": "BARIŞ CADDESİ 1",
+    "lat": 40.1713291,
+    "lon": 26.4263859
+  },
+  {
+    "id": "36",
+    "name": "ESENKENT SİTESİ",
+    "lat": 40.1609788,
+    "lon": 26.424162
+  },
+  {
+    "id": "37",
+    "name": "BARIŞ CADDESİ 2",
+    "lat": 40.1726435,
+    "lon": 26.4287195
+  },
+  {
+    "id": "38",
+    "name": "HUZUR SOKAK",
+    "lat": 40.15545,
+    "lon": 26.42194
+  },
+  {
+    "id": "39",
+    "name": "ÇAĞDAŞ KENT",
+    "lat": 40.152743,
+    "lon": 26.420908
+  },
+  {
+    "id": "40",
+    "name": "ÇEVRE ŞEH. BAKANLIĞI",
+    "lat": 40.152115,
+    "lon": 26.419322
+  },
+  {
+    "id": "41",
+    "name": "PİRİ REİS",
+    "lat": 40.152832,
+    "lon": 26.416632
+  },
+  {
+    "id": "42",
+    "name": "DÖRT YOL",
+    "lat": 40.152955,
+    "lon": 26.413541
+  },
+  {
+    "id": "43",
+    "name": "STADYUM",
+    "lat": 40.15143,
+    "lon": 26.412357
+  },
+  {
+    "id": "44",
+    "name": "ESKİ HASTANE",
+    "lat": 40.1488279,
+    "lon": 26.4103574
+  },
+  {
+    "id": "45",
+    "name": "ASKERLİK ŞUBESİ",
+    "lat": 40.146037,
+    "lon": 26.408009
+  },
+  {
+    "id": "46",
+    "name": "CUMA PAZARI",
+    "lat": 40.14427,
+    "lon": 26.40733
+  },
+  {
+    "id": "47",
+    "name": "İBRAHİM BODUR LİSESİ",
+    "lat": 40.14192,
+    "lon": 26.40777
+  },
+  {
+    "id": "48",
+    "name": "BARBAROS POLİKLİNİĞİ",
+    "lat": 40.13975,
+    "lon": 26.40799
+  },
+  {
+    "id": "49",
+    "name": "BARBAROS İLKOKULU",
+    "lat": 40.137375,
+    "lon": 26.408325
+  },
+  {
+    "id": "50",
+    "name": "HALK KÜTÜPHANESİ",
+    "lat": 40.134645,
+    "lon": 26.408649
+  },
+  {
+    "id": "51",
+    "name": "YENİ KORDON",
+    "lat": 40.131728,
+    "lon": 26.408974
+  },
+  {
+    "id": "374",
+    "name": "ÇINARLI KÖYÜ",
+    "lat": 40.05262,
+    "lon": 26.38828
+  },
+  {
+    "id": "373",
+    "name": "FEN LİSESİ",
+    "lat": 40.06627,
+    "lon": 26.38401
+  },
+  {
+    "id": "101",
+    "name": "ÇINARLI KÖY YOLU",
+    "lat": 40.0727385,
+    "lon": 26.3801184
+  },
+  {
+    "id": "396",
+    "name": "DARDANOS CAD.",
+    "lat": 40.0772441,
+    "lon": 26.377324
+  },
+  {
+    "id": "245",
+    "name": "ORMAN DEPOSU",
+    "lat": 40.0818844,
+    "lon": 26.3745984
+  },
+  {
+    "id": "246",
+    "name": "KEPEZ TOKİ",
+    "lat": 40.0931347,
+    "lon": 26.3900706
+  },
+  {
+    "id": "394",
+    "name": "TURİZM OTELCİLİK KEPEZ",
+    "lat": 40.0950481,
+    "lon": 26.3888233
+  },
+  {
+    "id": "399",
+    "name": "KEPEZ ÇAMLIK",
+    "lat": 40.0969112,
+    "lon": 26.387641
+  },
+  {
+    "id": "397",
+    "name": "KEPEZ HUZUREVİ",
+    "lat": 40.0985761,
+    "lon": 26.3867286
+  },
+  {
+    "id": "296",
+    "name": "DİŞ HASTANESİ",
+    "lat": 40.096656,
+    "lon": 26.390598
+  },
+  {
+    "id": "286",
+    "name": "BELEDİYE MEYDAN",
+    "lat": 40.095676,
+    "lon": 26.393557
+  },
+  {
+    "id": "287",
+    "name": "DUTLAR",
+    "lat": 40.097496,
+    "lon": 26.395104
+  },
+  {
+    "id": "288",
+    "name": "DURAK",
+    "lat": 40.099502,
+    "lon": 26.396693
+  },
+  {
+    "id": "289",
+    "name": "SEÇKİN DURAĞI",
+    "lat": 40.100704,
+    "lon": 26.397645
+  },
+  {
+    "id": "290",
+    "name": "OFİS",
+    "lat": 40.102886,
+    "lon": 26.399349
+  },
+  {
+    "id": "291",
+    "name": "YELTEPE",
+    "lat": 40.1054336,
+    "lon": 26.4013798
+  },
+  {
+    "id": "293",
+    "name": "BOĞAZKENT",
+    "lat": 40.109018,
+    "lon": 26.404231
+  },
+  {
+    "id": "294",
+    "name": "PİRİ REİS SİTELERİ",
+    "lat": 40.111144,
+    "lon": 26.405904
+  },
+  {
+    "id": "224",
+    "name": "SEYİT ONBAŞI",
+    "lat": 40.164564,
+    "lon": 26.414185
+  },
+  {
+    "id": "329",
+    "name": "UĞUR 96",
+    "lat": 40.1678518,
+    "lon": 26.4154615
+  },
+  {
+    "id": "327",
+    "name": "UGUR 96",
+    "lat": 40.1682915,
+    "lon": 26.4196695
+  },
+  {
+    "id": "315",
+    "name": "KUTLUAY SİTESİ",
+    "lat": 40.16739,
+    "lon": 26.4232426
+  },
+  {
+    "id": "423",
+    "name": "AHMET PİRİŞTİNA CADDESİ 5",
+    "lat": 40.1643417,
+    "lon": 26.4266682
+  },
+  {
+    "id": "404",
+    "name": "YILDIZ KENT SİTESİ",
+    "lat": 40.1619685,
+    "lon": 26.4289637
+  },
+  {
+    "id": "401",
+    "name": "KARACAÖREN CADDESİ 8",
+    "lat": 40.1596122,
+    "lon": 26.4279344
+  },
+  {
+    "id": "70",
+    "name": "IŞILAY SOKAK",
+    "lat": 40.1596011,
+    "lon": 26.4233315
+  },
+  {
+    "id": "322",
+    "name": "ESKİ SSK",
+    "lat": 40.15752,
+    "lon": 26.42066
+  },
+  {
+    "id": "98",
+    "name": "IŞILAY SK.",
+    "lat": 40.1595595,
+    "lon": 26.4230422
+  },
+  {
+    "id": "406",
+    "name": "KARACAÖREN CADDESİ 2",
+    "lat": 40.1589585,
+    "lon": 26.427266
+  },
+  {
+    "id": "403",
+    "name": "KENT YILDIZ SİTESİ",
+    "lat": 40.1623394,
+    "lon": 26.429224
+  },
+  {
+    "id": "424",
+    "name": "AHMET PİRİŞTİNA CD.",
+    "lat": 40.1647393,
+    "lon": 26.4268828
+  },
+  {
+    "id": "72",
+    "name": "ATAKALE SİTESİ",
+    "lat": 40.1685694,
+    "lon": 26.4199793
+  },
+  {
+    "id": "268",
+    "name": "RÜYAM SİTESİ",
+    "lat": 40.167683,
+    "lon": 26.4233109
+  },
+  {
+    "id": "74",
+    "name": "DEMOKRASİ CD.",
+    "lat": 40.167624,
+    "lon": 26.415337
+  },
+  {
+    "id": "75",
+    "name": "AHMET PİRİŞTİNA CADDESİ 3",
+    "lat": 40.1578295,
+    "lon": 26.4331483
+  },
+  {
+    "id": "76",
+    "name": "SEYİT ONBAŞI",
+    "lat": 40.164608,
+    "lon": 26.414428
+  },
+  {
+    "id": "78",
+    "name": "VAHİT TUNA LİSESİ",
+    "lat": 40.1662788,
+    "lon": 26.4101192
+  },
+  {
+    "id": "79",
+    "name": "BARIŞKENT",
+    "lat": 40.1641247,
+    "lon": 26.4098684
+  },
+  {
+    "id": "80",
+    "name": "HAVUZ",
+    "lat": 40.162003,
+    "lon": 26.4106545
+  },
+  {
+    "id": "81",
+    "name": "ÖMER MART İLKOKUL",
+    "lat": 40.1607977,
+    "lon": 26.4128809
+  },
+  {
+    "id": "82",
+    "name": "ŞEHİTLER CAMİ",
+    "lat": 40.1588983,
+    "lon": 26.4154621
+  },
+  {
+    "id": "83",
+    "name": "SERAMİK MÜZESİ",
+    "lat": 40.1569217,
+    "lon": 26.4133084
+  },
+  {
+    "id": "84",
+    "name": "ANAFARTALAR KAMPÜSÜ",
+    "lat": 40.1550475,
+    "lon": 26.4116202
+  },
+  {
+    "id": "86",
+    "name": "CEVATPAŞA PARKI",
+    "lat": 40.1517868,
+    "lon": 26.4087203
+  },
+  {
+    "id": "88",
+    "name": "İSKELE",
+    "lat": 40.1501811,
+    "lon": 26.4029206
+  },
+  {
+    "id": "89",
+    "name": "ÖĞRETMEN EVİ",
+    "lat": 40.148092,
+    "lon": 26.404966
+  },
+  {
+    "id": "54",
+    "name": "KIYI ALIŞ VERİŞ MERKEZİ",
+    "lat": 40.1234128,
+    "lon": 26.410055
+  },
+  {
+    "id": "55",
+    "name": "İL ÖZEL İDARE",
+    "lat": 40.1204383,
+    "lon": 26.4103321
+  },
+  {
+    "id": "57",
+    "name": "KİPA",
+    "lat": 40.113892,
+    "lon": 26.407869
+  },
+  {
+    "id": "275",
+    "name": "KOLİN OTEL",
+    "lat": 40.111379,
+    "lon": 26.40584
+  },
+  {
+    "id": "276",
+    "name": "DARDANEL",
+    "lat": 40.10835,
+    "lon": 26.40343
+  },
+  {
+    "id": "277",
+    "name": "OPET DURAĞI",
+    "lat": 40.10632,
+    "lon": 26.40183
+  },
+  {
+    "id": "278",
+    "name": "AYDIN ERKEK YURDU",
+    "lat": 40.104503,
+    "lon": 26.400407
+  },
+  {
+    "id": "279",
+    "name": "OFİS",
+    "lat": 40.10271,
+    "lon": 26.398962
+  },
+  {
+    "id": "280",
+    "name": "SEÇKİN DURAĞI",
+    "lat": 40.100825,
+    "lon": 26.397503
+  },
+  {
+    "id": "281",
+    "name": "DURAK",
+    "lat": 40.099191,
+    "lon": 26.396247
+  },
+  {
+    "id": "282",
+    "name": "DUTLAR",
+    "lat": 40.097452,
+    "lon": 26.394844
+  },
+  {
+    "id": "400",
+    "name": "KEPEZ BELEDİYE",
+    "lat": 40.0958,
+    "lon": 26.39272
+  },
+  {
+    "id": "295",
+    "name": "SOSYAL GÜVENLİK KURUMU",
+    "lat": 40.096787,
+    "lon": 26.390535
+  },
+  {
+    "id": "398",
+    "name": "KEPEZ HUZUREVİ",
+    "lat": 40.0986315,
+    "lon": 26.3866261
+  },
+  {
+    "id": "358",
+    "name": "KEPEZ ÇAMLIK ALTI",
+    "lat": 40.09708,
+    "lon": 26.3872473
+  },
+  {
+    "id": "194",
+    "name": "KEPEZ TOKİ",
+    "lat": 40.0933488,
+    "lon": 26.3900443
+  },
+  {
+    "id": "195",
+    "name": "ORMAN DEPOSU",
+    "lat": 40.0818739,
+    "lon": 26.3745085
+  },
+  {
+    "id": "431",
+    "name": "DARDANOS CAD.",
+    "lat": 40.0769995,
+    "lon": 26.3774282
+  },
+  {
+    "id": "272",
+    "name": "ÇINARLI KÖY YOLU",
+    "lat": 40.0727088,
+    "lon": 26.3798604
+  },
+  {
+    "id": "372",
+    "name": "FEN LİSESİ",
+    "lat": 40.06601,
+    "lon": 26.38399
+  },
+  {
+    "id": "324",
+    "name": "ÇINARLI",
+    "lat": 40.05241,
+    "lon": 26.38821
+  },
+  {
+    "id": "221",
+    "name": "HALK PLAJI1",
+    "lat": 40.038433,
+    "lon": 26.34051
+  },
+  {
+    "id": "223",
+    "name": "İRİS OTEL",
+    "lat": 40.040242,
+    "lon": 26.342534
+  },
+  {
+    "id": "225",
+    "name": "JANDARMA",
+    "lat": 40.04219,
+    "lon": 26.344669
+  },
+  {
+    "id": "227",
+    "name": "FIRIN",
+    "lat": 40.04385,
+    "lon": 26.346282
+  },
+  {
+    "id": "229",
+    "name": "GÜZELYALI MERKEZ",
+    "lat": 40.046136,
+    "lon": 26.348632
+  },
+  {
+    "id": "231",
+    "name": "AKARSU VİLLALARI",
+    "lat": 40.049105,
+    "lon": 26.350831
+  },
+  {
+    "id": "232",
+    "name": "SU EVLERİ",
+    "lat": 40.050518,
+    "lon": 26.351802
+  },
+  {
+    "id": "233",
+    "name": "24. SOKAK",
+    "lat": 40.051941,
+    "lon": 26.352788
+  },
+  {
+    "id": "234",
+    "name": "OZAN OTEL",
+    "lat": 40.053463,
+    "lon": 26.353843
+  },
+  {
+    "id": "236",
+    "name": "GÜZELYALI",
+    "lat": 40.05771,
+    "lon": 26.35709
+  },
+  {
+    "id": "301",
+    "name": "JANDARMA KAMPI",
+    "lat": 40.0596831,
+    "lon": 26.3579158
+  },
+  {
+    "id": "238",
+    "name": "Ç.KALE KOLEJİ",
+    "lat": 40.066312,
+    "lon": 26.361162
+  },
+  {
+    "id": "432",
+    "name": "DOĞA EVLERİ",
+    "lat": 40.0691816,
+    "lon": 26.3630033
+  },
+  {
+    "id": "239",
+    "name": "ÇOMÜDARDANOS",
+    "lat": 40.071689,
+    "lon": 26.364672
+  },
+  {
+    "id": "240",
+    "name": "YEŞİL DARDANOS SİTESİ",
+    "lat": 40.076561,
+    "lon": 26.366392
+  },
+  {
+    "id": "241",
+    "name": "AY IŞIĞI",
+    "lat": 40.07815,
+    "lon": 26.36599
+  },
+  {
+    "id": "242",
+    "name": "42. SOKAK",
+    "lat": 40.080119,
+    "lon": 26.365717
+  },
+  {
+    "id": "243",
+    "name": "SUN SAN KAMPI",
+    "lat": 40.08189,
+    "lon": 26.365772
+  },
+  {
+    "id": "433",
+    "name": "HASAN MEVSUT CD.",
+    "lat": 40.0862654,
+    "lon": 26.3669435
+  },
+  {
+    "id": "350",
+    "name": "PELİT SİTESİ",
+    "lat": 40.08833,
+    "lon": 26.36751
+  },
+  {
+    "id": "351",
+    "name": "DARDANOS KÖPRÜSÜ",
+    "lat": 40.0903397,
+    "lon": 26.3641872
+  },
+  {
+    "id": "468",
+    "name": "DARDANOS FENER",
+    "lat": 40.0919925,
+    "lon": 26.3626546
+  },
+  {
+    "id": "352",
+    "name": "AQUAPARK ÖNÜ",
+    "lat": 40.096282,
+    "lon": 26.3647051
+  },
+  {
+    "id": "464",
+    "name": "KARAVAN PARKI",
+    "lat": 40.099732,
+    "lon": 26.3673056
+  },
+  {
+    "id": "463",
+    "name": "KEPEZ PLAJ",
+    "lat": 40.1029653,
+    "lon": 26.3707281
+  },
+  {
+    "id": "460",
+    "name": "PORT MARE SİTESİ",
+    "lat": 40.1025755,
+    "lon": 26.3739735
+  },
+  {
+    "id": "355",
+    "name": "KEPEZ LİMANI",
+    "lat": 40.10165,
+    "lon": 26.37949
+  },
+  {
+    "id": "357",
+    "name": "KEPEZ HUZUR EVİ",
+    "lat": 40.0996092,
+    "lon": 26.3859844
+  },
+  {
+    "id": "60",
+    "name": "BELEDİYE",
+    "lat": 40.1472603,
+    "lon": 26.4092246
+  },
+  {
+    "id": "170",
+    "name": "GAZİ OKULU",
+    "lat": 40.1504654,
+    "lon": 26.4100876
+  },
+  {
+    "id": "392",
+    "name": "HALKBAHÇESİ",
+    "lat": 40.149915,
+    "lon": 26.407056
+  },
+  {
+    "id": "299",
+    "name": "HUZUR EVİ",
+    "lat": 40.0997242,
+    "lon": 26.3860439
+  },
+  {
+    "id": "356",
+    "name": "ESNAF KEFALET",
+    "lat": 40.1013948,
+    "lon": 26.3830082
+  },
+  {
+    "id": "354",
+    "name": "LİMANKÖPRÜKEPEZ",
+    "lat": 40.10246,
+    "lon": 26.3750243
+  },
+  {
+    "id": "462",
+    "name": "KEPEZ PLAJ",
+    "lat": 40.1030597,
+    "lon": 26.3706154
+  },
+  {
+    "id": "353",
+    "name": "KEPEZ KARAVAN PARKI",
+    "lat": 40.1001948,
+    "lon": 26.3674459
+  },
+  {
+    "id": "465",
+    "name": "AQUAPARK",
+    "lat": 40.0966872,
+    "lon": 26.364677
+  },
+  {
+    "id": "467",
+    "name": "DARDANOS FENER",
+    "lat": 40.0920336,
+    "lon": 26.3625044
+  },
+  {
+    "id": "128",
+    "name": "DARDANOS KÖPRÜSÜ",
+    "lat": 40.0901523,
+    "lon": 26.3641003
+  },
+  {
+    "id": "103",
+    "name": "PELİT SİTESİ",
+    "lat": 40.088331,
+    "lon": 26.3673753
+  },
+  {
+    "id": "85",
+    "name": "HASAN MEVSUF CADDESİ",
+    "lat": 40.086258,
+    "lon": 26.3667489
+  },
+  {
+    "id": "197",
+    "name": "SUN SAN KAMP",
+    "lat": 40.081785,
+    "lon": 26.36563
+  },
+  {
+    "id": "198",
+    "name": "42. SOKAK",
+    "lat": 40.080215,
+    "lon": 26.36562
+  },
+  {
+    "id": "199",
+    "name": "AY IŞIĞI",
+    "lat": 40.077963,
+    "lon": 26.365932
+  },
+  {
+    "id": "200",
+    "name": "YEŞİL DARDANOS SİTESİ",
+    "lat": 40.076373,
+    "lon": 26.366403
+  },
+  {
+    "id": "201",
+    "name": "ÇOMÜDARDANOS",
+    "lat": 40.071384,
+    "lon": 26.364395
+  },
+  {
+    "id": "107",
+    "name": "DOĞA EVLERİ",
+    "lat": 40.0697508,
+    "lon": 26.3633358
+  },
+  {
+    "id": "202",
+    "name": "ÇANAKKALE KOLEJİ",
+    "lat": 40.065675,
+    "lon": 26.360687
+  },
+  {
+    "id": "220",
+    "name": "JANDARMA KAMPI",
+    "lat": 40.0595926,
+    "lon": 26.3577276
+  },
+  {
+    "id": "204",
+    "name": "GÜZELYALI",
+    "lat": 40.0582692,
+    "lon": 26.3572356
+  },
+  {
+    "id": "206",
+    "name": "OZAN OTEL",
+    "lat": 40.05355,
+    "lon": 26.35386
+  },
+  {
+    "id": "207",
+    "name": "24. SOKAK",
+    "lat": 40.05206,
+    "lon": 26.35281
+  },
+  {
+    "id": "208",
+    "name": "EKO MARKET",
+    "lat": 40.05087,
+    "lon": 26.351995
+  },
+  {
+    "id": "209",
+    "name": "AKARSU VİLLALARI",
+    "lat": 40.049065,
+    "lon": 26.35072
+  },
+  {
+    "id": "210",
+    "name": "YALI RESTAURANT",
+    "lat": 40.047088,
+    "lon": 26.349343
+  },
+  {
+    "id": "211",
+    "name": "MERKEZ",
+    "lat": 40.046163,
+    "lon": 26.348535
+  },
+  {
+    "id": "213",
+    "name": "KİRAZ MARKET",
+    "lat": 40.044058,
+    "lon": 26.346436
+  },
+  {
+    "id": "214",
+    "name": "ESENTEPE",
+    "lat": 40.043116,
+    "lon": 26.345478
+  },
+  {
+    "id": "215",
+    "name": "JANDARMA",
+    "lat": 40.04203,
+    "lon": 26.34443
+  },
+  {
+    "id": "217",
+    "name": "İRİS OTEL",
+    "lat": 40.040094,
+    "lon": 26.342268
+  },
+  {
+    "id": "219",
+    "name": "GÜZELYALI",
+    "lat": 40.038232,
+    "lon": 26.340242
+  },
+  {
+    "id": "127",
+    "name": "JANDARMA",
+    "lat": 40.075819,
+    "lon": 26.3673142
+  },
+  {
+    "id": "122",
+    "name": "DARDANOS CAMİİ",
+    "lat": 40.0796637,
+    "lon": 26.3701882
+  },
+  {
+    "id": "483",
+    "name": "CEVATPAŞA ORTAOKULU",
+    "lat": 40.1683714,
+    "lon": 26.4167977
+  },
+  {
+    "id": "108",
+    "name": "DARDANOS CAMİİ",
+    "lat": 40.079737,
+    "lon": 26.3700666
+  },
+  {
+    "id": "442",
+    "name": "PARK17",
+    "lat": 40.0934658,
+    "lon": 26.4095825
+  },
+  {
+    "id": "476",
+    "name": "STAR LİFE SİTESİ",
+    "lat": 40.094701,
+    "lon": 26.4047438
+  },
+  {
+    "id": "482",
+    "name": "OĞUZ KENT",
+    "lat": 40.0959567,
+    "lon": 26.4040626
+  },
+  {
+    "id": "417",
+    "name": "BAHÇEŞEHİR SİTESİ",
+    "lat": 40.0977314,
+    "lon": 26.4080053
+  },
+  {
+    "id": "446",
+    "name": "MEDİGARDEN2",
+    "lat": 40.0977047,
+    "lon": 26.4111006
+  },
+  {
+    "id": "436",
+    "name": "DEVLET HASTANESİ",
+    "lat": 40.0985602,
+    "lon": 26.4155985
+  },
+  {
+    "id": "447",
+    "name": "Yeni Hastane",
+    "lat": 40.0987759,
+    "lon": 26.41536
+  },
+  {
+    "id": "437",
+    "name": "İMAM HATİP LİSESİ",
+    "lat": 40.1001177,
+    "lon": 26.4127744
+  },
+  {
+    "id": "365",
+    "name": "960 ASKERİ LOJMANLAR",
+    "lat": 40.10034,
+    "lon": 26.41091
+  },
+  {
+    "id": "441",
+    "name": "RAUF DENKTAŞ CADDESİ",
+    "lat": 40.1009671,
+    "lon": 26.4081503
+  },
+  {
+    "id": "362",
+    "name": "960 TOKİ OKUL",
+    "lat": 40.1038,
+    "lon": 26.40844
+  },
+  {
+    "id": "317",
+    "name": "960 TOKİ HİZMET EVİ",
+    "lat": 40.10495,
+    "lon": 26.40864
+  },
+  {
+    "id": "359",
+    "name": "960 TOKİ",
+    "lat": 40.10666,
+    "lon": 26.40861
+  },
+  {
+    "id": "379",
+    "name": "SPOR SALONU",
+    "lat": 40.1071,
+    "lon": 26.41098
+  },
+  {
+    "id": "61",
+    "name": "ADALET PARKI",
+    "lat": 40.151465,
+    "lon": 26.41259
+  },
+  {
+    "id": "63",
+    "name": "PİRİ REİS",
+    "lat": 40.153037,
+    "lon": 26.41554
+  },
+  {
+    "id": "64",
+    "name": "ÇEVRE ŞEHİRCİLİK BAKANLIĞI",
+    "lat": 40.152094,
+    "lon": 26.419045
+  },
+  {
+    "id": "90",
+    "name": "KÜÇÜK SANAYİ SİTESİ",
+    "lat": 40.150015,
+    "lon": 26.4271705
+  },
+  {
+    "id": "335",
+    "name": "CEZAEVİ",
+    "lat": 40.1498075,
+    "lon": 26.4322687
+  },
+  {
+    "id": "454",
+    "name": "HAL DURAĞI",
+    "lat": 40.1488152,
+    "lon": 26.4411736
+  },
+  {
+    "id": "458",
+    "name": "EGEPARK",
+    "lat": 40.1480935,
+    "lon": 26.4453847
+  },
+  {
+    "id": "325",
+    "name": "KERİME SULTAN YURT",
+    "lat": 40.1477522,
+    "lon": 26.4482389
+  },
+  {
+    "id": "456",
+    "name": "BURSA CADDESİ 3",
+    "lat": 40.1460411,
+    "lon": 26.4472165
+  },
+  {
+    "id": "410",
+    "name": "BURSA CADDESİ",
+    "lat": 40.1461805,
+    "lon": 26.4432306
+  },
+  {
+    "id": "332",
+    "name": "NUSRAT YURDU",
+    "lat": 40.1460207,
+    "lon": 26.4429464
+  },
+  {
+    "id": "455",
+    "name": "BURSA CADDESİ 2",
+    "lat": 40.1458833,
+    "lon": 26.4475465
+  },
+  {
+    "id": "434",
+    "name": "KERİME SULTAN YURT",
+    "lat": 40.1477101,
+    "lon": 26.4482627
+  },
+  {
+    "id": "457",
+    "name": "EGEPARK",
+    "lat": 40.1480955,
+    "lon": 26.4455546
+  },
+  {
+    "id": "453",
+    "name": "HAL DURAĞI",
+    "lat": 40.1489628,
+    "lon": 26.4415169
+  },
+  {
+    "id": "369",
+    "name": "CEZAEVİ",
+    "lat": 40.15001,
+    "lon": 26.43327
+  },
+  {
+    "id": "58",
+    "name": "BELDEMİZ",
+    "lat": 40.1154223,
+    "lon": 26.4125141
+  },
+  {
+    "id": "474",
+    "name": "KAMPÜS KAPI",
+    "lat": 40.1144984,
+    "lon": 26.4118088
+  },
+  {
+    "id": "328",
+    "name": "SPOR SALONU",
+    "lat": 40.1068058,
+    "lon": 26.4108271
+  },
+  {
+    "id": "360",
+    "name": "960 TOKİ 1",
+    "lat": 40.10679,
+    "lon": 26.40848
+  },
+  {
+    "id": "316",
+    "name": "960 TOKİ HİZMET EVİ",
+    "lat": 40.10516,
+    "lon": 26.40853
+  },
+  {
+    "id": "361",
+    "name": "960Toki",
+    "lat": 40.10368,
+    "lon": 26.40824
+  },
+  {
+    "id": "439",
+    "name": "RAUF DENKTAŞ CADDESİ",
+    "lat": 40.1003803,
+    "lon": 26.4096951
+  },
+  {
+    "id": "440",
+    "name": "KONAKKALE",
+    "lat": 40.0998427,
+    "lon": 26.4129031
+  },
+  {
+    "id": "222",
+    "name": "BAYIR SOKAK",
+    "lat": 40.098392,
+    "lon": 26.415102
+  },
+  {
+    "id": "445",
+    "name": "MEDİGARDEN",
+    "lat": 40.0978587,
+    "lon": 26.4110523
+  },
+  {
+    "id": "174",
+    "name": "BAHÇEŞEHİR SİTESİ",
+    "lat": 40.0978438,
+    "lon": 26.408014
+  },
+  {
+    "id": "193",
+    "name": "OĞUZ SOKAK",
+    "lat": 40.0960204,
+    "lon": 26.4039874
+  },
+  {
+    "id": "477",
+    "name": "STAR LİFE SİTESİ",
+    "lat": 40.0947051,
+    "lon": 26.4045882
+  },
+  {
+    "id": "443",
+    "name": "PARK 17",
+    "lat": 40.0941758,
+    "lon": 26.40903
+  },
+  {
+    "id": "449",
+    "name": "ELBİ KYK",
+    "lat": 40.1112656,
+    "lon": 26.4310188
+  },
+  {
+    "id": "305",
+    "name": "VİSTA PREMİUM",
+    "lat": 40.111953,
+    "lon": 26.4276756
+  },
+  {
+    "id": "450",
+    "name": "ARDES YURDU",
+    "lat": 40.1132656,
+    "lon": 26.4238814
+  },
+  {
+    "id": "390",
+    "name": "YABANCI DİLLER MYO",
+    "lat": 40.1144823,
+    "lon": 26.4221652
+  },
+  {
+    "id": "298",
+    "name": "GÜZEL SANATLAR FAKÜLTESİ",
+    "lat": 40.1138628,
+    "lon": 26.4215617
+  },
+  {
+    "id": "391",
+    "name": "SİYASAL BİLİMLER FAKÜLTESİ",
+    "lat": 40.110687,
+    "lon": 26.416405
+  },
+  {
+    "id": "307",
+    "name": "KREŞ",
+    "lat": 40.1101878,
+    "lon": 26.4114111
+  },
+  {
+    "id": "131",
+    "name": "GAZİ MECLİSİ CADDESİ 3",
+    "lat": 40.1651699,
+    "lon": 26.4318932
+  },
+  {
+    "id": "146",
+    "name": "57.ALAY OKULU",
+    "lat": 40.1695065,
+    "lon": 26.4303104
+  },
+  {
+    "id": "124",
+    "name": "GAZİMECLİSİ",
+    "lat": 40.1675739,
+    "lon": 26.4322453
+  },
+  {
+    "id": "126",
+    "name": "GAZİMECLİSİ",
+    "lat": 40.1675916,
+    "lon": 26.4323341
+  },
+  {
+    "id": "147",
+    "name": "57.ALAY OKULU",
+    "lat": 40.1696316,
+    "lon": 26.4304101
+  },
+  {
+    "id": "66",
+    "name": "GAZİ MECLİSİ CADDESİ 2",
+    "lat": 40.1676205,
+    "lon": 26.4292222
+  },
+  {
+    "id": "134",
+    "name": "GAZİ MECLİSİ CADDESİ 4",
+    "lat": 40.1648437,
+    "lon": 26.4319938
+  },
+  {
+    "id": "306",
+    "name": "HATİME ANA ULU CAMİİ",
+    "lat": 40.11027,
+    "lon": 26.41036
+  },
+  {
+    "id": "59",
+    "name": "ZİRAAT FAKÜLTESİ",
+    "lat": 40.110158,
+    "lon": 26.41578
+  },
+  {
+    "id": "308",
+    "name": "FEN EDEBİYAT FAKÜLTESİ",
+    "lat": 40.11082,
+    "lon": 26.41744
+  },
+  {
+    "id": "304",
+    "name": "MÜHENDİSLİK FAKÜLTESİ",
+    "lat": 40.113158,
+    "lon": 26.421289
+  },
+  {
+    "id": "252",
+    "name": "MÜHENDİSLİK FAKÜLTESİ",
+    "lat": 40.1143501,
+    "lon": 26.4224149
+  },
+  {
+    "id": "451",
+    "name": "ARDES YURT",
+    "lat": 40.1131958,
+    "lon": 26.4240665
+  },
+  {
+    "id": "448",
+    "name": "ELBİ KYK",
+    "lat": 40.111844,
+    "lon": 26.4315874
+  },
+  {
+    "id": "425",
+    "name": "EVİM SİTESİ",
+    "lat": 40.1184592,
+    "lon": 26.4145071
+  },
+  {
+    "id": "395",
+    "name": "SAMYELİ SOKAK",
+    "lat": 40.1192619,
+    "lon": 26.4165019
+  },
+  {
+    "id": "309",
+    "name": "SOSYAL BİLİMLER FAKÜLTESİ",
+    "lat": 40.1194437,
+    "lon": 26.4206868
+  },
+  {
+    "id": "68",
+    "name": "SOSYAL BİL. MYO.",
+    "lat": 40.1199165,
+    "lon": 26.4214364
+  },
+  {
+    "id": "77",
+    "name": "ADLİYE GİDİŞ",
+    "lat": 40.1224152,
+    "lon": 26.4209794
+  },
+  {
+    "id": "95",
+    "name": "ADLİYE",
+    "lat": 40.1246533,
+    "lon": 26.4223606
+  },
+  {
+    "id": "53",
+    "name": "KERİME SULTAN YURDU",
+    "lat": 40.1494057,
+    "lon": 26.4486838
+  },
+  {
+    "id": "429",
+    "name": "KABRİSTAN",
+    "lat": 40.1505169,
+    "lon": 26.4437003
+  },
+  {
+    "id": "164",
+    "name": "ATİKHİSAR CADDESİ",
+    "lat": 40.1491385,
+    "lon": 26.4484416
+  },
+  {
+    "id": "94",
+    "name": "ADLİYE",
+    "lat": 40.1243908,
+    "lon": 26.4223767
+  },
+  {
+    "id": "91",
+    "name": "YENİ YOL SOKAK",
+    "lat": 40.1224075,
+    "lon": 26.420935
+  },
+  {
+    "id": "62",
+    "name": "SOSYAL BİL. MYO.",
+    "lat": 40.1199546,
+    "lon": 26.4213041
+  },
+  {
+    "id": "158",
+    "name": "SOSYAL BİLİMLER",
+    "lat": 40.1191114,
+    "lon": 26.4200966
+  },
+  {
+    "id": "452",
+    "name": "SAMYELİ SOKAK",
+    "lat": 40.1193678,
+    "lon": 26.4164865
+  },
+  {
+    "id": "469",
+    "name": "EVİM SİTESİ",
+    "lat": 40.1172326,
+    "lon": 26.4132437
+  },
+  {
+    "id": "470",
+    "name": "EVİM SİTESİ",
+    "lat": 40.1172367,
+    "lon": 26.413394
+  },
+  {
+    "id": "422",
+    "name": "DAYANIŞMA SİTESİ",
+    "lat": 40.1260931,
+    "lon": 26.4211053
+  },
+  {
+    "id": "420",
+    "name": "İLAHİYAT FAKÜLTESİ",
+    "lat": 40.1253383,
+    "lon": 26.4182622
+  },
+  {
+    "id": "414",
+    "name": "KIZ YURDU",
+    "lat": 40.1235212,
+    "lon": 26.4163067
+  },
+  {
+    "id": "92",
+    "name": "EMİNKENT",
+    "lat": 40.1205564,
+    "lon": 26.4140902
+  },
+  {
+    "id": "119",
+    "name": "LOZAN CADDESİ",
+    "lat": 40.1253632,
+    "lon": 26.4112808
+  },
+  {
+    "id": "471",
+    "name": "ÇANKA EVLERİ",
+    "lat": 40.1281275,
+    "lon": 26.414204
+  },
+  {
+    "id": "218",
+    "name": "ŞEHİT ONBAŞI FATİH DURU",
+    "lat": 40.130967,
+    "lon": 26.415984
+  },
+  {
+    "id": "184",
+    "name": "BADEM SOKAK",
+    "lat": 40.1366448,
+    "lon": 26.4206589
+  },
+  {
+    "id": "69",
+    "name": "ATAM KREŞ",
+    "lat": 40.1342011,
+    "lon": 26.4179399
+  },
+  {
+    "id": "416",
+    "name": "ÇANKA EVLERİ",
+    "lat": 40.1282608,
+    "lon": 26.4139974
+  },
+  {
+    "id": "120",
+    "name": "LOZAN CADDESİ",
+    "lat": 40.1251929,
+    "lon": 26.4111651
+  },
+  {
+    "id": "426",
+    "name": "EMİNKENT SİTESİ",
+    "lat": 40.1200138,
+    "lon": 26.4138042
+  },
+  {
+    "id": "93",
+    "name": "KIZ YURDU",
+    "lat": 40.1228058,
+    "lon": 26.4162757
+  },
+  {
+    "id": "419",
+    "name": "İLAHİYAT FAKÜLTESİ",
+    "lat": 40.1255127,
+    "lon": 26.4186538
+  },
+  {
+    "id": "421",
+    "name": "TACETTİN ASLAN CAMİİ",
+    "lat": 40.1255291,
+    "lon": 26.4214004
+  },
+  {
+    "id": "368",
+    "name": "OTOGAR",
+    "lat": 40.1502271,
+    "lon": 26.4578491
+  },
+  {
+    "id": "367",
+    "name": "OTOGAR",
+    "lat": 40.14994,
+    "lon": 26.45708
+  },
+  {
+    "id": "56",
+    "name": "AKÇANSA GÜZEL SANATLAR LİSESİ",
+    "lat": 40.1213767,
+    "lon": 26.4133675
+  },
+  {
+    "id": "96",
+    "name": "BARBAROS ASM",
+    "lat": 40.131308,
+    "lon": 26.411432
+  },
+  {
+    "id": "176",
+    "name": "GAZİ ORTAOKULU",
+    "lat": 40.1503448,
+    "lon": 26.4098548
+  },
+  {
+    "id": "87",
+    "name": "BADEMLİ KAHVE",
+    "lat": 40.1555368,
+    "lon": 26.4193713
+  },
+  {
+    "id": "333",
+    "name": "BAHRİYE ÜÇOK CADDESİ",
+    "lat": 40.15561,
+    "lon": 26.4188
+  },
+  {
+    "id": "371",
+    "name": "SALI PAZARI",
+    "lat": 40.1567237,
+    "lon": 26.4149511
+  },
+  {
+    "id": "97",
+    "name": "TROYA CADDESİ 1",
+    "lat": 40.135005,
+    "lon": 26.412605
+  },
+  {
+    "id": "258",
+    "name": "AHMET TANER KIŞLALI PARKI",
+    "lat": 40.1372638,
+    "lon": 26.4133673
+  },
+  {
+    "id": "99",
+    "name": "CEVİZ SOKAK",
+    "lat": 40.141261,
+    "lon": 26.415686
+  },
+  {
+    "id": "100",
+    "name": "KAYALAR SOKAK",
+    "lat": 40.143146,
+    "lon": 26.417998
+  },
+  {
+    "id": "319",
+    "name": "SANAYİ KAVŞAĞI",
+    "lat": 40.145763,
+    "lon": 26.420444
+  },
+  {
+    "id": "256",
+    "name": "İKLİM SOKAK",
+    "lat": 40.1461933,
+    "lon": 26.4167867
+  },
+  {
+    "id": "102",
+    "name": "KANTAR",
+    "lat": 40.1448968,
+    "lon": 26.412438
+  },
+  {
+    "id": "150",
+    "name": "YAHYA ÇAVUŞ",
+    "lat": 40.1668226,
+    "lon": 26.4204287
+  },
+  {
+    "id": "152",
+    "name": "ÖZLEM KAYALI",
+    "lat": 40.1638267,
+    "lon": 26.4214081
+  },
+  {
+    "id": "67",
+    "name": "SERİNKENT",
+    "lat": 40.1609541,
+    "lon": 26.4240291
+  },
+  {
+    "id": "413",
+    "name": "KIZ YETİŞTİRME YURDU",
+    "lat": 40.1590921,
+    "lon": 26.4220334
+  },
+  {
+    "id": "157",
+    "name": "ÖZLEM KAYALI",
+    "lat": 40.1638165,
+    "lon": 26.4215577
+  },
+  {
+    "id": "159",
+    "name": "YAHYA ÇAVUŞ",
+    "lat": 40.1661433,
+    "lon": 26.4200409
+  },
+  {
+    "id": "109",
+    "name": "KANTAR",
+    "lat": 40.1448697,
+    "lon": 26.4128345
+  },
+  {
+    "id": "110",
+    "name": "ÇATALTEPELİLER",
+    "lat": 40.146063,
+    "lon": 26.418389
+  },
+  {
+    "id": "111",
+    "name": "SILA SOKAK",
+    "lat": 40.142789,
+    "lon": 26.417234
+  },
+  {
+    "id": "112",
+    "name": "ANAFARTALAR",
+    "lat": 40.1412799,
+    "lon": 26.4152063
+  },
+  {
+    "id": "113",
+    "name": "HAVAALANI KAVŞAĞI",
+    "lat": 40.1387654,
+    "lon": 26.4135072
+  },
+  {
+    "id": "114",
+    "name": "TROYA CADDESİ 2",
+    "lat": 40.135465,
+    "lon": 26.412519
+  },
+  {
+    "id": "115",
+    "name": "BARBAROS ASM",
+    "lat": 40.130435,
+    "lon": 26.410899
+  },
+  {
+    "id": "393",
+    "name": "ESKİHASTANE",
+    "lat": 40.149767,
+    "lon": 26.407147
+  },
+  {
+    "id": "188",
+    "name": "AHMET PİRİŞTİNA CADDESİ 4",
+    "lat": 40.1542108,
+    "lon": 26.4372484
+  },
+  {
+    "id": "141",
+    "name": "AHMET PİRİŞTİNA CADDESİ 2",
+    "lat": 40.1585097,
+    "lon": 26.4329243
+  },
+  {
+    "id": "130",
+    "name": "104.SOKAK",
+    "lat": 40.1728355,
+    "lon": 26.430027
+  },
+  {
+    "id": "270",
+    "name": "19.SOKAK",
+    "lat": 40.1707855,
+    "lon": 26.4200653
+  },
+  {
+    "id": "173",
+    "name": "ÇANAKKALE LİSESİ",
+    "lat": 40.1488028,
+    "lon": 26.4193046
+  },
+  {
+    "id": "138",
+    "name": "TUĞSAVUL",
+    "lat": 40.150262,
+    "lon": 26.419704
+  },
+  {
+    "id": "139",
+    "name": "ÇANAKKALE LİSESİ",
+    "lat": 40.148515,
+    "lon": 26.418854
+  },
+  {
+    "id": "269",
+    "name": "19. SOKAK",
+    "lat": 40.1707652,
+    "lon": 26.4186798
+  },
+  {
+    "id": "137",
+    "name": "BARIŞ CADDESİ 4",
+    "lat": 40.1701979,
+    "lon": 26.4245147
+  },
+  {
+    "id": "216",
+    "name": "BARIŞ CADDESİ 5",
+    "lat": 40.1716646,
+    "lon": 26.4273496
+  },
+  {
+    "id": "183",
+    "name": "106. SOKAK",
+    "lat": 40.172484,
+    "lon": 26.428691
+  },
+  {
+    "id": "140",
+    "name": "104SOKAK",
+    "lat": 40.1727123,
+    "lon": 26.4299829
+  },
+  {
+    "id": "478",
+    "name": "BAHAR EVLERİ",
+    "lat": 40.0966256,
+    "lon": 26.4078042
+  },
+  {
+    "id": "251",
+    "name": "100. YIL CADDESİ",
+    "lat": 40.13445,
+    "lon": 26.40635
+  },
+  {
+    "id": "166",
+    "name": "HAMİDİYE TABYA",
+    "lat": 40.136209,
+    "lon": 26.40466
+  },
+  {
+    "id": "428",
+    "name": "PLAJ CADDESİ DURAĞI",
+    "lat": 40.14002,
+    "lon": 26.4030434
+  },
+  {
+    "id": "382",
+    "name": "TURGUT REİS İLKOKULU",
+    "lat": 40.14259,
+    "lon": 26.40305
+  },
+  {
+    "id": "381",
+    "name": "AYNALI ÇARŞI",
+    "lat": 40.1456537,
+    "lon": 26.4039878
+  },
+  {
+    "id": "104",
+    "name": "HİZMET EVİ DURAĞI",
+    "lat": 40.16236,
+    "lon": 26.418457
+  },
+  {
+    "id": "105",
+    "name": "HASTANE BAYIRI ŞEHİTLİĞİ",
+    "lat": 40.1605168,
+    "lon": 26.4193789
+  },
+  {
+    "id": "314",
+    "name": "KIZ YETİŞTİRME YURDU",
+    "lat": 40.15907,
+    "lon": 26.42103
+  },
+  {
+    "id": "388",
+    "name": "HASTANE BAYIRI ŞEHİTLİĞİ",
+    "lat": 40.1604227,
+    "lon": 26.4195359
+  },
+  {
+    "id": "257",
+    "name": "HİZMET EVİ ESENLER",
+    "lat": 40.16233,
+    "lon": 26.4185328
+  },
+  {
+    "id": "380",
+    "name": "AYNALI ÇARŞI",
+    "lat": 40.1453236,
+    "lon": 26.4037088
+  },
+  {
+    "id": "383",
+    "name": "TURGUT REİS İLKOKULU",
+    "lat": 40.14247,
+    "lon": 26.40286
+  },
+  {
+    "id": "427",
+    "name": "DENİZ SOKAK",
+    "lat": 40.139932,
+    "lon": 26.4030971
+  },
+  {
+    "id": "179",
+    "name": "HAMİDİYE TABYA",
+    "lat": 40.136131,
+    "lon": 26.404532
+  },
+  {
+    "id": "253",
+    "name": "100. YIL CADDESİ",
+    "lat": 40.13419,
+    "lon": 26.40653
+  },
+  {
+    "id": "444",
+    "name": "TİMELİNE",
+    "lat": 40.0964901,
+    "lon": 26.4077211
+  },
+  {
+    "id": "435",
+    "name": "DEVLET HASTANESİ",
+    "lat": 40.097873,
+    "lon": 26.416347
+  },
+  {
+    "id": "259",
+    "name": "ŞEHİT GÜROL CADDESİ",
+    "lat": 40.139035,
+    "lon": 26.4175774
+  },
+  {
+    "id": "182",
+    "name": "ŞEHİT GÜROL CADDESİ",
+    "lat": 40.14021,
+    "lon": 26.41236
+  },
+  {
+    "id": "190",
+    "name": "Ş.F.BAYRAKTAR İLKOKULU",
+    "lat": 40.1408567,
+    "lon": 26.4091502
+  },
+  {
+    "id": "196",
+    "name": "ŞABAN MARKET",
+    "lat": 40.1400314,
+    "lon": 26.4128189
+  },
+  {
+    "id": "347",
+    "name": "ŞEHİT GÜROL CADDESİ",
+    "lat": 40.1390278,
+    "lon": 26.41716
+  },
+  {
+    "id": "118",
+    "name": "ÇTSO",
+    "lat": 40.1571544,
+    "lon": 26.4629965
+  },
+  {
+    "id": "412",
+    "name": "ÇTSO",
+    "lat": 40.1572738,
+    "lon": 26.4628673
+  },
+  {
+    "id": "430",
+    "name": "KABRİSTAN",
+    "lat": 40.150318,
+    "lon": 26.4442233
+  },
+  {
+    "id": "480",
+    "name": "KALE CENTER",
+    "lat": 40.0941101,
+    "lon": 26.4014984
+  },
+  {
+    "id": "481",
+    "name": "KALE CENTER",
+    "lat": 40.0942825,
+    "lon": 26.4015949
+  },
+  {
+    "id": "125",
+    "name": "D.HASTANESİ",
+    "lat": 40.0972888,
+    "lon": 26.418194
+  },
+  {
+    "id": "121",
+    "name": "D.HASTANESİ",
+    "lat": 40.0973665,
+    "lon": 26.4175153
+  },
+  {
+    "id": "171",
+    "name": "TACETTİN ASLAN LİSESİ",
+    "lat": 40.1631271,
+    "lon": 26.46838
+  }
+]

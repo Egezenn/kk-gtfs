@@ -1,0 +1,86 @@
+[
+  {
+    "id": "39100",
+    "short": "001",
+    "long": "pazaryerı-Kepir Tepe Anadolu Öğretmen Li",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "39101",
+    "short": "002",
+    "long": "pazaryerı-Devlet Hastanesi",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "39102",
+    "short": "003",
+    "long": "pazaryerı-Alya Konutları",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "39103",
+    "short": "004",
+    "long": "pazaryerı-Tigem",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "39104",
+    "short": "005",
+    "long": "pazaryerı-Gun Dogu",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "39105",
+    "short": "006",
+    "long": "pazaryerı-YuvamKent",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "39106",
+    "short": "007",
+    "long": "pazaryerı-Lyfa",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "39107",
+    "short": "008",
+    "long": "pazaryerı-Toki Son Durak",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "39108",
+    "short": "009",
+    "long": "pazaryerı-Onurkent Son Durak",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "39109",
+    "short": "010",
+    "long": "Ziraat Bankası-Balkan Hastanesi",
+    "color": "null",
+    "text_color": "null"
+  },
+  {
+    "id": "39110",
+    "short": "011",
+    "long": "Terminal-Çeşme Meydan",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "99999",
+    "short": "99",
+    "long": "test-test",
+    "color": "",
+    "text_color": ""
+  }
+]

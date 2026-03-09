@@ -1,0 +1,443 @@
+[
+  {
+    "id": "10010",
+    "short": "1",
+    "long": "KONURALP-ÜNİVERSİTE-ÜNİVERSİTE KONURALP",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10030",
+    "short": "2",
+    "long": "ÜNİVERSİTE-M.PARK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10050",
+    "short": "3",
+    "long": "ÜNİVERSİTE-YEŞİLTEPE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10060",
+    "short": "4",
+    "long": "ÜNİVERSİTE-SOĞANCI",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10070",
+    "short": "5",
+    "long": "ÜNİVERSİTE - METEK-JANDARMA",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10080",
+    "short": "6",
+    "long": "NECLA PEK. KYK-ÜNİVERSİTE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10090",
+    "short": "7",
+    "long": "KONURALP-M.PARK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10100",
+    "short": "8",
+    "long": "KONURALP-JANDARMA",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10110",
+    "short": "9",
+    "long": "YAKA KÖYÜ-ÇERKEZ TAŞKÖPRÜ-KADIOĞLU",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10120",
+    "short": "10",
+    "long": "MELENPARK - MEMURSEN-KİRAZLI",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10140",
+    "short": "11B",
+    "long": "YEŞİLTEPE-KONURALP",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10150",
+    "short": "12",
+    "long": "YEŞİLTEPE - OTOGAR-JANDARMA",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10130",
+    "short": "13",
+    "long": "BAHÇEŞEHİR-METEK TOKİ-MEMURSEN-MELEN PARK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10190",
+    "short": "14",
+    "long": "GÜZELBAHÇE-MELEN PARK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10200",
+    "short": "15",
+    "long": "DEMETEVLER-Y.PAZARYERİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10210",
+    "short": "16",
+    "long": "ESENTEPE-MELEN PARK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10220",
+    "short": "17",
+    "long": "ÇAMLIEVLER-M.PARK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10221",
+    "short": "17-A",
+    "long": "ÇAMLIEVLER-NALBANTOĞLU-PAZARYE-M.PARK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10230",
+    "short": "18",
+    "long": "METEK-M.PARK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10240",
+    "short": "19",
+    "long": "YEŞİLÇİMEN-MELENPARK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10250",
+    "short": "20",
+    "long": "ŞIRALIK-M.PARK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10260",
+    "short": "21",
+    "long": "AĞA MAHALLESİ-PAZARYERİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10270",
+    "short": "22-A",
+    "long": "MELEN PARK-OTLUOĞLU-OZANLAR",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20120",
+    "short": "22-B",
+    "long": "MELEN PARK-OZANLAR",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10280",
+    "short": "23",
+    "long": "ÇAKIRLAR-MELEN PARK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10281",
+    "short": "23-A",
+    "long": "MELEN PARK-AKYAZI-NUHLAR",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10160",
+    "short": "24",
+    "long": "MELEN PARK-HATIPLI KETENCİLER",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10300",
+    "short": "25-A",
+    "long": "SARAYYERİ-OTOGAR",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10301",
+    "short": "25-B",
+    "long": "A.ÇİFT-DERGAZ-OTOGAR",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20150",
+    "short": "25-C",
+    "long": "ARAPÇİFTLİĞİ-MUNCURLU",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10310",
+    "short": "26-A",
+    "long": "AKŞEMSETTİN OKULU-OTOGAR",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10311",
+    "short": "26-B",
+    "long": "SARAYYERİ-DERGAZ-OTOGAR",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10320",
+    "short": "27",
+    "long": "ÇAMKÖY-MELEN PARK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10330",
+    "short": "28",
+    "long": "ÇAVUŞLAR-M.PARK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10340",
+    "short": "29",
+    "long": "GÜNBAŞI - YAHYALAR-M.PARK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10350",
+    "short": "30",
+    "long": "DEMETEVLER-YEŞİLTEPE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10360",
+    "short": "31",
+    "long": "M.PARK-MUSABABA-GÜMÜŞPINAR",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10370",
+    "short": "32",
+    "long": "JANDARMA-DERELİ-PAZARYERİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20030",
+    "short": "33",
+    "long": "Y.PAZARYERİ-TEPECİK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20010",
+    "short": "34",
+    "long": "DÜZCE ÜNİVERSİTESİ-DÜZCE DEVLET HASTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20011",
+    "short": "35",
+    "long": "DÜZCE ÜNİVERSİTESİ-KREMPARK,ŞAGUÇ KÖP. TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20012",
+    "short": "36",
+    "long": "DÜZCE ÜNİVERSİTESİ-TŞLK.NEJ.PEK OLCY,RAZ.BGM KYK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20013",
+    "short": "37",
+    "long": "DÜZCE ÜNİVERSİTESİ-KONURALP",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20014",
+    "short": "38",
+    "long": "BEÇİ GÖLCÜKBAŞI-KREMPARK - TERMİNAL",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20015",
+    "short": "39",
+    "long": "DÜZCE ÜNİVERSİTESİ-KALICI KONUTLAR",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10410",
+    "short": "40",
+    "long": "YEŞİLTEPE-M.PARK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "40041",
+    "short": "41",
+    "long": "MUNCURLU-M.PARK",
+    "color": "CB59FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "40042",
+    "short": "42",
+    "long": "DOĞANLI-M.PARK",
+    "color": "8228FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "40043",
+    "short": "42B",
+    "long": "MELEN PARK-DOĞANLI-MUNCURLU",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20034",
+    "short": "43",
+    "long": "BAHÇEŞEHİR-DÜZCE ÜNİVERSİTESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20035",
+    "short": "45",
+    "long": "SOĞANCI-DÜZCE ÜNİVERSİTESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20050",
+    "short": "50",
+    "long": "KABALAK-M.PARK",
+    "color": "3FE8FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20051",
+    "short": "51",
+    "long": "BOĞAZİÇİ-M.PARK",
+    "color": "49D7FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20053",
+    "short": "53",
+    "long": "YAYLA KÖYÜ-M.PARK",
+    "color": "26FBFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20054",
+    "short": "54",
+    "long": "KABALAK KÖYÜ-MELEN PARK",
+    "color": "68DEFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10420",
+    "short": "81",
+    "long": "ÜNİVERSİTE-MELEN",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10430",
+    "short": "83",
+    "long": "BEÇİ YÖRÜKLER-OTOGAR",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "99999",
+    "short": "99",
+    "long": "Başlangıç-Bitiş",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20017",
+    "short": "110",
+    "long": "M.PARK-ADLİYE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20019",
+    "short": "114",
+    "long": "M.PARK-GÜZELBAHÇE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20018",
+    "short": "116",
+    "long": "M.PARK-KONUTLAR",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20016",
+    "short": "120",
+    "long": "M.PARK-ŞIRALIK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30010",
+    "short": "C1",
+    "long": "C1 Gidiş-C1 Bitiş",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  }
+]

@@ -1,0 +1,2039 @@
+[
+  {
+    "id": "00100",
+    "short": "100",
+    "long": "Görev",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00101",
+    "short": "101",
+    "long": "Cenaze",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00102",
+    "short": "102",
+    "long": "Adliye",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00105",
+    "short": "105",
+    "long": "BALCALI-TEKNOKENT - RİNG",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00106",
+    "short": "106",
+    "long": "ATÜ-RİNG",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00107",
+    "short": "107",
+    "long": "KYK YURT-ATÜ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00110",
+    "short": "110",
+    "long": "Real-Beyceli",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00111",
+    "short": "111",
+    "long": "ESKİ VİLAYET-SOFULU",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00112",
+    "short": "112",
+    "long": "A - BEYCELİ-BALCALI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00113",
+    "short": "113",
+    "long": "E.Vilayet-Akkuyu toki",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00114",
+    "short": "114",
+    "long": "114 A Optimum Avm-Real Avm",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00115",
+    "short": "115",
+    "long": "OPTİMUM-ÇUKUROVA HAST.",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00116",
+    "short": "116",
+    "long": "Y. Doğan-Balcalı - Atü",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00117",
+    "short": "117",
+    "long": "TAŞKÖPRÜ-KILIÇLI-KIZILKAŞ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00118",
+    "short": "118",
+    "long": "A - Eski Vilayet-Balcalı",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00119",
+    "short": "119",
+    "long": "119 A - Eski Vilayet-Yeniyayla",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00120",
+    "short": "120",
+    "long": "TAŞKÖPRÜ-BURUK MEZ - ÜNLÜCE",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00121",
+    "short": "121",
+    "long": "Real-Balcalı - Atü",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00122",
+    "short": "122",
+    "long": "Mobilyacılar-Balcalı",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00123",
+    "short": "123",
+    "long": "BALCALI-AFETEVLERİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00124",
+    "short": "124",
+    "long": "BALCALI-REAL",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00125",
+    "short": "125",
+    "long": "HAVALİMANI-BURUK TOKİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00126",
+    "short": "126",
+    "long": "MOBİLYACILAR-BÜYÜK DİKİLİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00127",
+    "short": "127",
+    "long": "Balcalı-İncirlik mah.",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00130",
+    "short": "130",
+    "long": "Hadırlı-Balcalı",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00131",
+    "short": "131",
+    "long": "Akkapı-Balcalı",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00132",
+    "short": "132",
+    "long": "K.OBA MEZARLIĞI - GÜLBAHÇESİ-BALCALI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00133",
+    "short": "133",
+    "long": "Dağlıoğlu-Balcalı",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00135",
+    "short": "135",
+    "long": "Sarıçam Bld.-Gülbahçesi",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00140",
+    "short": "140",
+    "long": "REAL-AKKUYU TOKİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00142",
+    "short": "142",
+    "long": "E.Vilayet-Real",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00144",
+    "short": "144",
+    "long": "REAL-ATÜ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00151",
+    "short": "151",
+    "long": "Beyceli-Real",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00152",
+    "short": "152",
+    "long": "ESKİ VİLAYET-BALCALI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00153",
+    "short": "153",
+    "long": "Şambayat-Balcalı",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00154",
+    "short": "154",
+    "long": "BALCALI-REAL-YEŞİLOBA",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00155",
+    "short": "155",
+    "long": "Hastaneler-Balcalı - Atü",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00156",
+    "short": "156",
+    "long": "Real-Balcalı",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00157",
+    "short": "157",
+    "long": "Real-E.Vilayet",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00158",
+    "short": "158",
+    "long": "Real-Osmangazi",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00159",
+    "short": "159",
+    "long": "A - GÜLBAHÇESİ-ÇUKUROVA D. HAST.",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00160",
+    "short": "160",
+    "long": "ŞEHİR HASTANESİ -ATÜ-REAL",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00161",
+    "short": "161",
+    "long": "Real-Balcalı",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00162",
+    "short": "162",
+    "long": "ŞEHİR HASTANESİ -ÇINARLI-REAL",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00164",
+    "short": "164",
+    "long": "DSİ TOKİ-Hastaneler - Gökçeler",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00165",
+    "short": "165",
+    "long": "SARIÇAM BELEDİYESİ-YOLGEÇEN",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00166",
+    "short": "166",
+    "long": "YENİDOĞAN-SARIHUĞULAR",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00170",
+    "short": "170",
+    "long": "HAVUTLU-MENEKŞE - BALCALI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00172",
+    "short": "172",
+    "long": "Kanara-B.Evleri -  Ş.TOKİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00173",
+    "short": "173",
+    "long": "TAŞKÖPRÜ-GÜMÜŞYAZI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00174",
+    "short": "174",
+    "long": "MERKEZ OTOGAR-SARIÇAM BELEDİYE",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00175",
+    "short": "175",
+    "long": "Kanal Köprü-Çatalan",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00176",
+    "short": "176",
+    "long": "Cifteminare-Salbaş",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00177",
+    "short": "177",
+    "long": "Çifteminare-K.Yusuflu",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00178",
+    "short": "178",
+    "long": "TAŞKÖPRÜ-YENİKÖY",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00179",
+    "short": "179",
+    "long": "TAŞKÖPRÜ-Helvacı",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00180",
+    "short": "180",
+    "long": "Taşköprü-Zağırlı",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00181",
+    "short": "181",
+    "long": "HEREKLİ-TAŞKÖPRÜ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00182",
+    "short": "182",
+    "long": "KANALKÖPRÜ-KAHYALAR",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00183",
+    "short": "183",
+    "long": "Taşköprü-Kürkçüler",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00184",
+    "short": "184",
+    "long": "TAŞKÖPRÜ-BAKLALI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00185",
+    "short": "185",
+    "long": "KÜÇÜK SAAT-İNCİRLİK",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00186",
+    "short": "186",
+    "long": "Taşköprü-Suluca",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00187",
+    "short": "187",
+    "long": "TAŞKÖPRÜ-GEÇİTLİ-ÇELEMLİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00188",
+    "short": "188",
+    "long": "Karaisalı-Çifteminare",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00189",
+    "short": "189",
+    "long": "ÇİFTEMİNARE-MÜRSELOĞLU",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00190",
+    "short": "190",
+    "long": "Kanal Köprü-Körüklü",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00191",
+    "short": "191",
+    "long": "TAŞKÖPRÜ-YAKAPINAR",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00192",
+    "short": "192",
+    "long": "KANAL KÖPRÜ-ÇİÇEKLİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00193",
+    "short": "193",
+    "long": "E.Vilayet-Küçükçıldırım",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00194",
+    "short": "194",
+    "long": "TAŞKÖPRÜ-ŞEYHGANİM",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00195",
+    "short": "195",
+    "long": "BALCALI-ORGANİZE MAKİNA İKMAL",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00196",
+    "short": "196",
+    "long": "K.Köprü-Çakallı",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00197",
+    "short": "197",
+    "long": "AQUALAND-ÇİÇEKLİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00198",
+    "short": "198",
+    "long": "Y. OTOGAR-KARLIK",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00199",
+    "short": "199",
+    "long": "TAŞKÖPRÜ-SAYCA - OTLUK",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00200",
+    "short": "200",
+    "long": "B - 2000 EVLER-ATÜ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00201",
+    "short": "201",
+    "long": "B - Eski Vilayet-Balcalı",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00202",
+    "short": "202",
+    "long": "B - BURUK TOKİ-BALCALI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00203",
+    "short": "203",
+    "long": "B - GÜLBAHÇESİ-ÇUKUROVA D. HAST",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00204",
+    "short": "204",
+    "long": "119 B - Eski Vilayet-Buruk Toki",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00205",
+    "short": "205",
+    "long": "188 B - Çifteminare-Kızıldağ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00206",
+    "short": "206",
+    "long": "114 B - Real Avm-Optimum Avm",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00210",
+    "short": "210",
+    "long": "AQUALAND - K.YOLU-KARAYUSUFLU",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00220",
+    "short": "220",
+    "long": "REAL-BURÇ OKULLARI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00250",
+    "short": "250",
+    "long": "MERKEZ OTOGAR-AKKUYU TOKİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00251",
+    "short": "251",
+    "long": "BALCALI-HAVALİMANI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00252",
+    "short": "252",
+    "long": "BALCALI-KOZAN YOLU - MERKEZ OTOGAR",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00300",
+    "short": "300",
+    "long": "YÜREĞİR OTOGAR-ÇAĞ ÜNİVERSİTESİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00301",
+    "short": "301",
+    "long": "Bahçeşehir-RuhsağlığıI Metro İst.",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00302",
+    "short": "302",
+    "long": "RUH SAĞLIĞI-ŞAMBAYAT - 2.ETAP TOKİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00303",
+    "short": "303",
+    "long": "KARAHAN-RUH SAĞLIĞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00304",
+    "short": "304",
+    "long": "Şambayat Toki-Anadolu Lisesi",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00305",
+    "short": "305",
+    "long": "İnönü Adliye-DSİ TOKİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00307",
+    "short": "307",
+    "long": "Balcalı-Yüreğir Devlet Hastanesi",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00309",
+    "short": "309",
+    "long": "Anadolu Lisesi-B.Evleri",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00311",
+    "short": "311",
+    "long": "BURUK-AKINCILAR METRO RİNG",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00312",
+    "short": "312",
+    "long": "KÜLTÜR SİT-İSTİKLAL METRO RİNG",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00320",
+    "short": "320",
+    "long": "METRO - HÜRRİYET İST.-D400 - RİNG",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00321",
+    "short": "321",
+    "long": "METRO - KOCAVEZİR İST.-TAŞKÖPRÜ - RİNG",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00322",
+    "short": "322",
+    "long": "ESKİ VİLAYET-KÜÇÜKSAAT - RİNG",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00323",
+    "short": "323",
+    "long": "TAŞKÖPRÜ-D400 - RİNG",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00401",
+    "short": "401",
+    "long": "Hava Limanı-Kozan",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00402",
+    "short": "402",
+    "long": "Adana-Aladag",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00403",
+    "short": "403",
+    "long": "Adana-Ceyhan-Yumurtalık",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00404",
+    "short": "404",
+    "long": "TAŞKÖPRÜ-KARATAŞ - YEŞİLKÖY",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00405",
+    "short": "405",
+    "long": "Adana-Pozantı",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00406",
+    "short": "406",
+    "long": "Adana-Tuzla - Tabaklar",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00407",
+    "short": "407",
+    "long": "Havalimanı-Çokçapınar - Ceyhan",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00408",
+    "short": "408",
+    "long": "Adana-İmamoğlu - Akdam",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00409",
+    "short": "409",
+    "long": "Adana-Gerdibi",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00410",
+    "short": "410",
+    "long": "Adana-Beyören - İmamoğlu",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00411",
+    "short": "411",
+    "long": "Adana-Tuzla - Kapı mh",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00412",
+    "short": "412",
+    "long": "DEVECİUŞAĞI-YUMURTALIK",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00413",
+    "short": "413",
+    "long": "CEYHAN - DEVECİUŞAĞI-YUMURTALIK",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00414",
+    "short": "414",
+    "long": "Kanal Köprü-Meydan Yaylası",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00501",
+    "short": "501",
+    "long": "CEYHAN-KURTKULAGI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00502",
+    "short": "502",
+    "long": "CEYHAN-K.PINARI - K.KULAĞI - İNCİRLİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00503",
+    "short": "503",
+    "long": "CEYHAN-SARIMAZI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00504",
+    "short": "504",
+    "long": "CEYHAN-DUTLUPINAR-DOKUZTEKNE",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00505",
+    "short": "505",
+    "long": "CEYHAN-BİRKENT",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00506",
+    "short": "506",
+    "long": "CEYHAN-GÜNLÜCE",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00507",
+    "short": "507",
+    "long": "CEYHAN-DORUK",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00510",
+    "short": "510",
+    "long": "KOZAN-TIRMIL",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00511",
+    "short": "511",
+    "long": "KOZAN-AYŞEHOCA",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00512",
+    "short": "512",
+    "long": "CEYHAN-HACIBEYLİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00513",
+    "short": "513",
+    "long": "CEYHAN-MERCİN (İNCETARLA)",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00515",
+    "short": "515",
+    "long": "KOZAN-HORZUM",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "55555",
+    "short": "555",
+    "long": "Balcalı-Real",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00600",
+    "short": "600",
+    "long": "ESKİ VİLAYET-BURUK MEZARLIĞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00601",
+    "short": "601",
+    "long": "ESKİ VİLAYET-KABASAKAL MEZARLIĞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00602",
+    "short": "602",
+    "long": "ESKİ VİLAYET-AKKAPI MEZARLIĞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00603",
+    "short": "603",
+    "long": "ESKİ VİLAYET-ASRİ MEZARLIĞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00604",
+    "short": "604",
+    "long": "ESKİ VİLAYET-KÜÇÜKOBA MEZARLIĞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00605",
+    "short": "605",
+    "long": "ESKİ VİLAYET - KANARA-ALİHOCALI MEZARLIĞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00606",
+    "short": "606",
+    "long": "AKDENİZ-ALİHOCALI MEZARLIĞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00700",
+    "short": "700",
+    "long": "Adana-Kapalı durak",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00701",
+    "short": "701",
+    "long": "RUH SAĞLIĞI-BALCALI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00702",
+    "short": "702",
+    "long": "A.İZZET BEGOVİÇ-BALCALI TOKİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00703",
+    "short": "703",
+    "long": "RUH SAĞLIĞI-BALCALI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00704",
+    "short": "704",
+    "long": "ATAKENT-BALCALI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00705",
+    "short": "705",
+    "long": "BURUK MEZARLIĞI-VALİLİK",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00706",
+    "short": "706",
+    "long": "ŞAMBAYADI TOKİ-BALCALI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00707",
+    "short": "707",
+    "long": "100.YIL-BALCALI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00708",
+    "short": "708",
+    "long": "GÜLBAHÇESİ - HADIRLI-BALCALI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00709",
+    "short": "709",
+    "long": "MOBİLYACILAR-ŞEHİR HASTANESİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00899",
+    "short": "899",
+    "long": "008990-008991",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "11014",
+    "short": "11014",
+    "long": "BEY MAHALLESİ-HASTANELER",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "11030",
+    "short": "11030",
+    "long": "REGÜLATÖR-BELEDİYE EVLERİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "11035",
+    "short": "11035",
+    "long": "F.PAŞA-NEDİMBEY-HASTANELER",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "11040",
+    "short": "11040",
+    "long": "REGULATOR-DOSEME SUMER",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "11046",
+    "short": "11046",
+    "long": "REGÜLATÖR-FATİH",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "11060",
+    "short": "11060",
+    "long": "REGÜLATÖR-KARAFATMA",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "11070",
+    "short": "11070",
+    "long": "Regülatör-Mahfesığmaz",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "11082",
+    "short": "11082",
+    "long": "REGULATOR-OZAL 100.YIL",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "11730",
+    "short": "11730",
+    "long": "REGÜLATÖR-TOROS MAH.",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "14131",
+    "short": "14131",
+    "long": "Ş.E.AKBAY-ÇETİNKAYA",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "14132",
+    "short": "14132",
+    "long": "KERESTECİLER-ÇETİNKAYA",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "15010",
+    "short": "15010",
+    "long": "E.VILAYET-BALCALI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "15064",
+    "short": "15064",
+    "long": "ÇUKOBİRLİK-100. YIL",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "15066",
+    "short": "15066",
+    "long": "PAKYAĞ-KURTTEPE",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "15087",
+    "short": "15087",
+    "long": "BURUK-BALCALI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "16030",
+    "short": "16030",
+    "long": "REGÜLATÖR-BELEDİYE EVLERİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "16040",
+    "short": "16040",
+    "long": "4A -E.VİLAYET-DOSEME  KURTTEPE",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "16046",
+    "short": "16046",
+    "long": "REGÜLATÖR-FATİH",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "16050",
+    "short": "16050",
+    "long": "5 -REGÜLATÖR-K.FATMA -M.BULVAR-REAL",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "16060",
+    "short": "16060",
+    "long": "REGÜLATÖR-KARAFATMA",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "16064",
+    "short": "16064",
+    "long": "ÇUKOBİRLİK-100. YIL",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "16066",
+    "short": "16066",
+    "long": "PAKYAĞ-KURTTEPE",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "16070",
+    "short": "16070",
+    "long": "7A -REGÜLATÖR-MAHFASIĞMAZ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "16082",
+    "short": "16082",
+    "long": "8A -REGULATOR-OZAL 100. YIL",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "16083",
+    "short": "16083",
+    "long": "BURUK-BALCALI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "16087",
+    "short": "16087",
+    "long": "BURUK-BALCALI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "16730",
+    "short": "16730",
+    "long": "REGÜLATÖR-TOROS MAH.",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "17017",
+    "short": "17017",
+    "long": "ÇETİNKAYA-C.EVİ.PTT",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "17018",
+    "short": "17018",
+    "long": "ÇETİNKAYA-PTT - MESLEK LİSESİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "17019",
+    "short": "17019",
+    "long": "19/A BURUK BELDESİ TOKİ-ÇETİNKAYA",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "17025",
+    "short": "17025",
+    "long": "25 LEVENT MAH. ÖZGÜR MAH.-ÇETİNKAYA",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "17026",
+    "short": "17026",
+    "long": "26 BALCALI ÇUKUROVA ÜNİ.-ÇETİNKAYA",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "17033",
+    "short": "17033",
+    "long": "19/C SARIÇAM BELEDİYESİ-ÇETİNKAYA",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "17035",
+    "short": "17035",
+    "long": "19/B SOFULU TOKİ-ÇETİNKAYA",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "18001",
+    "short": "18001",
+    "long": "YÜREĞİR OTOGAR-MİSİS",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "20001",
+    "short": "20001",
+    "long": "PETROL KABASAKAL-KÜLTÜR SİTESİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "20002",
+    "short": "20002",
+    "long": "2A- TOKİ - KABASAKAL-KÜLTÜR SİTESİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "20003",
+    "short": "20003",
+    "long": "METRO PARK-KÜLTÜR SİTESİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "20004",
+    "short": "20004",
+    "long": "2B- CEMALPAŞA-KÜLTÜR SİTESİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "20005",
+    "short": "20005",
+    "long": "KARAHAN-KÜLTÜR SİTESİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "21001",
+    "short": "21001",
+    "long": "Topel 1-Karslı Köyü",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "21002",
+    "short": "21002",
+    "long": "Topel 2-Seyhan Uygulama",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "21003",
+    "short": "21003",
+    "long": "Topel 3-Toros Mh.",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "21004",
+    "short": "21004",
+    "long": "Topel 4-B Manço - S.Uygulama",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "21005",
+    "short": "21005",
+    "long": "Topel 5-Gündoğdu",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "21006",
+    "short": "21006",
+    "long": "Topel 6-Hastaneler",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "21007",
+    "short": "21007",
+    "long": "Topel 7-Beyazevler",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "21008",
+    "short": "21008",
+    "long": "Topel 8-REGÜLATÖR",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "21071",
+    "short": "21071",
+    "long": "Topel 7/B-REGÜLATÖR",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "22001",
+    "short": "22001",
+    "long": "ÖZBİRLİK-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "23001",
+    "short": "23001",
+    "long": "ÖZEN-1-3-SEYHAN UYGULAMA",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "23002",
+    "short": "23002",
+    "long": "ÖZEN-2-KARAHAN",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "23003",
+    "short": "23003",
+    "long": "ÖZEN-3-SEYHAN UYGULAMA",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "24010",
+    "short": "24010",
+    "long": "YAVUZLAR -1-YÜREĞİR BAŞKENT",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "24020",
+    "short": "24020",
+    "long": "YAVUZLAR -2-KAZIM BAŞER",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "24021",
+    "short": "24021",
+    "long": "YAVUZLAR 3-SEPİCİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "24030",
+    "short": "24030",
+    "long": "YAVUZLAR -3-SEPİCİ - DSİ TOKİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "24040",
+    "short": "24040",
+    "long": "YAVUZLAR -4-BALCALI - TOKİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "24041",
+    "short": "24041",
+    "long": "YAVUZLAR -4B-BALCALI - AKKUYU TOKİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "24042",
+    "short": "24042",
+    "long": "YAVUZLAR -4C-BALCALI - ZORLU AKKUYU TOKİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "24050",
+    "short": "24050",
+    "long": "YAVUZLAR BURUK-TOKİ -ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "25001",
+    "short": "25001",
+    "long": "KİREÇ OCAĞI-REGÜLATÖR",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "25002",
+    "short": "25002",
+    "long": "CARREFOUR-REGÜLATÖR",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "25003",
+    "short": "25003",
+    "long": "ENGEL CAMİ-REGÜLATÖR",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "25004",
+    "short": "25004",
+    "long": "BELEDİYEEVLERİ-REGÜLATÖR",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "25005",
+    "short": "25005",
+    "long": "İSMETPAŞA-REGÜLATÖR",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "25006",
+    "short": "25006",
+    "long": "REAL-REGÜLATÖR",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "25007",
+    "short": "25007",
+    "long": "TURGUT ÖZAL-REGÜLATÖR",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "25031",
+    "short": "25031",
+    "long": "REGÜLATÖR-3-B İSMETPAŞA",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "26001",
+    "short": "26001",
+    "long": "1-İTİMAT  1-YURT MAH.",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "26002",
+    "short": "26002",
+    "long": "2- İTİMAT 2-YURT -2",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "26003",
+    "short": "26003",
+    "long": "3-İTİMAT 2A-HAYAL PARK",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "26004",
+    "short": "26004",
+    "long": "4-İTİMAT 2B-KURTTEPE",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "26005",
+    "short": "26005",
+    "long": "5-İTİMAT 3A-ALPARSLAN TÜRKEŞ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "26006",
+    "short": "26006",
+    "long": "FUAR-İTİMAT-6",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "26007",
+    "short": "26007",
+    "long": "7-İTİMAT 3C-CARREFOUR",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "26008",
+    "short": "26008",
+    "long": "TOKİ-8-İTİMAT",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "26061",
+    "short": "26061",
+    "long": "TOKİ-İTİMAT",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "26081",
+    "short": "26081",
+    "long": "PINAR MAH.-8/B-İTİMAT",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "27001",
+    "short": "27001",
+    "long": "EMEK MH-TEDAŞ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "27002",
+    "short": "27002",
+    "long": "DUMLUPINAR MH-TEDAŞ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "28001",
+    "short": "28001",
+    "long": "1- KÜÇÜK DİKİLİ-ŞEHİT DURAN",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "28002",
+    "short": "28002",
+    "long": "2- SARI HAMZALI-ŞEHİT DURAN",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "28003",
+    "short": "28003",
+    "long": "3- CARREFOUR-ŞEHİT DURAN",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "28004",
+    "short": "28004",
+    "long": "4- YÜZÜNCÜ YIL-ŞEHİT DURAN",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "28005",
+    "short": "28005",
+    "long": "5A- ÇUKOBİRLİK-ŞEHİT DURAN",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "28006",
+    "short": "28006",
+    "long": "6- NAKLİYATÇILAR-ŞEHİT DURAN",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "28007",
+    "short": "28007",
+    "long": "7- ŞAMBAYAT TOKİ-ŞEHİT DURAN",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "28008",
+    "short": "28008",
+    "long": "8- FEVZİPAŞA-ŞEHİT DURAN",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "28009",
+    "short": "28009",
+    "long": "9A- YENİ SANAYİ-ŞEHİT DURAN",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "28010",
+    "short": "28010",
+    "long": "10A- KARA KUYU-ŞEHİT DURAN",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "28011",
+    "short": "28011",
+    "long": "SAPEKSA-ŞEHİT DURAN",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "28012",
+    "short": "28012",
+    "long": "12- SUNGURBEY-ŞEHİT DURAN",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "28051",
+    "short": "28051",
+    "long": "5B- ŞEHİT DURAN-ÇUKOBİRLİK",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "28091",
+    "short": "28091",
+    "long": "9B- ŞEHİT DURAN-YENİ SANAYİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "29001",
+    "short": "29001",
+    "long": "1-NARLICA-KÜLTÜR SİTESİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "29002",
+    "short": "29002",
+    "long": "2- KURTTEPE 1-KÜLTÜR SİTESİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "29003",
+    "short": "29003",
+    "long": "3- KURTTEPE 2/A-KÜLTÜR SİTESİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "29004",
+    "short": "29004",
+    "long": "4 - DENİZLİ MİTHATPAŞA-KÜLTÜR SİTESİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "29005",
+    "short": "29005",
+    "long": "5 - DENİZLİ SEYHAN UYGULAMA-KÜLTÜR SİTESİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "29006",
+    "short": "29006",
+    "long": "6 - DENİZLİ KURTTEPE-KÜLTÜR SİTESİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "29020",
+    "short": "29020",
+    "long": "4A-KURTTEPE-KÜLTÜR SİTESİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "29021",
+    "short": "29021",
+    "long": "4B - S.UYGULAMA-KÜLTÜR SİTESİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "30001",
+    "short": "30001",
+    "long": "AFET EVLERİ -1-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "30002",
+    "short": "30002",
+    "long": "ÇAMLIBEL 2A-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "30003",
+    "short": "30003",
+    "long": "MUTLU-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "30004",
+    "short": "30004",
+    "long": "BURUK-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "30005",
+    "short": "30005",
+    "long": "TOKİ-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "30006",
+    "short": "30006",
+    "long": "PTT - KİREMİTHANE-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "30007",
+    "short": "30007",
+    "long": "PTT - MESLEK-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "30008",
+    "short": "30008",
+    "long": "SARIÇAM BELEDİYESİ-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "30009",
+    "short": "30009",
+    "long": "STADYUM-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "30021",
+    "short": "30021",
+    "long": "2/B KİREMİTHANE-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "30022",
+    "short": "30022",
+    "long": "2/C KİREMİTHANE-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "31001",
+    "short": "31001",
+    "long": "1- ŞAKİRPAŞA-KÜLTÜR SİTESİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "31002",
+    "short": "31002",
+    "long": "2- BEŞ EVLER-KÜLTÜR SİTESİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "31003",
+    "short": "31003",
+    "long": "3- BEŞ OCAK HASTANESİ-KÜLTÜR SİTESİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "32001",
+    "short": "32001",
+    "long": "ÖNDERLER 1 - KARASU SET-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "32002",
+    "short": "32002",
+    "long": "ÖNDERLER 2 - KÜÇÜK OBA AKKAPI-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "32003",
+    "short": "32003",
+    "long": "ÖNDERLER 3 - KIBRIS CADDESi-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "32004",
+    "short": "32004",
+    "long": "ÖNDERLER 4 - GÜLBAHÇESİ KANAL-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "32005",
+    "short": "32005",
+    "long": "ÖNDERLER 5 - SAPEKSA HAL-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "32020",
+    "short": "32020",
+    "long": "ÖNDERLER 4 - GÜLBAHÇESİ KANAL-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "32021",
+    "short": "32021",
+    "long": "ÖNDERLER 5 - SAPEKSA HAL-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "33001",
+    "short": "33001",
+    "long": "İNCİRLİK-ÇETİNKAYA",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "33002",
+    "short": "33002",
+    "long": "SARIÇAM BELEDİYE-ÇETİNKAYA",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "33003",
+    "short": "33003",
+    "long": "BURUK - TOKİ-ÇETİNKAYA",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "34001",
+    "short": "34001",
+    "long": "CUMHURİYET-ÇETİNKAYA",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "34002",
+    "short": "34002",
+    "long": "KOZA-ÇETİNKAYA",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "35001",
+    "short": "35001",
+    "long": "AKKAPI-ATİLLA ALTIKAT",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "35002",
+    "short": "35002",
+    "long": "2- AKKAPI-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "36001",
+    "short": "36001",
+    "long": "1- YAMAÇLI-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "36002",
+    "short": "36002",
+    "long": "2- YAMAÇLI-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "36003",
+    "short": "36003",
+    "long": "3- YAMAÇLI-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "36004",
+    "short": "36004",
+    "long": "4- YAMAÇLI-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "38001",
+    "short": "38001",
+    "long": "HAVUTLU 1A-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "38002",
+    "short": "38002",
+    "long": "SEYHAN 2B-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "38003",
+    "short": "38003",
+    "long": "KANARA 2A-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "38011",
+    "short": "38011",
+    "long": "1B HATTI-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "38012",
+    "short": "38012",
+    "long": "1C HATTI-ÇARŞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "51000",
+    "short": "51000",
+    "long": "Marina-Gondol",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "51010",
+    "short": "51010",
+    "long": "Sinema-Müze",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "99910",
+    "short": "99910",
+    "long": "TEST-TEST",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "00000",
+    "short": "000",
+    "long": "Servis Dışı-Servis Dışı",
+    "color": "",
+    "text_color": ""
+  }
+]

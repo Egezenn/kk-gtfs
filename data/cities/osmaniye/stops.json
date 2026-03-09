@@ -1,0 +1,1424 @@
+[
+  {
+    "id": "10001",
+    "name": "EYÜP SULTAN SON DURAK",
+    "lat": 37.0992003,
+    "lon": 36.2706204
+  },
+  {
+    "id": "10002",
+    "name": "KADIN DOĞUM HASTANESİ",
+    "lat": 37.0831123,
+    "lon": 36.2663004
+  },
+  {
+    "id": "10003",
+    "name": "İBNİ SİNA",
+    "lat": 37.0808928,
+    "lon": 36.2629194
+  },
+  {
+    "id": "10004",
+    "name": "NAHİR YOLU DURAĞI",
+    "lat": 37.0792916,
+    "lon": 36.2584603
+  },
+  {
+    "id": "10005",
+    "name": "OKUL YOLU DURAĞI",
+    "lat": 37.0781914,
+    "lon": 36.2554414
+  },
+  {
+    "id": "10006",
+    "name": "KADİRLİ YOLU DURAĞI",
+    "lat": 37.0774269,
+    "lon": 36.2531923
+  },
+  {
+    "id": "10007",
+    "name": "YENİ BELEDİYE DURAĞI",
+    "lat": 37.0763085,
+    "lon": 36.249857
+  },
+  {
+    "id": "10008",
+    "name": "ÇİFT PETROL DURAĞI",
+    "lat": 37.0767335,
+    "lon": 36.2519783
+  },
+  {
+    "id": "10009",
+    "name": "CUMHURİYET MEYDANI",
+    "lat": 37.0746309,
+    "lon": 36.2508804
+  },
+  {
+    "id": "10010",
+    "name": "ZAFER CAMİ DURAĞI",
+    "lat": 37.0737714,
+    "lon": 36.2493749
+  },
+  {
+    "id": "10011",
+    "name": "MEHMET EMİNLER DURAĞI",
+    "lat": 37.0727259,
+    "lon": 36.2481077
+  },
+  {
+    "id": "10012",
+    "name": "PARK HASTANESİ",
+    "lat": 37.0716062,
+    "lon": 36.24684
+  },
+  {
+    "id": "10013",
+    "name": "BAHÇELİ BULVARI",
+    "lat": 37.0698605,
+    "lon": 36.2451302
+  },
+  {
+    "id": "10014",
+    "name": "ZORKUN YOLU DURAĞI",
+    "lat": 37.0682838,
+    "lon": 36.2430504
+  },
+  {
+    "id": "10015",
+    "name": "A101 DURAĞI",
+    "lat": 37.0665521,
+    "lon": 36.2422081
+  },
+  {
+    "id": "10016",
+    "name": "SİTELER DURAĞI",
+    "lat": 37.0625983,
+    "lon": 36.2390287
+  },
+  {
+    "id": "10017",
+    "name": "SİTELER 2 DURAĞI",
+    "lat": 37.061832,
+    "lon": 36.23813
+  },
+  {
+    "id": "10018",
+    "name": "MALAZGİRT PASTANESİ",
+    "lat": 37.0593363,
+    "lon": 36.2411984
+  },
+  {
+    "id": "10019",
+    "name": "AYNUR FATMA DURAĞI",
+    "lat": 37.0589432,
+    "lon": 36.2485208
+  },
+  {
+    "id": "10020",
+    "name": "MİMAR SİNAN CAMİ DURAĞI",
+    "lat": 37.0530567,
+    "lon": 36.2490501
+  },
+  {
+    "id": "10021",
+    "name": "CAN MARKET DURAĞI",
+    "lat": 37.0577674,
+    "lon": 36.2346396
+  },
+  {
+    "id": "10022",
+    "name": "HALK EĞİTİM DURAĞI",
+    "lat": 37.0514669,
+    "lon": 36.2261258
+  },
+  {
+    "id": "10023",
+    "name": "LİSELER DURAĞI",
+    "lat": 37.0544409,
+    "lon": 36.2226718
+  },
+  {
+    "id": "10024",
+    "name": "SOSYAL HIZMETLER",
+    "lat": 37.0579641,
+    "lon": 36.2179755
+  },
+  {
+    "id": "10025",
+    "name": "ULAŞLI PETROL",
+    "lat": 37.057105,
+    "lon": 36.2091353
+  },
+  {
+    "id": "10026",
+    "name": "HASTANE KAVŞAĞI",
+    "lat": 37.0558336,
+    "lon": 36.1847725
+  },
+  {
+    "id": "10027",
+    "name": "BÜYÜK HASTANE DURAĞI",
+    "lat": 37.0511338,
+    "lon": 36.1821579
+  },
+  {
+    "id": "10028",
+    "name": "HASTANE KAVŞAĞI 2",
+    "lat": 37.0551287,
+    "lon": 36.1849335
+  },
+  {
+    "id": "10029",
+    "name": "ULAŞLI PETROL 2",
+    "lat": 37.0565974,
+    "lon": 36.207179
+  },
+  {
+    "id": "10030",
+    "name": "BAĞKUR EVLERİ DURAĞI",
+    "lat": 37.0581227,
+    "lon": 36.2138763
+  },
+  {
+    "id": "10031",
+    "name": "SOSYAL HİZMETLER 2",
+    "lat": 37.0586756,
+    "lon": 36.2170585
+  },
+  {
+    "id": "10032",
+    "name": "LİSELER 2 DURAĞI",
+    "lat": 37.0541901,
+    "lon": 36.2225284
+  },
+  {
+    "id": "10033",
+    "name": "TOSYALI DURAĞI",
+    "lat": 37.0528586,
+    "lon": 36.2307024
+  },
+  {
+    "id": "10034",
+    "name": "CAN MARKET 2",
+    "lat": 37.0577236,
+    "lon": 36.2345713
+  },
+  {
+    "id": "10035",
+    "name": "ZİYA BEY CAMİ DURAĞI",
+    "lat": 37.0549162,
+    "lon": 36.2400104
+  },
+  {
+    "id": "10036",
+    "name": "KAROCU KEMAL",
+    "lat": 37.053916,
+    "lon": 36.24182
+  },
+  {
+    "id": "10037",
+    "name": "MİMAR SİNAN 2 DURAĞI",
+    "lat": 37.0527924,
+    "lon": 36.2488568
+  },
+  {
+    "id": "10038",
+    "name": "AYNUR FATMA 2",
+    "lat": 37.0588874,
+    "lon": 36.2488313
+  },
+  {
+    "id": "10039",
+    "name": "YENİ HAYAT HASTANE DURAĞI",
+    "lat": 37.0612444,
+    "lon": 36.2376661
+  },
+  {
+    "id": "10040",
+    "name": "MİTHAT PAŞA OKULU",
+    "lat": 37.0633395,
+    "lon": 36.2397562
+  },
+  {
+    "id": "10041",
+    "name": "A101 2 DURAĞI",
+    "lat": 37.0675065,
+    "lon": 36.2426431
+  },
+  {
+    "id": "10042",
+    "name": "BAHÇELİ BULVARI 2",
+    "lat": 37.069352,
+    "lon": 36.2445578
+  },
+  {
+    "id": "10043",
+    "name": "PARK HASTANESİ 2",
+    "lat": 37.0718413,
+    "lon": 36.2471018
+  },
+  {
+    "id": "10044",
+    "name": "ESKİ BELEDİYE DURAĞI",
+    "lat": 37.0728622,
+    "lon": 36.2489768
+  },
+  {
+    "id": "10045",
+    "name": "İŞ BANKASI DURAĞI",
+    "lat": 37.0735291,
+    "lon": 36.251722
+  },
+  {
+    "id": "10046",
+    "name": "HALK BANKASI DURAĞI",
+    "lat": 37.0740713,
+    "lon": 36.253796
+  },
+  {
+    "id": "10047",
+    "name": "VİTAMİN ÇİFTLİĞİ",
+    "lat": 37.0769708,
+    "lon": 36.2525613
+  },
+  {
+    "id": "10048",
+    "name": "KADİRLİ YOLU DURAĞI 2",
+    "lat": 37.0776187,
+    "lon": 36.2542789
+  },
+  {
+    "id": "10049",
+    "name": "SHELL PETROL DURAĞI",
+    "lat": 37.0784618,
+    "lon": 36.2567187
+  },
+  {
+    "id": "10050",
+    "name": "KADIN DOĞUM HASTANESİ 2",
+    "lat": 37.0830123,
+    "lon": 36.2664199
+  },
+  {
+    "id": "10194",
+    "name": "MEVLANA SON DURAK",
+    "lat": 37.092653,
+    "lon": 36.2682971
+  },
+  {
+    "id": "10142",
+    "name": "SELALE PARK 2",
+    "lat": 37.0813271,
+    "lon": 36.240384
+  },
+  {
+    "id": "10143",
+    "name": "TREN GARI DURAGI",
+    "lat": 37.07905,
+    "lon": 36.2372144
+  },
+  {
+    "id": "10133",
+    "name": "REMZI OZER DURAGI",
+    "lat": 37.0709659,
+    "lon": 36.2258899
+  },
+  {
+    "id": "10063",
+    "name": "AYSANLAR DURAĞI",
+    "lat": 37.0687907,
+    "lon": 36.2353112
+  },
+  {
+    "id": "10064",
+    "name": "AVM DURAĞI",
+    "lat": 37.0676938,
+    "lon": 36.2332084
+  },
+  {
+    "id": "10065",
+    "name": "VALİLİK DURAĞI",
+    "lat": 37.066841,
+    "lon": 36.2315711
+  },
+  {
+    "id": "10066",
+    "name": "TOYOTA BAYİİ DURAĞI",
+    "lat": 37.0627873,
+    "lon": 36.223998
+  },
+  {
+    "id": "10068",
+    "name": "FISTIK ANITI DURAĞI",
+    "lat": 37.060255,
+    "lon": 36.2195267
+  },
+  {
+    "id": "10261",
+    "name": "VALİLİK ANA DURAK",
+    "lat": 37.0668874,
+    "lon": 36.2319945
+  },
+  {
+    "id": "10136",
+    "name": "SELALE PARK",
+    "lat": 37.0812069,
+    "lon": 36.2402647
+  },
+  {
+    "id": "10140",
+    "name": "KUZEY CEVREYOLU 1",
+    "lat": 37.0875621,
+    "lon": 36.2339395
+  },
+  {
+    "id": "10181",
+    "name": "NECIP FAZIL KISAKUREK 2",
+    "lat": 37.0863713,
+    "lon": 36.2380758
+  },
+  {
+    "id": "10153",
+    "name": "SALI PAZARI 2",
+    "lat": 37.0805509,
+    "lon": 36.2416866
+  },
+  {
+    "id": "10152",
+    "name": "KOSK DUGUN SALONU 2",
+    "lat": 37.0791349,
+    "lon": 36.2436508
+  },
+  {
+    "id": "10151",
+    "name": "TURKUAZ 2 DURAGI",
+    "lat": 37.0780521,
+    "lon": 36.2451486
+  },
+  {
+    "id": "10150",
+    "name": "MUCAHIT SOYDEMIR ORTAOKULU",
+    "lat": 37.0763612,
+    "lon": 36.2475516
+  },
+  {
+    "id": "10077",
+    "name": "BAŞAK PETROL",
+    "lat": 37.0751592,
+    "lon": 36.2474414
+  },
+  {
+    "id": "10092",
+    "name": "ZIRAAT BANKASI DURAGI",
+    "lat": 37.0741023,
+    "lon": 36.2471589
+  },
+  {
+    "id": "10093",
+    "name": "ŞEHİTLİK DURAĞI",
+    "lat": 37.0727607,
+    "lon": 36.2510622
+  },
+  {
+    "id": "10116",
+    "name": "ESKI MALIYE DURAGI",
+    "lat": 37.0723064,
+    "lon": 36.252683
+  },
+  {
+    "id": "10117",
+    "name": "YARGICI CESMESI",
+    "lat": 37.0712546,
+    "lon": 36.2539269
+  },
+  {
+    "id": "10121",
+    "name": "HUZUREVI",
+    "lat": 37.0668652,
+    "lon": 36.2745266
+  },
+  {
+    "id": "10127",
+    "name": "GEBELI CINAR 2",
+    "lat": 37.0636073,
+    "lon": 36.2820008
+  },
+  {
+    "id": "10124",
+    "name": "MEZARLIK YOLU DURAGI",
+    "lat": 37.0617631,
+    "lon": 36.2811351
+  },
+  {
+    "id": "10123",
+    "name": "GEBELI CINAR DURAGI",
+    "lat": 37.063681,
+    "lon": 36.2820462
+  },
+  {
+    "id": "10122",
+    "name": "EKIZ MARKET DURAGI",
+    "lat": 37.0667238,
+    "lon": 36.2764286
+  },
+  {
+    "id": "10129",
+    "name": "CUMHURIYET CAMI 2",
+    "lat": 37.0677484,
+    "lon": 36.2673973
+  },
+  {
+    "id": "10090",
+    "name": "KOSK DUGUN SALONU DURAGI",
+    "lat": 37.0792059,
+    "lon": 36.2437036
+  },
+  {
+    "id": "10089",
+    "name": "SALI PAZARI",
+    "lat": 37.0806424,
+    "lon": 36.2417533
+  },
+  {
+    "id": "10141",
+    "name": "DR IHSAN GOKNEL",
+    "lat": 37.0837888,
+    "lon": 36.236511
+  },
+  {
+    "id": "10058",
+    "name": "PARK DURAĞI",
+    "lat": 37.073966,
+    "lon": 36.2454707
+  },
+  {
+    "id": "10059",
+    "name": "ESKİ DİŞ HASTANESİ",
+    "lat": 37.0741872,
+    "lon": 36.2453386
+  },
+  {
+    "id": "10210",
+    "name": "OGRETMEN EVI",
+    "lat": 37.0770834,
+    "lon": 36.2377841
+  },
+  {
+    "id": "10211",
+    "name": "YILDIRIM BEYAZIT DURAGI",
+    "lat": 37.0717574,
+    "lon": 36.2339951
+  },
+  {
+    "id": "10212",
+    "name": "SIRINEVLER CAMI",
+    "lat": 37.0659664,
+    "lon": 36.2219721
+  },
+  {
+    "id": "10213",
+    "name": "ASRI MEZARLIK DURAGI",
+    "lat": 37.0652156,
+    "lon": 36.2118557
+  },
+  {
+    "id": "10214",
+    "name": "BAHCESEHIR KOLEJI DURAGI",
+    "lat": 37.0638767,
+    "lon": 36.2067044
+  },
+  {
+    "id": "10215",
+    "name": "SEBZE HALI DURAGI",
+    "lat": 37.0623908,
+    "lon": 36.2011086
+  },
+  {
+    "id": "10216",
+    "name": "KARABAHADIR DURAGI",
+    "lat": 37.0610278,
+    "lon": 36.1961422
+  },
+  {
+    "id": "10217",
+    "name": "SEBZE HALI 2",
+    "lat": 37.0622769,
+    "lon": 36.2008564
+  },
+  {
+    "id": "10218",
+    "name": "ASRI MEZARLIK 2",
+    "lat": 37.065107,
+    "lon": 36.2117453
+  },
+  {
+    "id": "10219",
+    "name": "SIRINEVLER CAMI 2",
+    "lat": 37.0658782,
+    "lon": 36.221964
+  },
+  {
+    "id": "10220",
+    "name": "YILDIRIM BEYAZIT 2",
+    "lat": 37.0715794,
+    "lon": 36.2339662
+  },
+  {
+    "id": "10221",
+    "name": "OGRETMEN EVI 2",
+    "lat": 37.0769592,
+    "lon": 36.237713
+  },
+  {
+    "id": "10188",
+    "name": "ESKI BELEDIYE 2",
+    "lat": 37.0728439,
+    "lon": 36.2489542
+  },
+  {
+    "id": "10222",
+    "name": "CIVIL 2",
+    "lat": 37.0740685,
+    "lon": 36.2549447
+  },
+  {
+    "id": "10223",
+    "name": "ISTIKLAL ILKOGRETIM OKULU",
+    "lat": 37.075493,
+    "lon": 36.2603676
+  },
+  {
+    "id": "10259",
+    "name": "JANDARMA DURAĞI",
+    "lat": 37.0807012,
+    "lon": 36.2629686
+  },
+  {
+    "id": "10263",
+    "name": "KATRAN OCAĞI",
+    "lat": 37.0502475,
+    "lon": 36.2635427
+  },
+  {
+    "id": "10264",
+    "name": "YAVUZ SULTAN SELİM İLKOKULU",
+    "lat": 37.0586642,
+    "lon": 36.2512876
+  },
+  {
+    "id": "10094",
+    "name": "YENI CARSI DURAGI",
+    "lat": 37.0714765,
+    "lon": 36.2518312
+  },
+  {
+    "id": "10149",
+    "name": "CUMHURIYET MEYDANI 1",
+    "lat": 37.0745979,
+    "lon": 36.2503586
+  },
+  {
+    "id": "10056",
+    "name": "ÇOCUK HASTANESİ",
+    "lat": 37.0823473,
+    "lon": 36.2667448
+  },
+  {
+    "id": "10265",
+    "name": "KARAÇAY MUHTARLIK",
+    "lat": 37.0596873,
+    "lon": 36.2754785
+  },
+  {
+    "id": "10119",
+    "name": "CUMHURIYET CAMI DURAGI",
+    "lat": 37.06763,
+    "lon": 36.2670324
+  },
+  {
+    "id": "10137",
+    "name": "OTOGAR",
+    "lat": 37.100271,
+    "lon": 36.2437115
+  },
+  {
+    "id": "10183",
+    "name": "KABULLER DURAGI",
+    "lat": 37.0916006,
+    "lon": 36.2497238
+  },
+  {
+    "id": "10184",
+    "name": "DIS HASTANESI",
+    "lat": 37.0884464,
+    "lon": 36.2505536
+  },
+  {
+    "id": "10266",
+    "name": "YENİ DEVLET HASTANESİ",
+    "lat": 37.0845871,
+    "lon": 36.273609
+  },
+  {
+    "id": "10107",
+    "name": "OGUZ APANOGLU DURAGI",
+    "lat": 37.0547991,
+    "lon": 36.275428
+  },
+  {
+    "id": "10102",
+    "name": "SU DEPOSU DURAGI",
+    "lat": 37.056474,
+    "lon": 36.2678204
+  },
+  {
+    "id": "10204",
+    "name": "NISA EVLERI DURAGI",
+    "lat": 37.0550141,
+    "lon": 36.2613341
+  },
+  {
+    "id": "10203",
+    "name": "112 ACIL DURAGI",
+    "lat": 37.0570972,
+    "lon": 36.2599689
+  },
+  {
+    "id": "10202",
+    "name": "19 MAYIS DURAGI",
+    "lat": 37.0586991,
+    "lon": 36.2593041
+  },
+  {
+    "id": "10201",
+    "name": "GUVEN CAMI",
+    "lat": 37.0615985,
+    "lon": 36.2574438
+  },
+  {
+    "id": "10130",
+    "name": "YENI HAYAT",
+    "lat": 37.0624032,
+    "lon": 36.2382085
+  },
+  {
+    "id": "10131",
+    "name": "DOMINOS DURAGI",
+    "lat": 37.0635363,
+    "lon": 36.2371783
+  },
+  {
+    "id": "10189",
+    "name": "TOSYALI 2",
+    "lat": 37.0528633,
+    "lon": 36.2305625
+  },
+  {
+    "id": "10146",
+    "name": "DOMINOS 2 DURAGI",
+    "lat": 37.0634983,
+    "lon": 36.2370814
+  },
+  {
+    "id": "10147",
+    "name": "YENI HAYAT 2",
+    "lat": 37.062335,
+    "lon": 36.2380724
+  },
+  {
+    "id": "10231",
+    "name": "GUVEN CAMI 2 DURAGI",
+    "lat": 37.0616016,
+    "lon": 36.2574654
+  },
+  {
+    "id": "10230",
+    "name": "19 MAYIS 2 DURAGI",
+    "lat": 37.0586541,
+    "lon": 36.2592779
+  },
+  {
+    "id": "10229",
+    "name": "112 ACIL 2 DURAGI",
+    "lat": 37.0570288,
+    "lon": 36.2599086
+  },
+  {
+    "id": "10228",
+    "name": "NISA EVLER 2",
+    "lat": 37.0548943,
+    "lon": 36.2612898
+  },
+  {
+    "id": "10054",
+    "name": "BÖLGE TRAFİK DURAĞI",
+    "lat": 37.0849099,
+    "lon": 36.2737542
+  },
+  {
+    "id": "10055",
+    "name": "DSİ DURAĞI",
+    "lat": 37.0840576,
+    "lon": 36.2714995
+  },
+  {
+    "id": "10191",
+    "name": "DIS HASTANESI 2",
+    "lat": 37.0884421,
+    "lon": 36.250692
+  },
+  {
+    "id": "10192",
+    "name": "KABULLER 2",
+    "lat": 37.0915849,
+    "lon": 36.2497771
+  },
+  {
+    "id": "10193",
+    "name": "DUMLUPINAR GIRIS 2",
+    "lat": 37.0960446,
+    "lon": 36.2468155
+  },
+  {
+    "id": "10081",
+    "name": "ÜNİVERSİTE 2",
+    "lat": 37.0434064,
+    "lon": 36.22525
+  },
+  {
+    "id": "10082",
+    "name": "TOKİLER",
+    "lat": 37.0407196,
+    "lon": 36.2341213
+  },
+  {
+    "id": "10083",
+    "name": "YURTKUR DURAĞI",
+    "lat": 37.051695,
+    "lon": 36.2333988
+  },
+  {
+    "id": "10132",
+    "name": "PARK 328 DURAGI",
+    "lat": 37.0653931,
+    "lon": 36.2356301
+  },
+  {
+    "id": "10072",
+    "name": "VALİLİK 2 DURAĞI",
+    "lat": 37.0679995,
+    "lon": 36.2340916
+  },
+  {
+    "id": "10134",
+    "name": "YILDIRIM BEYAZIT CEVREYOLU",
+    "lat": 37.0747995,
+    "lon": 36.2305766
+  },
+  {
+    "id": "10135",
+    "name": "ZABITA MUDURLUGU",
+    "lat": 37.0769057,
+    "lon": 36.2339957
+  },
+  {
+    "id": "10258",
+    "name": "TREN GARI 1",
+    "lat": 37.0789038,
+    "lon": 36.2371497
+  },
+  {
+    "id": "10138",
+    "name": "CEVREYOLU SOMUNCU BABA",
+    "lat": 37.0979522,
+    "lon": 36.2443364
+  },
+  {
+    "id": "10139",
+    "name": "KUZEY CEVREYOLU",
+    "lat": 37.0942519,
+    "lon": 36.2397082
+  },
+  {
+    "id": "10144",
+    "name": "ZABITA MUDURLUGU 2",
+    "lat": 37.0771196,
+    "lon": 36.2344808
+  },
+  {
+    "id": "10145",
+    "name": "PARK 328 2 DURAGI",
+    "lat": 37.0654735,
+    "lon": 36.2354564
+  },
+  {
+    "id": "10086",
+    "name": "YURTKUR 2 DURAĞI",
+    "lat": 37.0518988,
+    "lon": 36.2335017
+  },
+  {
+    "id": "10085",
+    "name": "TOKI 2 DURAĞI",
+    "lat": 37.0406892,
+    "lon": 36.2341048
+  },
+  {
+    "id": "10080",
+    "name": "ÜNİVERSİTE 1",
+    "lat": 37.0378673,
+    "lon": 36.2255159
+  },
+  {
+    "id": "10079",
+    "name": "FAKUŞAĞI SON DURAK",
+    "lat": 37.0367402,
+    "lon": 36.2246904
+  },
+  {
+    "id": "10073",
+    "name": "AYSANLAR 2 DURAĞI",
+    "lat": 37.0691495,
+    "lon": 36.2363171
+  },
+  {
+    "id": "10074",
+    "name": "BİLPA 2 DURAĞI",
+    "lat": 37.0707899,
+    "lon": 36.2393625
+  },
+  {
+    "id": "10075",
+    "name": "ESKİ İTFAİYE 2 DURAĞI",
+    "lat": 37.0718157,
+    "lon": 36.2412461
+  },
+  {
+    "id": "10076",
+    "name": "YURTİÇİ KARGO DURAĞI",
+    "lat": 37.0728422,
+    "lon": 36.2430909
+  },
+  {
+    "id": "10078",
+    "name": "YENİ BELEDİYE 2",
+    "lat": 37.075736,
+    "lon": 36.2488504
+  },
+  {
+    "id": "10182",
+    "name": "DUMLUPINAR GIRIS",
+    "lat": 37.0960539,
+    "lon": 36.2467337
+  },
+  {
+    "id": "10185",
+    "name": "IMAM AZAM CAMI",
+    "lat": 37.0845802,
+    "lon": 36.2516522
+  },
+  {
+    "id": "10084",
+    "name": "ÇARŞI DURAĞI",
+    "lat": 37.0753797,
+    "lon": 36.2476689
+  },
+  {
+    "id": "10060",
+    "name": "ORMAN İŞLETMESİ",
+    "lat": 37.0727147,
+    "lon": 36.2425333
+  },
+  {
+    "id": "10061",
+    "name": "ESKİ İTFAİYE DURAĞI",
+    "lat": 37.0720451,
+    "lon": 36.2412584
+  },
+  {
+    "id": "10062",
+    "name": "BİLPA DURAĞI",
+    "lat": 37.0703777,
+    "lon": 36.2382704
+  },
+  {
+    "id": "10088",
+    "name": "NECIP FAZIL KISAKUREK",
+    "lat": 37.0863893,
+    "lon": 36.2378764
+  },
+  {
+    "id": "10091",
+    "name": "TURKUAZ DURAGI",
+    "lat": 37.0781049,
+    "lon": 36.2452285
+  },
+  {
+    "id": "10095",
+    "name": "YALCIN MARKET DURAGI",
+    "lat": 37.0667003,
+    "lon": 36.2552434
+  },
+  {
+    "id": "10096",
+    "name": "HACI OSMANLI DURAGI",
+    "lat": 37.065297,
+    "lon": 36.2566471
+  },
+  {
+    "id": "10097",
+    "name": "ZORKUN CAMI DURAGI",
+    "lat": 37.0615796,
+    "lon": 36.2606329
+  },
+  {
+    "id": "10098",
+    "name": "PAZAR YOLU DURAGI",
+    "lat": 37.0606863,
+    "lon": 36.2615827
+  },
+  {
+    "id": "10099",
+    "name": "SEMT DEGIRMENI",
+    "lat": 37.0593725,
+    "lon": 36.2630823
+  },
+  {
+    "id": "10100",
+    "name": "DR. BESEN DURAGI",
+    "lat": 37.0581727,
+    "lon": 36.2646583
+  },
+  {
+    "id": "10101",
+    "name": "7 OCAK DURAGI",
+    "lat": 37.0572838,
+    "lon": 36.2660878
+  },
+  {
+    "id": "10104",
+    "name": "HASLAR DURAGI",
+    "lat": 37.0510936,
+    "lon": 36.2709467
+  },
+  {
+    "id": "10105",
+    "name": "HASLAR SK. DURAGI",
+    "lat": 37.0502682,
+    "lon": 36.2721879
+  },
+  {
+    "id": "10106",
+    "name": "KARACAY YOLU DURAGI",
+    "lat": 37.0502849,
+    "lon": 36.2776388
+  },
+  {
+    "id": "10103",
+    "name": "ÇATI SİTESİ DURAGI",
+    "lat": 37.050415,
+    "lon": 36.277611
+  },
+  {
+    "id": "10108",
+    "name": "IKIZLER DURAGI",
+    "lat": 37.0563357,
+    "lon": 36.2744764
+  },
+  {
+    "id": "10109",
+    "name": "HANIFILER DURAGI",
+    "lat": 37.0582913,
+    "lon": 36.2724573
+  },
+  {
+    "id": "10110",
+    "name": "IPEK MARKET DURAGI",
+    "lat": 37.059689,
+    "lon": 36.2695413
+  },
+  {
+    "id": "10111",
+    "name": "LALE SITESI",
+    "lat": 37.0614051,
+    "lon": 36.2677399
+  },
+  {
+    "id": "10112",
+    "name": "SEKER CAMI DURAGI",
+    "lat": 37.0621679,
+    "lon": 36.2665882
+  },
+  {
+    "id": "10113",
+    "name": "GUNEYSU DURAGI",
+    "lat": 37.0629954,
+    "lon": 36.2648486
+  },
+  {
+    "id": "10114",
+    "name": "CORTUK DURAGI",
+    "lat": 37.0647346,
+    "lon": 36.262342
+  },
+  {
+    "id": "10115",
+    "name": "CORTUK 1 DURAGI",
+    "lat": 37.0657724,
+    "lon": 36.2608077
+  },
+  {
+    "id": "10118",
+    "name": "YARGICI CESMESI 1 DURAGI",
+    "lat": 37.0697342,
+    "lon": 36.2550913
+  },
+  {
+    "id": "10262",
+    "name": "KADİRLİ ANA DURAK",
+    "lat": 37.0779922,
+    "lon": 36.253766
+  },
+  {
+    "id": "10190",
+    "name": "IMAM AZAM 2",
+    "lat": 37.0845679,
+    "lon": 36.2517051
+  },
+  {
+    "id": "10195",
+    "name": "NEZIR MARKET DURAGI",
+    "lat": 37.0955232,
+    "lon": 36.2550993
+  },
+  {
+    "id": "10196",
+    "name": "DUMLUPINAR CAMI DURAGI",
+    "lat": 37.0925948,
+    "lon": 36.2455902
+  },
+  {
+    "id": "10197",
+    "name": "AHMET SAHIN PARK DURAGI",
+    "lat": 37.0880489,
+    "lon": 36.2449575
+  },
+  {
+    "id": "10198",
+    "name": "KABULLER DURAGI",
+    "lat": 37.0725681,
+    "lon": 36.2488909
+  },
+  {
+    "id": "10199",
+    "name": "BALIKCILAR DURAGI",
+    "lat": 37.0715615,
+    "lon": 36.2499885
+  },
+  {
+    "id": "10200",
+    "name": "7 OCAK DURAGI",
+    "lat": 37.0701747,
+    "lon": 36.2514165
+  },
+  {
+    "id": "10205",
+    "name": "FATIH ILKOGRETIM OKULU DURAGI",
+    "lat": 37.0523087,
+    "lon": 36.2656641
+  },
+  {
+    "id": "10206",
+    "name": "KARACALAR MEZARLIK DURAGI",
+    "lat": 37.0458494,
+    "lon": 36.2671665
+  },
+  {
+    "id": "10207",
+    "name": "KARACALAR HACI OSMAN CAMI",
+    "lat": 37.0443743,
+    "lon": 36.2630442
+  },
+  {
+    "id": "10208",
+    "name": "DEREOBASI OKUL DURAGI",
+    "lat": 37.0468584,
+    "lon": 36.2498213
+  },
+  {
+    "id": "10209",
+    "name": "DEREOBASI CAMI DURAGI",
+    "lat": 37.0422274,
+    "lon": 36.2487271
+  },
+  {
+    "id": "10224",
+    "name": "DEREOBASI OKUL 2",
+    "lat": 37.0465884,
+    "lon": 36.2496907
+  },
+  {
+    "id": "10225",
+    "name": "KARACALAR HACI OSMAN CAMI 2",
+    "lat": 37.0443298,
+    "lon": 36.2630121
+  },
+  {
+    "id": "10226",
+    "name": "KARACALAR MEZARLIK CAMI 2",
+    "lat": 37.0457916,
+    "lon": 36.2670538
+  },
+  {
+    "id": "10227",
+    "name": "FATIH ILK OKULU 2",
+    "lat": 37.0522284,
+    "lon": 36.2656762
+  },
+  {
+    "id": "10232",
+    "name": "7 OCAK 2 DURAGI",
+    "lat": 37.0701273,
+    "lon": 36.2513629
+  },
+  {
+    "id": "10233",
+    "name": "BALIKCILAR 2 DURAGI",
+    "lat": 37.0715305,
+    "lon": 36.24996
+  },
+  {
+    "id": "10234",
+    "name": "IS BANKASI 2 DURAGI",
+    "lat": 37.073569,
+    "lon": 36.2517053
+  },
+  {
+    "id": "10235",
+    "name": "AHMET SAHIN PARKI 2",
+    "lat": 37.0880477,
+    "lon": 36.2449281
+  },
+  {
+    "id": "10069",
+    "name": "SANAYİ CAMİ DURAĞI",
+    "lat": 37.0622414,
+    "lon": 36.2231939
+  },
+  {
+    "id": "10070",
+    "name": "MASAL PARK DURAĞI",
+    "lat": 37.0640787,
+    "lon": 36.2267793
+  },
+  {
+    "id": "10071",
+    "name": "MASAL PARK 2 DURAĞI",
+    "lat": 37.0654595,
+    "lon": 36.2291552
+  },
+  {
+    "id": "10087",
+    "name": "YENİ MAH. SON DURAK",
+    "lat": 37.0862598,
+    "lon": 36.2329052
+  },
+  {
+    "id": "10052",
+    "name": "AHMET YESEVİ SON DURAK",
+    "lat": 37.0898324,
+    "lon": 36.2887587
+  },
+  {
+    "id": "10053",
+    "name": "ASLANLAR DURAĞI",
+    "lat": 37.0886615,
+    "lon": 36.2853725
+  },
+  {
+    "id": "10057",
+    "name": "AKBANK DURAĞI",
+    "lat": 37.0742413,
+    "lon": 36.2496968
+  },
+  {
+    "id": "10067",
+    "name": "AKYAR DURAĞI",
+    "lat": 37.0547412,
+    "lon": 36.2011051
+  },
+  {
+    "id": "10260",
+    "name": "ŞEHİT BİNBAŞI ADİL KARAGÖZ",
+    "lat": 37.0788289,
+    "lon": 36.2861698
+  },
+  {
+    "id": "10148",
+    "name": "ISTIKLAL",
+    "lat": 37.0756252,
+    "lon": 36.2602793
+  },
+  {
+    "id": "10154",
+    "name": "IHSAN GOKNEL DURAGI",
+    "lat": 37.0828122,
+    "lon": 36.2382019
+  },
+  {
+    "id": "10155",
+    "name": "IHSAN GOKNEL 1",
+    "lat": 37.081427,
+    "lon": 36.2364081
+  },
+  {
+    "id": "10156",
+    "name": "GONCA FIRIN DURAGI",
+    "lat": 37.0782014,
+    "lon": 36.2322996
+  },
+  {
+    "id": "10157",
+    "name": "ZABITA TOKI",
+    "lat": 37.0749847,
+    "lon": 36.2284124
+  },
+  {
+    "id": "10158",
+    "name": "YAVERIYE SAGLIK OCAGI",
+    "lat": 37.0732103,
+    "lon": 36.2260277
+  },
+  {
+    "id": "10159",
+    "name": "IKLIM MARKET",
+    "lat": 37.0729716,
+    "lon": 36.2233138
+  },
+  {
+    "id": "10160",
+    "name": "YESILYURT DURAĞI",
+    "lat": 37.0776745,
+    "lon": 36.2202615
+  },
+  {
+    "id": "10161",
+    "name": "FIGEN ALHAN ILKOKULU",
+    "lat": 37.0799279,
+    "lon": 36.2179192
+  },
+  {
+    "id": "10162",
+    "name": "ASAGI TOKI DURAGI",
+    "lat": 37.0858739,
+    "lon": 36.1995246
+  },
+  {
+    "id": "10163",
+    "name": "TOKI GIRIS",
+    "lat": 37.0824821,
+    "lon": 36.1994106
+  },
+  {
+    "id": "10164",
+    "name": "TOKI PARK",
+    "lat": 37.0819257,
+    "lon": 36.1953022
+  },
+  {
+    "id": "10165",
+    "name": "TOKI CAMI DURAGI",
+    "lat": 37.0801306,
+    "lon": 36.1945265
+  },
+  {
+    "id": "10166",
+    "name": "YESIL TOKI",
+    "lat": 37.080295,
+    "lon": 36.1982528
+  },
+  {
+    "id": "10167",
+    "name": "TOKI OKUL DURAGI",
+    "lat": 37.079518,
+    "lon": 36.1963859
+  },
+  {
+    "id": "10168",
+    "name": "TOKI CAMI 2",
+    "lat": 37.0799963,
+    "lon": 36.1946524
+  },
+  {
+    "id": "10169",
+    "name": "TOKI PARK 2",
+    "lat": 37.0816385,
+    "lon": 36.1946745
+  },
+  {
+    "id": "10170",
+    "name": "TOKI CIKIS",
+    "lat": 37.0820603,
+    "lon": 36.1956758
+  },
+  {
+    "id": "10171",
+    "name": "TOKI LISE",
+    "lat": 37.0824218,
+    "lon": 36.1993557
+  },
+  {
+    "id": "10173",
+    "name": "FIGEN ALHANLI ILKOKULU 2",
+    "lat": 37.080093,
+    "lon": 36.2176246
+  },
+  {
+    "id": "10174",
+    "name": "YESILYURT 2",
+    "lat": 37.077719,
+    "lon": 36.2201745
+  },
+  {
+    "id": "10175",
+    "name": "IKLIM MARKET 2",
+    "lat": 37.0724859,
+    "lon": 36.2237712
+  },
+  {
+    "id": "10176",
+    "name": "YAVERIYE SAGLIK OCAGI 2",
+    "lat": 37.0731674,
+    "lon": 36.2258046
+  },
+  {
+    "id": "10177",
+    "name": "ZABITA TOKI 2",
+    "lat": 37.074753,
+    "lon": 36.2277824
+  },
+  {
+    "id": "10178",
+    "name": "GONCA FIRIN 2",
+    "lat": 37.0781503,
+    "lon": 36.2322867
+  },
+  {
+    "id": "10179",
+    "name": "IHSAN GOKNEL 2",
+    "lat": 37.0813916,
+    "lon": 36.2364244
+  },
+  {
+    "id": "10180",
+    "name": "IHSAN GOKNEL 3",
+    "lat": 37.0827419,
+    "lon": 36.238204
+  },
+  {
+    "id": "10186",
+    "name": "CIVIL DURAGI",
+    "lat": 37.0741511,
+    "lon": 36.2549485
+  }
+]

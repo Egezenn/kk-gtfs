@@ -1,0 +1,72 @@
+[
+  {
+    "id": "51001",
+    "short": "1",
+    "long": "SSK A-YENİ TERMİNAL",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "51002",
+    "short": "2",
+    "long": "SSK B-TOKİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "51003",
+    "short": "3",
+    "long": "KAMPÜS A-NİĞDE EVLERİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "51004",
+    "short": "4",
+    "long": "KAMPÜS B-TOKİ",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "51005",
+    "short": "5",
+    "long": "AMAS-ALAY DURAĞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "51006",
+    "short": "6",
+    "long": "YS DURAĞI-AKTAŞ YENİ MAHALLE",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "51007",
+    "short": "7",
+    "long": "SET EVLERİ-BEŞİKTAŞ DURAĞI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "51008",
+    "short": "8",
+    "long": "MURAT EVLER-BARIŞ APARTMANI",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "51009",
+    "short": "9",
+    "long": "SELÇUK MAHALLESİ-MERT EVLER",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "05151",
+    "short": "51",
+    "long": "ASANSOR1-ASANSOR2",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  }
+]

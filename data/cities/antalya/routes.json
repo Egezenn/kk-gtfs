@@ -1,0 +1,1192 @@
+[
+  {
+    "id": "00354",
+    "short": "35",
+    "long": "VARSAK ALTIAYAK DEPOLAMA-MEYDAN DEPOLAMA",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00451",
+    "short": "45",
+    "long": "ÇAMKÖY-MEYDAN DEPOLAMA",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00464",
+    "short": "46",
+    "long": "MEYDAN DEPOLAMA-ALTINOVA",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00465",
+    "short": "46A",
+    "long": "MEYDAN DEPOLAMA-ALTINOVA MAHALLESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00104",
+    "short": "104",
+    "long": "GÜRSU MAHALLESİ-KONYAALTI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00106",
+    "short": "106",
+    "long": "OTOGAR DEPOLAMA-ÇALLI KAVŞAĞI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "01120",
+    "short": "112",
+    "long": "VARSAK BELEDIYE-KEPEZ DEVLET HASTANESI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "01130",
+    "short": "113",
+    "long": "DEEPO-MALL OF ANTALYA-SEHİR HASTANESİ",
+    "color": "1C37FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "01140",
+    "short": "114",
+    "long": "ŞEHİR HASTANESİ-FATİH",
+    "color": "1723FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "01830",
+    "short": "183",
+    "long": "OTOGAR DEPOLAMA-YÜZÜNCÜ YIL",
+    "color": "254DFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "01880",
+    "short": "188",
+    "long": "UNCALI MEZARLIGI-KURSUNLU MEZARLIGI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "04000",
+    "short": "400",
+    "long": "SARISU DEPOLAMA-HAVALIMANI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "05030",
+    "short": "503",
+    "long": "OTOGAR DEPOLAMA-ASAGI KARAMAN",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "05060",
+    "short": "506",
+    "long": "MEYDAN DEPOLAMA-YAGCA",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "05070",
+    "short": "507",
+    "long": "VARSAK-KIRISCILER-KIZILLI",
+    "color": "1100FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "05080",
+    "short": "508",
+    "long": "VARSAK-CAMLICA-KIZILLI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "05090",
+    "short": "509",
+    "long": "OTOGAR DEPOLAMA-KIRISCILER",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "05110",
+    "short": "511",
+    "long": "OTOGAR DEPOLAMA-KUNDU",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "05120",
+    "short": "512",
+    "long": "GÜZELOBA DEPOLAMA-GUZELBAG",
+    "color": "0B03FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00513",
+    "short": "513",
+    "long": "GÜZELOBA DEPOLAMA-ERMENEK",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "05131",
+    "short": "513A",
+    "long": "GÜZELOBA DEPOLAMA-ERMENEK MAHALLESI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "05140",
+    "short": "514",
+    "long": "AKSU DEPOLAMA-KARAÖZ",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "05141",
+    "short": "514A",
+    "long": "AKSU DEPOLAMA-YEŞİLKARAMAN",
+    "color": "3F55FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "05150",
+    "short": "515",
+    "long": "OTOGAR-SOGUTCUMASI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "05151",
+    "short": "515A",
+    "long": "OTOGAR DEPOLAMA-SOGUTCUMASI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "05210",
+    "short": "521",
+    "long": "OTOGAR DEPOLAMA-ÇAĞLARCA",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "05211",
+    "short": "521A",
+    "long": "OTOGAR DEPOLAMA-AKDAMLAR",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "05212",
+    "short": "521B",
+    "long": "OTOGAR-HACISEKILILER-KUM MEVKII",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "05213",
+    "short": "521C",
+    "long": "SARISU DEPOLAMA-GEYİKBAYIRI",
+    "color": "1519FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "05260",
+    "short": "526",
+    "long": "AKSU DEPOLAMA-KEPEZ BELEDIYESI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "05270",
+    "short": "527",
+    "long": "AKSU-KUNDU",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "05271",
+    "short": "527A",
+    "long": "AKSU-KUNDU",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "05280",
+    "short": "528",
+    "long": "AKSU-GUZELOBA",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "05310",
+    "short": "531",
+    "long": "MEYDAN DEPOLAMA-MURENLER",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "05312",
+    "short": "531T",
+    "long": "MEYDAN DEPOLAMA-MURATPAŞA BELEDİYESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "06000",
+    "short": "600",
+    "long": "OTOGAR-HAVAALANI",
+    "color": "000FE7",
+    "text_color": "FFF9F9"
+  },
+  {
+    "id": "06003",
+    "short": "600G",
+    "long": "TERMİNAL-HAVAALANI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "08000",
+    "short": "800",
+    "long": "MEYDAN DEPOLAMA-HAVALİMANI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "09980",
+    "short": "998",
+    "long": "ZERDALİLİK-MÜZE",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "17010",
+    "short": "AA01",
+    "long": "Alanya Otogar-Antalya Otogar",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00703",
+    "short": "AB07",
+    "long": "ORGANİZE SANAYİ-AKDENİZ ÜNİVERSİTESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00030",
+    "short": "AC03",
+    "long": "AKSU-MINICITY",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00050",
+    "short": "AC05",
+    "long": "AKSU-ALAYLI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00051",
+    "short": "AC05A",
+    "long": "AKSU-ALAYLI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00052",
+    "short": "AC05B",
+    "long": "AKSU-GULOLUK",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00040",
+    "short": "AF04",
+    "long": "AKSU-BANIO KAVŞAĞI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00041",
+    "short": "AF04A",
+    "long": "AKSU-BANIO KAVŞAĞI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "10010",
+    "short": "AK01",
+    "long": "Korkuteli Terminal-Antalya Otogarı",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30030",
+    "short": "AK03",
+    "long": "Antalya Terminal-Kınık",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "01020",
+    "short": "AÜ102",
+    "long": "ADLİ TIP-MELTEM KAPISI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00103",
+    "short": "AÜ103",
+    "long": "ADLİ TIP-MELTEM KAPISI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "15220",
+    "short": "BA22",
+    "long": "Boğazkent-Antalya",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00140",
+    "short": "CV14",
+    "long": "VARSAK-IŞIKLAR CADDESİ",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00170",
+    "short": "CV17",
+    "long": "VARSAK ALTIAYAK-DOGUGARAJI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00171",
+    "short": "CV17A",
+    "long": "VARSAK ALTIAYAK-DOGUGARAJI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00390",
+    "short": "CV39",
+    "long": "VARSAK-ANDIZLI MEZARLIGI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00470",
+    "short": "CV47",
+    "long": "MEYDAN DEPOLAMA-MINICITY",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00480",
+    "short": "CV48",
+    "long": "VARSAK AKTARMA-BANİO KAVŞAĞI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00670",
+    "short": "CV67",
+    "long": "MEYDAN DEPOLAMA-MİNİCİTY",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "01900",
+    "short": "D19",
+    "long": "ORGANİZE-SEHİR HASTANESİ",
+    "color": "1C19FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "01901",
+    "short": "D19A",
+    "long": "ORGANİZE SANAYİ-SEHİR HASTANESİ",
+    "color": "3D1BFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "03330",
+    "short": "DA6",
+    "long": "ORGANİZE SANAYİ-DÖŞEMEALTI",
+    "color": "2317FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "02220",
+    "short": "DA6A",
+    "long": "ORGANİZE SANAYİ-DÖŞEMEALTI",
+    "color": "2D21FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00150",
+    "short": "DC15",
+    "long": "MEYDAN-DOSEMEALTI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00151",
+    "short": "DC15A",
+    "long": "MEYDAN-DOSEMEALTI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00270",
+    "short": "DC27",
+    "long": "OTOGAR DEPOLAMA-BADEMAGACI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00790",
+    "short": "DC79",
+    "long": "DOSEMEALTI-SIGORTA",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00850",
+    "short": "DM85",
+    "long": "OTOGAR DEPOLAMA-KİLLİK",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00851",
+    "short": "DM85A",
+    "long": "OTOGAR DEPOLAMA-EKSILI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00860",
+    "short": "DM86",
+    "long": "OTOGAR DEPOLAMA-KARAVELILER",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "14010",
+    "short": "EA01",
+    "long": "Antalya Terminal-Elmalı Terminal",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "16060",
+    "short": "FH06",
+    "long": "Finike Otogar-Hasyurt",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00820",
+    "short": "FL82",
+    "long": "UNSAL DEPOLAMA-GÜZELOBA DEPOLAMA",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "16010",
+    "short": "FT01",
+    "long": "Finike Otogar-Turunçova",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "11020",
+    "short": "GAL02",
+    "long": "Gazipaşa Merkez-Alanya",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "11010",
+    "short": "GAN01",
+    "long": "Gazipaşa Merkez-Antalya Terminal",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00600",
+    "short": "GCK60",
+    "long": "OTOGAR DEPOLAMA-GÜZELOBA DEPOLAMA",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00761",
+    "short": "GCK76A",
+    "long": "GUZELOBA DEPOLAMA-HURMA",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00240",
+    "short": "GM24",
+    "long": "TRT KAMPI SAHIL-MASADAGI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00420",
+    "short": "HM42",
+    "long": "MEYDAN DEPOLAMA-SEHİR HASTANESİ",
+    "color": "2579FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "18010",
+    "short": "HT01",
+    "long": "Kumluca Terminal-Temel Egitim",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20070",
+    "short": "KA07",
+    "long": "Kemer Terminal-Antalya Terminal",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00060",
+    "short": "KC06",
+    "long": "SARISU-MURATPASA BELEDIYESI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00330",
+    "short": "KC33",
+    "long": "GURSU DEPOLAMA-KONUKSEVER",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00340",
+    "short": "KC34",
+    "long": "GURSU DEPOLAMA-ALTINTAS",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00341",
+    "short": "KC34A",
+    "long": "GURSU DEPOLAMA-ALTINTAS",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00351",
+    "short": "KC35A",
+    "long": "VARSAK ALTIAYAK-GURSU",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "18020",
+    "short": "KF02",
+    "long": "Kumluca Otogar-Finike Otogar",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00520",
+    "short": "KF52",
+    "long": "SARISU DEPOLAMA-FATIH",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00080",
+    "short": "KL08",
+    "long": "SARISU-GÜZELOBA DEPOLAMA",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00083",
+    "short": "KL08G",
+    "long": "SARISU-GÜZELOBA",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00210",
+    "short": "KL21",
+    "long": "GURSU-ALTINTAS",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00610",
+    "short": "KM61",
+    "long": "SARISU DEPOLAMA-ŞEHİR HASTANESİ",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00830",
+    "short": "KPZ83",
+    "long": "VARSAK-ANDIZLI MEZARLIGI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00071",
+    "short": "LC07A",
+    "long": "KUNDU-OTOGAR DEPOLAMA",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00090",
+    "short": "LF09",
+    "long": "UNSAL-GÜZELOBA",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00100",
+    "short": "LF10",
+    "long": "UNSAL-GÜZELOBA",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "13470",
+    "short": "MAN47",
+    "long": "Manavgat Otogarı-Antalya Otogarı",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00120",
+    "short": "MC12",
+    "long": "MEYDAN-ŞEHİR HASTANESİ",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00121",
+    "short": "MC12A",
+    "long": "MEYDAN DEPOLAMA-ŞEHİR HASTANESİ",
+    "color": "211DFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00580",
+    "short": "MC58",
+    "long": "OTOGAR-FATIH TRAMVAY",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00680",
+    "short": "MC68",
+    "long": "OTOGAR DEPOLAMA-FATIH TRAMVAY",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00250",
+    "short": "MD25",
+    "long": "MEYDAN DEPOLAMA-DOYRAN",
+    "color": "2747FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00770",
+    "short": "MD77",
+    "long": "OTOGAR DEPOLAMA-DUACI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00771",
+    "short": "MD77A",
+    "long": "OTOGAR DEPOLAMA-DUACI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00400",
+    "short": "MF40",
+    "long": "GURSU DEPOLAMA-ŞEHİR HASTANESİ",
+    "color": "120AFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00900",
+    "short": "MH90",
+    "long": "MEYDAN DEPOLAMA-SEHİR HASTANESİ",
+    "color": "2D54FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00800",
+    "short": "MK80",
+    "long": "KURŞUNLU ŞELALESİ-DEMIRCILER",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00801",
+    "short": "MK80A",
+    "long": "GAZİLER-DOĞU GARAJI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00810",
+    "short": "MK81",
+    "long": "AKSU DEPOLAMA-TOPALLI",
+    "color": "0F27FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00811",
+    "short": "MK81A",
+    "long": "AKSU-YORUKLER MAHALLESI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00220",
+    "short": "ML22",
+    "long": "MEYDAN-HURMA",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00780",
+    "short": "MZ78",
+    "long": "MEYDAN DEPOLAMA-ZEYTINLIK MAHALLESI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "15190",
+    "short": "SA19",
+    "long": "Serik-Antalya",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00640",
+    "short": "SA64",
+    "long": "SARISU DEPOLAMA-ALTINTAŞ",
+    "color": "171BFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00650",
+    "short": "SA65",
+    "long": "SARISU-ALTINTAŞ",
+    "color": "1A25FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00200",
+    "short": "SD20",
+    "long": "SARISU-ORGANIZE SANAYI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00201",
+    "short": "SD20A",
+    "long": "SARISU DEPOLAMA-DOSEMEALTI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00620",
+    "short": "SM62",
+    "long": "SARISU DEPOLAMA-ŞEHİR HASTANESİ",
+    "color": "0230FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "09020",
+    "short": "T1A",
+    "long": "FATİH-HAVALİMANI",
+    "color": "01D3FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "09010",
+    "short": "T1B",
+    "long": "FATİH-EXPO",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "09040",
+    "short": "T1C",
+    "long": "FATİH-AKSU",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "09050",
+    "short": "T1D",
+    "long": "FATİH-KIŞLA",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "09030",
+    "short": "T3",
+    "long": "VARSAK-MÜZE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "33333",
+    "short": "T33",
+    "long": "10003 - AKDENİZ  BLV-3-10004 - AKDENİZ BLV-4",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "33334",
+    "short": "T34",
+    "long": "10003 - AKDENİZ  BLV-3-10004 - AKDENİZ BLV-4",
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "33335",
+    "short": "T35",
+    "long": "10001 - AKDENİZ  BLV-1-10003 - AKDENİZ  BLV-3",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "99995",
+    "short": "T5",
+    "long": "10259 - TIP FAKÜLTESİ-10001 - AKDENİZ  BLV-1",
+    "color": "",
+    "text_color": ""
+  },
+  {
+    "id": "99996",
+    "short": "T6",
+    "long": "10259 - TIP FAKÜLTESİ-10001 - AKDENİZ  BLV-1",
+    "color": "e30d0d",
+    "text_color": ""
+  },
+  {
+    "id": "20080",
+    "short": "TA08",
+    "long": "Tekirova Kavşak-Antalya Otogar",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00720",
+    "short": "TB72",
+    "long": "OTOGAR DEPOLAMA-BARAJ MAHALLESI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "18090",
+    "short": "TC09",
+    "long": "Kumluca Terminal-Camkırığı",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00160",
+    "short": "TC16",
+    "long": "UNSAL-ERMENEK",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00161",
+    "short": "TC16A",
+    "long": "UNSAL DEPOLAMA-ERMENEK",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00453",
+    "short": "TC45",
+    "long": "OTOGAR DEPOLAMA-MEYDAN DEPOLAMA",
+    "color": "281CFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00490",
+    "short": "TCD49",
+    "long": "UNSAL-TERMESOS",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00491",
+    "short": "TCD49A",
+    "long": "UNSAL-YENI HAL",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "18080",
+    "short": "TH08",
+    "long": "Kumluca Terminal-Kavakköy",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00088",
+    "short": "TH88",
+    "long": "OTOGAR DEPOLAMA-ŞEHİR HASTANESİ",
+    "color": "2B20FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00910",
+    "short": "THG91",
+    "long": "OTOGAR DEPOLAMA-AKSU DEPOLAMA",
+    "color": "0115FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00360",
+    "short": "TK36",
+    "long": "OTOGAR-KARACAOGLAN",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00510",
+    "short": "TK51",
+    "long": "OTOGAR DEPOLAMA-AKDAMLAR",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00511",
+    "short": "TK51A",
+    "long": "OTOGAR DEPOLAMA-DOYRAN",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00940",
+    "short": "TL94",
+    "long": "TERMINAL-GUZELOBA",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "18030",
+    "short": "TO03",
+    "long": "Kumluca Terminal-Ortaköy",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00300",
+    "short": "TR30",
+    "long": "OTOGAR DEPOLAMA-RAUF DENKTAŞ CAD.",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "18050",
+    "short": "TS05",
+    "long": "Kumluca Terminal-Salur",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "18120",
+    "short": "TT12",
+    "long": "Kumluca Terminal-Turunçova",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00230",
+    "short": "TY23",
+    "long": "TERMİNAL-YÜZÜNCÜ YIL",
+    "color": "2623FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "16050",
+    "short": "TYF05",
+    "long": "Devlet Hastanesi-Turunçova çarşı",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00260",
+    "short": "ÜA26",
+    "long": "OTOGAR DEPOLAMA-KEPEZ DEVLET HASTANESI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00110",
+    "short": "UC11",
+    "long": "MEYDAN-GÜRSU DEPOLAMA",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00320",
+    "short": "UC32",
+    "long": "SARISU DEPOLAMA-DEMIRCILER CARSISI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00280",
+    "short": "ÜK28",
+    "long": "ÜNSAL-KEPEZ DEVLET HASTANESİ",
+    "color": "1622FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00290",
+    "short": "ÜS29",
+    "long": "ÜNSAL DEPOLAMA-SARISU",
+    "color": "692EFF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00530",
+    "short": "VC53",
+    "long": "VARSAK ALTIAYAK-TÜRKAY KAVŞAĞI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00570",
+    "short": "VC57",
+    "long": "VARSAK ALTIAYAK-MİNİCİTY",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00590",
+    "short": "VC59",
+    "long": "VARSAK-GÜRSU DEPOLAMA",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00010",
+    "short": "VF01",
+    "long": "VARSAK-FAKÜLTE",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00630",
+    "short": "VF63",
+    "long": "VARSAK-EGITIM ARASTIRMA HASTANESI",
+    "color": "000FE7",
+    "text_color": "EBEBEB"
+  },
+  {
+    "id": "00660",
+    "short": "VF66",
+    "long": "VARSAK ALTIAYAK-ADLIYE",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00890",
+    "short": "VH89",
+    "long": "VARSAK AKTARMA-SEHİR HASTANESİ",
+    "color": "3220FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00891",
+    "short": "VH89A",
+    "long": "VARSAK AKTARMA DEPOLAMA-SEHİR HASTANESİ",
+    "color": "3B19FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00130",
+    "short": "VL13",
+    "long": "VARSAK-GUZELOBA",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00131",
+    "short": "VL13A",
+    "long": "VARSAK-GUZELOBA",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00540",
+    "short": "VML54",
+    "long": "VARSAK-ALTINTAS",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00541",
+    "short": "VML54A",
+    "long": "VARSAK-ALTINTAS",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00551",
+    "short": "VML55",
+    "long": "VARSAK-KIPA KAVSAGI",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00180",
+    "short": "VS18",
+    "long": "SARISU-VARSAK",
+    "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "02430",
+    "short": "VY24",
+    "long": "VARSAK YAYLASI-VARSAK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  }
+]

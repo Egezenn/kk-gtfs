@@ -1,0 +1,310 @@
+[
+  {
+    "id": "00520",
+    "short": "52",
+    "long": "ÜNİVERSİTE-MERKEZ",
+    "color": "FF9918",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00521",
+    "short": "52A",
+    "long": "ÜNİVERSİTE-DOĞAKENT",
+    "color": "F0FF06",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00522",
+    "short": "52B",
+    "long": "SİTELER-MERKEZ",
+    "color": "B6FF06",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00523",
+    "short": "52C",
+    "long": "SIRACA-MERKEZ",
+    "color": "31BF13",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00524",
+    "short": "52D",
+    "long": "ÜNİVERSİTE-MERKEZ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00531",
+    "short": "53A",
+    "long": "YALIKENT-ÜNİVERSİTE",
+    "color": "12FF8F",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00540",
+    "short": "54",
+    "long": "ÇORBACIOĞLU-DOĞAKENT",
+    "color": "24B7FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00541",
+    "short": "54A",
+    "long": "MERKEZ-DEVLET HASTANESİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00542",
+    "short": "54B",
+    "long": "KİRAZLİMANI-DEVLET HAST.",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00570",
+    "short": "57",
+    "long": "TOKİ-ÜNİVERSİTE",
+    "color": "AD23FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00580",
+    "short": "58",
+    "long": "TOKİ-MERKEZ",
+    "color": "F614FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00581",
+    "short": "58A",
+    "long": "TOKİ-ŞİRİNEVLER-MERKEZ",
+    "color": "FF99D0",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00582",
+    "short": "58B",
+    "long": "TOKİ-MERKEZ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00610",
+    "short": "61",
+    "long": "ATASANAYİ-ARAŞTIRMA HASTANESİ",
+    "color": "FF224F",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00611",
+    "short": "61A",
+    "long": "ATASANAYİ-GÖZÜKAN MEVKİİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00620",
+    "short": "62",
+    "long": "YENİ OTOGAR-MERKEZ",
+    "color": "F9FF29",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00621",
+    "short": "62A",
+    "long": "ORGANİZE SANAYİ-MERKEZ",
+    "color": "FFECBB",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00622",
+    "short": "62B",
+    "long": "MERKEZ-ŞAHİNCİLİ CD",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00630",
+    "short": "63",
+    "long": "DURUGÖL-MERKEZ",
+    "color": "FF979B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00640",
+    "short": "64",
+    "long": "AKYAZI (M.Y.O)-DOĞAKENT",
+    "color": "A30001",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00641",
+    "short": "64A",
+    "long": "AKYAZI (M.Y.O.)-ORSAN",
+    "color": "5D8170",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00642",
+    "short": "64B",
+    "long": "AKYAZI(M.Y.O.)-DEVLET HAST.",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00670",
+    "short": "67",
+    "long": "ORGANİZE SANAYİ-GÜZELYALI",
+    "color": "9B6348",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00671",
+    "short": "67A",
+    "long": "KARAPINAR-ŞADIRVAN",
+    "color": "898632",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00672",
+    "short": "67B",
+    "long": "TOBB MES.LİS.-GÜZELYALI",
+    "color": "BB57FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00673",
+    "short": "67C",
+    "long": "MERKEZ-YEŞİLTEPE",
+    "color": "CD9FB3",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00680",
+    "short": "68",
+    "long": "SELİMİYE-ORSAN",
+    "color": "DE13B7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00681",
+    "short": "68A",
+    "long": "SELİMİYE-ORSAN KUYU SAPAĞI",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00810",
+    "short": "81",
+    "long": "UZUNİSA-ZÜBEYDE HANIM C. 344 SOKAK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00811",
+    "short": "81A",
+    "long": "DELİKKAYA-ZÜBEYDE HANIM C. 344 SOKAK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00820",
+    "short": "82",
+    "long": "KÖKENLİ-ZÜBEYDE HANIM C. 344 SOKAK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00830",
+    "short": "83",
+    "long": "ALEMBEY-ZÜBEYDE HANIM CAD. 344 SOKAK K",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00840",
+    "short": "84",
+    "long": "ESKİPAZAR-ZÜBEYDE HANIM CAD. 344 SOKAK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00841",
+    "short": "84A",
+    "long": "HATİPLİ-ZÜBEYDE HANIM C. 344 SOKAK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00842",
+    "short": "84B",
+    "long": "4. ETAP MEMURKENT-ZÜBEYDE HANIM C. 344 SOKAK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00860",
+    "short": "86",
+    "long": "2-3. ETAP MEMURKENT-ZÜBEYDE HANIM C. 344 SOKAK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00861",
+    "short": "86A",
+    "long": "4. ETAP MEMURKENT-ZÜBEYDE HANIM C. 344 SOKAK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00870",
+    "short": "87",
+    "long": "1. ETAP MEMURKENT-FATMA HATUN SOKAK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00880",
+    "short": "88",
+    "long": "KARACAÖMER-FATMA HATUN SOKAK",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00920",
+    "short": "92",
+    "long": "TELEFERİK-BOZTEPE",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00930",
+    "short": "93",
+    "long": "TERS EV-TERS EV",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00940",
+    "short": "94",
+    "long": "TELESİYEJ-ÇAMBAŞI",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00950",
+    "short": "95",
+    "long": "TELEFERİK-RIHTIM",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00960",
+    "short": "96",
+    "long": "RIHTIM-RIHTIM",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  }
+]
