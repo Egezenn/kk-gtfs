@@ -1,9 +1,12 @@
-import os
-import json
-import time
-import zipfile
 import csv
 from io import TextIOWrapper
+import json
+import os
+import re
+import ssl
+import time
+import urllib.request
+import zipfile
 
 
 def safe_float(val):
@@ -56,8 +59,6 @@ def extract_gtfs_data(zip_path, extract_to):
                     lon_val = safe_float(row.get("stop_lon"))
                     if s_id and lat_val is not None and lon_val is not None:
                         stops.append({"id": s_id, "name": row.get("stop_name"), "lat": lat_val, "lon": lon_val})
-            with open(os.path.join(extract_to, "stops.json"), "w", encoding="utf-8") as f:
-                json.dump(stops, f, indent=2, ensure_ascii=False)
 
         # 3. Extract shapes
         if "shapes.txt" in z.namelist():
@@ -104,20 +105,30 @@ def extract_gtfs_data(zip_path, extract_to):
             with open(os.path.join(extract_to, "trips.json"), "w", encoding="utf-8") as f:
                 json.dump(trips_info, f, indent=2, ensure_ascii=False)
 
+        stop_routes_map = {}
+
         # 5. Extract stop_times for departure lists
         if "stop_times.txt" in z.namelist():
             with z.open("stop_times.txt") as f:
                 reader = csv.DictReader(TextIOWrapper(f, encoding="utf-8-sig"))
                 for row in reader:
                     t_id = row.get("trip_id")
+                    s_id = row.get("stop_id")
                     seq = row.get("stop_sequence")
                     dep_time = row.get("departure_time") or row.get("arrival_time")
 
-                    if t_id in trip_to_route and seq == "1" and dep_time:
+                    if t_id in trip_to_route:
                         r_id, dir_id, _ = trip_to_route[t_id]
-                        # Trim seconds if present e.g. 08:30:00 -> 08:30
-                        time_short = ":".join(dep_time.split(":")[:2])
-                        route_timetables[r_id][dir_id]["times"].add(time_short)
+
+                        if s_id:
+                            if s_id not in stop_routes_map:
+                                stop_routes_map[s_id] = set()
+                            stop_routes_map[s_id].add(r_id)
+
+                        if seq == "1" and dep_time:
+                            # Trim seconds if present e.g. 08:30:00 -> 08:30
+                            time_short = ":".join(dep_time.split(":")[:2])
+                            route_timetables[r_id][dir_id]["times"].add(time_short)
 
         # Finalize timetables: convert sets to sorted lists
         final_timetables = {}
@@ -130,13 +141,47 @@ def extract_gtfs_data(zip_path, extract_to):
         with open(os.path.join(extract_to, "timetables.json"), "w", encoding="utf-8") as f:
             json.dump(final_timetables, f, indent=2, ensure_ascii=False)
 
+        for stop in stops:
+            stop["routes"] = sorted(list(stop_routes_map.get(stop["id"], set())))
+
+        with open(os.path.join(extract_to, "stops.json"), "w", encoding="utf-8") as f:
+            json.dump(stops, f, indent=2, ensure_ascii=False)
+
     return len(routes), len(stops)
+
+
+def get_region_map():
+    url = "https://service.kentkart.com/rl1/api/v2.0/city"
+    ctx = ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE
+
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url)
+            res = json.loads(urllib.request.urlopen(req, context=ctx, timeout=10).read().decode("utf-8"))
+            rmap = {}
+            for c in res.get("city", []):
+                r_id = str(c.get("id", "")).zfill(3)
+                name = c.get("name", "unknown").lower()
+                name = name.replace("ü", "u").replace("ö", "o").replace("ç", "c")
+                name = name.replace("ş", "s").replace("ğ", "g").replace("ı", "i")
+                name = re.sub(r"[^a-z0-9]", "", name)
+                rmap[name] = r_id
+            return rmap
+        except Exception as e:
+            print(f"Error fetching regions (Attempt {attempt+1}): {e}")
+            time.sleep(2)
+
+    return {}
 
 
 def generate_metadata(data_dir, output_file):
     metadata = []
     cities_dir = os.path.join(data_dir, "cities")
     BLACKLIST = {"akcakoca", "altinova", "yozgat"}
+
+    region_map = get_region_map()
 
     if not os.path.exists(cities_dir):
         os.makedirs(cities_dir)
@@ -161,6 +206,7 @@ def generate_metadata(data_dir, output_file):
                 {
                     "city": city_name,
                     "slug": city_slug,
+                    "region_id": region_map.get(city_slug, "000"),
                     "filename": filename,
                     "size_mb": round(stats.st_size / (1024 * 1024), 2),
                     "last_updated": time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime(stats.st_mtime)),

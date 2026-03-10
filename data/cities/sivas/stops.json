@@ -3,3696 +3,4312 @@
     "id": "1",
     "name": "C.Ü. BAĞDAT YÖNÜ ÇIKIŞ",
     "lat": 39.7109778,
-    "lon": 37.026896
+    "lon": 37.026896,
+    "routes": []
   },
   {
     "id": "2",
     "name": "C.Ü. İSTASYON YÖNÜ DÖNÜŞ",
     "lat": 39.7104696,
-    "lon": 37.0265012
+    "lon": 37.0265012,
+    "routes": []
   },
   {
     "id": "3",
     "name": "C.Ü. İSTASYON YÖNÜ ÇIKIŞ",
     "lat": 39.7108925,
-    "lon": 37.0266454
+    "lon": 37.0266454,
+    "routes": []
   },
   {
     "id": "4",
     "name": "C.Ü. BAĞDAT YÖNÜ DÖNÜŞ",
     "lat": 39.7108541,
-    "lon": 37.027638
+    "lon": 37.027638,
+    "routes": []
   },
   {
     "id": "5",
     "name": "AKSU ALT GEÇİT",
     "lat": 39.7425409,
-    "lon": 37.0260243
+    "lon": 37.0260243,
+    "routes": []
   },
   {
     "id": "6",
     "name": "ESKİ SANAYİ",
     "lat": 39.7457306,
-    "lon": 37.0255775
+    "lon": 37.0255775,
+    "routes": []
   },
   {
     "id": "7",
     "name": "BAKIRCILAR  -1-",
     "lat": 39.7487097,
-    "lon": 37.0216525
+    "lon": 37.0216525,
+    "routes": []
   },
   {
     "id": "8",
     "name": "BAKIRCILAR -2-",
     "lat": 39.7488736,
-    "lon": 37.0212312
+    "lon": 37.0212312,
+    "routes": []
   },
   {
     "id": "9",
     "name": "NALBANTLARBAŞI",
     "lat": 39.751643,
-    "lon": 37.018848
+    "lon": 37.018848,
+    "routes": []
   },
   {
     "id": "10",
     "name": "MELEK REŞİT HANIM",
     "lat": 39.751898,
-    "lon": 37.015914
+    "lon": 37.015914,
+    "routes": []
   },
   {
     "id": "11",
     "name": "SARAYBOSNA",
     "lat": 39.7514773,
-    "lon": 37.0138245
+    "lon": 37.0138245,
+    "routes": []
   },
   {
     "id": "12",
     "name": "SİVAS LİSESİ",
     "lat": 39.7486913,
-    "lon": 37.0102592
+    "lon": 37.0102592,
+    "routes": []
   },
   {
     "id": "13",
     "name": "SSK",
     "lat": 39.745396,
-    "lon": 37.010823
+    "lon": 37.010823,
+    "routes": []
   },
   {
     "id": "14",
     "name": "LOJMANLAR",
     "lat": 39.742261,
-    "lon": 37.008347
+    "lon": 37.008347,
+    "routes": []
   },
   {
     "id": "15",
     "name": "GAR YÜKSEK HIZLI TREN İSTASYON GİDİŞ",
     "lat": 39.7403385,
-    "lon": 37.0057523
+    "lon": 37.0057523,
+    "routes": []
   },
   {
     "id": "16",
     "name": "MİLLET BAHÇESİ GİDİŞ",
     "lat": 39.739653,
-    "lon": 37.002865
+    "lon": 37.002865,
+    "routes": []
   },
   {
     "id": "17",
     "name": "SUBAY LOJMANLARI 1",
     "lat": 39.738012,
-    "lon": 36.999116
+    "lon": 36.999116,
+    "routes": []
   },
   {
     "id": "18",
     "name": "BENZİNLİK",
     "lat": 39.7367845,
-    "lon": 36.9963563
+    "lon": 36.9963563,
+    "routes": []
   },
   {
     "id": "19",
     "name": "KARAYOLLARI",
     "lat": 39.7356451,
-    "lon": 36.9938443
+    "lon": 36.9938443,
+    "routes": []
   },
   {
     "id": "20",
     "name": "SULTAN ŞEHİR MESLEKİ VE TEKNİK ANADOLU LİSESİ GİDİŞ",
     "lat": 39.7341748,
-    "lon": 36.9905411
+    "lon": 36.9905411,
+    "routes": []
   },
   {
     "id": "21",
     "name": "SİVAS ÇEVRE ŞEHİRCİLİK VE İKLİM DEĞİŞİKLİĞİ MÜDÜRLÜĞÜ GİDİŞ",
     "lat": 39.7332753,
-    "lon": 36.9884145
+    "lon": 36.9884145,
+    "routes": []
   },
   {
     "id": "22",
     "name": "SGK SİVAS İL MÜDÜRLÜĞÜ- MENEKŞE - GİDİŞ",
     "lat": 39.7324645,
-    "lon": 36.986093
+    "lon": 36.986093,
+    "routes": []
   },
   {
     "id": "23",
     "name": "4 EYLÜL STADYUMU",
     "lat": 39.7309093,
-    "lon": 36.9824988
+    "lon": 36.9824988,
+    "routes": []
   },
   {
     "id": "24",
     "name": "SUBAY LOJMANLARI 2",
     "lat": 39.7293874,
-    "lon": 36.9790035
+    "lon": 36.9790035,
+    "routes": []
   },
   {
     "id": "25",
     "name": "MEHMETÇİK",
     "lat": 39.727831,
-    "lon": 36.975579
+    "lon": 36.975579,
+    "routes": []
   },
   {
     "id": "26",
     "name": "HACI MEHMET SABANCI ANADOLU LiSESi",
     "lat": 39.726925,
-    "lon": 36.973235
+    "lon": 36.973235,
+    "routes": []
   },
   {
     "id": "27",
     "name": "BELEDİYE FIRINI",
     "lat": 39.72843,
-    "lon": 36.972429
+    "lon": 36.972429,
+    "routes": []
   },
   {
     "id": "28",
     "name": "MiMAR SiNAN DöNEL KAVşAK MUHTARLIK",
     "lat": 39.7287355,
-    "lon": 36.9693236
+    "lon": 36.9693236,
+    "routes": []
   },
   {
     "id": "29",
     "name": "SİNAN EVLER",
     "lat": 39.729957,
-    "lon": 36.967458
+    "lon": 36.967458,
+    "routes": []
   },
   {
     "id": "30",
     "name": "ATAKENT",
     "lat": 39.7317162,
-    "lon": 36.9699132
+    "lon": 36.9699132,
+    "routes": []
   },
   {
     "id": "31",
     "name": "MİMAR SİNAN SAĞLIK OCAĞI",
     "lat": 39.732535,
-    "lon": 36.971514
+    "lon": 36.971514,
+    "routes": []
   },
   {
     "id": "32",
     "name": "TELEKOM LOJMANLARI",
     "lat": 39.731415,
-    "lon": 36.976125
+    "lon": 36.976125,
+    "routes": []
   },
   {
     "id": "33",
     "name": "HİCRET",
     "lat": 39.732753,
-    "lon": 36.97813
+    "lon": 36.97813,
+    "routes": []
   },
   {
     "id": "34",
     "name": "YUNUS EMRE",
     "lat": 39.733928,
-    "lon": 36.980158
+    "lon": 36.980158,
+    "routes": []
   },
   {
     "id": "35",
     "name": "EMEK AiLE SAğLIK MERKEZi",
     "lat": 39.734839,
-    "lon": 36.982887
+    "lon": 36.982887,
+    "routes": []
   },
   {
     "id": "36",
     "name": "SELçUKLU YEşiL CAMi",
     "lat": 39.7353068,
-    "lon": 36.9845752
+    "lon": 36.9845752,
+    "routes": []
   },
   {
     "id": "37",
     "name": "BAHAR EVLER",
     "lat": 39.73646,
-    "lon": 36.986991
+    "lon": 36.986991,
+    "routes": []
   },
   {
     "id": "38",
     "name": "GAZİ LİSESİ",
     "lat": 39.7380878,
-    "lon": 36.9894873
+    "lon": 36.9894873,
+    "routes": []
   },
   {
     "id": "39",
     "name": "CUMA PAZARI ÜZERİ",
     "lat": 39.741555,
-    "lon": 36.990998
+    "lon": 36.990998,
+    "routes": []
   },
   {
     "id": "40",
     "name": "CUMA PAZARI ALTI",
     "lat": 39.739851,
-    "lon": 36.994863
+    "lon": 36.994863,
+    "routes": []
   },
   {
     "id": "41",
     "name": "YAHYA KEMAL ORTA OKULU",
     "lat": 39.742069,
-    "lon": 36.996781
+    "lon": 36.996781,
+    "routes": []
   },
   {
     "id": "42",
     "name": "HAMAM DURAĞI",
     "lat": 39.7438887,
-    "lon": 36.9993543
+    "lon": 36.9993543,
+    "routes": []
   },
   {
     "id": "43",
     "name": "4 EYLÜL SPOR SALONU",
     "lat": 39.741673,
-    "lon": 37.000744
+    "lon": 37.000744,
+    "routes": []
   },
   {
     "id": "44",
     "name": "MİLLET BAHÇESİ - TOPRAK MAHSÜLLERİ OFİSİ",
     "lat": 39.7393668,
-    "lon": 37.0026976
+    "lon": 37.0026976,
+    "routes": []
   },
   {
     "id": "45",
     "name": "GAR YÜKSEK HIZLI TREN İSTASYON DÖNÜŞ",
     "lat": 39.74024,
-    "lon": 37.00605
+    "lon": 37.00605,
+    "routes": []
   },
   {
     "id": "46",
     "name": "LOJMANLAR",
     "lat": 39.74243,
-    "lon": 37.00867
+    "lon": 37.00867,
+    "routes": []
   },
   {
     "id": "47",
     "name": "SSK",
     "lat": 39.74552,
-    "lon": 37.01107
+    "lon": 37.01107,
+    "routes": []
   },
   {
     "id": "48",
     "name": "OKUL DURAĞI",
     "lat": 39.748251,
-    "lon": 37.01321
+    "lon": 37.01321,
+    "routes": []
   },
   {
     "id": "49",
     "name": "HÜKÜMET MEYDANI",
     "lat": 39.7501619,
-    "lon": 37.0151587
+    "lon": 37.0151587,
+    "routes": []
   },
   {
     "id": "50",
     "name": "TERZİLER ÇARŞISI",
     "lat": 39.749167,
-    "lon": 37.0200321
+    "lon": 37.0200321,
+    "routes": []
   },
   {
     "id": "710",
     "name": "TAHA AKGÜL SPOR SALONU",
     "lat": 39.7117627,
-    "lon": 37.0339433
+    "lon": 37.0339433,
+    "routes": []
   },
   {
     "id": "733",
     "name": "İSKAR MOON PAZAR DÖNER POL MESLEK OKULU",
     "lat": 39.7137218,
-    "lon": 37.0401366
+    "lon": 37.0401366,
+    "routes": []
   },
   {
     "id": "713",
     "name": "AYDIN KENT VİLLALARI",
     "lat": 39.7182155,
-    "lon": 37.0432237
+    "lon": 37.0432237,
+    "routes": []
   },
   {
     "id": "714",
     "name": "112 ACİL ÇAĞRI MERKEZİ",
     "lat": 39.7214598,
-    "lon": 37.0427517
+    "lon": 37.0427517,
+    "routes": []
   },
   {
     "id": "715",
     "name": "M. ESAD COŞAN CAMİİ",
     "lat": 39.7235022,
-    "lon": 37.0429475
+    "lon": 37.0429475,
+    "routes": []
   },
   {
     "id": "479",
     "name": "EĞRİ KÖPRÜ NET CİTY - KOÇ PLATFORM",
     "lat": 39.7255114,
-    "lon": 37.0434687
+    "lon": 37.0434687,
+    "routes": []
   },
   {
     "id": "507",
     "name": "YIL.TAŞ. EĞRİ KÖPRÜ KONUTLARI  ASTUNA İNŞAAT",
     "lat": 39.7301699,
-    "lon": 37.038178
+    "lon": 37.038178,
+    "routes": []
   },
   {
     "id": "508",
     "name": "AKPOLAT  EVLERİ ARİS İSTANBUL",
     "lat": 39.7329207,
-    "lon": 37.0367205
+    "lon": 37.0367205,
+    "routes": []
   },
   {
     "id": "509",
     "name": "SULTAN ŞEHİR SİTELERİ GİDİŞ",
     "lat": 39.7346194,
-    "lon": 37.0351976
+    "lon": 37.0351976,
+    "routes": []
   },
   {
     "id": "475",
     "name": "MALİA HOTEL AĞIZ VE DİŞ SAĞLIĞI HASTANESİ KARŞISI",
     "lat": 39.736817,
-    "lon": 37.0333862
+    "lon": 37.0333862,
+    "routes": []
   },
   {
     "id": "512",
     "name": "MEDİCANA  SİVAS HASTANESİ GİDİŞ",
     "lat": 39.741834,
-    "lon": 37.0290637
+    "lon": 37.0290637,
+    "routes": []
   },
   {
     "id": "546",
     "name": "İSTASYON CAD. SİNEMA ÖNÜ",
     "lat": 39.7481732,
-    "lon": 37.0130409
+    "lon": 37.0130409,
+    "routes": []
   },
   {
     "id": "547",
     "name": "KÜMBET PARK CTY",
     "lat": 39.7296971,
-    "lon": 36.9711985
+    "lon": 36.9711985,
+    "routes": []
   },
   {
     "id": "548",
     "name": "YOL-İŞ DURAĞI",
     "lat": 39.728973,
-    "lon": 36.9691573
+    "lon": 36.9691573,
+    "routes": []
   },
   {
     "id": "549",
     "name": "KÜMBET-Ş.EVLER",
     "lat": 39.7314772,
-    "lon": 36.9678135
+    "lon": 36.9678135,
+    "routes": []
   },
   {
     "id": "550",
     "name": "YURDAGÜL EVLER",
     "lat": 39.7306934,
-    "lon": 36.9733576
+    "lon": 36.9733576,
+    "routes": []
   },
   {
     "id": "566",
     "name": "PARK CTY DÖNÜŞ Ş. EVLER",
     "lat": 39.7297053,
-    "lon": 36.9717456
+    "lon": 36.9717456,
+    "routes": []
   },
   {
     "id": "323",
     "name": "15 TEMMUZ ŞEHİTLER MEYDANI",
     "lat": 39.7517341,
-    "lon": 37.0157691
+    "lon": 37.0157691,
+    "routes": []
   },
   {
     "id": "545",
     "name": "DİKİLİTAŞ TOKİ ÜNİVERSİTE",
     "lat": 39.7498394,
-    "lon": 37.0223482
+    "lon": 37.0223482,
+    "routes": []
   },
   {
     "id": "51",
     "name": "ÇARŞI KARAKOLU",
     "lat": 39.7471796,
-    "lon": 37.0235682
+    "lon": 37.0235682,
+    "routes": []
   },
   {
     "id": "53",
     "name": "ŞOFÖRLER CEMİYETİ",
     "lat": 39.7448325,
-    "lon": 37.0261432
+    "lon": 37.0261432,
+    "routes": []
   },
   {
     "id": "473",
     "name": "MEDICANA SİVAS HASTANESİ ÖNÜ DÖNÜŞ",
     "lat": 39.7419069,
-    "lon": 37.0286633
+    "lon": 37.0286633,
+    "routes": []
   },
   {
     "id": "776",
     "name": "SİVAS AĞIZ VE DİŞ SAĞLIĞI HASTANESİ",
     "lat": 39.7361863,
-    "lon": 37.0335343
+    "lon": 37.0335343,
+    "routes": []
   },
   {
     "id": "233",
     "name": "SULTAN ŞEHİR SİTELERİ DÖNÜŞ",
     "lat": 39.7343588,
-    "lon": 37.0351351
+    "lon": 37.0351351,
+    "routes": []
   },
   {
     "id": "234",
     "name": "BAĞDAT BÜFE",
     "lat": 39.7330072,
-    "lon": 37.0362995
+    "lon": 37.0362995,
+    "routes": []
   },
   {
     "id": "478",
     "name": "TUĞBA ÇİFTLİK MAMÜLLERİ",
     "lat": 39.7301414,
-    "lon": 37.0377984
+    "lon": 37.0377984,
+    "routes": []
   },
   {
     "id": "777",
     "name": "TARİHİ FADLUM KÖPRÜSÜ TURANOĞLU TWINS EĞRİ KÖPRÜ CAMİİ",
     "lat": 39.724414,
-    "lon": 37.0430897
+    "lon": 37.0430897,
+    "routes": []
   },
   {
     "id": "675",
     "name": "112 ÇAĞRI MERKEZİ DÖNÜŞ",
     "lat": 39.7217053,
-    "lon": 37.0426632
+    "lon": 37.0426632,
+    "routes": []
   },
   {
     "id": "676",
     "name": "AYDINKENT VİLLALARI DÖNÜŞ",
     "lat": 39.7175935,
-    "lon": 37.0430119
+    "lon": 37.0430119,
+    "routes": []
   },
   {
     "id": "503",
     "name": "İSKAR BENZİN CAFE POL MESLEK OKULU DÖNÜŞ",
     "lat": 39.7140319,
-    "lon": 37.0405524
+    "lon": 37.0405524,
+    "routes": []
   },
   {
     "id": "483",
     "name": "Sivas Kadı Burhaneddin Erkek Öğrenci Yurdu DÖNÜŞ",
     "lat": 39.7124203,
-    "lon": 37.0354857
+    "lon": 37.0354857,
+    "routes": []
   },
   {
     "id": "734",
     "name": "HELİKOPTER PİSTİ",
     "lat": 39.7112717,
-    "lon": 37.0321034
+    "lon": 37.0321034,
+    "routes": []
   },
   {
     "id": "683",
     "name": "MAVİ DURAK",
     "lat": 39.7109622,
-    "lon": 37.0307864
+    "lon": 37.0307864,
+    "routes": []
   },
   {
     "id": "720",
     "name": "TERMİNAL YANI HAREKET",
     "lat": 39.7342186,
-    "lon": 37.0170589
+    "lon": 37.0170589,
+    "routes": []
   },
   {
     "id": "779",
     "name": "YENİŞEHİR ŞEHİRLER ARASI OTOBÜS TERMİNALİ SEFER KAPATMA",
     "lat": 39.7340409,
-    "lon": 37.0155824
+    "lon": 37.0155824,
+    "routes": []
   },
   {
     "id": "739",
     "name": "NUMUNE MERKEZ DURAK ÇIKIŞ",
     "lat": 39.738618,
-    "lon": 37.0375052
+    "lon": 37.0375052,
+    "routes": []
   },
   {
     "id": "167",
     "name": "MALİA HOTEL BAĞDAT",
     "lat": 39.7370094,
-    "lon": 37.0332446
+    "lon": 37.0332446,
+    "routes": []
   },
   {
     "id": "469",
     "name": "YILDIRIM ÇORAP",
     "lat": 39.7484716,
-    "lon": 37.0217066
+    "lon": 37.0217066,
+    "routes": []
   },
   {
     "id": "522",
     "name": "KÖPRÜLÜ KAVŞAK - YAN YOL",
     "lat": 39.741135,
-    "lon": 37.0352764
+    "lon": 37.0352764,
+    "routes": []
   },
   {
     "id": "699",
     "name": "SİVAS NUMUNE HASTANESİ",
     "lat": 39.7421576,
-    "lon": 37.0399887
+    "lon": 37.0399887,
+    "routes": []
   },
   {
     "id": "700",
     "name": "NUMUNE HASTANESİ A-101",
     "lat": 39.7426028,
-    "lon": 37.0421697
+    "lon": 37.0421697,
+    "routes": []
   },
   {
     "id": "740",
     "name": "NUMUNE MERKEZ DURAK SEFER KAPATMA",
     "lat": 39.7412044,
-    "lon": 37.0432693
+    "lon": 37.0432693,
+    "routes": []
   },
   {
     "id": "784",
     "name": "R.T.E. YENİ ŞEHİR GİDİŞ",
     "lat": 39.7355964,
-    "lon": 37.0227478
+    "lon": 37.0227478,
+    "routes": []
   },
   {
     "id": "716",
     "name": "FAVORİ HALI SAHA  GİDİŞ",
     "lat": 39.7399671,
-    "lon": 37.0226533
+    "lon": 37.0226533,
+    "routes": []
   },
   {
     "id": "780",
     "name": "ATASANAYİ OPET HALİFELİK MEZARLIĞI",
     "lat": 39.7450653,
-    "lon": 37.0289799
+    "lon": 37.0289799,
+    "routes": []
   },
   {
     "id": "54",
     "name": "MELEK REşiT HANIM ANA OKULU",
     "lat": 39.7417029,
-    "lon": 37.0240955
+    "lon": 37.0240955,
+    "routes": []
   },
   {
     "id": "552",
     "name": "FAVORİ HALI SAHA DÖNÜŞ",
     "lat": 39.7400556,
-    "lon": 37.0221121
+    "lon": 37.0221121,
+    "routes": []
   },
   {
     "id": "553",
     "name": "CUMA PAZARI ALTI",
     "lat": 39.7400577,
-    "lon": 36.994818
+    "lon": 36.994818,
+    "routes": []
   },
   {
     "id": "554",
     "name": "CUMA PAZARI ÜSTÜ",
     "lat": 39.741848,
-    "lon": 36.9908617
+    "lon": 36.9908617,
+    "routes": []
   },
   {
     "id": "556",
     "name": "GAZİ LİSESİ GİDİŞ Ş.EVLER",
     "lat": 39.737987,
-    "lon": 36.9889386
+    "lon": 36.9889386,
+    "routes": []
   },
   {
     "id": "557",
     "name": "BAHAR EVLER GİDİŞ Ş.EVLER",
     "lat": 39.7367783,
-    "lon": 36.9871469
+    "lon": 36.9871469,
+    "routes": []
   },
   {
     "id": "558",
     "name": "YEŞİL CAMİİ GİDİŞ Ş. EVLER",
     "lat": 39.7354953,
-    "lon": 36.984411
+    "lon": 36.984411,
+    "routes": []
   },
   {
     "id": "559",
     "name": "EMEK SAĞ. OCAĞI GİDİŞ Ş. EVLER",
     "lat": 39.7350684,
-    "lon": 36.9830082
+    "lon": 36.9830082,
+    "routes": []
   },
   {
     "id": "560",
     "name": "YUNUS EMRE GİDİŞ Ş. EVLER",
     "lat": 39.7337503,
-    "lon": 36.9792344
+    "lon": 36.9792344,
+    "routes": []
   },
   {
     "id": "561",
     "name": "HİCRET GİDİŞ Ş. EVLER",
     "lat": 39.7327788,
-    "lon": 36.9778101
+    "lon": 36.9778101,
+    "routes": []
   },
   {
     "id": "562",
     "name": "SALI PAZARI Ş. EVLER",
     "lat": 39.7313782,
-    "lon": 36.9755678
+    "lon": 36.9755678,
+    "routes": []
   },
   {
     "id": "563",
     "name": "YURDAGÜL EVLER GİDİŞ Ş. EVLER",
     "lat": 39.7305779,
-    "lon": 36.9737305
+    "lon": 36.9737305,
+    "routes": []
   },
   {
     "id": "564",
     "name": "Ş.EVLER-KÜMBET",
     "lat": 39.7327953,
-    "lon": 36.9712897
+    "lon": 36.9712897,
+    "routes": []
   },
   {
     "id": "565",
     "name": "KURT DERESİ DÖNÜŞ Ş. EVLER",
     "lat": 39.7315845,
-    "lon": 36.9679798
+    "lon": 36.9679798,
+    "routes": []
   },
   {
     "id": "567",
     "name": "BELEDİYE FIRINI DÖNÜŞ Ş. EVLER",
     "lat": 39.7285811,
-    "lon": 36.9722713
+    "lon": 36.9722713,
+    "routes": []
   },
   {
     "id": "797",
     "name": "OSMAN ÇONGAR SİTELERİ GİDİŞ",
     "lat": 39.7264955,
-    "lon": 36.9716035
+    "lon": 36.9716035,
+    "routes": []
   },
   {
     "id": "568",
     "name": "KÜMBET KARŞIYAKA VİYADÜĞÜ",
     "lat": 39.7256518,
-    "lon": 36.9690446
+    "lon": 36.9690446,
+    "routes": []
   },
   {
     "id": "569",
     "name": "OSMAN ÇONGAR SİTELERİ DÖNÜŞ",
     "lat": 39.7262624,
-    "lon": 36.9715337
+    "lon": 36.9715337,
+    "routes": []
   },
   {
     "id": "570",
     "name": "SABANCI DÖNÜŞ",
     "lat": 39.7267369,
-    "lon": 36.9735292
+    "lon": 36.9735292,
+    "routes": []
   },
   {
     "id": "571",
     "name": "MUHSİN YAZICIOĞLU PARKI DÖNÜŞ",
     "lat": 39.7274217,
-    "lon": 36.9752003
+    "lon": 36.9752003,
+    "routes": []
   },
   {
     "id": "572",
     "name": "SUBAY LOJ DÖNÜŞ",
     "lat": 39.7293938,
-    "lon": 36.9795991
+    "lon": 36.9795991,
+    "routes": []
   },
   {
     "id": "573",
     "name": "BG GRUP 4 EYLÜL STADYUMU DÖNÜŞ",
     "lat": 39.7309677,
-    "lon": 36.9831879
+    "lon": 36.9831879,
+    "routes": []
   },
   {
     "id": "574",
     "name": "SGK - TARIM KREDİ KOOP. DÖNÜŞ",
     "lat": 39.7323846,
-    "lon": 36.9864935
+    "lon": 36.9864935,
+    "routes": []
   },
   {
     "id": "575",
     "name": "SİVAS ÇEVRE ŞEHİRCİLİK VE İKLİM DEĞİŞİKLİĞİ MÜDÜRLÜĞÜ DÖNÜŞ",
     "lat": 39.733181,
-    "lon": 36.9887106
+    "lon": 36.9887106,
+    "routes": []
   },
   {
     "id": "576",
     "name": "ASKERLİK ŞUBESİ",
     "lat": 39.7339195,
-    "lon": 36.990513
+    "lon": 36.990513,
+    "routes": []
   },
   {
     "id": "577",
     "name": "KARAYOLARI 16. BÖLGE",
     "lat": 39.7352107,
-    "lon": 36.9934232
+    "lon": 36.9934232,
+    "routes": []
   },
   {
     "id": "658",
     "name": "BELLONA",
     "lat": 39.7371784,
-    "lon": 36.997924
+    "lon": 36.997924,
+    "routes": []
   },
   {
     "id": "579",
     "name": "Sivas İl Milli Eğitim Müdürlüğü D��NÜŞ",
     "lat": 39.7380096,
-    "lon": 36.9996084
+    "lon": 36.9996084,
+    "routes": []
   },
   {
     "id": "591",
     "name": "BİRSU KIZILIRMAK SAĞLIK OCAĞI KARŞISI",
     "lat": 39.7404329,
-    "lon": 37.023553
+    "lon": 37.023553,
+    "routes": []
   },
   {
     "id": "63",
     "name": "YUMURTATEPE",
     "lat": 39.7356,
-    "lon": 36.9773
+    "lon": 36.9773,
+    "routes": []
   },
   {
     "id": "583",
     "name": "AKCEYLAN Y.TEPE GİDİŞ",
     "lat": 39.7351447,
-    "lon": 36.9752754
+    "lon": 36.9752754,
+    "routes": []
   },
   {
     "id": "433",
     "name": "TERMİNAL",
     "lat": 39.7344737,
-    "lon": 37.0155521
+    "lon": 37.0155521,
+    "routes": []
   },
   {
     "id": "359",
     "name": "ÜÇLERBEY ŞEHİT ALİ YÜCE POLİS MERKEZİ GİDİŞ",
     "lat": 39.7392289,
-    "lon": 37.0185718
+    "lon": 37.0185718,
+    "routes": []
   },
   {
     "id": "581",
     "name": "HATİPOĞLU SİTELERİ Y.TEPE",
     "lat": 39.7381953,
-    "lon": 36.9914706
+    "lon": 36.9914706,
+    "routes": []
   },
   {
     "id": "582",
     "name": "GAZİ LİSESİ Y.TEPE GİDİŞ",
     "lat": 39.7384572,
-    "lon": 36.9886865
+    "lon": 36.9886865,
+    "routes": []
   },
   {
     "id": "59",
     "name": "PLEVNE 1",
     "lat": 39.739171,
-    "lon": 36.986517
+    "lon": 36.986517,
+    "routes": []
   },
   {
     "id": "60",
     "name": "PLEVNE 2",
     "lat": 39.73997,
-    "lon": 36.984575
+    "lon": 36.984575,
+    "routes": []
   },
   {
     "id": "61",
     "name": "ZAFER 1",
     "lat": 39.738483,
-    "lon": 36.981813
+    "lon": 36.981813,
+    "routes": []
   },
   {
     "id": "62",
     "name": "EMEK 1",
     "lat": 39.736575,
-    "lon": 36.979636
+    "lon": 36.979636,
+    "routes": []
   },
   {
     "id": "584",
     "name": "ATAKENT CAD",
     "lat": 39.7342289,
-    "lon": 36.9730385
+    "lon": 36.9730385,
+    "routes": []
   },
   {
     "id": "585",
     "name": "MESLEK LİSESİ Y.TEPE GİDİŞ",
     "lat": 39.7360316,
-    "lon": 36.9714184
+    "lon": 36.9714184,
+    "routes": []
   },
   {
     "id": "586",
     "name": "DİRİLİŞ 1",
     "lat": 39.7351076,
-    "lon": 36.9699539
+    "lon": 36.9699539,
+    "routes": []
   },
   {
     "id": "65",
     "name": "DİRİLİŞ DURAĞI",
     "lat": 39.734517,
-    "lon": 36.96904
+    "lon": 36.96904,
+    "routes": []
   },
   {
     "id": "66",
     "name": "DİRİLİŞ GAZİ PARKI",
     "lat": 39.732778,
-    "lon": 36.968056
+    "lon": 36.968056,
+    "routes": []
   },
   {
     "id": "67",
     "name": "MİMAR SİNAN SAĞLIK OCAĞI",
     "lat": 39.7334087,
-    "lon": 36.9713184
+    "lon": 36.9713184,
+    "routes": []
   },
   {
     "id": "587",
     "name": "KEVSER CAMİİ Y.TEPE DÖNÜŞ",
     "lat": 39.7339401,
-    "lon": 36.9725637
+    "lon": 36.9725637,
+    "routes": []
   },
   {
     "id": "64",
     "name": "AKCEYLAN",
     "lat": 39.7349,
-    "lon": 36.97523
+    "lon": 36.97523,
+    "routes": []
   },
   {
     "id": "588",
     "name": "SİVAS BİLİM VE SANAT MERKEZİ TUZLUGÖL KAVŞAK DÖNÜŞ",
     "lat": 39.7398927,
-    "lon": 36.9843386
+    "lon": 36.9843386,
+    "routes": []
   },
   {
     "id": "589",
     "name": "BÜLBÜLLER  GAZİ LİSESİ TUZLUGÖL DÖNÜŞ",
     "lat": 39.7383562,
-    "lon": 36.988665
+    "lon": 36.988665,
+    "routes": []
   },
   {
     "id": "329",
     "name": "YENİŞEHİR TAKSİ DURAĞI DÖNÜŞ",
     "lat": 39.7387421,
-    "lon": 37.0195806
+    "lon": 37.0195806,
+    "routes": []
   },
   {
     "id": "330",
     "name": "YENİŞEHİR DÖNEL KAVŞAK DÖNÜŞ",
     "lat": 39.7376793,
-    "lon": 37.018309
+    "lon": 37.018309,
+    "routes": []
   },
   {
     "id": "778",
     "name": "YENİŞEHİR ŞEHİRLER ARASI OTOBÜS TERMİNALİ SEFER KAPATMA",
     "lat": 39.734618,
-    "lon": 37.0180117
+    "lon": 37.0180117,
+    "routes": []
   },
   {
     "id": "730",
     "name": "C.Ü. NİZAMİYE GİDİŞ",
     "lat": 39.7102256,
-    "lon": 37.010922
+    "lon": 37.010922,
+    "routes": []
   },
   {
     "id": "718",
     "name": "METROPOL AQUA PARK",
     "lat": 39.7214005,
-    "lon": 37.0128739
+    "lon": 37.0128739,
+    "routes": []
   },
   {
     "id": "432",
     "name": "OPET",
     "lat": 39.723679,
-    "lon": 37.0132685
+    "lon": 37.0132685,
+    "routes": []
   },
   {
     "id": "684",
     "name": "TOYOTA",
     "lat": 39.727758,
-    "lon": 37.0138617
+    "lon": 37.0138617,
+    "routes": []
   },
   {
     "id": "434",
     "name": "YENİŞEHİR TUĞUTLAR CAMİ GİDİŞ",
     "lat": 39.738204,
-    "lon": 37.0161627
+    "lon": 37.0161627,
+    "routes": []
   },
   {
     "id": "360",
     "name": "ÜÇLERBEY ŞEHİT ALİ YÜCE POLİS MERKEZİ DÖNÜŞ",
     "lat": 39.7394704,
-    "lon": 37.0184852
+    "lon": 37.0184852,
+    "routes": []
   },
   {
     "id": "679",
     "name": "YENİŞEHİR TUĞUTLAR CAMİ DÖNÜŞ",
     "lat": 39.737954,
-    "lon": 37.0157379
+    "lon": 37.0157379,
+    "routes": []
   },
   {
     "id": "361",
     "name": "ŞEHİRLER ARASI OTOBÜS TERMİNALİ LUNA PARK DÖNÜŞ",
     "lat": 39.7347002,
-    "lon": 37.015163
+    "lon": 37.015163,
+    "routes": []
   },
   {
     "id": "362",
     "name": "YURT",
     "lat": 39.7237369,
-    "lon": 37.0131271
+    "lon": 37.0131271,
+    "routes": []
   },
   {
     "id": "363",
     "name": "METROPOL HALI SAHA",
     "lat": 39.7213872,
-    "lon": 37.012544
+    "lon": 37.012544,
+    "routes": []
   },
   {
     "id": "738",
     "name": "C.Ü. NİZAMİYE DÖNÜŞ",
     "lat": 39.7100337,
-    "lon": 37.0125528
+    "lon": 37.0125528,
+    "routes": []
   },
   {
     "id": "623",
     "name": "THE GREEN PARK OTEL",
     "lat": 39.735383,
-    "lon": 36.9964756
+    "lon": 36.9964756,
+    "routes": []
   },
   {
     "id": "624",
     "name": "KARAYOLLARI ARKASI",
     "lat": 39.7330329,
-    "lon": 36.9966111
+    "lon": 36.9966111,
+    "routes": []
   },
   {
     "id": "625",
     "name": "YILDIZ GIDA",
     "lat": 39.7314009,
-    "lon": 36.994016
+    "lon": 36.994016,
+    "routes": []
   },
   {
     "id": "626",
     "name": "AVM 1",
     "lat": 39.7299605,
-    "lon": 36.9931754
+    "lon": 36.9931754,
+    "routes": []
   },
   {
     "id": "627",
     "name": "ADLİYE KAPTANLAR",
     "lat": 39.728643,
-    "lon": 36.992235
+    "lon": 36.992235,
+    "routes": []
   },
   {
     "id": "766",
     "name": "ŞEHİT ÜSTĞM. CEMALETTİN YILMAZ T.M.L",
     "lat": 39.7267369,
-    "lon": 36.9883699
+    "lon": 36.9883699,
+    "routes": []
   },
   {
     "id": "767",
     "name": "SİVAS 4 EYLÜL STADYUMU",
     "lat": 39.7256972,
-    "lon": 36.9840784
+    "lon": 36.9840784,
+    "routes": []
   },
   {
     "id": "768",
     "name": "TAHA AKGÜL KAPALI SPOR SALONU",
     "lat": 39.7249462,
-    "lon": 36.9817878
+    "lon": 36.9817878,
+    "routes": []
   },
   {
     "id": "71",
     "name": "KARŞIYAKA KÖPRÜSÜ",
     "lat": 39.7198366,
-    "lon": 36.9625576
+    "lon": 36.9625576,
+    "routes": []
   },
   {
     "id": "72",
     "name": "VİLLALAR 2",
     "lat": 39.7187228,
-    "lon": 36.9613341
+    "lon": 36.9613341,
+    "routes": []
   },
   {
     "id": "638",
     "name": "KARŞIYAKA VİLLALAR 1",
     "lat": 39.7155981,
-    "lon": 36.9587035
+    "lon": 36.9587035,
+    "routes": []
   },
   {
     "id": "73",
     "name": "2 NOLU DURAK",
     "lat": 39.7116217,
-    "lon": 36.9555868
+    "lon": 36.9555868,
+    "routes": []
   },
   {
     "id": "659",
     "name": "AHMET GAZİOĞLU CAMİİ",
     "lat": 39.7093633,
-    "lon": 36.9579306
+    "lon": 36.9579306,
+    "routes": []
   },
   {
     "id": "74",
     "name": "3 NOLU DURAK",
     "lat": 39.7076819,
-    "lon": 36.958365
+    "lon": 36.958365,
+    "routes": []
   },
   {
     "id": "75",
     "name": "ASIM şAHiN KIZ ANADOLU İMAM HATiP LiSESi",
     "lat": 39.7070424,
-    "lon": 36.9557909
+    "lon": 36.9557909,
+    "routes": []
   },
   {
     "id": "76",
     "name": "6 NOLU DURAK",
     "lat": 39.7047626,
-    "lon": 36.9536432
+    "lon": 36.9536432,
+    "routes": []
   },
   {
     "id": "77",
     "name": "7 NOLU DURAK",
     "lat": 39.7061607,
-    "lon": 36.9509423
+    "lon": 36.9509423,
+    "routes": []
   },
   {
     "id": "637",
     "name": "ESKİ KAYSERİ CAD. 1 NOLU",
     "lat": 39.704811,
-    "lon": 36.9494211
+    "lon": 36.9494211,
+    "routes": []
   },
   {
     "id": "78",
     "name": "KARŞIYAKA ESENYURT",
     "lat": 39.7019492,
-    "lon": 36.9472632
+    "lon": 36.9472632,
+    "routes": []
   },
   {
     "id": "79",
     "name": "9 NOLU DURAK",
     "lat": 39.702316,
-    "lon": 36.9511847
+    "lon": 36.9511847,
+    "routes": []
   },
   {
     "id": "80",
     "name": "HAKAN ATEŞ CAMİ",
     "lat": 39.7032235,
-    "lon": 36.9546342
+    "lon": 36.9546342,
+    "routes": []
   },
   {
     "id": "81",
     "name": "11 NOLU DURAK",
     "lat": 39.7040844,
-    "lon": 36.9568163
+    "lon": 36.9568163,
+    "routes": []
   },
   {
     "id": "82",
     "name": "KARşIYAKA 112 KOMUTA KONTROL MERKEZi",
     "lat": 39.705042,
-    "lon": 36.9599174
+    "lon": 36.9599174,
+    "routes": []
   },
   {
     "id": "83",
     "name": "KARŞIYAKA MERKEZ CAMİ",
     "lat": 39.705311,
-    "lon": 36.96269
+    "lon": 36.96269,
+    "routes": []
   },
   {
     "id": "84",
     "name": "14 NOLU DURAK",
     "lat": 39.7049185,
-    "lon": 36.9672508
+    "lon": 36.9672508,
+    "routes": []
   },
   {
     "id": "85",
     "name": "KARŞIYAKA NURi DöNMEZ CAN iLKOKULU",
     "lat": 39.7068782,
-    "lon": 36.9684027
+    "lon": 36.9684027,
+    "routes": []
   },
   {
     "id": "635",
     "name": "KIZ MESLEK LİSESİ",
     "lat": 39.7090964,
-    "lon": 36.9656532
+    "lon": 36.9656532,
+    "routes": []
   },
   {
     "id": "634",
     "name": "BEYAZIT CAMİİ",
     "lat": 39.7109854,
-    "lon": 36.9676851
+    "lon": 36.9676851,
+    "routes": []
   },
   {
     "id": "640",
     "name": "KARŞIYAKA KARAKOL",
     "lat": 39.7132629,
-    "lon": 36.9683061
+    "lon": 36.9683061,
+    "routes": []
   },
   {
     "id": "633",
     "name": "ESKİ ÇÖP ALANI",
     "lat": 39.7119451,
-    "lon": 36.9705541
+    "lon": 36.9705541,
+    "routes": []
   },
   {
     "id": "632",
     "name": "SEDA SÜRÜCÜ KURSU",
     "lat": 39.711316,
-    "lon": 36.9716773
+    "lon": 36.9716773,
+    "routes": []
   },
   {
     "id": "87",
     "name": "20 NOLU DURAK",
     "lat": 39.7086159,
-    "lon": 36.9744621
+    "lon": 36.9744621,
+    "routes": []
   },
   {
     "id": "88",
     "name": "21 NOLU DURAK",
     "lat": 39.7054716,
-    "lon": 36.9777493
+    "lon": 36.9777493,
+    "routes": []
   },
   {
     "id": "641",
     "name": "ESENYURT TRAFO",
     "lat": 39.7034668,
-    "lon": 36.9799
+    "lon": 36.9799,
+    "routes": []
   },
   {
     "id": "89",
     "name": "ESENYURT MEZARLIĞI",
     "lat": 39.7011772,
-    "lon": 36.9824174
+    "lon": 36.9824174,
+    "routes": []
   },
   {
     "id": "90",
     "name": "ESENYURT KARŞIYAKA",
     "lat": 39.6998369,
-    "lon": 36.9851316
+    "lon": 36.9851316,
+    "routes": []
   },
   {
     "id": "642",
     "name": "ÇİFTLİK",
     "lat": 39.6992829,
-    "lon": 36.9884622
+    "lon": 36.9884622,
+    "routes": []
   },
   {
     "id": "643",
     "name": "ŞEHİT MÜCAHİT IRMAK",
     "lat": 39.6990535,
-    "lon": 36.9916154
+    "lon": 36.9916154,
+    "routes": []
   },
   {
     "id": "644",
     "name": "VİLLALAR YENİ YOL AYRIMI",
     "lat": 39.6992666,
-    "lon": 36.9947901
+    "lon": 36.9947901,
+    "routes": []
   },
   {
     "id": "645",
     "name": "TARLA DURAĞI",
     "lat": 39.7008128,
-    "lon": 36.9945255
+    "lon": 36.9945255,
+    "routes": []
   },
   {
     "id": "646",
     "name": "TARLA DURAĞI 2",
     "lat": 39.7033446,
-    "lon": 36.992515
+    "lon": 36.992515,
+    "routes": []
   },
   {
     "id": "647",
     "name": "KARŞIYAKA KAVŞAK",
     "lat": 39.708676,
-    "lon": 36.9897111
+    "lon": 36.9897111,
+    "routes": []
   },
   {
     "id": "630",
     "name": "ESENYURT KÖPRÜ",
     "lat": 39.7159078,
-    "lon": 36.987002
+    "lon": 36.987002,
+    "routes": []
   },
   {
     "id": "629",
     "name": "KARŞIYAKA GALERİCİLER ARKA KISIM",
     "lat": 39.7206384,
-    "lon": 36.9888473
+    "lon": 36.9888473,
+    "routes": []
   },
   {
     "id": "314",
     "name": "GÜLTEPE",
     "lat": 39.7270258,
-    "lon": 36.991355
+    "lon": 36.991355,
+    "routes": []
   },
   {
     "id": "315",
     "name": "AVM",
     "lat": 39.7292727,
-    "lon": 36.9929705
+    "lon": 36.9929705,
+    "routes": []
   },
   {
     "id": "321",
     "name": "TOPTANCILAR 1. DURAK",
     "lat": 39.733051,
-    "lon": 36.9997148
+    "lon": 36.9997148,
+    "routes": []
   },
   {
     "id": "628",
     "name": "OKULLAR DURAĞI",
     "lat": 39.7267439,
-    "lon": 36.9909739
+    "lon": 36.9909739,
+    "routes": []
   },
   {
     "id": "92",
     "name": "17 NOLU DURAK",
     "lat": 39.713279,
-    "lon": 36.968424
+    "lon": 36.968424,
+    "routes": []
   },
   {
     "id": "636",
     "name": "KARŞIYAKA MERKEZ CAMİİ PTT.",
     "lat": 39.7054609,
-    "lon": 36.9630965
+    "lon": 36.9630965,
+    "routes": []
   },
   {
     "id": "726",
     "name": "SİVAS SPOR TESİSLERİ",
     "lat": 39.7214928,
-    "lon": 36.9813399
+    "lon": 36.9813399,
+    "routes": []
   },
   {
     "id": "350",
     "name": "HYUNDAI",
     "lat": 39.7227819,
-    "lon": 36.984676
+    "lon": 36.984676,
+    "routes": []
   },
   {
     "id": "69",
     "name": "DSİ",
     "lat": 39.725567,
-    "lon": 36.967726
+    "lon": 36.967726,
+    "routes": []
   },
   {
     "id": "70",
     "name": "İLLER BANKASI",
     "lat": 39.72595,
-    "lon": 36.962082
+    "lon": 36.962082,
+    "routes": []
   },
   {
     "id": "93",
     "name": "POLİS LOJMANLARI",
     "lat": 39.7236761,
-    "lon": 36.9581986
+    "lon": 36.9581986,
+    "routes": []
   },
   {
     "id": "94",
     "name": "POLİS LOJ DANİŞMENT GAZİ",
     "lat": 39.7210453,
-    "lon": 36.9506203
+    "lon": 36.9506203,
+    "routes": []
   },
   {
     "id": "769",
     "name": "BEKKİ EVLER GİDİŞ",
     "lat": 39.7241252,
-    "lon": 36.9495181
+    "lon": 36.9495181,
+    "routes": []
   },
   {
     "id": "771",
     "name": "DANİŞMENT GAZİ TOKİ 1",
     "lat": 39.7290627,
-    "lon": 36.9488623
+    "lon": 36.9488623,
+    "routes": []
   },
   {
     "id": "485",
     "name": "DANİŞMENT TOKİ-2",
     "lat": 39.72984,
-    "lon": 36.9505606
+    "lon": 36.9505606,
+    "routes": []
   },
   {
     "id": "486",
     "name": "DANİŞMENT TOKİ-3",
     "lat": 39.7325065,
-    "lon": 36.9497817
+    "lon": 36.9497817,
+    "routes": []
   },
   {
     "id": "487",
     "name": "DANİŞMENT TOKİ-4",
     "lat": 39.7349916,
-    "lon": 36.9487671
+    "lon": 36.9487671,
+    "routes": []
   },
   {
     "id": "377",
     "name": "DANİŞMENT TOKİ-5",
     "lat": 39.7322905,
-    "lon": 36.9496489
+    "lon": 36.9496489,
+    "routes": []
   },
   {
     "id": "741",
     "name": "DANİŞMENT TOKİ-6",
     "lat": 39.7294435,
-    "lon": 36.9502559
+    "lon": 36.9502559,
+    "routes": []
   },
   {
     "id": "378",
     "name": "DANİŞMENT TOKİ-7",
     "lat": 39.7292404,
-    "lon": 36.9490511
+    "lon": 36.9490511,
+    "routes": []
   },
   {
     "id": "499",
     "name": "BEKKİ EVLER DÖNÜŞ",
     "lat": 39.7243796,
-    "lon": 36.949308
+    "lon": 36.949308,
+    "routes": []
   },
   {
     "id": "441",
     "name": "DANİŞMENT TOKİ ÇEVRE YOLU",
     "lat": 39.7209806,
-    "lon": 36.950477
+    "lon": 36.950477,
+    "routes": []
   },
   {
     "id": "772",
     "name": "ÇİMENTO FABRİKASI 1",
     "lat": 39.7191285,
-    "lon": 36.9430299
+    "lon": 36.9430299,
+    "routes": []
   },
   {
     "id": "95",
     "name": "ÇİMENTO FABRİKASI",
     "lat": 39.7206802,
-    "lon": 36.9360275
+    "lon": 36.9360275,
+    "routes": []
   },
   {
     "id": "97",
     "name": "HAMİDİYE MİLLET BAHÇESİ",
     "lat": 39.7215875,
-    "lon": 36.929801
+    "lon": 36.929801,
+    "routes": []
   },
   {
     "id": "101",
     "name": "BETON TRAVERS",
     "lat": 39.71936,
-    "lon": 36.940475
+    "lon": 36.940475,
+    "routes": []
   },
   {
     "id": "379",
     "name": "MEYDAN",
     "lat": 39.75,
-    "lon": 37.015
+    "lon": 37.015,
+    "routes": []
   },
   {
     "id": "810",
     "name": "R.T.E. YENİŞEHİR 2 GİDİŞ",
     "lat": 39.7366267,
-    "lon": 37.0223401
+    "lon": 37.0223401,
+    "routes": []
   },
   {
     "id": "811",
     "name": "R.T.E. YENİŞEHİR 3 GİDİŞ",
     "lat": 39.7385944,
-    "lon": 37.0214993
+    "lon": 37.0214993,
+    "routes": []
   },
   {
     "id": "812",
     "name": "R.T.R.YENİŞEHİR DÖNÜŞ",
     "lat": 39.7385696,
-    "lon": 37.0209172
+    "lon": 37.0209172,
+    "routes": []
   },
   {
     "id": "813",
     "name": "R.T.E. YENİŞEHİR 1 DÖNÜŞ",
     "lat": 39.7366638,
-    "lon": 37.021742
+    "lon": 37.021742,
+    "routes": []
   },
   {
     "id": "814",
     "name": "R.T.E. YENİŞEHİR 3 DÖNÜŞ",
     "lat": 39.7352148,
-    "lon": 37.0223549
+    "lon": 37.0223549,
+    "routes": []
   },
   {
     "id": "782",
     "name": "3.ETAP TOKİ",
     "lat": 39.7238653,
-    "lon": 36.9581146
+    "lon": 36.9581146,
+    "routes": []
   },
   {
     "id": "786",
     "name": "DUMLUPINAR İLKOKULU ÇİFTLİK GİDİŞ",
     "lat": 39.7267121,
-    "lon": 36.9575084
+    "lon": 36.9575084,
+    "routes": []
   },
   {
     "id": "787",
     "name": "3. ETAP GİDİŞ",
     "lat": 39.7308233,
-    "lon": 36.9550971
+    "lon": 36.9550971,
+    "routes": []
   },
   {
     "id": "788",
     "name": "3.ETAP 1 KISIM GİDİŞ",
     "lat": 39.7340844,
-    "lon": 36.9519777
+    "lon": 36.9519777,
+    "routes": []
   },
   {
     "id": "783",
     "name": "3.ETAP TOKİ CAMİİ",
     "lat": 39.7424233,
-    "lon": 36.9553895
+    "lon": 36.9553895,
+    "routes": []
   },
   {
     "id": "794",
     "name": "3.ETAP 1 KISIM DÖNÜŞ",
     "lat": 39.7342413,
-    "lon": 36.9516076
+    "lon": 36.9516076,
+    "routes": []
   },
   {
     "id": "795",
     "name": "3. ETAP DÖNÜŞ",
     "lat": 39.7308832,
-    "lon": 36.9548102
+    "lon": 36.9548102,
+    "routes": []
   },
   {
     "id": "796",
     "name": "DUMLUPINAR İLKOKULU ÇİFTLİK DÖNÜŞ",
     "lat": 39.7267823,
-    "lon": 36.9572885
+    "lon": 36.9572885,
+    "routes": []
   },
   {
     "id": "103",
     "name": "DİKİLİTAŞ",
     "lat": 39.750161,
-    "lon": 37.022005
+    "lon": 37.022005,
+    "routes": []
   },
   {
     "id": "104",
     "name": "HALE HARUN KüTüKDE iLKOKULU AYDOĞAN FATİH",
     "lat": 39.7492923,
-    "lon": 37.0060011
+    "lon": 37.0060011,
+    "routes": []
   },
   {
     "id": "105",
     "name": "AYDOĞAN MEZARLIK",
     "lat": 39.7526001,
-    "lon": 37.0041427
+    "lon": 37.0041427,
+    "routes": []
   },
   {
     "id": "134",
     "name": "AYDOĞAN SOSYAL BLOKLAR",
     "lat": 39.75379,
-    "lon": 37.00299
+    "lon": 37.00299,
+    "routes": []
   },
   {
     "id": "592",
     "name": "AYDOĞAN-FATİH",
     "lat": 39.7541307,
-    "lon": 37.0025556
+    "lon": 37.0025556,
+    "routes": []
   },
   {
     "id": "107",
     "name": "AYDOĞAN BERBER",
     "lat": 39.755507,
-    "lon": 37.0012405
+    "lon": 37.0012405,
+    "routes": []
   },
   {
     "id": "108",
     "name": "YEşiL BLOKLAR",
     "lat": 39.7570641,
-    "lon": 36.999895
+    "lon": 36.999895,
+    "routes": []
   },
   {
     "id": "133",
     "name": "BÜŞRA MARKET",
     "lat": 39.759272,
-    "lon": 36.997823
+    "lon": 36.997823,
+    "routes": []
   },
   {
     "id": "110",
     "name": "FATİH 2",
     "lat": 39.7605396,
-    "lon": 36.9961145
+    "lon": 36.9961145,
+    "routes": []
   },
   {
     "id": "111",
     "name": "FATiH şüKRü BEYAZIT A.S.M.",
     "lat": 39.7615172,
-    "lon": 36.9939537
+    "lon": 36.9939537,
+    "routes": []
   },
   {
     "id": "112",
     "name": "HASNUR MARKET",
     "lat": 39.7618132,
-    "lon": 36.9919508
+    "lon": 36.9919508,
+    "routes": []
   },
   {
     "id": "113",
     "name": "GAZi OSMAN PAşA PARKI",
     "lat": 39.7622291,
-    "lon": 36.9895043
+    "lon": 36.9895043,
+    "routes": []
   },
   {
     "id": "114",
     "name": "ORHAN İNŞŞAT ALANI",
     "lat": 39.7625293,
-    "lon": 36.9873011
+    "lon": 36.9873011,
+    "routes": []
   },
   {
     "id": "115",
     "name": "İMKB LİSESİ",
     "lat": 39.7622706,
-    "lon": 36.9848677
+    "lon": 36.9848677,
+    "routes": []
   },
   {
     "id": "116",
     "name": "BELPER 1",
     "lat": 39.7614632,
-    "lon": 36.9825901
+    "lon": 36.9825901,
+    "routes": []
   },
   {
     "id": "594",
     "name": "ERDEM EKMEK FIRINI",
     "lat": 39.7612056,
-    "lon": 36.9802402
+    "lon": 36.9802402,
+    "routes": []
   },
   {
     "id": "117",
     "name": "FATiH şEHiT MUHAMMED DEMiR ANADOLU LiSESi",
     "lat": 39.7599165,
-    "lon": 36.9803541
+    "lon": 36.9803541,
+    "routes": []
   },
   {
     "id": "118",
     "name": "FATİH DÖNÜŞ 2",
     "lat": 39.7592287,
-    "lon": 36.9832126
+    "lon": 36.9832126,
+    "routes": []
   },
   {
     "id": "119",
     "name": "FATİH İNAL MARKET KARŞISI",
     "lat": 39.7587474,
-    "lon": 36.985327
+    "lon": 36.985327,
+    "routes": []
   },
   {
     "id": "120",
     "name": "FATİH MİNİ MARKET",
     "lat": 39.7582202,
-    "lon": 36.9884625
+    "lon": 36.9884625,
+    "routes": []
   },
   {
     "id": "121",
     "name": "TÜRK-İŞ 1",
     "lat": 39.7579561,
-    "lon": 36.9906648
+    "lon": 36.9906648,
+    "routes": []
   },
   {
     "id": "122",
     "name": "TÜRK-İŞ 2",
     "lat": 39.7574046,
-    "lon": 36.9926544
+    "lon": 36.9926544,
+    "routes": []
   },
   {
     "id": "123",
     "name": "SÜLEYMAN DEMİREL OKULU",
     "lat": 39.7566359,
-    "lon": 36.9945012
+    "lon": 36.9945012,
+    "routes": []
   },
   {
     "id": "124",
     "name": "HALİL RIFAT PAŞA LİSESİ",
     "lat": 39.7555449,
-    "lon": 36.9968092
+    "lon": 36.9968092,
+    "routes": []
   },
   {
     "id": "789",
     "name": "YENİ MAHALLE POLİS KARAKOLU DÖNÜŞ",
     "lat": 39.7540668,
-    "lon": 36.9992222
+    "lon": 36.9992222,
+    "routes": []
   },
   {
     "id": "405",
     "name": "SELİMİYE BÖLGE PARKI HAYAL DÜĞÜN SALONU DÖNÜŞ",
     "lat": 39.7527802,
-    "lon": 37.0012403
+    "lon": 37.0012403,
+    "routes": []
   },
   {
     "id": "404",
     "name": "HALE HARUN KüTüKDE iLKOKULU DÖNEL KAVŞAK DÖNÜŞ",
     "lat": 39.7493016,
-    "lon": 37.0057493
+    "lon": 37.0057493,
+    "routes": []
   },
   {
     "id": "595",
     "name": "KALEMDAR MARKET",
     "lat": 39.7484903,
-    "lon": 37.0075353
+    "lon": 37.0075353,
+    "routes": []
   },
   {
     "id": "403",
     "name": "SOFU YUSUF CAMİİ SİVAS LİSESİ",
     "lat": 39.7483757,
-    "lon": 37.0102613
+    "lon": 37.0102613,
+    "routes": []
   },
   {
     "id": "596",
     "name": "SARAYBOSNA ŞEHİTLER PARKI DÖNÜŞ",
     "lat": 39.7508003,
-    "lon": 37.0127306
+    "lon": 37.0127306,
+    "routes": []
   },
   {
     "id": "719",
     "name": "JANDARMA BİNASI ÖNÜ",
     "lat": 39.7507159,
-    "lon": 37.0146207
+    "lon": 37.0146207,
+    "routes": []
   },
   {
     "id": "717",
     "name": "YENİ ŞEHİR DÖNEL KAVŞAK GİDİŞ",
     "lat": 39.7376831,
-    "lon": 37.0184748
+    "lon": 37.0184748,
+    "routes": []
   },
   {
     "id": "56",
     "name": "YENİŞEHİR TAKSİ DURAĞI GİDİŞ",
     "lat": 39.7387987,
-    "lon": 37.019871
+    "lon": 37.019871,
+    "routes": []
   },
   {
     "id": "648",
     "name": "HALE HARUN KüTüKDE iLKOKULU",
     "lat": 39.7503451,
-    "lon": 37.0050513
+    "lon": 37.0050513,
+    "routes": []
   },
   {
     "id": "127",
     "name": "HAYRİ SIĞIRCI CAD A 101",
     "lat": 39.7517524,
-    "lon": 37.0031016
+    "lon": 37.0031016,
+    "routes": []
   },
   {
     "id": "126",
     "name": "SELİMİYE BÖLGE PARKI HAYAL DÜĞÜN SALONU GİDİŞ",
     "lat": 39.7529655,
-    "lon": 37.0013973
+    "lon": 37.0013973,
+    "routes": []
   },
   {
     "id": "125",
     "name": "CUMARTESİ AYDOĞAN",
     "lat": 39.7541892,
-    "lon": 36.9993526
+    "lon": 36.9993526,
+    "routes": []
   },
   {
     "id": "132",
     "name": "100.YIL İ.Ö.O.",
     "lat": 39.762511,
-    "lon": 36.987232
+    "lon": 36.987232,
+    "routes": []
   },
   {
     "id": "593",
     "name": "FATİH ŞÜKRÜ BEYAZIT AİLE SAĞLIĞI MERKEZİ",
     "lat": 39.7613939,
-    "lon": 36.9940806
+    "lon": 36.9940806,
+    "routes": []
   },
   {
     "id": "109",
     "name": "şEHiT EBUBEKiR EKiNCi iLKOKULU -  MUHTARLIK",
     "lat": 39.759322,
-    "lon": 36.9977206
+    "lon": 36.9977206,
+    "routes": []
   },
   {
     "id": "129",
     "name": "FATİH 19",
     "lat": 39.75901,
-    "lon": 36.984683
+    "lon": 36.984683,
+    "routes": []
   },
   {
     "id": "790",
     "name": "ELçiBEY iMAM HATiP ORTA OKULU",
     "lat": 39.7549545,
-    "lon": 36.9969798
+    "lon": 36.9969798,
+    "routes": []
   },
   {
     "id": "135",
     "name": "BÜLBÜLLER",
     "lat": 39.7561298,
-    "lon": 36.9930514
+    "lon": 36.9930514,
+    "routes": []
   },
   {
     "id": "136",
     "name": "YUNUS EMRE 2",
     "lat": 39.7544765,
-    "lon": 36.9922313
+    "lon": 36.9922313,
+    "routes": []
   },
   {
     "id": "137",
     "name": "ESKİ SOSYAL KONUTLAR",
     "lat": 39.7536154,
-    "lon": 36.9914267
+    "lon": 36.9914267,
+    "routes": []
   },
   {
     "id": "138",
     "name": "ESENTEPE 1",
     "lat": 39.7515211,
-    "lon": 36.9898195
+    "lon": 36.9898195,
+    "routes": []
   },
   {
     "id": "139",
     "name": "ESENTEPE 2 ŞANLILAR GIDA",
     "lat": 39.7505448,
-    "lon": 36.989654
+    "lon": 36.989654,
+    "routes": []
   },
   {
     "id": "649",
     "name": "ESENTEPE İTFAİYE",
     "lat": 39.7489214,
-    "lon": 36.9887753
+    "lon": 36.9887753,
+    "routes": []
   },
   {
     "id": "650",
     "name": "TUZLUGÖL 1",
     "lat": 39.7472771,
-    "lon": 36.9885022
+    "lon": 36.9885022,
+    "routes": []
   },
   {
     "id": "141",
     "name": "TUZLUGÖL 2",
     "lat": 39.7454721,
-    "lon": 36.9859881
+    "lon": 36.9859881,
+    "routes": []
   },
   {
     "id": "142",
     "name": "TUZLUGÖL 3",
     "lat": 39.744067,
-    "lon": 36.986848
+    "lon": 36.986848,
+    "routes": []
   },
   {
     "id": "143",
     "name": "TUZLUGÖL 4 REYHAN FIRIN VE KASAP",
     "lat": 39.7432436,
-    "lon": 36.9851555
+    "lon": 36.9851555,
+    "routes": []
   },
   {
     "id": "651",
     "name": "TUZLUGÖL 5",
     "lat": 39.7430733,
-    "lon": 36.983042
+    "lon": 36.983042,
+    "routes": []
   },
   {
     "id": "652",
     "name": "TULUGÖL 6",
     "lat": 39.7435995,
-    "lon": 36.9814684
+    "lon": 36.9814684,
+    "routes": []
   },
   {
     "id": "653",
     "name": "ŞEHİT HAMİT KANDUR İ.Ö.O",
     "lat": 39.7429246,
-    "lon": 36.9794729
+    "lon": 36.9794729,
+    "routes": []
   },
   {
     "id": "791",
     "name": "TUZLUGÖL PAZAR PARI GİDİŞ",
     "lat": 39.7439887,
-    "lon": 36.9768445
+    "lon": 36.9768445,
+    "routes": []
   },
   {
     "id": "792",
     "name": "METROPOL TUZLUGÖL",
     "lat": 39.747043,
-    "lon": 36.978773
+    "lon": 36.978773,
+    "routes": []
   },
   {
     "id": "793",
     "name": "İNCİ SİTELERİ TUZLUGÖL TOKİ",
     "lat": 39.7491836,
-    "lon": 36.9795977
+    "lon": 36.9795977,
+    "routes": []
   },
   {
     "id": "145",
     "name": "ÖZEL 4 EYLÜL BAKIM EVİ",
     "lat": 39.7410871,
-    "lon": 36.9750632
+    "lon": 36.9750632,
+    "routes": []
   },
   {
     "id": "655",
     "name": "ABDURRAHİM REYHAN CAMİİ",
     "lat": 39.7421596,
-    "lon": 36.9764588
+    "lon": 36.9764588,
+    "routes": []
   },
   {
     "id": "654",
     "name": "ABDüLHAMİT HAN ANADOLU iMAM HATiP LiSESi",
     "lat": 39.7412727,
-    "lon": 36.9796129
+    "lon": 36.9796129,
+    "routes": []
   },
   {
     "id": "144",
     "name": "TUZLUGÖL AİLE SAĞLIK MERKEZİ VE ANA OKULU",
     "lat": 39.7407169,
-    "lon": 36.9818905
+    "lon": 36.9818905,
+    "routes": []
   },
   {
     "id": "162",
     "name": "MENDERES",
     "lat": 39.7422124,
-    "lon": 36.991306
+    "lon": 36.991306,
+    "routes": []
   },
   {
     "id": "656",
     "name": "MESCİD-İ AKSA CAMİİ",
     "lat": 39.7433039,
-    "lon": 36.9922539
+    "lon": 36.9922539,
+    "routes": []
   },
   {
     "id": "146",
     "name": "4 EYLÜL SAĞLIK OCAĞI",
     "lat": 39.744443,
-    "lon": 36.993542
+    "lon": 36.993542,
+    "routes": []
   },
   {
     "id": "147",
     "name": "4 EYLÜL MAHALLE MUHTARLIĞI",
     "lat": 39.7460471,
-    "lon": 36.9949109
+    "lon": 36.9949109,
+    "routes": []
   },
   {
     "id": "148",
     "name": "HÜNERLİ PİDE",
     "lat": 39.747281,
-    "lon": 36.995686
+    "lon": 36.995686,
+    "routes": []
   },
   {
     "id": "149",
     "name": "DANIŞMENT GAZİ",
     "lat": 39.7508083,
-    "lon": 36.9961916
+    "lon": 36.9961916,
+    "routes": []
   },
   {
     "id": "657",
     "name": "BÜLBÜLLER DURAĞI",
     "lat": 39.752302,
-    "lon": 36.9977923
+    "lon": 36.9977923,
+    "routes": []
   },
   {
     "id": "150",
     "name": "YENİMAHALLE KARAKOLU",
     "lat": 39.7535111,
-    "lon": 36.9994474
+    "lon": 36.9994474,
+    "routes": []
   },
   {
     "id": "798",
     "name": "GAR YÜKSEK HIZLI TREN İSTASYON  YENİŞEHİR DÖNÜŞ",
     "lat": 39.7407136,
-    "lon": 37.0092483
+    "lon": 37.0092483,
+    "routes": []
   },
   {
     "id": "408",
     "name": "YENİŞEHİR OUTLET MAĞZALARI - MİGROS DÖNÜŞ",
     "lat": 39.7403227,
-    "lon": 37.014866
+    "lon": 37.014866,
+    "routes": []
   },
   {
     "id": "800",
     "name": "TUZLUGÖL DÜĞÜN SALONU",
     "lat": 39.7491465,
-    "lon": 36.9766863
+    "lon": 36.9766863,
+    "routes": []
   },
   {
     "id": "801",
     "name": "GÖKKAYA İNŞAAT",
     "lat": 39.7478556,
-    "lon": 36.9753934
+    "lon": 36.9753934,
+    "routes": []
   },
   {
     "id": "802",
     "name": "SGM - ANA OKULU",
     "lat": 39.7442568,
-    "lon": 36.9758119
+    "lon": 36.9758119,
+    "routes": []
   },
   {
     "id": "803",
     "name": "MUMCULU DURAĞI",
     "lat": 39.7431473,
-    "lon": 36.9751145
+    "lon": 36.9751145,
+    "routes": []
   },
   {
     "id": "151",
     "name": "ÇİÇEKLİ",
     "lat": 39.748255,
-    "lon": 37.00474
+    "lon": 37.00474,
+    "routes": []
   },
   {
     "id": "152",
     "name": "ELEKTRİK BİRLİĞİ",
     "lat": 39.748366,
-    "lon": 37.002455
+    "lon": 37.002455,
+    "routes": []
   },
   {
     "id": "154",
     "name": "ÇİÇEKLİ BÖLGE PARKI",
     "lat": 39.7483942,
-    "lon": 36.9986914
+    "lon": 36.9986914,
+    "routes": []
   },
   {
     "id": "155",
     "name": "ÇİÇEKLİ ESENTEPE - TOKİ",
     "lat": 39.7484768,
-    "lon": 36.9966745
+    "lon": 36.9966745,
+    "routes": []
   },
   {
     "id": "156",
     "name": "ESENTEPE CAMİİ",
     "lat": 39.7485,
-    "lon": 36.99547
+    "lon": 36.99547,
+    "routes": []
   },
   {
     "id": "157",
     "name": "İSTİKLAL",
     "lat": 39.748466,
-    "lon": 36.994205
+    "lon": 36.994205,
+    "routes": []
   },
   {
     "id": "158",
     "name": "TUĞRA",
     "lat": 39.74863,
-    "lon": 36.99189
+    "lon": 36.99189,
+    "routes": []
   },
   {
     "id": "539",
     "name": "İTFAİYE ESENTEPE",
     "lat": 39.749065,
-    "lon": 36.987995
+    "lon": 36.987995,
+    "routes": []
   },
   {
     "id": "540",
     "name": "TUZLUGÖL TOKİ GİRİŞ",
     "lat": 39.7510026,
-    "lon": 36.9854566
+    "lon": 36.9854566,
+    "routes": []
   },
   {
     "id": "721",
     "name": "TUZLUGÖL TOKİ ÇIKIŞ",
     "lat": 39.750819,
-    "lon": 36.9828285
+    "lon": 36.9828285,
+    "routes": []
   },
   {
     "id": "159",
     "name": "İBADULLAH CAMİ",
     "lat": 39.74856,
-    "lon": 36.990025
+    "lon": 36.990025,
+    "routes": []
   },
   {
     "id": "665",
     "name": "İBADULLAH CAMİİ ÖNCEKİ DURAK",
     "lat": 39.7470236,
-    "lon": 36.9896542
+    "lon": 36.9896542,
+    "routes": []
   },
   {
     "id": "160",
     "name": "TİCARET LİSESİ-ESEN TEPE",
     "lat": 39.7458365,
-    "lon": 36.9895793
+    "lon": 36.9895793,
+    "routes": []
   },
   {
     "id": "161",
     "name": "KURTULUŞ",
     "lat": 39.7439767,
-    "lon": 36.9894575
+    "lon": 36.9894575,
+    "routes": []
   },
   {
     "id": "164",
     "name": "ALTUNTABAK",
     "lat": 39.745465,
-    "lon": 36.99841
+    "lon": 36.99841,
+    "routes": []
   },
   {
     "id": "165",
     "name": "TİCARET LİSESİ",
     "lat": 39.7439655,
-    "lon": 37.003668
+    "lon": 37.003668,
+    "routes": []
   },
   {
     "id": "166",
     "name": "CEVHER CAMİ",
     "lat": 39.7462815,
-    "lon": 37.0086173
+    "lon": 37.0086173,
+    "routes": []
   },
   {
     "id": "168",
     "name": "ALTUNTABAK MERKEZ CAMİ",
     "lat": 39.7455187,
-    "lon": 37.0022568
+    "lon": 37.0022568,
+    "routes": []
   },
   {
     "id": "664",
     "name": "ESKİ YAYLA KASABI CİVARI",
     "lat": 39.7472308,
-    "lon": 37.0009693
+    "lon": 37.0009693,
+    "routes": []
   },
   {
     "id": "169",
     "name": "DANİŞMENT GAZİ 1",
     "lat": 39.7486947,
-    "lon": 36.9999203
+    "lon": 36.9999203,
+    "routes": []
   },
   {
     "id": "170",
     "name": "DANİŞMENT GAZİ 2",
     "lat": 39.7501668,
-    "lon": 36.9987313
+    "lon": 36.9987313,
+    "routes": []
   },
   {
     "id": "171",
     "name": "DANİŞMENT GAZİ 3",
     "lat": 39.7509111,
-    "lon": 36.9966643
+    "lon": 36.9966643,
+    "routes": []
   },
   {
     "id": "163",
     "name": "YER ALTI CAMİ DURAĞI",
     "lat": 39.746111,
-    "lon": 36.994722
+    "lon": 36.994722,
+    "routes": []
   },
   {
     "id": "173",
     "name": "ERDİN GIDA",
     "lat": 39.7496406,
-    "lon": 36.9923233
+    "lon": 36.9923233,
+    "routes": []
   },
   {
     "id": "174",
     "name": "TUĞRA 3 MUHTARLIK",
     "lat": 39.7510634,
-    "lon": 36.9936866
+    "lon": 36.9936866,
+    "routes": []
   },
   {
     "id": "412",
     "name": "DANİŞMENT GAZİ 3",
     "lat": 39.7511287,
-    "lon": 36.9960703
+    "lon": 36.9960703,
+    "routes": []
   },
   {
     "id": "411",
     "name": "DANİŞMENT GAZİ 2",
     "lat": 39.7501077,
-    "lon": 36.9986233
+    "lon": 36.9986233,
+    "routes": []
   },
   {
     "id": "410",
     "name": "DANİŞMENT GAZİ 1",
     "lat": 39.7486505,
-    "lon": 36.999873
+    "lon": 36.999873,
+    "routes": []
   },
   {
     "id": "409",
     "name": "ALTUNTABAK CAMİ",
     "lat": 39.7461481,
-    "lon": 37.0017012
+    "lon": 37.0017012,
+    "routes": []
   },
   {
     "id": "427",
     "name": "4. DURAK",
     "lat": 39.7049139,
-    "lon": 37.0215409
+    "lon": 37.0215409,
+    "routes": []
   },
   {
     "id": "368",
     "name": "3. DURAK",
     "lat": 39.7025,
-    "lon": 37.015833
+    "lon": 37.015833,
+    "routes": []
   },
   {
     "id": "429",
     "name": "2. DURAK",
     "lat": 39.7009423,
-    "lon": 37.0132096
+    "lon": 37.0132096,
+    "routes": []
   },
   {
     "id": "430",
     "name": "LOJMANLAR 2",
     "lat": 39.6994576,
-    "lon": 37.0087341
+    "lon": 37.0087341,
+    "routes": []
   },
   {
     "id": "431",
     "name": "SÖZEM",
     "lat": 39.7025104,
-    "lon": 37.0090682
+    "lon": 37.0090682,
+    "routes": []
   },
   {
     "id": "680",
     "name": "AK EVLER",
     "lat": 39.7065801,
-    "lon": 37.0097665
+    "lon": 37.0097665,
+    "routes": []
   },
   {
     "id": "364",
     "name": "İMARET",
     "lat": 39.7024155,
-    "lon": 37.0089166
+    "lon": 37.0089166,
+    "routes": []
   },
   {
     "id": "365",
     "name": "LOJMANLAR 2",
     "lat": 39.699338,
-    "lon": 37.0086
+    "lon": 37.0086,
+    "routes": []
   },
   {
     "id": "366",
     "name": "KOLEJ",
     "lat": 39.699444,
-    "lon": 37.010833
+    "lon": 37.010833,
+    "routes": []
   },
   {
     "id": "367",
     "name": "2. DURAK",
     "lat": 39.700833,
-    "lon": 37.013333
+    "lon": 37.013333,
+    "routes": []
   },
   {
     "id": "489",
     "name": "REKTÖRLÜK GİDİŞ",
     "lat": 39.705525,
-    "lon": 37.0235566
+    "lon": 37.0235566,
+    "routes": []
   },
   {
     "id": "490",
     "name": "FEN EDEBİYAT GİDİŞ",
     "lat": 39.7061316,
-    "lon": 37.025415
+    "lon": 37.025415,
+    "routes": []
   },
   {
     "id": "370",
     "name": "FEN EDEBİYAT FAK.",
     "lat": 39.706667,
-    "lon": 37.026944
+    "lon": 37.026944,
+    "routes": []
   },
   {
     "id": "491",
     "name": "MERKEZİ KAFETERYA GİDİŞ",
     "lat": 39.707115,
-    "lon": 37.02783
+    "lon": 37.02783,
+    "routes": []
   },
   {
     "id": "493",
     "name": "HASTANE ÖNÜ",
     "lat": 39.7089916,
-    "lon": 37.0286083
+    "lon": 37.0286083,
+    "routes": []
   },
   {
     "id": "191",
     "name": "ŞELALE EVLER",
     "lat": 39.7614925,
-    "lon": 37.0489696
+    "lon": 37.0489696,
+    "routes": []
   },
   {
     "id": "688",
     "name": "İSTANBUL PARK",
     "lat": 39.7629215,
-    "lon": 37.0511808
+    "lon": 37.0511808,
+    "routes": []
   },
   {
     "id": "728",
     "name": "YİĞİTLER VEFA KONUTLARI",
     "lat": 39.7763109,
-    "lon": 37.0590086
+    "lon": 37.0590086,
+    "routes": []
   },
   {
     "id": "407",
     "name": "YENİŞEHİR OUTLET MAĞZALARI - MİGROS GİDİŞ",
     "lat": 39.7406147,
-    "lon": 37.0150788
+    "lon": 37.0150788,
+    "routes": []
   },
   {
     "id": "678",
     "name": "4 İŞLETME İSTASYON",
     "lat": 39.7407987,
-    "lon": 37.0090301
+    "lon": 37.0090301,
+    "routes": []
   },
   {
     "id": "128",
     "name": "ALİBABA GÜLYURT YİĞİTLER DURAĞI",
     "lat": 39.7504717,
-    "lon": 37.0210956
+    "lon": 37.0210956,
+    "routes": []
   },
   {
     "id": "176",
     "name": "ZARİFOĞLU SİTESİ",
     "lat": 39.7502891,
-    "lon": 37.0243799
+    "lon": 37.0243799,
+    "routes": []
   },
   {
     "id": "177",
     "name": "OĞUZLAR PARKI",
     "lat": 39.752799,
-    "lon": 37.024878
+    "lon": 37.024878,
+    "routes": []
   },
   {
     "id": "178",
     "name": "YİĞİTLER",
     "lat": 39.7537517,
-    "lon": 37.0269177
+    "lon": 37.0269177,
+    "routes": []
   },
   {
     "id": "685",
     "name": "HACI MEHMET AĞA CAMİİ",
     "lat": 39.7554013,
-    "lon": 37.0286846
+    "lon": 37.0286846,
+    "routes": []
   },
   {
     "id": "225",
     "name": "ABDULVAHABI GAZİ",
     "lat": 39.757563,
-    "lon": 37.029502
+    "lon": 37.029502,
+    "routes": []
   },
   {
     "id": "686",
     "name": "AİLE VE SOS. HİZ.MÜD.",
     "lat": 39.7561432,
-    "lon": 37.0311445
+    "lon": 37.0311445,
+    "routes": []
   },
   {
     "id": "182",
     "name": "ÇOCUK HAKLARI DURAĞI",
     "lat": 39.7545822,
-    "lon": 37.0329955
+    "lon": 37.0329955,
+    "routes": []
   },
   {
     "id": "183",
     "name": "BELEDİYE BENZİNLİĞİ",
     "lat": 39.7549584,
-    "lon": 37.0370894
+    "lon": 37.0370894,
+    "routes": []
   },
   {
     "id": "181",
     "name": "ŞEHİTLER BÖLGE PARKI",
     "lat": 39.7567143,
-    "lon": 37.0396435
+    "lon": 37.0396435,
+    "routes": []
   },
   {
     "id": "187",
     "name": "YUKARI TEKKE ALT KISIM",
     "lat": 39.7604792,
-    "lon": 37.0411121
+    "lon": 37.0411121,
+    "routes": []
   },
   {
     "id": "188",
     "name": "GÜVEN EVLER",
     "lat": 39.7618265,
-    "lon": 37.0429673
+    "lon": 37.0429673,
+    "routes": []
   },
   {
     "id": "774",
     "name": "SİVAS TERAS",
     "lat": 39.7638424,
-    "lon": 37.0428805
+    "lon": 37.0428805,
+    "routes": []
   },
   {
     "id": "189",
     "name": "UYGAR EVLER",
     "lat": 39.7628804,
-    "lon": 37.0466051
+    "lon": 37.0466051,
+    "routes": []
   },
   {
     "id": "190",
     "name": "POSTACILAR SİTESİ İSTİKLAL İNŞAAT",
     "lat": 39.7612461,
-    "lon": 37.0473516
+    "lon": 37.0473516,
+    "routes": []
   },
   {
     "id": "690",
     "name": "YİĞİTLER",
     "lat": 39.7651515,
-    "lon": 37.054657
+    "lon": 37.054657,
+    "routes": []
   },
   {
     "id": "727",
     "name": "CEZAEVİ ÖNÜ",
     "lat": 39.7699924,
-    "lon": 37.0595316
+    "lon": 37.0595316,
+    "routes": []
   },
   {
     "id": "221",
     "name": "KILAVUZ TOKİ 2",
     "lat": 39.7798783,
-    "lon": 37.0650564
+    "lon": 37.0650564,
+    "routes": []
   },
   {
     "id": "220",
     "name": "DOĞUKENT TOKİ",
     "lat": 39.781242,
-    "lon": 37.066385
+    "lon": 37.066385,
+    "routes": []
   },
   {
     "id": "223",
     "name": "KILAVUZ TOKİ EVLERİ",
     "lat": 39.780234,
-    "lon": 37.0688024
+    "lon": 37.0688024,
+    "routes": []
   },
   {
     "id": "694",
     "name": "KILAVUZ ALPEREN SİTELERİ 2",
     "lat": 39.7791742,
-    "lon": 37.0714836
+    "lon": 37.0714836,
+    "routes": []
   },
   {
     "id": "693",
     "name": "KILAVUZ ALPEREN SİTELERİ",
     "lat": 39.7773581,
-    "lon": 37.0724893
+    "lon": 37.0724893,
+    "routes": []
   },
   {
     "id": "692",
     "name": "KILAVUZ TOKİ ÇIKIŞ",
     "lat": 39.7756801,
-    "lon": 37.0702256
+    "lon": 37.0702256,
+    "routes": []
   },
   {
     "id": "691",
     "name": "PLATİNUM EVLER",
     "lat": 39.7720375,
-    "lon": 37.0647485
+    "lon": 37.0647485,
+    "routes": []
   },
   {
     "id": "224",
     "name": "CEZAEVİ",
     "lat": 39.7697626,
-    "lon": 37.061279
+    "lon": 37.061279,
+    "routes": []
   },
   {
     "id": "689",
     "name": "HURDALIK",
     "lat": 39.7645069,
-    "lon": 37.0534789
+    "lon": 37.0534789,
+    "routes": []
   },
   {
     "id": "773",
     "name": "A.V.GAZİ KIZ KURAN KURSU - AY YILDIZ CAMİİ",
     "lat": 39.7649145,
-    "lon": 37.0448412
+    "lon": 37.0448412,
+    "routes": []
   },
   {
     "id": "186",
     "name": "BERAT CAMİ",
     "lat": 39.758291,
-    "lon": 37.041369
+    "lon": 37.041369,
+    "routes": []
   },
   {
     "id": "185",
     "name": "PEMBE KÖŞK",
     "lat": 39.75852,
-    "lon": 37.043904
+    "lon": 37.043904,
+    "routes": []
   },
   {
     "id": "687",
     "name": "TANIŞ EVLER",
     "lat": 39.7576542,
-    "lon": 37.0430226
+    "lon": 37.0430226,
+    "routes": []
   },
   {
     "id": "184",
     "name": "BEŞLER MANAVI",
     "lat": 39.7563537,
-    "lon": 37.0409608
+    "lon": 37.0409608,
+    "routes": []
   },
   {
     "id": "207",
     "name": "ŞEHİTLER PARKI",
     "lat": 39.7559722,
-    "lon": 37.0394797
+    "lon": 37.0394797,
+    "routes": []
   },
   {
     "id": "206",
     "name": "BELEDİYE BENZİNLİK",
     "lat": 39.7546691,
-    "lon": 37.0352134
+    "lon": 37.0352134,
+    "routes": []
   },
   {
     "id": "180",
     "name": "ABDULVAHABİ GAZİ",
     "lat": 39.7576888,
-    "lon": 37.0292551
+    "lon": 37.0292551,
+    "routes": []
   },
   {
     "id": "179",
     "name": "YEŞİL CAMİ",
     "lat": 39.751389,
-    "lon": 37.024167
+    "lon": 37.024167,
+    "routes": []
   },
   {
     "id": "781",
     "name": "İHRAMCI ZADE LİSESİ",
     "lat": 39.7666629,
-    "lon": 37.05373
+    "lon": 37.05373,
+    "routes": []
   },
   {
     "id": "203",
     "name": "GÜLYURT",
     "lat": 39.7556553,
-    "lon": 37.0540466
+    "lon": 37.0540466,
+    "routes": []
   },
   {
     "id": "217",
     "name": "BELPER 2",
     "lat": 39.757271,
-    "lon": 37.0566288
+    "lon": 37.0566288,
+    "routes": []
   },
   {
     "id": "211",
     "name": "BAş öĞRETMEN ATATuRK ORTA OKULU",
     "lat": 39.7492913,
-    "lon": 37.0255539
+    "lon": 37.0255539,
+    "routes": []
   },
   {
     "id": "209",
     "name": "BULUT CAMİ",
     "lat": 39.7511851,
-    "lon": 37.031013
+    "lon": 37.031013,
+    "routes": []
   },
   {
     "id": "214",
     "name": "B.HABEŞ CAMİ",
     "lat": 39.7553582,
-    "lon": 37.0435925
+    "lon": 37.0435925,
+    "routes": []
   },
   {
     "id": "215",
     "name": "KAVŞAK",
     "lat": 39.7550855,
-    "lon": 37.0463578
+    "lon": 37.0463578,
+    "routes": []
   },
   {
     "id": "216",
     "name": "Ş.ŞAMİL 2",
     "lat": 39.7544658,
-    "lon": 37.0503416
+    "lon": 37.0503416,
+    "routes": []
   },
   {
     "id": "669",
     "name": "GÜL-BEL SİTELERİ",
     "lat": 39.7543493,
-    "lon": 37.0521046
+    "lon": 37.0521046,
+    "routes": []
   },
   {
     "id": "729",
     "name": "ÖZEL EĞİTİM UYGULAMA OKULU",
     "lat": 39.7587722,
-    "lon": 37.0591588
+    "lon": 37.0591588,
+    "routes": []
   },
   {
     "id": "736",
     "name": "KARACA KENT SİTELER",
     "lat": 39.7619332,
-    "lon": 37.0589389
+    "lon": 37.0589389,
+    "routes": []
   },
   {
     "id": "737",
     "name": "SIRAEVLER",
     "lat": 39.7632139,
-    "lon": 37.0581961
+    "lon": 37.0581961,
+    "routes": []
   },
   {
     "id": "672",
     "name": "ASYAKENT",
     "lat": 39.7654444,
-    "lon": 37.0584677
+    "lon": 37.0584677,
+    "routes": []
   },
   {
     "id": "673",
     "name": "ASYAKENT 2",
     "lat": 39.7665914,
-    "lon": 37.0602241
+    "lon": 37.0602241,
+    "routes": []
   },
   {
     "id": "195",
     "name": "ÇAĞRI ÖĞRENCİ YURDU",
     "lat": 39.7675441,
-    "lon": 37.0619984
+    "lon": 37.0619984,
+    "routes": []
   },
   {
     "id": "196",
     "name": "BAYTEM SİTELERİ",
     "lat": 39.7658693,
-    "lon": 37.0621238
+    "lon": 37.0621238,
+    "routes": []
   },
   {
     "id": "197",
     "name": "DOĞUKENT",
     "lat": 39.7653884,
-    "lon": 37.0605125
+    "lon": 37.0605125,
+    "routes": []
   },
   {
     "id": "674",
     "name": "DOĞUKENT ÇIKIŞ",
     "lat": 39.7648932,
-    "lon": 37.0580733
+    "lon": 37.0580733,
+    "routes": []
   },
   {
     "id": "194",
     "name": "GECE KONDU",
     "lat": 39.763333,
-    "lon": 37.057779
+    "lon": 37.057779,
+    "routes": []
   },
   {
     "id": "199",
     "name": "UHUD CAMİ",
     "lat": 39.7613363,
-    "lon": 37.0554856
+    "lon": 37.0554856,
+    "routes": []
   },
   {
     "id": "192",
     "name": "ÖZEL İDARİ İ.Ö.O.",
     "lat": 39.7599835,
-    "lon": 37.053349
+    "lon": 37.053349,
+    "routes": []
   },
   {
     "id": "218",
     "name": "Ş.ŞAMİL MAHALLE MUHTARLIĞI",
     "lat": 39.7589889,
-    "lon": 37.0520186
+    "lon": 37.0520186,
+    "routes": []
   },
   {
     "id": "670",
     "name": "Ş.ŞAMİL SARAY EVLER",
     "lat": 39.7587112,
-    "lon": 37.0555187
+    "lon": 37.0555187,
+    "routes": []
   },
   {
     "id": "204",
     "name": "ŞEYH ŞAMİL 2",
     "lat": 39.7548343,
-    "lon": 37.0497118
+    "lon": 37.0497118,
+    "routes": []
   },
   {
     "id": "205",
     "name": "ŞEYH ŞAMİL 1",
     "lat": 39.755275,
-    "lon": 37.046661
+    "lon": 37.046661,
+    "routes": []
   },
   {
     "id": "213",
     "name": "KILAVUZ TOKİ",
     "lat": 39.7557412,
-    "lon": 37.0415587
+    "lon": 37.0415587,
+    "routes": []
   },
   {
     "id": "668",
     "name": "BULUT CAMİİ",
     "lat": 39.7515691,
-    "lon": 37.0309859
+    "lon": 37.0309859,
+    "routes": []
   },
   {
     "id": "208",
     "name": "AK SU LEYLAK KAPISI",
     "lat": 39.7503728,
-    "lon": 37.0297724
+    "lon": 37.0297724,
+    "routes": []
   },
   {
     "id": "210",
     "name": "GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ",
     "lat": 39.7499166,
-    "lon": 37.0267323
+    "lon": 37.0267323,
+    "routes": []
   },
   {
     "id": "198",
     "name": "Hz. Ömer Camii",
     "lat": 39.7629029,
-    "lon": 37.0578449
+    "lon": 37.0578449,
+    "routes": []
   },
   {
     "id": "671",
     "name": "Ş.ŞAMİL A-101",
     "lat": 39.7576444,
-    "lon": 37.0538719
+    "lon": 37.0538719,
+    "routes": []
   },
   {
     "id": "785",
     "name": "BAYTEM 4 MEVSİ KONUTLARI",
     "lat": 39.7657495,
-    "lon": 37.065867
+    "lon": 37.065867,
+    "routes": []
   },
   {
     "id": "380",
     "name": "SARAYBOSNA AMİRLİK ÖNÜ HAREKET",
     "lat": 39.751389,
-    "lon": 37.013889
+    "lon": 37.013889,
+    "routes": []
   },
   {
     "id": "534",
     "name": "GÜL İHLAS SİTELERİ",
     "lat": 39.7361944,
-    "lon": 37.0365693
+    "lon": 37.0365693,
+    "routes": []
   },
   {
     "id": "535",
     "name": "İPEK SİTELERİ",
     "lat": 39.7345702,
-    "lon": 37.0374312
+    "lon": 37.0374312,
+    "routes": []
   },
   {
     "id": "704",
     "name": "AKPOLAT STÜDYO EVLERİ",
     "lat": 39.7326942,
-    "lon": 37.0380176
+    "lon": 37.0380176,
+    "routes": []
   },
   {
     "id": "770",
     "name": "TURANOĞLU TWİNS",
     "lat": 39.724187,
-    "lon": 37.0448894
+    "lon": 37.0448894,
+    "routes": []
   },
   {
     "id": "480",
     "name": "TOKi BATI KOLEJi EğRiKöPRü KAMPüSü",
     "lat": 39.7245973,
-    "lon": 37.0529645
+    "lon": 37.0529645,
+    "routes": []
   },
   {
     "id": "765",
     "name": "C.Ü. TOKİ PANAROMA SİTELERİ ARKASI",
     "lat": 39.7261262,
-    "lon": 37.053443
+    "lon": 37.053443,
+    "routes": []
   },
   {
     "id": "764",
     "name": "C.Ü. TOKİ ÖĞRENCİ YURDU & PANSİYONU",
     "lat": 39.7272072,
-    "lon": 37.0518257
+    "lon": 37.0518257,
+    "routes": []
   },
   {
     "id": "763",
     "name": "C.Ü. TOKİ VİLLALAR BÖLGESİ",
     "lat": 39.7290287,
-    "lon": 37.0532338
+    "lon": 37.0532338,
+    "routes": []
   },
   {
     "id": "735",
     "name": "C.Ü. TOKİ ÇARŞI",
     "lat": 39.7280489,
-    "lon": 37.0545079
+    "lon": 37.0545079,
+    "routes": []
   },
   {
     "id": "762",
     "name": "LiVA CiTY",
     "lat": 39.7266357,
-    "lon": 37.0567368
+    "lon": 37.0567368,
+    "routes": []
   },
   {
     "id": "761",
     "name": "PRESTİJ TERRACE",
     "lat": 39.7277156,
-    "lon": 37.0599017
+    "lon": 37.0599017,
+    "routes": []
   },
   {
     "id": "445",
     "name": "C.Ü. TOKİ FEN LİSESİ",
     "lat": 39.7258755,
-    "lon": 37.0563467
+    "lon": 37.0563467,
+    "routes": []
   },
   {
     "id": "481",
     "name": "M.T.A.",
     "lat": 39.7190166,
-    "lon": 37.0464466
+    "lon": 37.0464466,
+    "routes": []
   },
   {
     "id": "732",
     "name": "FADLUM KÖPRÜSÜ AYDINKENT VİLLALARI DÖNEL KAVŞAK",
     "lat": 39.7175193,
-    "lon": 37.043767
+    "lon": 37.043767,
+    "routes": []
   },
   {
     "id": "388",
     "name": "İŞHAN",
     "lat": 39.7220398,
-    "lon": 37.0503354
+    "lon": 37.0503354,
+    "routes": []
   },
   {
     "id": "506",
     "name": "TOKİ çIKIş  BATI KOLEJi EğRiKöPRü KAMPüSü",
     "lat": 39.724856,
-    "lon": 37.0530239
+    "lon": 37.0530239,
+    "routes": []
   },
   {
     "id": "809",
     "name": "TURANOğLU COUNTRY",
     "lat": 39.7237023,
-    "lon": 37.0475516
+    "lon": 37.0475516,
+    "routes": []
   },
   {
     "id": "804",
     "name": "TURANOğLU ANTiQUE",
     "lat": 39.7313533,
-    "lon": 37.0412604
+    "lon": 37.0412604,
+    "routes": []
   },
   {
     "id": "805",
     "name": "RIVER CiTY",
     "lat": 39.7347661,
-    "lon": 37.0428951
+    "lon": 37.0428951,
+    "routes": []
   },
   {
     "id": "806",
     "name": "SAKARYA KOR PARK",
     "lat": 39.7379807,
-    "lon": 37.0444549
+    "lon": 37.0444549,
+    "routes": []
   },
   {
     "id": "807",
     "name": "NUMUNE HASTANESİ ARKA KISIM",
     "lat": 39.7406806,
-    "lon": 37.0444575
+    "lon": 37.0444575,
+    "routes": []
   },
   {
     "id": "808",
     "name": "HASTANE MANAV",
     "lat": 39.7426069,
-    "lon": 37.0429154
+    "lon": 37.0429154,
+    "routes": []
   },
   {
     "id": "537",
     "name": "HASTANE DÖNÜŞ",
     "lat": 39.7422254,
-    "lon": 37.0389246
+    "lon": 37.0389246,
+    "routes": []
   },
   {
     "id": "708",
     "name": "GAZİLER DURAğI HACI MEHMET ARSLAN CAMİ",
     "lat": 39.7429069,
-    "lon": 37.0348245
+    "lon": 37.0348245,
+    "routes": []
   },
   {
     "id": "270",
     "name": "JANDARMA",
     "lat": 39.7422674,
-    "lon": 37.0331596
+    "lon": 37.0331596,
+    "routes": []
   },
   {
     "id": "260",
     "name": "ATA SANAYİİ",
     "lat": 39.7502179,
-    "lon": 37.0442168
+    "lon": 37.0442168,
+    "routes": []
   },
   {
     "id": "261",
     "name": "YILDIZ BLOKLARI",
     "lat": 39.7497882,
-    "lon": 37.0402632
+    "lon": 37.0402632,
+    "routes": []
   },
   {
     "id": "268",
     "name": "ÇINAR MARKET-TRAFO",
     "lat": 39.7460753,
-    "lon": 37.0342412
+    "lon": 37.0342412,
+    "routes": []
   },
   {
     "id": "267",
     "name": "İNÖNÜ İLK OKULU",
     "lat": 39.7479755,
-    "lon": 37.0343953
+    "lon": 37.0343953,
+    "routes": []
   },
   {
     "id": "266",
     "name": "M.AKİF ERSOY PARKI",
     "lat": 39.7497268,
-    "lon": 37.03464
+    "lon": 37.03464,
+    "routes": []
   },
   {
     "id": "265",
     "name": "ÖZEL İDARE 2",
     "lat": 39.7516158,
-    "lon": 37.0347212
+    "lon": 37.0347212,
+    "routes": []
   },
   {
     "id": "264",
     "name": "ÖZEL İDARE 1",
     "lat": 39.7525249,
-    "lon": 37.0362141
+    "lon": 37.0362141,
+    "routes": []
   },
   {
     "id": "262",
     "name": "İMAM EVLER",
     "lat": 39.7512971,
-    "lon": 37.0379845
+    "lon": 37.0379845,
+    "routes": []
   },
   {
     "id": "707",
     "name": "YÜKSELİŞ",
     "lat": 39.748718,
-    "lon": 37.0415883
+    "lon": 37.0415883,
+    "routes": []
   },
   {
     "id": "259",
     "name": "MERİÇ SİTESİ",
     "lat": 39.7472426,
-    "lon": 37.0404703
+    "lon": 37.0404703,
+    "routes": []
   },
   {
     "id": "258",
     "name": "KANATÇI - TRAFO",
     "lat": 39.7458698,
-    "lon": 37.0378741
+    "lon": 37.0378741,
+    "routes": []
   },
   {
     "id": "257",
     "name": "ERDEM MARKET",
     "lat": 39.7457365,
-    "lon": 37.0348792
+    "lon": 37.0348792,
+    "routes": []
   },
   {
     "id": "269",
     "name": "15 TEMMUZ ŞEHİTLER PİDE",
     "lat": 39.7431259,
-    "lon": 37.0351853
+    "lon": 37.0351853,
+    "routes": []
   },
   {
     "id": "271",
     "name": "HALİFELİK",
     "lat": 39.7422523,
-    "lon": 37.0300346
+    "lon": 37.0300346,
+    "routes": []
   },
   {
     "id": "530",
     "name": "YEŞİLYURT ÇEŞME",
     "lat": 39.7464867,
-    "lon": 37.0447183
+    "lon": 37.0447183,
+    "routes": []
   },
   {
     "id": "275",
     "name": "KAZANCILAR CADDESİ ÜZERİ",
     "lat": 39.756632,
-    "lon": 37.022981
+    "lon": 37.022981,
+    "routes": []
   },
   {
     "id": "276",
     "name": "ALİBABA CAMİ KARAKOL",
     "lat": 39.7581519,
-    "lon": 37.0242574
+    "lon": 37.0242574,
+    "routes": []
   },
   {
     "id": "277",
     "name": "ALİBABA",
     "lat": 39.759571,
-    "lon": 37.025168
+    "lon": 37.025168,
+    "routes": []
   },
   {
     "id": "448",
     "name": "İSTİKLAL",
     "lat": 39.7617598,
-    "lon": 37.0265103
+    "lon": 37.0265103,
+    "routes": []
   },
   {
     "id": "279",
     "name": "CEM EVİ",
     "lat": 39.76402,
-    "lon": 37.027935
+    "lon": 37.027935,
+    "routes": []
   },
   {
     "id": "280",
     "name": "KIZILIRMAK EVLER",
     "lat": 39.7655036,
-    "lon": 37.0289274
+    "lon": 37.0289274,
+    "routes": []
   },
   {
     "id": "281",
     "name": "GERÇEK EVLER",
     "lat": 39.767546,
-    "lon": 37.030261
+    "lon": 37.030261,
+    "routes": []
   },
   {
     "id": "282",
     "name": "CİHAN EVLER",
     "lat": 39.769777,
-    "lon": 37.031744
+    "lon": 37.031744,
+    "routes": []
   },
   {
     "id": "283",
     "name": "BENZiNLiK - TED KOLEJi",
     "lat": 39.7718227,
-    "lon": 37.0330584
+    "lon": 37.0330584,
+    "routes": []
   },
   {
     "id": "619",
     "name": "AY YILDIZ SİTESİ",
     "lat": 39.7743647,
-    "lon": 37.0332131
+    "lon": 37.0332131,
+    "routes": []
   },
   {
     "id": "285",
     "name": "ALİBABA GECEKONDU 4",
     "lat": 39.7755722,
-    "lon": 37.0307067
+    "lon": 37.0307067,
+    "routes": []
   },
   {
     "id": "286",
     "name": "ALİBABA GECEKONDU 3",
     "lat": 39.77697,
-    "lon": 37.0291477
+    "lon": 37.0291477,
+    "routes": []
   },
   {
     "id": "287",
     "name": "FATiH SULTAN MEHHMET ORTA OKULU",
     "lat": 39.7786515,
-    "lon": 37.0272206
+    "lon": 37.0272206,
+    "routes": []
   },
   {
     "id": "618",
     "name": "GECEKONDU ÖNLEME 2 OKUL DURAĞI",
     "lat": 39.777589,
-    "lon": 37.0257653
+    "lon": 37.0257653,
+    "routes": []
   },
   {
     "id": "288",
     "name": "ALİBABA GECEKONDU 5",
     "lat": 39.774676,
-    "lon": 37.025916
+    "lon": 37.025916,
+    "routes": []
   },
   {
     "id": "661",
     "name": "TARLA GECE KONDU",
     "lat": 39.7714596,
-    "lon": 37.025255
+    "lon": 37.025255,
+    "routes": []
   },
   {
     "id": "615",
     "name": "SEYRANŞEHİR KONUTLARI 2",
     "lat": 39.7713531,
-    "lon": 37.0235203
+    "lon": 37.0235203,
+    "routes": []
   },
   {
     "id": "614",
     "name": "SEYRANŞEHİR KONUTLARI 1",
     "lat": 39.7700007,
-    "lon": 37.0233004
+    "lon": 37.0233004,
+    "routes": []
   },
   {
     "id": "613",
     "name": "SULTAN CİTY-HALI SAHA",
     "lat": 39.7675542,
-    "lon": 37.0218959
+    "lon": 37.0218959,
+    "routes": []
   },
   {
     "id": "291",
     "name": "SEYRANTEPE BAKKAL",
     "lat": 39.767524,
-    "lon": 37.019851
+    "lon": 37.019851,
+    "routes": []
   },
   {
     "id": "292",
     "name": "SEYRANTEPE 1",
     "lat": 39.7664065,
-    "lon": 37.0172333
+    "lon": 37.0172333,
+    "routes": []
   },
   {
     "id": "293",
     "name": "FİDANLIK EVLER",
     "lat": 39.7638405,
-    "lon": 37.0185626
+    "lon": 37.0185626,
+    "routes": []
   },
   {
     "id": "295",
     "name": "FİDANLIK",
     "lat": 39.7617,
-    "lon": 37.019777
+    "lon": 37.019777,
+    "routes": []
   },
   {
     "id": "602",
     "name": "ATATÜRK İLKÖĞRETİM İLKOKULU ALTI",
     "lat": 39.7607662,
-    "lon": 37.0110775
+    "lon": 37.0110775,
+    "routes": []
   },
   {
     "id": "603",
     "name": "MANAVOĞLU CAMİİ",
     "lat": 39.7620672,
-    "lon": 37.0101844
+    "lon": 37.0101844,
+    "routes": []
   },
   {
     "id": "604",
     "name": "ŞEHİT MUHAMMET DEMİR- MEVLANA ZÜBEYR KEMELEK ORTA OKULU",
     "lat": 39.7635908,
-    "lon": 37.0107328
+    "lon": 37.0107328,
+    "routes": []
   },
   {
     "id": "663",
     "name": "HUZUR EVİ  EĞİTİM VE KÜLTÜR MERKEZİ",
     "lat": 39.7620871,
-    "lon": 37.0123644
+    "lon": 37.0123644,
+    "routes": []
   },
   {
     "id": "301",
     "name": "SEMAZEN",
     "lat": 39.760038,
-    "lon": 37.012556
+    "lon": 37.012556,
+    "routes": []
   },
   {
     "id": "302",
     "name": "ÇAYYURT MUHTARLIK",
     "lat": 39.758506,
-    "lon": 37.01282
+    "lon": 37.01282,
+    "routes": []
   },
   {
     "id": "303",
     "name": "MEVLANA CAMİİ",
     "lat": 39.757159,
-    "lon": 37.013017
+    "lon": 37.013017,
+    "routes": []
   },
   {
     "id": "304",
     "name": "MEVLANA TAKSİ",
     "lat": 39.753849,
-    "lon": 37.0139274
+    "lon": 37.0139274,
+    "routes": []
   },
   {
     "id": "660",
     "name": "TARLA 1",
     "lat": 39.7749231,
-    "lon": 37.0260342
+    "lon": 37.0260342,
+    "routes": []
   },
   {
     "id": "662",
     "name": "SALİH AĞŞIK ERKEK ÖĞRENCİ YURDU",
     "lat": 39.761172,
-    "lon": 37.0134817
+    "lon": 37.0134817,
+    "routes": []
   },
   {
     "id": "290",
     "name": "SEYRANTEPE HALI SAHA",
     "lat": 39.7676975,
-    "lon": 37.0221754
+    "lon": 37.0221754,
+    "routes": []
   },
   {
     "id": "399",
     "name": "MEVLANA",
     "lat": 39.7627216,
-    "lon": 37.0227516
+    "lon": 37.0227516,
+    "routes": []
   },
   {
     "id": "609",
     "name": "PARK SİTELERİ GİDİŞ",
     "lat": 39.7641917,
-    "lon": 37.0227153
+    "lon": 37.0227153,
+    "routes": []
   },
   {
     "id": "597",
     "name": "MEVLANA TAKSİ KARŞISI",
     "lat": 39.7536796,
-    "lon": 37.0140629
+    "lon": 37.0140629,
+    "routes": []
   },
   {
     "id": "598",
     "name": "BİRLEŞİK KİTAP KARŞISI",
     "lat": 39.7554263,
-    "lon": 37.0136132
+    "lon": 37.0136132,
+    "routes": []
   },
   {
     "id": "599",
     "name": "MEVLANA CAMİİ KARŞISI",
     "lat": 39.7571252,
-    "lon": 37.0132592
+    "lon": 37.0132592,
+    "routes": []
   },
   {
     "id": "600",
     "name": "ÇAYYURT MUHTARLIĞI",
     "lat": 39.7585642,
-    "lon": 37.0130337
+    "lon": 37.0130337,
+    "routes": []
   },
   {
     "id": "601",
     "name": "MEVLANA SEMAZEN",
     "lat": 39.7600405,
-    "lon": 37.0126794
+    "lon": 37.0126794,
+    "routes": []
   },
   {
     "id": "299",
     "name": "MEVLANA VALİ ZÜBEYR KEMELEK ORTA OKULU",
     "lat": 39.7638066,
-    "lon": 37.0107679
+    "lon": 37.0107679,
+    "routes": []
   },
   {
     "id": "298",
     "name": "KUMLU TARLA",
     "lat": 39.764001,
-    "lon": 37.011924
+    "lon": 37.011924,
+    "routes": []
   },
   {
     "id": "606",
     "name": "KUMLU TARLA ALO NET GİDİŞ",
     "lat": 39.7627616,
-    "lon": 37.0137819
+    "lon": 37.0137819,
+    "routes": []
   },
   {
     "id": "607",
     "name": "SİVAS VALİLİĞİ - ETON ÇAĞRI MERKEZİ",
     "lat": 39.761291,
-    "lon": 37.0153156
+    "lon": 37.0153156,
+    "routes": []
   },
   {
     "id": "608",
     "name": "FİDANLIK METROPOL GİDİŞ",
     "lat": 39.7616445,
-    "lon": 37.0200897
+    "lon": 37.0200897,
+    "routes": []
   },
   {
     "id": "610",
     "name": "İZZETTİN KEYKAVUS ANADOLU LİSESİ",
     "lat": 39.7654755,
-    "lon": 37.0212717
+    "lon": 37.0212717,
+    "routes": []
   },
   {
     "id": "611",
     "name": "SEYRANTEPE İ.M.K.B ORTA OKULU",
     "lat": 39.766426,
-    "lon": 37.0198809
+    "lon": 37.0198809,
+    "routes": []
   },
   {
     "id": "612",
     "name": "UĞUR GIDA GİDİŞ",
     "lat": 39.7674422,
-    "lon": 37.0195936
+    "lon": 37.0195936,
+    "routes": []
   },
   {
     "id": "616",
     "name": "YEĞİNLER CAMİİ",
     "lat": 39.7733475,
-    "lon": 37.0238956
+    "lon": 37.0238956,
+    "routes": []
   },
   {
     "id": "617",
     "name": "GECEKONDU ÖNLEME 1",
     "lat": 39.7776941,
-    "lon": 37.0247809
+    "lon": 37.0247809,
+    "routes": []
   },
   {
     "id": "453",
     "name": "iNCi PALAS DÜÜN SALONU",
     "lat": 39.7718125,
-    "lon": 37.0329136
+    "lon": 37.0329136,
+    "routes": []
   },
   {
     "id": "452",
     "name": "CİHAN EVLER",
     "lat": 39.769746,
-    "lon": 37.0315803
+    "lon": 37.0315803,
+    "routes": []
   },
   {
     "id": "400",
     "name": "ORHANGAZİ MUHTARLIGI",
     "lat": 39.767885,
-    "lon": 37.0303533
+    "lon": 37.0303533,
+    "routes": []
   },
   {
     "id": "451",
     "name": "GERÇEK EVLER",
     "lat": 39.7675006,
-    "lon": 37.0301
+    "lon": 37.0301,
+    "routes": []
   },
   {
     "id": "450",
     "name": "KIZILIRMAK EVLER",
     "lat": 39.7655743,
-    "lon": 37.0289006
+    "lon": 37.0289006,
+    "routes": []
   },
   {
     "id": "449",
     "name": "CEM EVİ",
     "lat": 39.7640756,
-    "lon": 37.0278947
+    "lon": 37.0278947,
+    "routes": []
   },
   {
     "id": "274",
     "name": "DETAY EVLER",
     "lat": 39.755818,
-    "lon": 37.021939
+    "lon": 37.021939,
+    "routes": []
   },
   {
     "id": "447",
     "name": "ÇATAL PINAR",
     "lat": 39.7545162,
-    "lon": 37.0203679
+    "lon": 37.0203679,
+    "routes": []
   },
   {
     "id": "622",
     "name": "KEPENEK PİE MEV. DÖNÜŞ",
     "lat": 39.7535047,
-    "lon": 37.0185429
+    "lon": 37.0185429,
+    "routes": []
   },
   {
     "id": "621",
     "name": "GERÇEK EVLER ORGAN GAZİ MAHALLESİ MUHTARLIĞI",
     "lat": 39.7679555,
-    "lon": 37.0303546
+    "lon": 37.0303546,
+    "routes": []
   },
   {
     "id": "305",
     "name": "ZEKİ HAYRAN İMAM HATİP ORTAOKULU",
     "lat": 39.77813,
-    "lon": 37.03644
+    "lon": 37.03644,
+    "routes": []
   },
   {
     "id": "454",
     "name": "ÇAYBOYU ÇİFTLİK EV",
     "lat": 39.786468,
-    "lon": 37.042566
+    "lon": 37.042566,
+    "routes": []
   },
   {
     "id": "307",
     "name": "ÇAYBOYU MEZARLIK",
     "lat": 39.790035,
-    "lon": 37.046803
+    "lon": 37.046803,
+    "routes": []
   },
   {
     "id": "308",
     "name": "ÇAYBOYU 1",
     "lat": 39.793054,
-    "lon": 37.050858
+    "lon": 37.050858,
+    "routes": []
   },
   {
     "id": "309",
     "name": "ÇAYBOYU 2",
     "lat": 39.79351,
-    "lon": 37.053506
+    "lon": 37.053506,
+    "routes": []
   },
   {
     "id": "310",
     "name": "ÇAYBOYU ALİBABA",
     "lat": 39.794557,
-    "lon": 37.054702
+    "lon": 37.054702,
+    "routes": []
   },
   {
     "id": "459",
     "name": "ÇAYBOYU 2",
     "lat": 39.7938727,
-    "lon": 37.0531412
+    "lon": 37.0531412,
+    "routes": []
   },
   {
     "id": "457",
     "name": "ÇAYBOYU 1",
     "lat": 39.7930168,
-    "lon": 37.0505897
+    "lon": 37.0505897,
+    "routes": []
   },
   {
     "id": "456",
     "name": "ÇAYBOYU MEZARLIK",
     "lat": 39.7901009,
-    "lon": 37.0468136
+    "lon": 37.0468136,
+    "routes": []
   },
   {
     "id": "455",
     "name": "SULTAN MURAT",
     "lat": 39.7781547,
-    "lon": 37.0364131
+    "lon": 37.0364131,
+    "routes": []
   },
   {
     "id": "458",
     "name": "ÇAYBOYU 3",
     "lat": 39.7947878,
-    "lon": 37.0545196
+    "lon": 37.0545196,
+    "routes": []
   },
   {
     "id": "341",
     "name": "TOPTANCILAR KAVŞAK",
     "lat": 39.7328798,
-    "lon": 36.999364
+    "lon": 36.999364,
+    "routes": []
   },
   {
     "id": "312",
     "name": "GÜLTEPE APART",
     "lat": 39.7315354,
-    "lon": 37.0015765
+    "lon": 37.0015765,
+    "routes": []
   },
   {
     "id": "313",
     "name": "GÜLTEPE",
     "lat": 39.7300918,
-    "lon": 37.0037316
+    "lon": 37.0037316,
+    "routes": []
   },
   {
     "id": "706",
     "name": "GÜLTEPE ADLİYE",
     "lat": 39.7278736,
-    "lon": 36.9943283
+    "lon": 36.9943283,
+    "routes": []
   },
   {
     "id": "705",
     "name": "GÜLTEPE 1",
     "lat": 39.7307883,
-    "lon": 36.9944101
+    "lon": 36.9944101,
+    "routes": []
   },
   {
     "id": "317",
     "name": "MUHTARLIK",
     "lat": 39.7302098,
-    "lon": 36.99646
+    "lon": 36.99646,
+    "routes": []
   },
   {
     "id": "318",
     "name": "SELEN CAMİ",
     "lat": 39.7298158,
-    "lon": 36.9987386
+    "lon": 36.9987386,
+    "routes": []
   },
   {
     "id": "319",
     "name": "SELEN CAMİ 1",
     "lat": 39.7312336,
-    "lon": 36.9988385
+    "lon": 36.9988385,
+    "routes": []
   },
   {
     "id": "320",
     "name": "GÜLTEPE CAMİ",
     "lat": 39.7326353,
-    "lon": 36.9978393
+    "lon": 36.9978393,
+    "routes": []
   },
   {
     "id": "331",
     "name": "YENİŞEHİR 3",
     "lat": 39.7358096,
-    "lon": 37.0187646
+    "lon": 37.0187646,
+    "routes": []
   },
   {
     "id": "336",
     "name": "YILMAZLAR",
     "lat": 39.731878,
-    "lon": 37.0157183
+    "lon": 37.0157183,
+    "routes": []
   },
   {
     "id": "337",
     "name": "TOPTANCILAR 1",
     "lat": 39.7320548,
-    "lon": 37.0092546
+    "lon": 37.0092546,
+    "routes": []
   },
   {
     "id": "338",
     "name": "TOPTANCILAR 2",
     "lat": 39.7317141,
-    "lon": 37.0074091
+    "lon": 37.0074091,
+    "routes": []
   },
   {
     "id": "339",
     "name": "BUGDAY PAZARI",
     "lat": 39.7323846,
-    "lon": 37.0046113
+    "lon": 37.0046113,
+    "routes": []
   },
   {
     "id": "340",
     "name": "ÇÜRÜKÇÜLER",
     "lat": 39.7325048,
-    "lon": 37.0028738
+    "lon": 37.0028738,
+    "routes": []
   },
   {
     "id": "349",
     "name": "GALERİCİLER",
     "lat": 39.7203311,
-    "lon": 36.9865001
+    "lon": 36.9865001,
+    "routes": []
   },
   {
     "id": "343",
     "name": "4- EYLÜL SANAYİ - GALERİCİLER HATTI GİDİŞ",
     "lat": 39.7301737,
-    "lon": 37.0035529
+    "lon": 37.0035529,
+    "routes": []
   },
   {
     "id": "344",
     "name": "4 EYLÜL SAN. SİT. 1",
     "lat": 39.7264708,
-    "lon": 37.0044585
+    "lon": 37.0044585,
+    "routes": []
   },
   {
     "id": "345",
     "name": "4 EYLÜL SAN. SİT. 2",
     "lat": 39.7259415,
-    "lon": 37.0015553
+    "lon": 37.0015553,
+    "routes": []
   },
   {
     "id": "346",
     "name": "4 EYLÜL SAN. SİT. 3",
     "lat": 39.7251566,
-    "lon": 36.9978276
+    "lon": 36.9978276,
+    "routes": []
   },
   {
     "id": "347",
     "name": "4 EYLÜL SAN. SİT. 4",
     "lat": 39.7243886,
-    "lon": 36.994977
+    "lon": 36.994977,
+    "routes": []
   },
   {
     "id": "348",
     "name": "4 EYLÜL SAN. SİT. 5",
     "lat": 39.7237283,
-    "lon": 36.9926481
+    "lon": 36.9926481,
+    "routes": []
   },
   {
     "id": "701",
     "name": "TEKNİK EVLER",
     "lat": 39.7430648,
-    "lon": 37.0436986
+    "lon": 37.0436986,
+    "routes": []
   },
   {
     "id": "241",
     "name": "turanoğlu home vita",
     "lat": 39.7454321,
-    "lon": 37.0451118
+    "lon": 37.0451118,
+    "routes": []
   },
   {
     "id": "742",
     "name": "ÇEVRE YOLU İSTİKBAL",
     "lat": 39.7513456,
-    "lon": 37.049704
+    "lon": 37.049704,
+    "routes": []
   },
   {
     "id": "743",
     "name": "SINAV KOLEJİ-OPEL-BAYATOĞLU",
     "lat": 39.7525946,
-    "lon": 37.052977
+    "lon": 37.052977,
+    "routes": []
   },
   {
     "id": "744",
     "name": "TÜRKİYE PETROLLERİ",
     "lat": 39.753705,
-    "lon": 37.0558551
+    "lon": 37.0558551,
+    "routes": []
   },
   {
     "id": "745",
     "name": "DOĞA KOLEJİ",
     "lat": 39.7546474,
-    "lon": 37.0583577
+    "lon": 37.0583577,
+    "routes": []
   },
   {
     "id": "746",
     "name": "TRAKTÖRCÜLER-BİRLEŞİM SUCUKLARI",
     "lat": 39.7571613,
-    "lon": 37.0649112
+    "lon": 37.0649112,
+    "routes": []
   },
   {
     "id": "397",
     "name": "ORGANİZE",
     "lat": 39.7648041,
-    "lon": 37.0777728
+    "lon": 37.0777728,
+    "routes": []
   },
   {
     "id": "461",
     "name": "OFİSLİNE",
     "lat": 39.7659722,
-    "lon": 37.0766092
+    "lon": 37.0766092,
+    "routes": []
   },
   {
     "id": "462",
     "name": "TRAMERTAŞ",
     "lat": 39.7741225,
-    "lon": 37.0854056
+    "lon": 37.0854056,
+    "routes": []
   },
   {
     "id": "464",
     "name": "ESTAŞ-COCA COLA",
     "lat": 39.7804293,
-    "lon": 37.0882426
+    "lon": 37.0882426,
+    "routes": []
   },
   {
     "id": "760",
     "name": "NETBOR",
     "lat": 39.7873963,
-    "lon": 37.0868285
+    "lon": 37.0868285,
+    "routes": []
   },
   {
     "id": "759",
     "name": "LEFAX 1",
     "lat": 39.7906032,
-    "lon": 37.0846452
+    "lon": 37.0846452,
+    "routes": []
   },
   {
     "id": "758",
     "name": "LEFAX",
     "lat": 39.7919223,
-    "lon": 37.083803
+    "lon": 37.083803,
+    "routes": []
   },
   {
     "id": "757",
     "name": "TRAFO ORGANİZE",
     "lat": 39.7943582,
-    "lon": 37.0880408
+    "lon": 37.0880408,
+    "routes": []
   },
   {
     "id": "756",
     "name": "İTFAİYE ORGANİZE",
     "lat": 39.7958915,
-    "lon": 37.0919569
+    "lon": 37.0919569,
+    "routes": []
   },
   {
     "id": "755",
     "name": "YİĞİTTÜRK MOBİLYA",
     "lat": 39.7985458,
-    "lon": 37.0986087
+    "lon": 37.0986087,
+    "routes": []
   },
   {
     "id": "754",
     "name": "VAVİEN ELEKTRİK",
     "lat": 39.797161,
-    "lon": 37.1030451
+    "lon": 37.1030451,
+    "routes": []
   },
   {
     "id": "753",
     "name": "OFİSLİNE FABRİKA",
     "lat": 39.7943747,
-    "lon": 37.1017201
+    "lon": 37.1017201,
+    "routes": []
   },
   {
     "id": "752",
     "name": "CEYLANOĞLU İÇ GİYİM",
     "lat": 39.7928249,
-    "lon": 37.0977558
+    "lon": 37.0977558,
+    "routes": []
   },
   {
     "id": "751",
     "name": "AYTEMİZ BENZİNLİK ORGANİZE",
     "lat": 39.7905321,
-    "lon": 37.0956087
+    "lon": 37.0956087,
+    "routes": []
   },
   {
     "id": "750",
     "name": "DERMOKİL-TİFFANY MOBİLYA",
     "lat": 39.7892966,
-    "lon": 37.0925148
+    "lon": 37.0925148,
+    "routes": []
   },
   {
     "id": "749",
     "name": "MÜKAŞ ORGANİZE",
     "lat": 39.7873509,
-    "lon": 37.0876868
+    "lon": 37.0876868,
+    "routes": []
   },
   {
     "id": "463",
     "name": "ZARA BAL-BEŞLER MARKET",
     "lat": 39.7759759,
-    "lon": 37.0862652
+    "lon": 37.0862652,
+    "routes": []
   },
   {
     "id": "396",
     "name": "UZUNTEPE",
     "lat": 39.7549198,
-    "lon": 37.0873288
+    "lon": 37.0873288,
+    "routes": []
   },
   {
     "id": "413",
     "name": "NURi DEMiRAğ O.S.B.",
     "lat": 39.6097109,
-    "lon": 37.093459
+    "lon": 37.093459,
+    "routes": []
   },
   {
     "id": "725",
     "name": "YENİ KYK",
     "lat": 39.7086222,
-    "lon": 37.0433926
+    "lon": 37.0433926,
+    "routes": []
   },
   {
     "id": "390",
     "name": "ACİL",
     "lat": 39.7104572,
-    "lon": 37.0329309
+    "lon": 37.0329309,
+    "routes": []
   },
   {
     "id": "484",
     "name": "İ.İ.B.F",
     "lat": 39.7080543,
-    "lon": 37.0327226
+    "lon": 37.0327226,
+    "routes": []
   },
   {
     "id": "391",
     "name": "MİMARLIK",
     "lat": 39.7058557,
-    "lon": 37.0312853
+    "lon": 37.0312853,
+    "routes": []
   },
   {
     "id": "440",
     "name": "MÜHENDİSLİK",
     "lat": 39.7055467,
-    "lon": 37.030057
+    "lon": 37.030057,
+    "routes": []
   },
   {
     "id": "439",
     "name": "EDEBİYAT B BİNASI",
     "lat": 39.7044336,
-    "lon": 37.0258743
+    "lon": 37.0258743,
+    "routes": []
   },
   {
     "id": "488",
     "name": "MATBAA - BESYO",
     "lat": 39.7044878,
-    "lon": 37.0223347
+    "lon": 37.0223347,
+    "routes": []
   },
   {
     "id": "682",
     "name": "YEMEKHANE",
     "lat": 39.7018745,
-    "lon": 37.0194648
+    "lon": 37.0194648,
+    "routes": []
   },
   {
     "id": "681",
     "name": "EĞİTİM FAKÜLTESİ",
     "lat": 39.7012183,
-    "lon": 37.0173861
+    "lon": 37.0173861,
+    "routes": []
   },
   {
     "id": "394",
     "name": "İLETİŞİM FAKÜLTESİ",
     "lat": 39.7016674,
-    "lon": 37.0194585
+    "lon": 37.0194585,
+    "routes": []
   },
   {
     "id": "498",
     "name": "MATBAA - BESYO DÖNÜŞ",
     "lat": 39.7042652,
-    "lon": 37.0225884
+    "lon": 37.0225884,
+    "routes": []
   },
   {
     "id": "438",
     "name": "SPOR BİLİMLERİ FAKÜLTESİ",
     "lat": 39.7043716,
-    "lon": 37.0236414
+    "lon": 37.0236414,
+    "routes": []
   },
   {
     "id": "497",
     "name": "TÜRK MÜZİĞİ DEVLET KONSERVATUARI",
     "lat": 39.7044534,
-    "lon": 37.0265644
+    "lon": 37.0265644,
+    "routes": []
   },
   {
     "id": "500",
     "name": "İLAHİYAT - VETERİNERLİK",
     "lat": 39.705409,
-    "lon": 37.0301863
+    "lon": 37.0301863,
+    "routes": []
   },
   {
     "id": "392",
     "name": "TEKNİK BİLİMLER MESLEK YÜKSEK OKULU",
     "lat": 39.7058242,
-    "lon": 37.0317951
+    "lon": 37.0317951,
+    "routes": []
   },
   {
     "id": "501",
     "name": "HUKUK FAKÜLTESİ - ECZACILIK",
     "lat": 39.7078,
-    "lon": 37.0329224
+    "lon": 37.0329224,
+    "routes": []
   },
   {
     "id": "442",
     "name": "DİŞ HEKİMLİĞİ",
     "lat": 39.7097446,
-    "lon": 37.0330435
+    "lon": 37.0330435,
+    "routes": []
   },
   {
     "id": "375",
     "name": "YENİ HASTANE SÜRÜCÜ KURSLARI EĞİTİM ALANI",
     "lat": 39.7100362,
-    "lon": 37.0410146
+    "lon": 37.0410146,
+    "routes": []
   },
   {
     "id": "723",
     "name": "SOĞUK ÇERMİK",
     "lat": 39.8574124,
-    "lon": 37.1266807
+    "lon": 37.1266807,
+    "routes": []
   },
   {
     "id": "722",
     "name": "SICAK ÇERMİK",
     "lat": 39.7610177,
-    "lon": 36.7412098
+    "lon": 36.7412098,
+    "routes": []
   },
   {
     "id": "724",
     "name": "PAŞABHÇE",
     "lat": 39.791407,
-    "lon": 37.0003863
+    "lon": 37.0003863,
+    "routes": []
   }
 ]

@@ -2,6 +2,7 @@
   {
     "city": "Adana",
     "slug": "adana",
+    "region_id": "003",
     "filename": "adana.zip",
     "size_mb": 6.04,
     "last_updated": "2026-03-09 18:11:55",
@@ -12,6 +13,7 @@
   {
     "city": "Alanya",
     "slug": "alanya",
+    "region_id": "019",
     "filename": "alanya.zip",
     "size_mb": 0.05,
     "last_updated": "2026-03-09 18:11:55",
@@ -22,6 +24,7 @@
   {
     "city": "Alapli",
     "slug": "alapli",
+    "region_id": "029",
     "filename": "alapli.zip",
     "size_mb": 0.0,
     "last_updated": "2026-03-09 18:11:55",
@@ -32,6 +35,7 @@
   {
     "city": "Antalya",
     "slug": "antalya",
+    "region_id": "026",
     "filename": "antalya.zip",
     "size_mb": 8.38,
     "last_updated": "2026-03-09 18:11:55",
@@ -42,6 +46,7 @@
   {
     "city": "Burdur",
     "slug": "burdur",
+    "region_id": "017",
     "filename": "burdur.zip",
     "size_mb": 0.13,
     "last_updated": "2026-03-09 18:11:55",
@@ -52,6 +57,7 @@
   {
     "city": "Canakkale",
     "slug": "canakkale",
+    "region_id": "007",
     "filename": "canakkale.zip",
     "size_mb": 0.2,
     "last_updated": "2026-03-09 18:11:55",
@@ -62,6 +68,7 @@
   {
     "city": "Duzce",
     "slug": "duzce",
+    "region_id": "036",
     "filename": "duzce.zip",
     "size_mb": 1.71,
     "last_updated": "2026-03-09 18:11:55",
@@ -72,6 +79,7 @@
   {
     "city": "Edirne",
     "slug": "edirne",
+    "region_id": "013",
     "filename": "edirne.zip",
     "size_mb": 0.04,
     "last_updated": "2026-03-09 18:11:55",
@@ -82,6 +90,7 @@
   {
     "city": "Eregli",
     "slug": "eregli",
+    "region_id": "020",
     "filename": "eregli.zip",
     "size_mb": 0.06,
     "last_updated": "2026-03-09 18:11:55",
@@ -92,6 +101,7 @@
   {
     "city": "Erzurum",
     "slug": "erzurum",
+    "region_id": "038",
     "filename": "erzurum.zip",
     "size_mb": 2.53,
     "last_updated": "2026-03-09 18:11:55",
@@ -102,6 +112,7 @@
   {
     "city": "Gaziantep",
     "slug": "gaziantep",
+    "region_id": "028",
     "filename": "gaziantep.zip",
     "size_mb": 12.87,
     "last_updated": "2026-03-09 18:11:56",
@@ -112,6 +123,7 @@
   {
     "city": "Kastamonu",
     "slug": "kastamonu",
+    "region_id": "025",
     "filename": "kastamonu.zip",
     "size_mb": 0.31,
     "last_updated": "2026-03-09 18:11:56",
@@ -122,6 +134,7 @@
   {
     "city": "Kirklareli",
     "slug": "kirklareli",
+    "region_id": "027",
     "filename": "kirklareli.zip",
     "size_mb": 0.17,
     "last_updated": "2026-03-09 18:11:56",
@@ -132,6 +145,7 @@
   {
     "city": "Kocaeli",
     "slug": "kocaeli",
+    "region_id": "004",
     "filename": "kocaeli.zip",
     "size_mb": 16.75,
     "last_updated": "2026-03-09 18:11:56",
@@ -142,6 +156,7 @@
   {
     "city": "Luleburgaz",
     "slug": "luleburgaz",
+    "region_id": "024",
     "filename": "luleburgaz.zip",
     "size_mb": 0.27,
     "last_updated": "2026-03-09 18:11:56",
@@ -152,6 +167,7 @@
   {
     "city": "Mardin",
     "slug": "mardin",
+    "region_id": "032",
     "filename": "mardin.zip",
     "size_mb": 2.71,
     "last_updated": "2026-03-09 18:11:56",
@@ -162,6 +178,7 @@
   {
     "city": "Mugla",
     "slug": "mugla",
+    "region_id": "010",
     "filename": "mugla.zip",
     "size_mb": 5.99,
     "last_updated": "2026-03-09 18:11:57",
@@ -172,6 +189,7 @@
   {
     "city": "Nigde",
     "slug": "nigde",
+    "region_id": "023",
     "filename": "nigde.zip",
     "size_mb": 0.09,
     "last_updated": "2026-03-09 18:11:57",
@@ -182,6 +200,7 @@
   {
     "city": "Ordu",
     "slug": "ordu",
+    "region_id": "031",
     "filename": "ordu.zip",
     "size_mb": 1.21,
     "last_updated": "2026-03-09 18:11:57",
@@ -192,6 +211,7 @@
   {
     "city": "Osmaniye",
     "slug": "osmaniye",
+    "region_id": "033",
     "filename": "osmaniye.zip",
     "size_mb": 0.31,
     "last_updated": "2026-03-09 18:11:57",
@@ -202,6 +222,7 @@
   {
     "city": "Safranbolu",
     "slug": "safranbolu",
+    "region_id": "037",
     "filename": "safranbolu.zip",
     "size_mb": 0.05,
     "last_updated": "2026-03-09 18:11:57",
@@ -212,6 +233,7 @@
   {
     "city": "Sivas",
     "slug": "sivas",
+    "region_id": "005",
     "filename": "sivas.zip",
     "size_mb": 0.12,
     "last_updated": "2026-03-09 18:11:57",
@@ -222,6 +244,7 @@
   {
     "city": "Tokat",
     "slug": "tokat",
+    "region_id": "039",
     "filename": "tokat.zip",
     "size_mb": 0.15,
     "last_updated": "2026-03-09 18:11:57",

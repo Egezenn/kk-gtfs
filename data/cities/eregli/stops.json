@@ -3,2796 +3,3262 @@
     "id": "37349",
     "name": "AŞAĞI MAHALLE",
     "lat": 41.263345,
-    "lon": 31.445523
+    "lon": 31.445523,
+    "routes": []
   },
   {
     "id": "37369",
     "name": "YARAŞLIYÖRUK KAHVE",
     "lat": 41.239017,
-    "lon": 31.472365
+    "lon": 31.472365,
+    "routes": []
   },
   {
     "id": "67001",
     "name": "ÇARSI",
     "lat": 41.2785782,
-    "lon": 31.4209842
+    "lon": 31.4209842,
+    "routes": []
   },
   {
     "id": "67002",
     "name": "ALAOGLU",
     "lat": 41.279677,
-    "lon": 31.421138
+    "lon": 31.421138,
+    "routes": []
   },
   {
     "id": "67003",
     "name": "ESKI BALIKHANE",
     "lat": 41.280416,
-    "lon": 31.419068
+    "lon": 31.419068,
+    "routes": []
   },
   {
     "id": "67004",
     "name": "AKM",
     "lat": 41.282155,
-    "lon": 31.415842
+    "lon": 31.415842,
+    "routes": []
   },
   {
     "id": "67005",
     "name": "BOZHANE",
     "lat": 41.2839689,
-    "lon": 31.4138178
+    "lon": 31.4138178,
+    "routes": []
   },
   {
     "id": "67006",
     "name": "OKUL",
     "lat": 41.285261,
-    "lon": 31.412513
+    "lon": 31.412513,
+    "routes": []
   },
   {
     "id": "67007",
     "name": "BUYUK BİNA",
     "lat": 41.286838,
-    "lon": 31.411623
+    "lon": 31.411623,
+    "routes": []
   },
   {
     "id": "67008",
     "name": "SON LOJMAN",
     "lat": 41.288509,
-    "lon": 31.410618
+    "lon": 31.410618,
+    "routes": []
   },
   {
     "id": "67009",
     "name": "TRAFO",
     "lat": 41.2906138,
-    "lon": 31.4092876
+    "lon": 31.4092876,
+    "routes": []
   },
   {
     "id": "67010",
     "name": "ÇAVDARLI YOL AYRIMI",
     "lat": 41.292976,
-    "lon": 31.409054
+    "lon": 31.409054,
+    "routes": []
   },
   {
     "id": "67011",
     "name": "GEÇİT",
     "lat": 41.293075,
-    "lon": 31.407788
+    "lon": 31.407788,
+    "routes": []
   },
   {
     "id": "67012",
     "name": "AÇIK HAVA",
     "lat": 41.2910089,
-    "lon": 31.406519
+    "lon": 31.406519,
+    "routes": []
   },
   {
     "id": "67013",
     "name": "ADLİYE",
     "lat": 41.2910701,
-    "lon": 31.4067614
+    "lon": 31.4067614,
+    "routes": []
   },
   {
     "id": "67014",
     "name": "AÇIK HAVA",
     "lat": 41.291,
-    "lon": 31.406636
+    "lon": 31.406636,
+    "routes": []
   },
   {
     "id": "67015",
     "name": "GEÇİT",
     "lat": 41.292407,
-    "lon": 31.407696
+    "lon": 31.407696,
+    "routes": []
   },
   {
     "id": "67016",
     "name": "ÇAVDARLI YOL AYRIMI",
     "lat": 41.292624,
-    "lon": 31.408797
+    "lon": 31.408797,
+    "routes": []
   },
   {
     "id": "67017",
     "name": "İSTASYON",
     "lat": 41.289231,
-    "lon": 31.410045
+    "lon": 31.410045,
+    "routes": []
   },
   {
     "id": "67018",
     "name": "POLİS EVİ",
     "lat": 41.286514,
-    "lon": 31.411623
+    "lon": 31.411623,
+    "routes": []
   },
   {
     "id": "67019",
     "name": "BOZHANE",
     "lat": 41.284065,
-    "lon": 31.413395
+    "lon": 31.413395,
+    "routes": []
   },
   {
     "id": "67020",
     "name": "ESKİ BALIKHANE",
     "lat": 41.280255,
-    "lon": 31.419088
+    "lon": 31.419088,
+    "routes": []
   },
   {
     "id": "67021",
     "name": "BELEDİYE",
     "lat": 41.279563,
-    "lon": 31.420943
+    "lon": 31.420943,
+    "routes": []
   },
   {
     "id": "67022",
     "name": "ESKİ ADLİYE",
     "lat": 41.278717,
-    "lon": 31.42301
+    "lon": 31.42301,
+    "routes": []
   },
   {
     "id": "67023",
     "name": "EMNİYET ONU",
     "lat": 41.27812,
-    "lon": 31.423495
+    "lon": 31.423495,
+    "routes": []
   },
   {
     "id": "67024",
     "name": "CARSI DURAKLARI",
     "lat": 41.2786326,
-    "lon": 31.4209643
+    "lon": 31.4209643,
+    "routes": []
   },
   {
     "id": "67025",
     "name": "KÖPRÜ",
     "lat": 41.276232,
-    "lon": 31.425488
+    "lon": 31.425488,
+    "routes": []
   },
   {
     "id": "67026",
     "name": "EREĞLİ LISESİ",
     "lat": 41.275802,
-    "lon": 31.427331
+    "lon": 31.427331,
+    "routes": []
   },
   {
     "id": "67027",
     "name": "TEKEL",
     "lat": 41.2761484,
-    "lon": 31.4289089
+    "lon": 31.4289089,
+    "routes": []
   },
   {
     "id": "67028",
     "name": "ÜSEM",
     "lat": 41.275534,
-    "lon": 31.43135
+    "lon": 31.43135,
+    "routes": []
   },
   {
     "id": "67029",
     "name": "JET",
     "lat": 41.275056,
-    "lon": 31.433027
+    "lon": 31.433027,
+    "routes": []
   },
   {
     "id": "67030",
     "name": "İSTANBUL YOL AYRIMI",
     "lat": 41.274153,
-    "lon": 31.434956
+    "lon": 31.434956,
+    "routes": []
   },
   {
     "id": "67031",
     "name": "İŞ HANI",
     "lat": 41.27281,
-    "lon": 31.435104
+    "lon": 31.435104,
+    "routes": []
   },
   {
     "id": "67032",
     "name": "PETROL",
     "lat": 41.2714238,
-    "lon": 31.4351287
+    "lon": 31.4351287,
+    "routes": []
   },
   {
     "id": "67033",
     "name": "DEVREK YOL AYRIMI",
     "lat": 41.2694327,
-    "lon": 31.4362665
+    "lon": 31.4362665,
+    "routes": []
   },
   {
     "id": "67034",
     "name": "BALCILAR PETROL",
     "lat": 41.269318,
-    "lon": 31.437471
+    "lon": 31.437471,
+    "routes": []
   },
   {
     "id": "67035",
     "name": "1.KÖPRÜ",
     "lat": 41.269154,
-    "lon": 31.438751
+    "lon": 31.438751,
+    "routes": []
   },
   {
     "id": "67036",
     "name": "KAVAKLI",
     "lat": 41.269104,
-    "lon": 31.44073
+    "lon": 31.44073,
+    "routes": []
   },
   {
     "id": "67037",
     "name": "TAHTA KÖPRÜ",
     "lat": 41.269992,
-    "lon": 31.445307
+    "lon": 31.445307,
+    "routes": []
   },
   {
     "id": "67038",
     "name": "ADEM BAKKAL",
     "lat": 41.2695511,
-    "lon": 31.4488855
+    "lon": 31.4488855,
+    "routes": []
   },
   {
     "id": "67039",
     "name": "ÇELEPÇİLER",
     "lat": 41.268973,
-    "lon": 31.451088
+    "lon": 31.451088,
+    "routes": []
   },
   {
     "id": "67040",
     "name": "İMAM HATİP",
     "lat": 41.2685614,
-    "lon": 31.4525262
+    "lon": 31.4525262,
+    "routes": []
   },
   {
     "id": "67041",
     "name": "İLKADIM",
     "lat": 41.268499,
-    "lon": 31.4556194
+    "lon": 31.4556194,
+    "routes": []
   },
   {
     "id": "67042",
     "name": "CARREFOUR",
     "lat": 41.268446,
-    "lon": 31.456773
+    "lon": 31.456773,
+    "routes": []
   },
   {
     "id": "67043",
     "name": "BAHÇELİEVLER",
     "lat": 41.2672472,
-    "lon": 31.4611027
+    "lon": 31.4611027,
+    "routes": []
   },
   {
     "id": "67044",
     "name": "SOLAK YOL AYRIMI",
     "lat": 41.266594,
-    "lon": 31.462829
+    "lon": 31.462829,
+    "routes": []
   },
   {
     "id": "67045",
     "name": "İSTİKBAL",
     "lat": 41.26579,
-    "lon": 31.465897
+    "lon": 31.465897,
+    "routes": []
   },
   {
     "id": "67046",
     "name": "1.DURAK",
     "lat": 41.265445,
-    "lon": 31.468564
+    "lon": 31.468564,
+    "routes": []
   },
   {
     "id": "67047",
     "name": "2.DURAK",
     "lat": 41.265324,
-    "lon": 31.469769
+    "lon": 31.469769,
+    "routes": []
   },
   {
     "id": "67048",
     "name": "3.DURAK",
     "lat": 41.2648577,
-    "lon": 31.4737751
+    "lon": 31.4737751,
+    "routes": []
   },
   {
     "id": "67511",
     "name": "ALEMDAR",
     "lat": 41.2776455,
-    "lon": 31.4214119
+    "lon": 31.4214119,
+    "routes": []
   },
   {
     "id": "67049",
     "name": "RENAULT",
     "lat": 41.2645804,
-    "lon": 31.4763727
+    "lon": 31.4763727,
+    "routes": []
   },
   {
     "id": "67050",
     "name": "MERDİVEN",
     "lat": 41.2646266,
-    "lon": 31.477699
+    "lon": 31.477699,
+    "routes": []
   },
   {
     "id": "67051",
     "name": "KEPEZ SİTE",
     "lat": 41.2648793,
-    "lon": 31.4790993
+    "lon": 31.4790993,
+    "routes": []
   },
   {
     "id": "67052",
     "name": "TEPE YOL AYRIMI",
     "lat": 41.266611,
-    "lon": 31.48177
+    "lon": 31.48177,
+    "routes": []
   },
   {
     "id": "67053",
     "name": "TEPE",
     "lat": 41.267252,
-    "lon": 31.480104
+    "lon": 31.480104,
+    "routes": []
   },
   {
     "id": "67054",
     "name": "YOL AYRIMI",
     "lat": 41.267506,
-    "lon": 31.478695
+    "lon": 31.478695,
+    "routes": []
   },
   {
     "id": "67055",
     "name": "FATİH BAKKAL",
     "lat": 41.267685,
-    "lon": 31.47613
+    "lon": 31.47613,
+    "routes": []
   },
   {
     "id": "67056",
     "name": "BELEN YOL AYRIMI",
     "lat": 41.26903,
-    "lon": 31.474204
+    "lon": 31.474204,
+    "routes": []
   },
   {
     "id": "67057",
     "name": "ŞANTİYE",
     "lat": 41.268256,
-    "lon": 31.471994
+    "lon": 31.471994,
+    "routes": []
   },
   {
     "id": "67058",
     "name": "ULAS MARKET",
     "lat": 41.266004,
-    "lon": 31.469246
+    "lon": 31.469246,
+    "routes": []
   },
   {
     "id": "67059",
     "name": "1.DURAK",
     "lat": 41.26566,
-    "lon": 31.468681
+    "lon": 31.468681,
+    "routes": []
   },
   {
     "id": "67060",
     "name": "İSTİKBAL",
     "lat": 41.2660527,
-    "lon": 31.4655805
+    "lon": 31.4655805,
+    "routes": []
   },
   {
     "id": "67061",
     "name": "SOLAK YOL AYRIMI",
     "lat": 41.2665868,
-    "lon": 31.4634562
+    "lon": 31.4634562,
+    "routes": []
   },
   {
     "id": "67062",
     "name": "BAHÇELİEVLER",
     "lat": 41.267728,
-    "lon": 31.460368
+    "lon": 31.460368,
+    "routes": []
   },
   {
     "id": "67063",
     "name": "CEVİZLER",
     "lat": 41.268476,
-    "lon": 31.458425
+    "lon": 31.458425,
+    "routes": []
   },
   {
     "id": "67064",
     "name": "CARREFOUR",
     "lat": 41.2686901,
-    "lon": 31.4569446
+    "lon": 31.4569446,
+    "routes": []
   },
   {
     "id": "67065",
     "name": "İLKADIM",
     "lat": 41.268631,
-    "lon": 31.454308
+    "lon": 31.454308,
+    "routes": []
   },
   {
     "id": "67066",
     "name": "İMAM HATİP",
     "lat": 41.2686689,
-    "lon": 31.4533001
+    "lon": 31.4533001,
+    "routes": []
   },
   {
     "id": "67067",
     "name": "ÇELEPÇİLER",
     "lat": 41.2689535,
-    "lon": 31.4516361
+    "lon": 31.4516361,
+    "routes": []
   },
   {
     "id": "67068",
     "name": "ADEM BAKKAL",
     "lat": 41.2699109,
-    "lon": 31.4478342
+    "lon": 31.4478342,
+    "routes": []
   },
   {
     "id": "67069",
     "name": "88 EVLER",
     "lat": 41.2701291,
-    "lon": 31.4451708
+    "lon": 31.4451708,
+    "routes": []
   },
   {
     "id": "67070",
     "name": "KAVAKLIK",
     "lat": 41.269244,
-    "lon": 31.440829
+    "lon": 31.440829,
+    "routes": []
   },
   {
     "id": "67071",
     "name": "1.KÖPRÜ",
     "lat": 41.269348,
-    "lon": 31.438695
+    "lon": 31.438695,
+    "routes": []
   },
   {
     "id": "67072",
     "name": "BALCILAR PETROL",
     "lat": 41.2695565,
-    "lon": 31.4366098
+    "lon": 31.4366098,
+    "routes": []
   },
   {
     "id": "67073",
     "name": "DEVREK YOL AYRIMI",
     "lat": 41.270567,
-    "lon": 31.435263
+    "lon": 31.435263,
+    "routes": []
   },
   {
     "id": "67074",
     "name": "PETROL",
     "lat": 41.2718605,
-    "lon": 31.4353014
+    "lon": 31.4353014,
+    "routes": []
   },
   {
     "id": "67075",
     "name": "İŞHANI",
     "lat": 41.272726,
-    "lon": 31.435267
+    "lon": 31.435267,
+    "routes": []
   },
   {
     "id": "67076",
     "name": "İSTANBUL YOL AYRIMI",
     "lat": 41.2742529,
-    "lon": 31.4350793
+    "lon": 31.4350793,
+    "routes": []
   },
   {
     "id": "67077",
     "name": "JET",
     "lat": 41.2751908,
-    "lon": 31.4329395
+    "lon": 31.4329395,
+    "routes": []
   },
   {
     "id": "67078",
     "name": "ÜSEM",
     "lat": 41.275656,
-    "lon": 31.431204
+    "lon": 31.431204,
+    "routes": []
   },
   {
     "id": "67079",
     "name": "TEKEL",
     "lat": 41.276059,
-    "lon": 31.429853
+    "lon": 31.429853,
+    "routes": []
   },
   {
     "id": "67080",
     "name": "KÖPRÜ",
     "lat": 41.275905,
-    "lon": 31.426695
+    "lon": 31.426695,
+    "routes": []
   },
   {
     "id": "67081",
     "name": "YOL AYRIMI",
     "lat": 41.2764953,
-    "lon": 31.4254981
+    "lon": 31.4254981,
+    "routes": []
   },
   {
     "id": "67083",
     "name": "SANAYİ ÜST GİRİŞ",
     "lat": 41.26816,
-    "lon": 31.484231
+    "lon": 31.484231,
+    "routes": []
   },
   {
     "id": "67084",
     "name": "SANAYİ",
     "lat": 41.2717084,
-    "lon": 31.4855793
+    "lon": 31.4855793,
+    "routes": []
   },
   {
     "id": "67515",
     "name": "TERMİNAL YOL AYRIMI",
     "lat": 41.2735112,
-    "lon": 31.4876879
+    "lon": 31.4876879,
+    "routes": []
   },
   {
     "id": "67513",
     "name": "HASTANE YOL AYRIMI",
     "lat": 41.2754342,
-    "lon": 31.4921807
+    "lon": 31.4921807,
+    "routes": []
   },
   {
     "id": "67496",
     "name": "ÖMERLİ HASTANE",
     "lat": 41.280276,
-    "lon": 31.4932642
+    "lon": 31.4932642,
+    "routes": []
   },
   {
     "id": "67514",
     "name": "HASTANE KAVŞAĞI",
     "lat": 41.2754706,
-    "lon": 31.4920922
+    "lon": 31.4920922,
+    "routes": []
   },
   {
     "id": "67106",
     "name": "SANAYİ",
     "lat": 41.272119,
-    "lon": 31.485743
+    "lon": 31.485743,
+    "routes": []
   },
   {
     "id": "67107",
     "name": "SANAYİ UST GİRİŞ",
     "lat": 41.268534,
-    "lon": 31.48432
+    "lon": 31.48432,
+    "routes": []
   },
   {
     "id": "67108",
     "name": "TEPE YOL AYRIMI",
     "lat": 41.266409,
-    "lon": 31.481539
+    "lon": 31.481539,
+    "routes": []
   },
   {
     "id": "67109",
     "name": "SİTELER",
     "lat": 41.264967,
-    "lon": 31.478711
+    "lon": 31.478711,
+    "routes": []
   },
   {
     "id": "67110",
     "name": "MERDİVEN",
     "lat": 41.264775,
-    "lon": 31.477596
+    "lon": 31.477596,
+    "routes": []
   },
   {
     "id": "67111",
     "name": "RENAULT",
     "lat": 41.264737,
-    "lon": 31.476331
+    "lon": 31.476331,
+    "routes": []
   },
   {
     "id": "67112",
     "name": "3.DURAK",
     "lat": 41.2649599,
-    "lon": 31.4742521
+    "lon": 31.4742521,
+    "routes": []
   },
   {
     "id": "67113",
     "name": "2.DURAK",
     "lat": 41.265515,
-    "lon": 31.469728
+    "lon": 31.469728,
+    "routes": []
   },
   {
     "id": "67114",
     "name": "FIRIN",
     "lat": 41.284658,
-    "lon": 31.414359
+    "lon": 31.414359,
+    "routes": []
   },
   {
     "id": "67115",
     "name": "AYAKKABICI",
     "lat": 41.285713,
-    "lon": 31.413475
+    "lon": 31.413475,
+    "routes": []
   },
   {
     "id": "67116",
     "name": "EMEK",
     "lat": 41.286509,
-    "lon": 31.41484
+    "lon": 31.41484,
+    "routes": []
   },
   {
     "id": "67117",
     "name": "ARİF",
     "lat": 41.287706,
-    "lon": 31.413728
+    "lon": 31.413728,
+    "routes": []
   },
   {
     "id": "67118",
     "name": "YOL AYRIMI",
     "lat": 41.28876,
-    "lon": 31.412414
+    "lon": 31.412414,
+    "routes": []
   },
   {
     "id": "67119",
     "name": "1. DURAK",
     "lat": 41.28932,
-    "lon": 31.413981
+    "lon": 31.413981,
+    "routes": []
   },
   {
     "id": "67120",
     "name": "2. DURAK",
     "lat": 41.28907,
-    "lon": 31.414848
+    "lon": 31.414848,
+    "routes": []
   },
   {
     "id": "67121",
     "name": "4. DURAK",
     "lat": 41.287931,
-    "lon": 31.416669
+    "lon": 31.416669,
+    "routes": []
   },
   {
     "id": "67122",
     "name": "5. DURAK",
     "lat": 41.28839,
-    "lon": 31.417479
+    "lon": 31.417479,
+    "routes": []
   },
   {
     "id": "67123",
     "name": "KADI TARLASI",
     "lat": 41.290618,
-    "lon": 31.419315
+    "lon": 31.419315,
+    "routes": []
   },
   {
     "id": "67124",
     "name": "BAKKAL",
     "lat": 41.290824,
-    "lon": 31.418066
+    "lon": 31.418066,
+    "routes": []
   },
   {
     "id": "67125",
     "name": "8. DURAK",
     "lat": 41.290493,
-    "lon": 31.416561
+    "lon": 31.416561,
+    "routes": []
   },
   {
     "id": "67126",
     "name": "YOL AYRIMI",
     "lat": 41.289924,
-    "lon": 31.416044
+    "lon": 31.416044,
+    "routes": []
   },
   {
     "id": "67127",
     "name": "1. DURAK",
     "lat": 41.289377,
-    "lon": 31.413445
+    "lon": 31.413445,
+    "routes": []
   },
   {
     "id": "67128",
     "name": "YOL AYRIMI",
     "lat": 41.288613,
-    "lon": 31.41243
+    "lon": 31.41243,
+    "routes": []
   },
   {
     "id": "67129",
     "name": "ARİF",
     "lat": 41.287685,
-    "lon": 31.413872
+    "lon": 31.413872,
+    "routes": []
   },
   {
     "id": "67130",
     "name": "EMEK",
     "lat": 41.286503,
-    "lon": 31.4148
+    "lon": 31.4148,
+    "routes": []
   },
   {
     "id": "67131",
     "name": "AYAKKABICI",
     "lat": 41.285684,
-    "lon": 31.413362
+    "lon": 31.413362,
+    "routes": []
   },
   {
     "id": "67132",
     "name": "ELMATEPE",
     "lat": 41.263765,
-    "lon": 31.435064
+    "lon": 31.435064,
+    "routes": []
   },
   {
     "id": "67133",
     "name": "SANAYİ",
     "lat": 41.260565,
-    "lon": 31.435133
+    "lon": 31.435133,
+    "routes": []
   },
   {
     "id": "67134",
     "name": "KISLA",
     "lat": 41.258403,
-    "lon": 31.43487
+    "lon": 31.43487,
+    "routes": []
   },
   {
     "id": "67135",
     "name": "BAYRAMA",
     "lat": 41.253138,
-    "lon": 31.430677
+    "lon": 31.430677,
+    "routes": []
   },
   {
     "id": "67136",
     "name": "1.DURAK",
     "lat": 41.252586,
-    "lon": 31.424414
+    "lon": 31.424414,
+    "routes": []
   },
   {
     "id": "67137",
     "name": "GÜLÜÇ",
     "lat": 41.252748,
-    "lon": 31.421098
+    "lon": 31.421098,
+    "routes": []
   },
   {
     "id": "67138",
     "name": "PASTANE",
     "lat": 41.251012,
-    "lon": 31.416225
+    "lon": 31.416225,
+    "routes": []
   },
   {
     "id": "67139",
     "name": "GÜLÜÇ IŞIKLAR",
     "lat": 41.25026,
-    "lon": 31.414179
+    "lon": 31.414179,
+    "routes": []
   },
   {
     "id": "67140",
     "name": "MERDİVEN",
     "lat": 41.247307,
-    "lon": 31.407953
+    "lon": 31.407953,
+    "routes": []
   },
   {
     "id": "67141",
     "name": "MADENCİ GEMİ",
     "lat": 41.244124,
-    "lon": 31.405201
+    "lon": 31.405201,
+    "routes": []
   },
   {
     "id": "67142",
     "name": "EREĞLİ GEMİ",
     "lat": 41.234964,
-    "lon": 31.405092
+    "lon": 31.405092,
+    "routes": []
   },
   {
     "id": "67143",
     "name": "UMO GEMİ",
     "lat": 41.229197,
-    "lon": 31.40359
+    "lon": 31.40359,
+    "routes": []
   },
   {
     "id": "67144",
     "name": "HUZUR EVİ",
     "lat": 41.224113,
-    "lon": 31.40319
+    "lon": 31.40319,
+    "routes": []
   },
   {
     "id": "67145",
     "name": "GÖKTEPE ALTI",
     "lat": 41.220736,
-    "lon": 31.409685
+    "lon": 31.409685,
+    "routes": []
   },
   {
     "id": "67146",
     "name": "YALI",
     "lat": 41.215363,
-    "lon": 31.41078
+    "lon": 31.41078,
+    "routes": []
   },
   {
     "id": "67147",
     "name": "MERVEALTI",
     "lat": 41.212484,
-    "lon": 31.410016
+    "lon": 31.410016,
+    "routes": []
   },
   {
     "id": "67148",
     "name": "YALI",
     "lat": 41.215495,
-    "lon": 31.411136
+    "lon": 31.411136,
+    "routes": []
   },
   {
     "id": "67149",
     "name": "GÖKTEPE ALTI",
     "lat": 41.221044,
-    "lon": 31.40974
+    "lon": 31.40974,
+    "routes": []
   },
   {
     "id": "67150",
     "name": "HUZUREVİ",
     "lat": 41.224485,
-    "lon": 31.403274
+    "lon": 31.403274,
+    "routes": []
   },
   {
     "id": "67151",
     "name": "UMO GEMİ",
     "lat": 41.229333,
-    "lon": 31.404018
+    "lon": 31.404018,
+    "routes": []
   },
   {
     "id": "67152",
     "name": "EREĞLİ GEMİ",
     "lat": 41.234967,
-    "lon": 31.40555
+    "lon": 31.40555,
+    "routes": []
   },
   {
     "id": "67153",
     "name": "MADENCİ",
     "lat": 41.243563,
-    "lon": 31.405179
+    "lon": 31.405179,
+    "routes": []
   },
   {
     "id": "67154",
     "name": "MERDİVEN",
     "lat": 41.246938,
-    "lon": 31.407878
+    "lon": 31.407878,
+    "routes": []
   },
   {
     "id": "67155",
     "name": "OTEL",
     "lat": 41.24807,
-    "lon": 31.40964
+    "lon": 31.40964,
+    "routes": []
   },
   {
     "id": "67156",
     "name": "ERDEM YUVA GİRİŞ",
     "lat": 41.25012,
-    "lon": 31.414819
+    "lon": 31.414819,
+    "routes": []
   },
   {
     "id": "67157",
     "name": "14",
     "lat": 41.251154,
-    "lon": 31.417772
+    "lon": 31.417772,
+    "routes": []
   },
   {
     "id": "67158",
     "name": "GÜLÜÇ",
     "lat": 41.252485,
-    "lon": 31.42186
+    "lon": 31.42186,
+    "routes": []
   },
   {
     "id": "67159",
     "name": "1.DURAK",
     "lat": 41.252381,
-    "lon": 31.424594
+    "lon": 31.424594,
+    "routes": []
   },
   {
     "id": "67160",
     "name": "KÖPRÜ SONU",
     "lat": 41.252039,
-    "lon": 31.426826
+    "lon": 31.426826,
+    "routes": []
   },
   {
     "id": "67161",
     "name": "BAYRAMA",
     "lat": 41.25318,
-    "lon": 31.431383
+    "lon": 31.431383,
+    "routes": []
   },
   {
     "id": "67162",
     "name": "KIŞLA",
     "lat": 41.258674,
-    "lon": 31.435361
+    "lon": 31.435361,
+    "routes": []
   },
   {
     "id": "67163",
     "name": "SANAYİ",
     "lat": 41.26087,
-    "lon": 31.435514
+    "lon": 31.435514,
+    "routes": []
   },
   {
     "id": "67164",
     "name": "ELMATEPE",
     "lat": 41.263673,
-    "lon": 31.435433
+    "lon": 31.435433,
+    "routes": []
   },
   {
     "id": "67165",
     "name": "ESKİ BAĞLIK",
     "lat": 41.268825,
-    "lon": 31.435339
+    "lon": 31.435339,
+    "routes": []
   },
   {
     "id": "67166",
     "name": "EREYLİN",
     "lat": 41.272083,
-    "lon": 31.43693
+    "lon": 31.43693,
+    "routes": []
   },
   {
     "id": "67169",
     "name": "ÇİLEK SÜİTLER",
     "lat": 41.273814,
-    "lon": 31.448092
+    "lon": 31.448092,
+    "routes": []
   },
   {
     "id": "67183",
     "name": "SAFA CAMİİ",
     "lat": 41.27034,
-    "lon": 31.449246
+    "lon": 31.449246,
+    "routes": []
   },
   {
     "id": "67185",
     "name": "SON DURAK",
     "lat": 41.273257,
-    "lon": 31.450558
+    "lon": 31.450558,
+    "routes": []
   },
   {
     "id": "67186",
     "name": "BAKKAL",
     "lat": 41.272076,
-    "lon": 31.449408
+    "lon": 31.449408,
+    "routes": []
   },
   {
     "id": "67174",
     "name": "BAĞLIK KARAKOLU",
     "lat": 41.271807,
-    "lon": 31.437474
+    "lon": 31.437474,
+    "routes": []
   },
   {
     "id": "67175",
     "name": "BANKA",
     "lat": 41.272652,
-    "lon": 31.436671
+    "lon": 31.436671,
+    "routes": []
   },
   {
     "id": "67176",
     "name": "1.ECZANE",
     "lat": 41.273579,
-    "lon": 31.435872
+    "lon": 31.435872,
+    "routes": []
   },
   {
     "id": "67500",
     "name": "MERKEZ",
     "lat": 41.2782644,
-    "lon": 31.4238809
+    "lon": 31.4238809,
+    "routes": []
   },
   {
     "id": "67187",
     "name": "BAKKAL",
     "lat": 41.293251,
-    "lon": 31.406248
+    "lon": 31.406248,
+    "routes": []
   },
   {
     "id": "67188",
     "name": "KANDİLLİ LOJMANLARI",
     "lat": 41.293869,
-    "lon": 31.404783
+    "lon": 31.404783,
+    "routes": []
   },
   {
     "id": "67189",
     "name": "ÖZLEM SİTESİ",
     "lat": 41.294652,
-    "lon": 31.404524
+    "lon": 31.404524,
+    "routes": []
   },
   {
     "id": "67190",
     "name": "ESENTEPE SOK",
     "lat": 41.300615,
-    "lon": 31.405415
+    "lon": 31.405415,
+    "routes": []
   },
   {
     "id": "67191",
     "name": "BELEDİYE LOJMANLARI",
     "lat": 41.305419,
-    "lon": 31.411918
+    "lon": 31.411918,
+    "routes": []
   },
   {
     "id": "67192",
     "name": "YOL AYRIMI",
     "lat": 41.30807,
-    "lon": 31.413033
+    "lon": 31.413033,
+    "routes": []
   },
   {
     "id": "67193",
     "name": "PARK",
     "lat": 41.310171,
-    "lon": 31.411986
+    "lon": 31.411986,
+    "routes": []
   },
   {
     "id": "67194",
     "name": "KEMER MEYDAN",
     "lat": 41.306758,
-    "lon": 31.413637
+    "lon": 31.413637,
+    "routes": []
   },
   {
     "id": "67195",
     "name": "KOZA EVLERİ",
     "lat": 41.303882,
-    "lon": 31.412169
+    "lon": 31.412169,
+    "routes": []
   },
   {
     "id": "67196",
     "name": "KÖPRÜ",
     "lat": 41.301664,
-    "lon": 31.409743
+    "lon": 31.409743,
+    "routes": []
   },
   {
     "id": "67197",
     "name": "BAKKAL",
     "lat": 41.29938,
-    "lon": 31.408195
+    "lon": 31.408195,
+    "routes": []
   },
   {
     "id": "67198",
     "name": "KÖPRÜ2",
     "lat": 41.296244,
-    "lon": 31.407168
+    "lon": 31.407168,
+    "routes": []
   },
   {
     "id": "67199",
     "name": "ÇAVDARLI KÖPRÜSÜ",
     "lat": 41.294751,
-    "lon": 31.409194
+    "lon": 31.409194,
+    "routes": []
   },
   {
     "id": "67200",
     "name": "ÇEŞME",
     "lat": 41.298813,
-    "lon": 31.40965
+    "lon": 31.40965,
+    "routes": []
   },
   {
     "id": "67201",
     "name": "ENGELLİLER DERNEĞİ",
     "lat": 41.304829,
-    "lon": 31.413471
+    "lon": 31.413471,
+    "routes": []
   },
   {
     "id": "67202",
     "name": "KEMER MEYDAN",
     "lat": 41.306572,
-    "lon": 31.414088
+    "lon": 31.414088,
+    "routes": []
   },
   {
     "id": "67480",
     "name": "ÇEŞME",
     "lat": 41.30833,
-    "lon": 31.4152201
+    "lon": 31.4152201,
+    "routes": []
   },
   {
     "id": "67481",
     "name": "KIRMACI YOLAYRIMI",
     "lat": 41.3121942,
-    "lon": 31.4190422
+    "lon": 31.4190422,
+    "routes": []
   },
   {
     "id": "67482",
     "name": "ÇİMENTO",
     "lat": 41.3190115,
-    "lon": 31.4293848
+    "lon": 31.4293848,
+    "routes": []
   },
   {
     "id": "67483",
     "name": "GÖKME GİRİŞ",
     "lat": 41.3224481,
-    "lon": 31.4406769
+    "lon": 31.4406769,
+    "routes": []
   },
   {
     "id": "67484",
     "name": "GÖKME SON DURAK",
     "lat": 41.3234513,
-    "lon": 31.4367904
+    "lon": 31.4367904,
+    "routes": []
   },
   {
     "id": "67485",
     "name": "SİTELER",
     "lat": 41.3235721,
-    "lon": 31.4457087
+    "lon": 31.4457087,
+    "routes": []
   },
   {
     "id": "67486",
     "name": "CAN BALI",
     "lat": 41.3231934,
-    "lon": 31.4494746
+    "lon": 31.4494746,
+    "routes": []
   },
   {
     "id": "67487",
     "name": "VİLLALAR YOL AYRIMI",
     "lat": 41.3220452,
-    "lon": 31.4535301
+    "lon": 31.4535301,
+    "routes": []
   },
   {
     "id": "67488",
     "name": "ÜÇMEŞE",
     "lat": 41.3218357,
-    "lon": 31.4549865
+    "lon": 31.4549865,
+    "routes": []
   },
   {
     "id": "67489",
     "name": "OKUL",
     "lat": 41.3223917,
-    "lon": 31.4567782
+    "lon": 31.4567782,
+    "routes": []
   },
   {
     "id": "67490",
     "name": "BAKKAL",
     "lat": 41.3226012,
-    "lon": 31.4579718
+    "lon": 31.4579718,
+    "routes": []
   },
   {
     "id": "67491",
     "name": "MUHTARLIK",
     "lat": 41.3231954,
-    "lon": 31.4597635
+    "lon": 31.4597635,
+    "routes": []
   },
   {
     "id": "67492",
     "name": "BALI CAMİ",
     "lat": 41.3245148,
-    "lon": 31.4614962
+    "lon": 31.4614962,
+    "routes": []
   },
   {
     "id": "67493",
     "name": "SON DURAK",
     "lat": 41.3253729,
-    "lon": 31.4625477
+    "lon": 31.4625477,
+    "routes": []
   },
   {
     "id": "67494",
     "name": "BALI MEYDAN",
     "lat": 41.3226093,
-    "lon": 31.4615445
+    "lon": 31.4615445,
+    "routes": []
   },
   {
     "id": "67495",
     "name": "KÖSEAĞZI",
     "lat": 41.3277376,
-    "lon": 31.4676438
+    "lon": 31.4676438,
+    "routes": []
   },
   {
     "id": "67204",
     "name": "KÖPRÜ2",
     "lat": 41.296224,
-    "lon": 31.407306
+    "lon": 31.407306,
+    "routes": []
   },
   {
     "id": "67205",
     "name": "CAMİİ",
     "lat": 41.298024,
-    "lon": 31.407793
+    "lon": 31.407793,
+    "routes": []
   },
   {
     "id": "67206",
     "name": "ALÇI DEPOSU",
     "lat": 41.300481,
-    "lon": 31.408997
+    "lon": 31.408997,
+    "routes": []
   },
   {
     "id": "67207",
     "name": "KOZA EVLERİ",
     "lat": 41.303808,
-    "lon": 31.412217
+    "lon": 31.412217,
+    "routes": []
   },
   {
     "id": "67203",
     "name": "KIRMACI PİKNİK ALANI",
     "lat": 41.312268,
-    "lon": 31.416943
+    "lon": 31.416943,
+    "routes": []
   },
   {
     "id": "67214",
     "name": "GÖKTEPE KÖY GİRİŞİ",
     "lat": 41.22181,
-    "lon": 31.412666
+    "lon": 31.412666,
+    "routes": []
   },
   {
     "id": "67215",
     "name": "OKUL",
     "lat": 41.223583,
-    "lon": 31.41569
+    "lon": 31.41569,
+    "routes": []
   },
   {
     "id": "67216",
     "name": "CAMİİ",
     "lat": 41.226187,
-    "lon": 31.416311
+    "lon": 31.416311,
+    "routes": []
   },
   {
     "id": "67217",
     "name": "GÖKTEPE SON DURAK",
     "lat": 41.227132,
-    "lon": 31.420279
+    "lon": 31.420279,
+    "routes": []
   },
   {
     "id": "67218",
     "name": "MERVE KÖY GİRİŞİ",
     "lat": 41.205324,
-    "lon": 31.413165
+    "lon": 31.413165,
+    "routes": []
   },
   {
     "id": "67219",
     "name": "CAMİİ",
     "lat": 41.204592,
-    "lon": 31.414647
+    "lon": 31.414647,
+    "routes": []
   },
   {
     "id": "67220",
     "name": "MERVE SON DURAK",
     "lat": 41.204353,
-    "lon": 31.418438
+    "lon": 31.418438,
+    "routes": []
   },
   {
     "id": "67235",
     "name": "HALKAPINAR SOK",
     "lat": 41.267727,
-    "lon": 31.450045
+    "lon": 31.450045,
+    "routes": []
   },
   {
     "id": "67236",
     "name": "PARK",
     "lat": 41.266722,
-    "lon": 31.453966
+    "lon": 31.453966,
+    "routes": []
   },
   {
     "id": "67238",
     "name": "60 EVLER SİTESİ",
     "lat": 41.265503,
-    "lon": 31.462192
+    "lon": 31.462192,
+    "routes": []
   },
   {
     "id": "67239",
     "name": "DİLEK SİTESİ",
     "lat": 41.264735,
-    "lon": 31.465056
+    "lon": 31.465056,
+    "routes": []
   },
   {
     "id": "67240",
     "name": "KAYAKIK BAKKAL",
     "lat": 41.263878,
-    "lon": 31.471371
+    "lon": 31.471371,
+    "routes": []
   },
   {
     "id": "67241",
     "name": "ATATURK ANADOLU LİSESİ",
     "lat": 41.26263,
-    "lon": 31.474531
+    "lon": 31.474531,
+    "routes": []
   },
   {
     "id": "67242",
     "name": "KAYALIK ÇEŞME",
     "lat": 41.260622,
-    "lon": 31.477841
+    "lon": 31.477841,
+    "routes": []
   },
   {
     "id": "67243",
     "name": "İLYAS KARACA",
     "lat": 41.259222,
-    "lon": 31.481651
+    "lon": 31.481651,
+    "routes": []
   },
   {
     "id": "67244",
     "name": "DENİZCİLİK FAKÜLTESİ",
     "lat": 41.26422,
-    "lon": 31.481379
+    "lon": 31.481379,
+    "routes": []
   },
   {
     "id": "67245",
     "name": "KAYALIK ÇEŞME",
     "lat": 41.26075,
-    "lon": 31.477723
+    "lon": 31.477723,
+    "routes": []
   },
   {
     "id": "67246",
     "name": "ATATÜRK ANADOLU LİSESİ",
     "lat": 41.262547,
-    "lon": 31.47474
+    "lon": 31.47474,
+    "routes": []
   },
   {
     "id": "67248",
     "name": "DİLEK SİTESİ",
     "lat": 41.264818,
-    "lon": 31.465223
+    "lon": 31.465223,
+    "routes": []
   },
   {
     "id": "67249",
     "name": "SOLAK YOL AYRIMI",
     "lat": 41.26611,
-    "lon": 31.462703
+    "lon": 31.462703,
+    "routes": []
   },
   {
     "id": "67250",
     "name": "SEZER SİTESİ",
     "lat": 41.26564,
-    "lon": 31.456034
+    "lon": 31.456034,
+    "routes": []
   },
   {
     "id": "67251",
     "name": "SOSYETE PAZARI",
     "lat": 41.266844,
-    "lon": 31.45373
+    "lon": 31.45373,
+    "routes": []
   },
   {
     "id": "67252",
     "name": "HALKAPINAR SOKAK",
     "lat": 41.267781,
-    "lon": 31.450128
+    "lon": 31.450128,
+    "routes": []
   },
   {
     "id": "67082",
     "name": "TEPE YOL AYRIMI",
     "lat": 41.266233,
-    "lon": 31.481819
+    "lon": 31.481819,
+    "routes": []
   },
   {
     "id": "67253",
     "name": "ŞAMİLOĞLU TEKSTİL",
     "lat": 41.265603,
-    "lon": 31.48626
+    "lon": 31.48626,
+    "routes": []
   },
   {
     "id": "67254",
     "name": "DAĞEVLERİ SİTESİ",
     "lat": 41.263179,
-    "lon": 31.487777
+    "lon": 31.487777,
+    "routes": []
   },
   {
     "id": "67255",
     "name": "TOP SAHASI",
     "lat": 41.266768,
-    "lon": 31.496666
+    "lon": 31.496666,
+    "routes": []
   },
   {
     "id": "67256",
     "name": "DAĞ EVLERİ",
     "lat": 41.270196,
-    "lon": 31.504752
+    "lon": 31.504752,
+    "routes": []
   },
   {
     "id": "67257",
     "name": "DAĞEVLERİ KÖPRÜ",
     "lat": 41.264789,
-    "lon": 31.487603
+    "lon": 31.487603,
+    "routes": []
   },
   {
     "id": "67258",
     "name": "ŞAMİLOĞLU TEKSTİL",
     "lat": 41.265768,
-    "lon": 31.486537
+    "lon": 31.486537,
+    "routes": []
   },
   {
     "id": "67325",
     "name": "KAVAKLIK",
     "lat": 41.268973,
-    "lon": 31.44059
+    "lon": 31.44059,
+    "routes": []
   },
   {
     "id": "67326",
     "name": "ELMATEPE DORUK YOL AYRIMI",
     "lat": 41.266874,
-    "lon": 31.442884
+    "lon": 31.442884,
+    "routes": []
   },
   {
     "id": "67327",
     "name": "ELMATEPE BAKKAL",
     "lat": 41.264946,
-    "lon": 31.438633
+    "lon": 31.438633,
+    "routes": []
   },
   {
     "id": "67328",
     "name": "ELMATEPE YOL AYRIMI",
     "lat": 41.263175,
-    "lon": 31.438621
+    "lon": 31.438621,
+    "routes": []
   },
   {
     "id": "67329",
     "name": "SANAYİ",
     "lat": 41.261768,
-    "lon": 31.439877
+    "lon": 31.439877,
+    "routes": []
   },
   {
     "id": "67330",
     "name": "İNALLI YOL AYRIMI",
     "lat": 41.258627,
-    "lon": 31.438397
+    "lon": 31.438397,
+    "routes": []
   },
   {
     "id": "67331",
     "name": "KIŞLA BAKKAL",
     "lat": 41.256766,
-    "lon": 31.438093
+    "lon": 31.438093,
+    "routes": []
   },
   {
     "id": "67499",
     "name": "KIŞLA OKUL",
     "lat": 41.2560736,
-    "lon": 31.440516
+    "lon": 31.440516,
+    "routes": []
   },
   {
     "id": "67497",
     "name": "ÖCALLAR",
     "lat": 41.2542951,
-    "lon": 31.4379142
+    "lon": 31.4379142,
+    "routes": []
   },
   {
     "id": "67332",
     "name": "GÜZELYUVA",
     "lat": 41.25396,
-    "lon": 31.4357
+    "lon": 31.4357,
+    "routes": []
   },
   {
     "id": "67333",
     "name": "BAHAR SK.",
     "lat": 41.253137,
-    "lon": 31.4369222
+    "lon": 31.4369222,
+    "routes": []
   },
   {
     "id": "67334",
     "name": "KÖSELER CAMİİ",
     "lat": 41.251927,
-    "lon": 31.438489
+    "lon": 31.438489,
+    "routes": []
   },
   {
     "id": "67538",
     "name": "KÖSELER İÖO",
     "lat": 41.2506352,
-    "lon": 31.4338158
+    "lon": 31.4338158,
+    "routes": []
   },
   {
     "id": "67539",
     "name": "POTBAŞI SK.",
     "lat": 41.2519903,
-    "lon": 31.4320322
+    "lon": 31.4320322,
+    "routes": []
   },
   {
     "id": "67540",
     "name": "POTBAŞI 2",
     "lat": 41.251222,
-    "lon": 31.4316513
+    "lon": 31.4316513,
+    "routes": []
   },
   {
     "id": "67541",
     "name": "YEŞİL CAMİİ",
     "lat": 41.2538555,
-    "lon": 31.433097
+    "lon": 31.433097,
+    "routes": []
   },
   {
     "id": "67335",
     "name": "1.BLOK",
     "lat": 41.253945,
-    "lon": 31.435745
+    "lon": 31.435745,
+    "routes": []
   },
   {
     "id": "67336",
     "name": "KIŞLA BAKKAL",
     "lat": 41.256807,
-    "lon": 31.438171
+    "lon": 31.438171,
+    "routes": []
   },
   {
     "id": "67337",
     "name": "İNALLI YOL AYRIMI",
     "lat": 41.258509,
-    "lon": 31.4385
+    "lon": 31.4385,
+    "routes": []
   },
   {
     "id": "67338",
     "name": "SANAYİ ARKASI",
     "lat": 41.261113,
-    "lon": 31.441015
+    "lon": 31.441015,
+    "routes": []
   },
   {
     "id": "67339",
     "name": "ELMATEPE YOL AYRIMI",
     "lat": 41.26345,
-    "lon": 31.439665
+    "lon": 31.439665,
+    "routes": []
   },
   {
     "id": "67340",
     "name": "ELMATEPE BAKKAL",
     "lat": 41.264938,
-    "lon": 31.438745
+    "lon": 31.438745,
+    "routes": []
   },
   {
     "id": "67341",
     "name": "ELMATEPE DORUK YOL AYRIMI",
     "lat": 41.267035,
-    "lon": 31.442826
+    "lon": 31.442826,
+    "routes": []
   },
   {
     "id": "67346",
     "name": "SU DEPOSU",
     "lat": 41.266934,
-    "lon": 31.444818
+    "lon": 31.444818,
+    "routes": []
   },
   {
     "id": "67347",
     "name": "YURT YOL AYRİMI",
     "lat": 41.264215,
-    "lon": 31.449408
+    "lon": 31.449408,
+    "routes": []
   },
   {
     "id": "67348",
     "name": "DORUK CAMİİ",
     "lat": 41.262793,
-    "lon": 31.450858
+    "lon": 31.450858,
+    "routes": []
   },
   {
     "id": "67350",
     "name": "SANAYİ ÜSTÜ",
     "lat": 41.263134,
-    "lon": 31.443197
+    "lon": 31.443197,
+    "routes": []
   },
   {
     "id": "67351",
     "name": "DORUK MEZARLIK",
     "lat": 41.260191,
-    "lon": 31.451449
+    "lon": 31.451449,
+    "routes": []
   },
   {
     "id": "67359",
     "name": "İNALLI MEZARLIK",
     "lat": 41.258939,
-    "lon": 31.447015
+    "lon": 31.447015,
+    "routes": []
   },
   {
     "id": "67352",
     "name": "FAKÜLTE",
     "lat": 41.261882,
-    "lon": 31.455238
+    "lon": 31.455238,
+    "routes": []
   },
   {
     "id": "67353",
     "name": "DORUK FAKÜLTE",
     "lat": 41.26384,
-    "lon": 31.457908
+    "lon": 31.457908,
+    "routes": []
   },
   {
     "id": "67354",
     "name": "FAKÜLTE",
     "lat": 41.262019,
-    "lon": 31.455307
+    "lon": 31.455307,
+    "routes": []
   },
   {
     "id": "67355",
     "name": "DORUK MEZARLIK",
     "lat": 41.26031,
-    "lon": 31.45141
+    "lon": 31.45141,
+    "routes": []
   },
   {
     "id": "67356",
     "name": "DORUK CAMİİ",
     "lat": 41.262836,
-    "lon": 31.450891
+    "lon": 31.450891,
+    "routes": []
   },
   {
     "id": "67357",
     "name": "YURT YOL AYRIMI",
     "lat": 41.26433,
-    "lon": 31.449418
+    "lon": 31.449418,
+    "routes": []
   },
   {
     "id": "67358",
     "name": "SU DEPOSU",
     "lat": 41.267,
-    "lon": 31.444833
+    "lon": 31.444833,
+    "routes": []
   },
   {
     "id": "67261",
     "name": "PAZARYERİ",
     "lat": 41.280436,
-    "lon": 31.42317
+    "lon": 31.42317,
+    "routes": []
   },
   {
     "id": "67304",
     "name": "ÖZGÜR SİTESİ",
     "lat": 41.280311,
-    "lon": 31.429507
+    "lon": 31.429507,
+    "routes": []
   },
   {
     "id": "67305",
     "name": "ORHANOĞUZ 1",
     "lat": 41.281266,
-    "lon": 31.428616
+    "lon": 31.428616,
+    "routes": []
   },
   {
     "id": "67306",
     "name": "ORHANOĞUZ İLKOKULU",
     "lat": 41.282515,
-    "lon": 31.426213
+    "lon": 31.426213,
+    "routes": []
   },
   {
     "id": "67307",
     "name": "DEMİR DİREK",
     "lat": 41.28285,
-    "lon": 31.430142
+    "lon": 31.430142,
+    "routes": []
   },
   {
     "id": "67308",
     "name": "BAĞLIK 1.DURAK",
     "lat": 41.281578,
-    "lon": 31.430745
+    "lon": 31.430745,
+    "routes": []
   },
   {
     "id": "67309",
     "name": "BAĞLIK SUYU",
     "lat": 41.281108,
-    "lon": 31.435218
+    "lon": 31.435218,
+    "routes": []
   },
   {
     "id": "67310",
     "name": "DOĞAKENT SİTESİ",
     "lat": 41.279975,
-    "lon": 31.43573
+    "lon": 31.43573,
+    "routes": []
   },
   {
     "id": "67311",
     "name": "FORTEKS SİTESİ",
     "lat": 41.281942,
-    "lon": 31.43698
+    "lon": 31.43698,
+    "routes": []
   },
   {
     "id": "67312",
     "name": "SEMİZ MARKET",
     "lat": 41.282856,
-    "lon": 31.438746
+    "lon": 31.438746,
+    "routes": []
   },
   {
     "id": "67313",
     "name": "YOL AYRIMI",
     "lat": 41.283626,
-    "lon": 31.44303
+    "lon": 31.44303,
+    "routes": []
   },
   {
     "id": "67314",
     "name": "AKTAŞ SON DURAK",
     "lat": 41.284162,
-    "lon": 31.454048
+    "lon": 31.454048,
+    "routes": []
   },
   {
     "id": "67315",
     "name": "AKTAŞ KÖY SON DURAK",
     "lat": 41.287994,
-    "lon": 31.462263
+    "lon": 31.462263,
+    "routes": []
   },
   {
     "id": "67316",
     "name": "MEZARLIK YOL AYRIMI",
     "lat": 41.284443,
-    "lon": 31.445855
+    "lon": 31.445855,
+    "routes": []
   },
   {
     "id": "67317",
     "name": "MEZARLIK",
     "lat": 41.285551,
-    "lon": 31.440926
+    "lon": 31.440926,
+    "routes": []
   },
   {
     "id": "67318",
     "name": "AKTAŞ YOL AYRIMI",
     "lat": 41.283649,
-    "lon": 31.441224
+    "lon": 31.441224,
+    "routes": []
   },
   {
     "id": "67319",
     "name": "FORTEKS YOL AYRIMI",
     "lat": 41.28284,
-    "lon": 31.435844
+    "lon": 31.435844,
+    "routes": []
   },
   {
     "id": "67321",
     "name": "FORTEKS SİTESİ",
     "lat": 41.28189,
-    "lon": 31.436978
+    "lon": 31.436978,
+    "routes": []
   },
   {
     "id": "67322",
     "name": "DOĞAKENT SİTESİ",
     "lat": 41.28004,
-    "lon": 31.435776
+    "lon": 31.435776,
+    "routes": []
   },
   {
     "id": "67323",
     "name": "BAĞLIK SUYU",
     "lat": 41.281214,
-    "lon": 31.435152
+    "lon": 31.435152,
+    "routes": []
   },
   {
     "id": "67324",
     "name": "BAĞLIK 1.DURAK",
     "lat": 41.281544,
-    "lon": 31.430084
+    "lon": 31.430084,
+    "routes": []
   },
   {
     "id": "67286",
     "name": "KÖPRÜ",
     "lat": 41.287198,
-    "lon": 31.426658
+    "lon": 31.426658,
+    "routes": []
   },
   {
     "id": "67287",
     "name": "HABİB BAKKAL",
     "lat": 41.289768,
-    "lon": 31.424887
+    "lon": 31.424887,
+    "routes": []
   },
   {
     "id": "67288",
     "name": "DIŞ ÇEŞME",
     "lat": 41.287767,
-    "lon": 31.422954
+    "lon": 31.422954,
+    "routes": []
   },
   {
     "id": "67289",
     "name": "UZUNMEHMET CAMİİ",
     "lat": 41.290469,
-    "lon": 31.421178
+    "lon": 31.421178,
+    "routes": []
   },
   {
     "id": "67290",
     "name": "ALTAY BAKKAL",
     "lat": 41.291715,
-    "lon": 31.421429
+    "lon": 31.421429,
+    "routes": []
   },
   {
     "id": "67291",
     "name": "UZUNMEHMET ANITI",
     "lat": 41.29509,
-    "lon": 31.423597
+    "lon": 31.423597,
+    "routes": []
   },
   {
     "id": "67292",
     "name": "MEZARLIK",
     "lat": 41.298403,
-    "lon": 31.424934
+    "lon": 31.424934,
+    "routes": []
   },
   {
     "id": "67293",
     "name": "ÇEŞME",
     "lat": 41.299502,
-    "lon": 31.423028
+    "lon": 31.423028,
+    "routes": []
   },
   {
     "id": "67294",
     "name": "ÇAMLIK",
     "lat": 41.301891,
-    "lon": 31.425332
+    "lon": 31.425332,
+    "routes": []
   },
   {
     "id": "67295",
     "name": "RADAR",
     "lat": 41.309275,
-    "lon": 31.433028
+    "lon": 31.433028,
+    "routes": []
   },
   {
     "id": "67296",
     "name": "ÇAMLIK",
     "lat": 41.302018,
-    "lon": 31.425398
+    "lon": 31.425398,
+    "routes": []
   },
   {
     "id": "67297",
     "name": "CAMİİ SON DURAK",
     "lat": 41.298815,
-    "lon": 31.421246
+    "lon": 31.421246,
+    "routes": []
   },
   {
     "id": "67298",
     "name": "MEZARLIK",
     "lat": 41.298343,
-    "lon": 31.424773
+    "lon": 31.424773,
+    "routes": []
   },
   {
     "id": "67299",
     "name": "UZUNMEHMET ANITI",
     "lat": 41.295146,
-    "lon": 31.423543
+    "lon": 31.423543,
+    "routes": []
   },
   {
     "id": "67300",
     "name": "ALTAY BAKKAL",
     "lat": 41.291575,
-    "lon": 31.421138
+    "lon": 31.421138,
+    "routes": []
   },
   {
     "id": "67301",
     "name": "DIŞ ÇEŞME",
     "lat": 41.287915,
-    "lon": 31.422795
+    "lon": 31.422795,
+    "routes": []
   },
   {
     "id": "67302",
     "name": "HABİB BAKKAL",
     "lat": 41.289656,
-    "lon": 31.425147
+    "lon": 31.425147,
+    "routes": []
   },
   {
     "id": "67303",
     "name": "KÖPRÜ",
     "lat": 41.287221,
-    "lon": 31.426464
+    "lon": 31.426464,
+    "routes": []
   },
   {
     "id": "67285",
     "name": "PAZARYERİ2",
     "lat": 41.280912,
-    "lon": 31.423001
+    "lon": 31.423001,
+    "routes": []
   },
   {
     "id": "67404",
     "name": "NİMET OKULU",
     "lat": 41.278866,
-    "lon": 31.426398
+    "lon": 31.426398,
+    "routes": []
   },
   {
     "id": "67405",
     "name": "HATİP CAMİİ",
     "lat": 41.276759,
-    "lon": 31.433777
+    "lon": 31.433777,
+    "routes": []
   },
   {
     "id": "67406",
     "name": "ATATÜRK ORTA OKULU",
     "lat": 41.276483,
-    "lon": 31.436503
+    "lon": 31.436503,
+    "routes": []
   },
   {
     "id": "67407",
     "name": "GÜVENEVLER",
     "lat": 41.276049,
-    "lon": 31.441123
+    "lon": 31.441123,
+    "routes": []
   },
   {
     "id": "67408",
     "name": "ZİRVEKENT YOL AYRIMI",
     "lat": 41.275011,
-    "lon": 31.442781
+    "lon": 31.442781,
+    "routes": []
   },
   {
     "id": "67409",
     "name": "ZİRVEKENT BAKKAL",
     "lat": 41.275685,
-    "lon": 31.443737
+    "lon": 31.443737,
+    "routes": []
   },
   {
     "id": "67410",
     "name": "ZİRVEKENT SİTESİ",
     "lat": 41.276846,
-    "lon": 31.444406
+    "lon": 31.444406,
+    "routes": []
   },
   {
     "id": "67411",
     "name": "ÇEŞME",
     "lat": 41.277291,
-    "lon": 31.448712
+    "lon": 31.448712,
+    "routes": []
   },
   {
     "id": "67412",
     "name": "SARIKORKMAZ CAMİİ",
     "lat": 41.277771,
-    "lon": 31.451388
+    "lon": 31.451388,
+    "routes": []
   },
   {
     "id": "67413",
     "name": "MEZARLIK ÜSTÜ",
     "lat": 41.275982,
-    "lon": 31.45596
+    "lon": 31.45596,
+    "routes": []
   },
   {
     "id": "67414",
     "name": "MİNİBÜSÇÜLER SİTESİ",
     "lat": 41.27122,
-    "lon": 31.457822
+    "lon": 31.457822,
+    "routes": []
   },
   {
     "id": "67415",
     "name": "AYDOĞDU SİTESİ",
     "lat": 41.270409,
-    "lon": 31.456872
+    "lon": 31.456872,
+    "routes": []
   },
   {
     "id": "67416",
     "name": "MEZARLIK",
     "lat": 41.274047,
-    "lon": 31.455894
+    "lon": 31.455894,
+    "routes": []
   },
   {
     "id": "67417",
     "name": "SARIKORKAZ KÖYÜ",
     "lat": 41.275246,
-    "lon": 31.449703
+    "lon": 31.449703,
+    "routes": []
   },
   {
     "id": "67418",
     "name": "ERBİRLİK SİTESİ",
     "lat": 41.27522,
-    "lon": 31.444103
+    "lon": 31.444103,
+    "routes": []
   },
   {
     "id": "67419",
     "name": "GÜVENEVLER",
     "lat": 41.276128,
-    "lon": 31.441248
+    "lon": 31.441248,
+    "routes": []
   },
   {
     "id": "67420",
     "name": "ATATÜRK ORTAOKULU",
     "lat": 41.27659,
-    "lon": 31.436627
+    "lon": 31.436627,
+    "routes": []
   },
   {
     "id": "67421",
     "name": "HATİP CAMİİ",
     "lat": 41.276768,
-    "lon": 31.434146
+    "lon": 31.434146,
+    "routes": []
   },
   {
     "id": "67422",
     "name": "NİMET OKULU",
     "lat": 41.278969,
-    "lon": 31.426297
+    "lon": 31.426297,
+    "routes": []
   },
   {
     "id": "67221",
     "name": "İŞ BANKASI",
     "lat": 41.278959,
-    "lon": 31.422776
+    "lon": 31.422776,
+    "routes": []
   },
   {
     "id": "67498",
     "name": "POTBAŞI1",
     "lat": 41.2526033,
-    "lon": 31.4316003
+    "lon": 31.4316003,
+    "routes": []
   },
   {
     "id": "67360",
     "name": "FIRIN",
     "lat": 41.25067,
-    "lon": 31.431087
+    "lon": 31.431087,
+    "routes": []
   },
   {
     "id": "67361",
     "name": "BÖLÜCEK KÖY GİRİŞİ",
     "lat": 41.244827,
-    "lon": 31.443146
+    "lon": 31.443146,
+    "routes": []
   },
   {
     "id": "67362",
     "name": "TAT METAL",
     "lat": 41.241487,
-    "lon": 31.445495
+    "lon": 31.445495,
+    "routes": []
   },
   {
     "id": "67363",
     "name": "BÖLÜCEK BAKKAL",
     "lat": 41.235169,
-    "lon": 31.449809
+    "lon": 31.449809,
+    "routes": []
   },
   {
     "id": "67364",
     "name": "YARAŞLIYÖRÜK GİRİŞİ",
     "lat": 41.226057,
-    "lon": 31.461691
+    "lon": 31.461691,
+    "routes": []
   },
   {
     "id": "67365",
     "name": "DESE KÖYÜ YOL AYRIMI",
     "lat": 41.233027,
-    "lon": 31.464388
+    "lon": 31.464388,
+    "routes": []
   },
   {
     "id": "67366",
     "name": "YOL AYRIMI",
     "lat": 41.238506,
-    "lon": 31.469746
+    "lon": 31.469746,
+    "routes": []
   },
   {
     "id": "67367",
     "name": "YARAŞLIYÖRÜK KAHVE",
     "lat": 41.238963,
-    "lon": 31.472208
+    "lon": 31.472208,
+    "routes": []
   },
   {
     "id": "67368",
     "name": "BÖLÜCEK",
     "lat": 41.239423,
-    "lon": 31.478417
+    "lon": 31.478417,
+    "routes": []
   },
   {
     "id": "67370",
     "name": "YOL AYRIMI",
     "lat": 41.23855,
-    "lon": 31.469663
+    "lon": 31.469663,
+    "routes": []
   },
   {
     "id": "67371",
     "name": "DESE KÖYÜ YOL AYRIMI",
     "lat": 41.232828,
-    "lon": 31.464337
+    "lon": 31.464337,
+    "routes": []
   },
   {
     "id": "67372",
     "name": "YARAŞLIYÖRÜK KÖY GİRİŞİ",
     "lat": 41.226097,
-    "lon": 31.461431
+    "lon": 31.461431,
+    "routes": []
   },
   {
     "id": "67373",
     "name": "ÖZDEMİR BORU",
     "lat": 41.228529,
-    "lon": 31.457822
+    "lon": 31.457822,
+    "routes": []
   },
   {
     "id": "67374",
     "name": "BÖLÜCEK BAKKAL",
     "lat": 41.235234,
-    "lon": 31.449875
+    "lon": 31.449875,
+    "routes": []
   },
   {
     "id": "67375",
     "name": "TAT METAL",
     "lat": 41.241713,
-    "lon": 31.445466
+    "lon": 31.445466,
+    "routes": []
   },
   {
     "id": "67376",
     "name": "BÖLÜCEK KÖY GİRİŞİ",
     "lat": 41.244902,
-    "lon": 31.443225
+    "lon": 31.443225,
+    "routes": []
   },
   {
     "id": "67231",
     "name": "ÇAVDARLI KÖPRÜSÜ",
     "lat": 41.294745,
-    "lon": 31.409064
+    "lon": 31.409064,
+    "routes": []
   },
   {
     "id": "67230",
     "name": "ADAKOĞLU SİTESİ",
     "lat": 41.295637,
-    "lon": 31.40944
+    "lon": 31.40944,
+    "routes": []
   },
   {
     "id": "67475",
     "name": "ÇAVDARLI CAMİ",
     "lat": 41.2970825,
-    "lon": 31.4113657
+    "lon": 31.4113657,
+    "routes": []
   },
   {
     "id": "67476",
     "name": "YOL AYRIMI",
     "lat": 41.2977354,
-    "lon": 31.4106308
+    "lon": 31.4106308,
+    "routes": []
   },
   {
     "id": "67477",
     "name": "ŞABAN ÜSTÜN",
     "lat": 41.2992709,
-    "lon": 31.4112799
+    "lon": 31.4112799,
+    "routes": []
   },
   {
     "id": "67227",
     "name": "BAKKAL",
     "lat": 41.295562,
-    "lon": 31.412499
+    "lon": 31.412499,
+    "routes": []
   },
   {
     "id": "67226",
     "name": "SU DEPOSU",
     "lat": 41.296856,
-    "lon": 31.414603
+    "lon": 31.414603,
+    "routes": []
   },
   {
     "id": "67225",
     "name": "ÇAVDARLI SON DURAK",
     "lat": 41.297548,
-    "lon": 31.418464
+    "lon": 31.418464,
+    "routes": []
   },
   {
     "id": "67478",
     "name": "GAZİ SOKAK",
     "lat": 41.2975822,
-    "lon": 31.4201527
+    "lon": 31.4201527,
+    "routes": []
   },
   {
     "id": "67479",
     "name": "OKED SİTESİ",
     "lat": 41.2925402,
-    "lon": 31.4108668
+    "lon": 31.4108668,
+    "routes": []
   },
   {
     "id": "67434",
     "name": "KAHVELER",
     "lat": 41.287745,
-    "lon": 31.426042
+    "lon": 31.426042,
+    "routes": []
   },
   {
     "id": "67435",
     "name": "YOL AYRIMI",
     "lat": 41.290081,
-    "lon": 31.425783
+    "lon": 31.425783,
+    "routes": []
   },
   {
     "id": "67428",
     "name": "MEZARLIK",
     "lat": 41.291024,
-    "lon": 31.429534
+    "lon": 31.429534,
+    "routes": []
   },
   {
     "id": "67429",
     "name": "OKUL",
     "lat": 41.293446,
-    "lon": 31.428582
+    "lon": 31.428582,
+    "routes": []
   },
   {
     "id": "67430",
     "name": "ECEVİT",
     "lat": 41.294531,
-    "lon": 31.429142
+    "lon": 31.429142,
+    "routes": []
   },
   {
     "id": "67431",
     "name": "VİLLALAR",
     "lat": 41.295413,
-    "lon": 31.427289
+    "lon": 31.427289,
+    "routes": []
   },
   {
     "id": "67432",
     "name": "CAMİİ YOLU",
     "lat": 41.29257,
-    "lon": 31.427054
+    "lon": 31.427054,
+    "routes": []
   },
   {
     "id": "67433",
     "name": "YOL AYRIMI",
     "lat": 41.291724,
-    "lon": 31.424648
+    "lon": 31.424648,
+    "routes": []
   },
   {
     "id": "67208",
     "name": "ADİDAS ÖNÜ",
     "lat": 41.280401,
-    "lon": 31.422616
+    "lon": 31.422616,
+    "routes": []
   },
   {
     "id": "67396",
     "name": "ORTA CAMİİ",
     "lat": 41.281652,
-    "lon": 31.419615
+    "lon": 31.419615,
+    "routes": []
   },
   {
     "id": "67397",
     "name": "KAYABAŞI OKULU",
     "lat": 41.28363,
-    "lon": 31.418491
+    "lon": 31.418491,
+    "routes": []
   },
   {
     "id": "67398",
     "name": "ÖZTÜRK BAKKAL",
     "lat": 41.285432,
-    "lon": 31.418235
+    "lon": 31.418235,
+    "routes": []
   },
   {
     "id": "67399",
     "name": "1.DURAK",
     "lat": 41.28665,
-    "lon": 31.41874
+    "lon": 31.41874,
+    "routes": []
   },
   {
     "id": "67400",
     "name": "3.DURAK",
     "lat": 41.2854,
-    "lon": 31.421541
+    "lon": 31.421541,
+    "routes": []
   },
   {
     "id": "67401",
     "name": "DIŞ ÇEŞME",
     "lat": 41.285626,
-    "lon": 31.422455
+    "lon": 31.422455,
+    "routes": []
   },
   {
     "id": "67402",
     "name": "KALE EKMEK FIRINI",
     "lat": 41.284076,
-    "lon": 31.42145
+    "lon": 31.42145,
+    "routes": []
   },
   {
     "id": "67403",
     "name": "ORTA CAMİİ",
     "lat": 41.281522,
-    "lon": 31.419696
+    "lon": 31.419696,
+    "routes": []
   },
   {
     "id": "67436",
     "name": "OKUL YOLU",
     "lat": 41.29636,
-    "lon": 31.448404
+    "lon": 31.448404,
+    "routes": []
   },
   {
     "id": "67437",
     "name": "OKUL",
     "lat": 41.294273,
-    "lon": 31.446943
+    "lon": 31.446943,
+    "routes": []
   },
   {
     "id": "67438",
     "name": "TOKİ",
     "lat": 41.292636,
-    "lon": 31.449651
+    "lon": 31.449651,
+    "routes": []
   },
   {
     "id": "67440",
     "name": "HACI BEKİR",
     "lat": 41.288678,
-    "lon": 31.450292
+    "lon": 31.450292,
+    "routes": []
   },
   {
     "id": "67441",
     "name": "OKUL SOKAK",
     "lat": 41.289042,
-    "lon": 31.442854
+    "lon": 31.442854,
+    "routes": []
   },
   {
     "id": "67442",
     "name": "ABALI",
     "lat": 41.289215,
-    "lon": 31.431867
+    "lon": 31.431867,
+    "routes": []
   },
   {
     "id": "67451",
     "name": "KÖPRÜ",
     "lat": 41.287179,
-    "lon": 31.426793
+    "lon": 31.426793,
+    "routes": []
   },
   {
     "id": "67263",
     "name": "BAKKAL",
     "lat": 41.269118,
-    "lon": 31.460232
+    "lon": 31.460232,
+    "routes": []
   },
   {
     "id": "67264",
     "name": "ÖZCAN BAKKAL",
     "lat": 41.272464,
-    "lon": 31.465603
+    "lon": 31.465603,
+    "routes": []
   },
   {
     "id": "67265",
     "name": "KÖPRÜ",
     "lat": 41.273258,
-    "lon": 31.468781
+    "lon": 31.468781,
+    "routes": []
   },
   {
     "id": "67266",
     "name": "YOL AYRIMI",
     "lat": 41.276573,
-    "lon": 31.471963
+    "lon": 31.471963,
+    "routes": []
   },
   {
     "id": "67267",
     "name": "YENİ MAHALLE MUHTARLIĞI",
     "lat": 41.272604,
-    "lon": 31.476126
+    "lon": 31.476126,
+    "routes": []
   },
   {
     "id": "67268",
     "name": "BELEN MEZARLIK",
     "lat": 41.275703,
-    "lon": 31.480569
+    "lon": 31.480569,
+    "routes": []
   },
   {
     "id": "67269",
     "name": "BELEN CAMİİ",
     "lat": 41.278123,
-    "lon": 31.483121
+    "lon": 31.483121,
+    "routes": []
   },
   {
     "id": "67270",
     "name": "BELEN",
     "lat": 41.281755,
-    "lon": 31.477697
+    "lon": 31.477697,
+    "routes": []
   },
   {
     "id": "67271",
     "name": "BELEN CAMİİ",
     "lat": 41.278177,
-    "lon": 31.483019
+    "lon": 31.483019,
+    "routes": []
   },
   {
     "id": "67272",
     "name": "BELEN MEZARLIK",
     "lat": 41.276001,
-    "lon": 31.480675
+    "lon": 31.480675,
+    "routes": []
   },
   {
     "id": "67273",
     "name": "YENİ MAHALLE MUHTARLIĞI",
     "lat": 41.272666,
-    "lon": 31.476021
+    "lon": 31.476021,
+    "routes": []
   },
   {
     "id": "67274",
     "name": "YOL AYRIMI",
     "lat": 41.276637,
-    "lon": 31.472068
+    "lon": 31.472068,
+    "routes": []
   },
   {
     "id": "67275",
     "name": "KÖPRÜ",
     "lat": 41.273312,
-    "lon": 31.468743
+    "lon": 31.468743,
+    "routes": []
   },
   {
     "id": "67276",
     "name": "ÖZCAN BAKKAL",
     "lat": 41.272457,
-    "lon": 31.465429
+    "lon": 31.465429,
+    "routes": []
   },
   {
     "id": "67277",
     "name": "MOLLA AHMET SOKAK",
     "lat": 41.271069,
-    "lon": 31.461808
+    "lon": 31.461808,
+    "routes": []
   },
   {
     "id": "67262",
     "name": "YUMURTACILAR PAZARI",
     "lat": 41.280568,
-    "lon": 31.42493
+    "lon": 31.42493,
+    "routes": []
   },
   {
     "id": "67280",
     "name": "UZUNÇAYIR",
     "lat": 41.27624,
-    "lon": 31.466158
+    "lon": 31.466158,
+    "routes": []
   },
   {
     "id": "67281",
     "name": "KOCAALİ KÖYÜ CAMİİ",
     "lat": 41.285362,
-    "lon": 31.464736
+    "lon": 31.464736,
+    "routes": []
   },
   {
     "id": "67282",
     "name": "KOCAALİ YUKARI KÖY",
     "lat": 41.288254,
-    "lon": 31.466509
+    "lon": 31.466509,
+    "routes": []
   },
   {
     "id": "67283",
     "name": "UZUNÇAYIR",
     "lat": 41.293615,
-    "lon": 31.472418
+    "lon": 31.472418,
+    "routes": []
   },
   {
     "id": "67284",
     "name": "AHMETÇİKLER CAMİİ",
     "lat": 41.295036,
-    "lon": 31.472173
+    "lon": 31.472173,
+    "routes": []
   },
   {
     "id": "67452",
     "name": "TOPÇALI",
     "lat": 41.238484,
-    "lon": 31.439486
+    "lon": 31.439486,
+    "routes": []
   },
   {
     "id": "67453",
     "name": "VELİLER",
     "lat": 41.227876,
-    "lon": 31.444196
+    "lon": 31.444196,
+    "routes": []
   },
   {
     "id": "67454",
     "name": "TAT METAL",
     "lat": 41.226483,
-    "lon": 31.446418
+    "lon": 31.446418,
+    "routes": []
   },
   {
     "id": "67501",
     "name": "GÜL BAKKAL",
     "lat": 41.2236499,
-    "lon": 31.4486753
+    "lon": 31.4486753,
+    "routes": []
   },
   {
     "id": "67502",
     "name": "OKUL",
     "lat": 41.2227299,
-    "lon": 31.4502095
+    "lon": 31.4502095,
+    "routes": []
   },
   {
     "id": "67503",
     "name": "YOLAYRIMI",
     "lat": 41.2218422,
-    "lon": 31.4528273
+    "lon": 31.4528273,
+    "routes": []
   },
   {
     "id": "67504",
     "name": "BAKKAL2",
     "lat": 41.2204542,
-    "lon": 31.4550455
+    "lon": 31.4550455,
+    "routes": []
   },
   {
     "id": "67505",
     "name": "CAMİ",
     "lat": 41.2075651,
-    "lon": 31.4588033
+    "lon": 31.4588033,
+    "routes": []
   },
   {
     "id": "67506",
     "name": "SANAYİ KAPI",
     "lat": 41.2056118,
-    "lon": 31.4585243
+    "lon": 31.4585243,
+    "routes": []
   },
   {
     "id": "67507",
     "name": "TATMETAL2",
     "lat": 41.2154486,
-    "lon": 31.4677887
+    "lon": 31.4677887,
+    "routes": []
   },
   {
     "id": "67508",
     "name": "ÇOLAKLAR ALTI CAMİİ",
     "lat": 41.217101,
-    "lon": 31.4680918
+    "lon": 31.4680918,
+    "routes": []
   },
   {
     "id": "67509",
     "name": "ÇOLAKLAR ALTI",
     "lat": 41.2153336,
-    "lon": 31.4712997
+    "lon": 31.4712997,
+    "routes": []
   },
   {
     "id": "67510",
     "name": "ÇOLAKLAR ALTI SON DURAK",
     "lat": 41.2128397,
-    "lon": 31.471466
+    "lon": 31.471466,
+    "routes": []
   },
   {
     "id": "67455",
     "name": "VELİLER",
     "lat": 41.2283,
-    "lon": 31.444045
+    "lon": 31.444045,
+    "routes": []
   },
   {
     "id": "67456",
     "name": "TOPÇALI",
     "lat": 41.238488,
-    "lon": 31.439654
+    "lon": 31.439654,
+    "routes": []
   },
   {
     "id": "67391",
     "name": "DEVREK YOL AYRIMI",
     "lat": 41.270695,
-    "lon": 31.434733
+    "lon": 31.434733,
+    "routes": []
   },
   {
     "id": "67392",
     "name": "BİM",
     "lat": 41.272578,
-    "lon": 31.433192
+    "lon": 31.433192,
+    "routes": []
   },
   {
     "id": "67393",
     "name": "ÜSEM",
     "lat": 41.274558,
-    "lon": 31.430759
+    "lon": 31.430759,
+    "routes": []
   },
   {
     "id": "67394",
     "name": "MERDİVEN",
     "lat": 41.275554,
-    "lon": 31.427616
+    "lon": 31.427616,
+    "routes": []
   },
   {
     "id": "67395",
     "name": "SANAYİ ODASI",
     "lat": 41.276173,
-    "lon": 31.42442
+    "lon": 31.42442,
+    "routes": []
   },
   {
     "id": "67209",
     "name": "GARAJ ARKASI",
     "lat": 41.277659,
-    "lon": 31.421775
+    "lon": 31.421775,
+    "routes": []
   },
   {
     "id": "67210",
     "name": "KÖPRÜ",
     "lat": 41.275557,
-    "lon": 31.426489
+    "lon": 31.426489,
+    "routes": []
   },
   {
     "id": "67211",
     "name": "ÜSEM",
     "lat": 41.274214,
-    "lon": 31.430954
+    "lon": 31.430954,
+    "routes": []
   },
   {
     "id": "67212",
     "name": "BİM",
     "lat": 41.272421,
-    "lon": 31.433057
+    "lon": 31.433057,
+    "routes": []
   },
   {
     "id": "67213",
     "name": "DEVREK YOL AYRIMI",
     "lat": 41.270643,
-    "lon": 31.434464
+    "lon": 31.434464,
+    "routes": []
   },
   {
     "id": "67457",
     "name": "KİRAZLAR OTEL",
     "lat": 41.247966,
-    "lon": 31.4096
+    "lon": 31.4096,
+    "routes": []
   },
   {
     "id": "67458",
     "name": "14 KATLAR",
     "lat": 41.246048,
-    "lon": 31.408659
+    "lon": 31.408659,
+    "routes": []
   },
   {
     "id": "67459",
     "name": "YILDIRIM KOLLEJİ",
     "lat": 41.243853,
-    "lon": 31.40947
+    "lon": 31.40947,
+    "routes": []
   },
   {
     "id": "67460",
     "name": "ÇEŞME",
     "lat": 41.242036,
-    "lon": 31.412776
+    "lon": 31.412776,
+    "routes": []
   },
   {
     "id": "67461",
     "name": "DAĞLAR KÖYÜ",
     "lat": 41.240692,
-    "lon": 31.411845
+    "lon": 31.411845,
+    "routes": []
   },
   {
     "id": "67462",
     "name": "DAĞLAR KÖYÜ SON",
     "lat": 41.240471,
-    "lon": 31.409568
+    "lon": 31.409568,
+    "routes": []
   },
   {
     "id": "67463",
     "name": "KARKUCAK GİRİŞİ",
     "lat": 41.240541,
-    "lon": 31.423403
+    "lon": 31.423403,
+    "routes": []
   },
   {
     "id": "67464",
     "name": "KARKUCAK KÖYÜ",
     "lat": 41.23751,
-    "lon": 31.422681
+    "lon": 31.422681,
+    "routes": []
   },
   {
     "id": "67465",
     "name": "KARKUCAK GİRİŞ",
     "lat": 41.240585,
-    "lon": 31.423455
+    "lon": 31.423455,
+    "routes": []
   },
   {
     "id": "67466",
     "name": "ÇEŞME",
     "lat": 41.242035,
-    "lon": 31.412971
+    "lon": 31.412971,
+    "routes": []
   },
   {
     "id": "67468",
     "name": "14 KATLAR",
     "lat": 41.246019,
-    "lon": 31.408705
+    "lon": 31.408705,
+    "routes": []
   },
   {
     "id": "67378",
     "name": "BELEDİYE",
     "lat": 41.251565,
-    "lon": 31.421702
+    "lon": 31.421702,
+    "routes": []
   },
   {
     "id": "67379",
     "name": "GÜLÜÇ KARAKOL",
     "lat": 41.24976,
-    "lon": 31.421182
+    "lon": 31.421182,
+    "routes": []
   },
   {
     "id": "67380",
     "name": "VESİLE DİKMEN  OKULU",
     "lat": 41.248548,
-    "lon": 31.418405
+    "lon": 31.418405,
+    "routes": []
   },
   {
     "id": "67381",
     "name": "ÜSTDURAK",
     "lat": 41.248402,
-    "lon": 31.415814
+    "lon": 31.415814,
+    "routes": []
   },
   {
     "id": "67382",
     "name": "SAĞLIK OCAĞI",
     "lat": 41.248029,
-    "lon": 31.413253
+    "lon": 31.413253,
+    "routes": []
   },
   {
     "id": "67383",
     "name": "GÜLÜÇ ANADOLU LİSESİ",
     "lat": 41.244352,
-    "lon": 31.415577
+    "lon": 31.415577,
+    "routes": []
   },
   {
     "id": "67384",
     "name": "GÜZEL SANATLAR",
     "lat": 41.244425,
-    "lon": 31.419684
+    "lon": 31.419684,
+    "routes": []
   },
   {
     "id": "67385",
     "name": "GÜLÜÇ ANADOLU LİSESİ",
     "lat": 41.244403,
-    "lon": 31.415677
+    "lon": 31.415677,
+    "routes": []
   },
   {
     "id": "67386",
     "name": "ATALAY SİTESİ",
     "lat": 41.2468,
-    "lon": 31.412051
+    "lon": 31.412051,
+    "routes": []
   },
   {
     "id": "67387",
     "name": "SAĞLIK OCAĞI",
     "lat": 41.248053,
-    "lon": 31.413438
+    "lon": 31.413438,
+    "routes": []
   },
   {
     "id": "67388",
     "name": "ÜST DURAK",
     "lat": 41.248409,
-    "lon": 31.415939
+    "lon": 31.415939,
+    "routes": []
   },
   {
     "id": "67389",
     "name": "VESİLE DİKMEN OKULU",
     "lat": 41.248452,
-    "lon": 31.41837
+    "lon": 31.41837,
+    "routes": []
   },
   {
     "id": "67390",
     "name": "GÜLÜÇ KARAKOLU",
     "lat": 41.249723,
-    "lon": 31.421206
+    "lon": 31.421206,
+    "routes": []
   },
   {
     "id": "67512",
     "name": "TERMİNAL",
     "lat": 41.2746441,
-    "lon": 31.4871381
+    "lon": 31.4871381,
+    "routes": []
   },
   {
     "id": "67516",
     "name": "MERMERCİ",
     "lat": 41.274247,
-    "lon": 31.4956515
+    "lon": 31.4956515,
+    "routes": []
   },
   {
     "id": "67517",
     "name": "YIKAMACI",
     "lat": 41.2726262,
-    "lon": 31.4951311
+    "lon": 31.4951311,
+    "routes": []
   },
   {
     "id": "67518",
     "name": "CAMİİ",
     "lat": 41.2711889,
-    "lon": 31.4956676
+    "lon": 31.4956676,
+    "routes": []
   },
   {
     "id": "67519",
     "name": "DÖRT YOL",
     "lat": 41.270578,
-    "lon": 31.4969443
+    "lon": 31.4969443,
+    "routes": []
   },
   {
     "id": "67520",
     "name": "YENİ MAH.",
     "lat": 41.2705478,
-    "lon": 31.4988272
+    "lon": 31.4988272,
+    "routes": []
   },
   {
     "id": "67521",
     "name": "PETROL YOL AYRIMI",
     "lat": 41.2704047,
-    "lon": 31.5015845
+    "lon": 31.5015845,
+    "routes": []
   },
   {
     "id": "67522",
     "name": "KAVUCAKTAŞ",
     "lat": 41.2702736,
-    "lon": 31.5047844
+    "lon": 31.5047844,
+    "routes": []
   },
   {
     "id": "67523",
     "name": "2.DURAK",
     "lat": 41.27032,
-    "lon": 31.5079145
+    "lon": 31.5079145,
+    "routes": []
   },
   {
     "id": "67524",
     "name": "KÖMÜRCÜ",
     "lat": 41.2696648,
-    "lon": 31.5114899
+    "lon": 31.5114899,
+    "routes": []
   },
   {
     "id": "67525",
     "name": "ANAYOL",
     "lat": 41.2711626,
-    "lon": 31.5078984
+    "lon": 31.5078984,
+    "routes": []
   },
   {
     "id": "67526",
     "name": "PETROL",
     "lat": 41.2719126,
-    "lon": 31.5048836
+    "lon": 31.5048836,
+    "routes": []
   },
   {
     "id": "67527",
     "name": "ÖREN OKUL",
     "lat": 41.2755714,
-    "lon": 31.5038832
+    "lon": 31.5038832,
+    "routes": []
   },
   {
     "id": "67528",
     "name": "YOL AYRIMI",
     "lat": 41.2763212,
-    "lon": 31.5044491
+    "lon": 31.5044491,
+    "routes": []
   },
   {
     "id": "67529",
     "name": "TAŞ EV",
     "lat": 41.2772485,
-    "lon": 31.5068872
+    "lon": 31.5068872,
+    "routes": []
   },
   {
     "id": "67530",
     "name": "ÖREN 2",
     "lat": 41.2784176,
-    "lon": 31.5081613
+    "lon": 31.5081613,
+    "routes": []
   },
   {
     "id": "67531",
     "name": "ÖREN",
     "lat": 41.2794799,
-    "lon": 31.5069302
+    "lon": 31.5069302,
+    "routes": []
   },
   {
     "id": "67532",
     "name": "ÇEŞME",
     "lat": 41.2784438,
-    "lon": 31.5058331
+    "lon": 31.5058331,
+    "routes": []
   },
   {
     "id": "67533",
     "name": "YOL AYRIMI",
     "lat": 41.276414,
-    "lon": 31.5043847
+    "lon": 31.5043847,
+    "routes": []
   },
   {
     "id": "67534",
     "name": "OKUL DÖNÜŞ",
     "lat": 41.2756358,
-    "lon": 31.5038188
+    "lon": 31.5038188,
+    "routes": []
   },
   {
     "id": "67535",
     "name": "ANAYOL ÇIKIŞ",
     "lat": 41.2718843,
-    "lon": 31.5048032
+    "lon": 31.5048032,
+    "routes": []
   },
   {
     "id": "67536",
     "name": "ŞAHİNLER",
     "lat": 41.2744667,
-    "lon": 31.5014263
+    "lon": 31.5014263,
+    "routes": []
   },
   {
     "id": "67537",
     "name": "TOYOTA",
     "lat": 41.2758636,
-    "lon": 31.4981942
+    "lon": 31.4981942,
+    "routes": []
   }
 ]

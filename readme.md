@@ -1,6 +1,8 @@
-# KentKart GTFS Data Generator
+<h1>KentKart GTFS Data Generator <sub>& <a href="https://egezenn.github.io/kk-gtfs/map">viewer</a></sub></h1>
 
 A product of, "hey, i could probably do this."
+
+Available for viewing @ <https://egezenn.github.io/kk-gtfs/map>
 
 to run:
 
@@ -25,9 +27,9 @@ options:
 <summary><h2>Publicly available API endpoints</h2></summary>
 
 <https://service.kentkart.com/rl1/api/v2.0/city>
-<https://service.kentkart.com/rl1/api/info/announce?region=XXX&lang=tr>
-<https://service.kentkart.com/rl1/web/nearest/find?region=XXX&lang=tr>
-<https://service.kentkart.com/rl1/web/pathInfo?region=XXX&lang=tr&direction=X&displayRouteCode=X>
+<https://service.kentkart.com/rl1/api/info/announce?region={region}&lang=tr>
+<https://service.kentkart.com/rl1/web/nearest/find?region={region}&lang=tr>
+<https://service.kentkart.com/rl1/web/pathInfo?region={region}&lang=tr&direction={direction}&displayRouteCode={display_code}>
 </details>
 
 ## Hardcoded Assumptions
@@ -42,5 +44,3 @@ Because the KentKart API endpoints do not provide all required fields to generat
 ## Data Access
 
 `https://github.com/Egezenn/kk-gtfs/raw/main/data/{city}.zip`
-
-`https://github.com/Egezenn/kk-gtfs/raw/main/data/adana.zip`

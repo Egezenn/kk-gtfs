@@ -60,12 +60,14 @@ document.addEventListener("DOMContentLoaded", () => {
       return;
     }
 
-    let map, routeLayer, stopLayer;
+    let map, routeLayer, stopLayer, busLayer;
     let cityRoutes = [],
       cityStops = [],
       cityShapes = {},
       cityTrips = {},
-      cityTimetables = {};
+      cityTimetables = {},
+      cityRegionId = "000";
+    let liveBusInterval = null;
 
     // 1. Initialize Map with a slightly more readable Dark Mode
     map = L.map("map", { zoomControl: false }).setView([39.9, 32.8], 6);
@@ -77,6 +79,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     routeLayer = L.featureGroup().addTo(map);
     stopLayer = L.featureGroup().addTo(map);
+    busLayer = L.featureGroup().addTo(map);
 
     // 2. Load Data
     Promise.all([
@@ -87,13 +90,16 @@ document.addEventListener("DOMContentLoaded", () => {
       fetch(`../data/cities/${citySlug}/timetables.json`)
         .then((r) => (r.ok ? r.json() : {}))
         .catch(() => ({})),
+      fetch(`../data/metadata.json`).then((r) => (r.ok ? r.json() : [])),
     ])
-      .then(([routes, stops, shapes, trips, timetables]) => {
+      .then(([routes, stops, shapes, trips, timetables, metadata]) => {
         cityRoutes = routes;
         cityStops = stops;
         cityShapes = shapes;
         cityTrips = trips;
         cityTimetables = timetables;
+        const cityMeta = metadata.find((m) => m.slug === citySlug);
+        if (cityMeta) cityRegionId = cityMeta.region_id;
 
         document.getElementById("cityName").innerText = citySlug.replace("_", " ").toUpperCase();
         document.getElementById("cityStats").innerHTML = `
@@ -114,12 +120,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
         // Search filtering
         document.getElementById("sidebarSearch").addEventListener("input", (e) => {
-          const term = e.target.value.toLowerCase();
+          e.target.value = e.target.value.toLocaleUpperCase("tr-TR");
+          const term = e.target.value;
           const activeTab = document.querySelector(".tab-btn.active").dataset.tab;
           if (activeTab === "route") {
-            renderSidebarRoutes(cityRoutes.filter((r) => (r.short + (r.long || "")).toLowerCase().includes(term)));
+            renderSidebarRoutes(
+              cityRoutes.filter((r) => (r.short + (r.long || "")).toLocaleUpperCase("tr-TR").includes(term)),
+            );
           } else {
-            renderSidebarStops(cityStops.filter((s) => s.name.toLowerCase().includes(term)));
+            renderSidebarStops(cityStops.filter((s) => s.name.toLocaleUpperCase("tr-TR").includes(term)));
           }
         });
       })
@@ -131,6 +140,18 @@ document.addEventListener("DOMContentLoaded", () => {
     function renderAllStopsOnMap(stops) {
       stopLayer.clearLayers();
       stops.forEach((s) => {
+        let routeHtml = "";
+        if (s.routes && s.routes.length > 0) {
+          routeHtml = "<div style='margin-top:5px;display:flex;flex-wrap:wrap;gap:2px;'>";
+          s.routes.forEach((routeId) => {
+            const route = cityRoutes.find((r) => r.id === routeId);
+            if (route) {
+              routeHtml += `<span onclick="document.querySelector('.data-item[data-id=\\'${route.id}\\']')?.click()" style="cursor:pointer;background-color:#${route.color || "333"};color:#${route.text_color || "fff"};padding:4px 6px;border-radius:4px;font-size:0.85rem;font-weight:bold;box-shadow: 0 0 5px #${route.color || "333"};">${route.short}</span>`;
+            }
+          });
+          routeHtml += "</div>";
+        }
+
         L.circleMarker([s.lat, s.lon], {
           radius: 3,
           color: "#00ffff",
@@ -139,7 +160,7 @@ document.addEventListener("DOMContentLoaded", () => {
           fillOpacity: 0.8,
         })
           .addTo(stopLayer)
-          .bindPopup(`<b>${s.name}</b><br>ID: ${s.id}`);
+          .bindPopup(`<b>${s.name}</b><br>ID: ${s.id}${routeHtml}`);
       });
     }
 
@@ -161,10 +182,18 @@ document.addEventListener("DOMContentLoaded", () => {
 
       list.querySelectorAll(".data-item").forEach((item) => {
         item.addEventListener("click", () => {
-          list.querySelectorAll(".data-item").forEach((i) => i.classList.remove("active"));
-          item.classList.add("active");
-          currentRouteId = item.dataset.id;
-          currentDirection = "0";
+          const newRouteId = item.dataset.id;
+          if (currentRouteId === newRouteId) {
+            // Toggle direction if already selected
+            currentDirection = currentDirection === "0" ? "1" : "0";
+          } else {
+            // New route, reset active states and direction
+            list.querySelectorAll(".data-item").forEach((i) => i.classList.remove("active"));
+            item.classList.add("active");
+            currentRouteId = newRouteId;
+            currentDirection = "0";
+          }
+
           showRouteOnMap(currentRouteId);
           showTimetable(currentRouteId, currentDirection);
         });
@@ -174,7 +203,31 @@ document.addEventListener("DOMContentLoaded", () => {
     document.getElementById("reverseBtn").addEventListener("click", () => {
       if (currentRouteId) {
         currentDirection = currentDirection === "0" ? "1" : "0";
+        showRouteOnMap(currentRouteId);
         showTimetable(currentRouteId, currentDirection);
+      }
+    });
+
+    document.querySelector(".close-btn").addEventListener("click", () => {
+      // Clear current route selection
+      if (currentRouteId) {
+        currentRouteId = null;
+        currentDirection = "0";
+
+        // Remove active class from selected routes in sidebar
+        const list = document.getElementById("routeList");
+        if (list) {
+          list.querySelectorAll(".data-item").forEach((i) => i.classList.remove("active"));
+        }
+
+        // Hide window and clear map route layer
+        document.getElementById("timetableWindow").style.display = "none";
+        routeLayer.clearLayers();
+        busLayer.clearLayers();
+        if (liveBusInterval) {
+          clearInterval(liveBusInterval);
+          liveBusInterval = null;
+        }
       }
     });
 
@@ -194,8 +247,22 @@ document.addEventListener("DOMContentLoaded", () => {
         item.addEventListener("click", () => {
           const stop = cityStops.find((s) => s.id === item.dataset.id);
           if (stop) {
+            let routeHtml = "";
+            if (stop.routes && stop.routes.length > 0) {
+              routeHtml = "<div style='margin-top:5px;display:flex;flex-wrap:wrap;gap:2px;'>";
+              stop.routes.forEach((routeId) => {
+                const route = cityRoutes.find((r) => r.id === routeId);
+                if (route) {
+                  routeHtml += `<span onclick="document.querySelector('.data-item[data-id=\\'${route.id}\\']')?.click()" style="cursor:pointer;background-color:#${route.color || "333"};color:#${route.text_color || "fff"};padding:4px 6px;border-radius:4px;font-size:0.85rem;font-weight:bold;box-shadow: 0 0 5px #${route.color || "333"};">${route.short}</span>`;
+                }
+              });
+              routeHtml += "</div>";
+            }
             map.setView([stop.lat, stop.lon], 16);
-            L.popup().setLatLng([stop.lat, stop.lon]).setContent(`<b>${stop.name}</b>`).openOn(map);
+            L.popup()
+              .setLatLng([stop.lat, stop.lon])
+              .setContent(`<b>${stop.name}</b><br>ID: ${stop.id}${routeHtml}`)
+              .openOn(map);
           }
         });
       });
@@ -203,19 +270,76 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function showRouteOnMap(routeId) {
       routeLayer.clearLayers();
-      const shapeId = cityTrips[routeId];
+      const routeDirs = cityTrips[routeId];
+      if (!routeDirs) return;
+
+      const shapeId = routeDirs[currentDirection] || routeDirs[Object.keys(routeDirs)[0]];
       const coordinates = cityShapes[shapeId];
       const route = cityRoutes.find((r) => r.id === routeId);
 
       if (coordinates && route) {
+        // Add a neon glow effect using Leaflet's line options, leveraging CSS filter
         const polyline = L.polyline(coordinates, {
           color: "#" + route.color,
-          weight: 4,
+          weight: 6,
           opacity: 1,
           lineJoin: "round",
+          className: "neon-route-line",
         }).addTo(routeLayer);
-        map.fitBounds(polyline.getBounds(), { padding: [100, 100] });
+
+        // Inject a dynamic style rule for the current route's neon glow
+        let styleEl = document.getElementById("neon-style");
+        if (!styleEl) {
+          styleEl = document.createElement("style");
+          styleEl.id = "neon-style";
+          document.head.appendChild(styleEl);
+        }
+        styleEl.innerHTML = `
+            .neon-route-line {
+                filter: drop-shadow(0 0 8px #${route.color}) drop-shadow(0 0 4px #${route.color});
+                transition: filter 0.3s ease;
+            }
+        `;
+
+        map.fitBounds(polyline.getBounds(), { padding: [50, 50] });
       }
+
+      fetchLiveBuses();
+      if (liveBusInterval) clearInterval(liveBusInterval);
+      liveBusInterval = setInterval(fetchLiveBuses, 30000);
+    }
+
+    function fetchLiveBuses() {
+      if (!currentRouteId || cityRegionId === "000") return;
+      const route = cityRoutes.find((r) => r.id === currentRouteId);
+      if (!route) return;
+      const displayCode = route.short;
+
+      const url = `https://service.kentkart.com/rl1/web/pathInfo?region=${cityRegionId}&lang=tr&direction=${currentDirection}&displayRouteCode=${displayCode}`;
+
+      fetch(url)
+        .then((r) => r.json())
+        .then((data) => {
+          busLayer.clearLayers();
+          if (data && data.pathList && data.pathList.length > 0) {
+            const buses = data.pathList[0].busList || [];
+            buses.forEach((bus) => {
+              if (bus.lat && bus.lng) {
+                const busMarker = L.circleMarker([parseFloat(bus.lat), parseFloat(bus.lng)], {
+                  radius: 6,
+                  color: "#fff",
+                  weight: 2,
+                  fillColor: "#ff0000",
+                  fillOpacity: 1,
+                  className: "live-bus-marker",
+                });
+                busMarker.bindPopup(`<b>BUS: ${bus.plateNumber || bus.busId}</b>`);
+                busMarker.addTo(busLayer);
+              }
+            });
+          }
+        })
+        .catch((err) => console.error("Live bus polling error:", err));
     }
 
     function showTimetable(routeId, direction) {

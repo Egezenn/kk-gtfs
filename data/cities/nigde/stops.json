@@ -3,1326 +3,1595 @@
     "id": "51001",
     "name": "EGITIM DURAK",
     "lat": 37.9361246,
-    "lon": 34.6189766
+    "lon": 34.6189766,
+    "routes": []
   },
   {
     "id": "51002",
     "name": "ATATÜRK LİSESİ",
     "lat": 37.9464539,
-    "lon": 34.6296241
+    "lon": 34.6296241,
+    "routes": []
   },
   {
     "id": "51005",
     "name": "51 NOLU KOOP",
     "lat": 37.9607321,
-    "lon": 34.6458692
+    "lon": 34.6458692,
+    "routes": []
   },
   {
     "id": "51006",
     "name": "FATIH SITESI",
     "lat": 37.9624139,
-    "lon": 34.6543045
+    "lon": 34.6543045,
+    "routes": []
   },
   {
     "id": "51011",
     "name": "CEMIYET",
     "lat": 37.9737691,
-    "lon": 34.684717
+    "lon": 34.684717,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51012",
     "name": "BALOGLU APT",
     "lat": 37.9768103,
-    "lon": 34.687672
+    "lon": 34.687672,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51013",
     "name": "RAHMAN CAMI",
     "lat": 37.9681932,
-    "lon": 34.689946
+    "lon": 34.689946,
+    "routes": []
   },
   {
     "id": "51014",
     "name": "KORUKENT",
     "lat": 37.9845988,
-    "lon": 34.6932692
+    "lon": 34.6932692,
+    "routes": []
   },
   {
     "id": "51015",
     "name": "TANER ECZANE",
     "lat": 37.9668671,
-    "lon": 34.6936022
+    "lon": 34.6936022,
+    "routes": []
   },
   {
     "id": "51017",
     "name": "NIG-BAS EVLERI",
     "lat": 37.9875969,
-    "lon": 34.6950619
+    "lon": 34.6950619,
+    "routes": []
   },
   {
     "id": "51018",
     "name": "OZBEK MARKET",
     "lat": 37.9661108,
-    "lon": 34.6970133
+    "lon": 34.6970133,
+    "routes": []
   },
   {
     "id": "51019",
     "name": "GUVEN SITESI",
     "lat": 37.9938747,
-    "lon": 34.6981425
+    "lon": 34.6981425,
+    "routes": []
   },
   {
     "id": "51022",
     "name": "IS BANKASI",
     "lat": 37.9706287,
-    "lon": 34.6759969
+    "lon": 34.6759969,
+    "routes": []
   },
   {
     "id": "51023",
     "name": "ASKERLIK SUBESI",
     "lat": 37.97145,
-    "lon": 34.6741882
+    "lon": 34.6741882,
+    "routes": []
   },
   {
     "id": "51024",
     "name": "VILLALAR 1",
     "lat": 37.9794627,
-    "lon": 34.6698657
+    "lon": 34.6698657,
+    "routes": []
   },
   {
     "id": "51025",
     "name": "SAGLIK OCAGI",
     "lat": 37.9820438,
-    "lon": 34.6706183
+    "lon": 34.6706183,
+    "routes": []
   },
   {
     "id": "51026",
     "name": "POLIS EVI",
     "lat": 37.9851814,
-    "lon": 34.6710309
+    "lon": 34.6710309,
+    "routes": []
   },
   {
     "id": "51027",
     "name": "YURT DURAK",
     "lat": 37.9855983,
-    "lon": 34.6710916
+    "lon": 34.6710916,
+    "routes": []
   },
   {
     "id": "51028",
     "name": "GUL BAKKAL",
     "lat": 37.9883095,
-    "lon": 34.6713736
+    "lon": 34.6713736,
+    "routes": []
   },
   {
     "id": "51036",
     "name": "AYDOGANLAR SITESI",
     "lat": 37.9774056,
-    "lon": 34.6749456
+    "lon": 34.6749456,
+    "routes": []
   },
   {
     "id": "51037",
     "name": "CAMI DURAK",
     "lat": 37.9791943,
-    "lon": 34.6750094
+    "lon": 34.6750094,
+    "routes": []
   },
   {
     "id": "51038",
     "name": "YILDIZ MARKET",
     "lat": 37.9804825,
-    "lon": 34.6750319
+    "lon": 34.6750319,
+    "routes": []
   },
   {
     "id": "51040",
     "name": "OZTURK EVLERI",
     "lat": 37.988574,
-    "lon": 34.6773803
+    "lon": 34.6773803,
+    "routes": []
   },
   {
     "id": "51041",
     "name": "MURAT CAMI",
     "lat": 37.9904221,
-    "lon": 34.6773848
+    "lon": 34.6773848,
+    "routes": []
   },
   {
     "id": "51042",
     "name": "BEHSAT ECEMIS",
     "lat": 37.9941195,
-    "lon": 34.677247
+    "lon": 34.677247,
+    "routes": []
   },
   {
     "id": "51044",
     "name": "BAHCELI EVLER",
     "lat": 37.9957742,
-    "lon": 34.675178
+    "lon": 34.675178,
+    "routes": []
   },
   {
     "id": "51045",
     "name": "HANDE SITESI",
     "lat": 37.9939296,
-    "lon": 34.674839
+    "lon": 34.674839,
+    "routes": []
   },
   {
     "id": "51046",
     "name": "BARIS APT",
     "lat": 37.9900841,
-    "lon": 34.6752159
+    "lon": 34.6752159,
+    "routes": []
   },
   {
     "id": "51047",
     "name": "ERGUNLER SITESI",
     "lat": 37.9866865,
-    "lon": 34.6750322
+    "lon": 34.6750322,
+    "routes": []
   },
   {
     "id": "51049",
     "name": "KENDIRLI CAMI",
     "lat": 37.9609887,
-    "lon": 34.6773496
+    "lon": 34.6773496,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51051",
     "name": "MANDACILAR SITESI",
     "lat": 37.9570976,
-    "lon": 34.6704956
+    "lon": 34.6704956,
+    "routes": []
   },
   {
     "id": "51054",
     "name": "MERT EVLER",
     "lat": 37.9539952,
-    "lon": 34.6687828
+    "lon": 34.6687828,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51055",
     "name": "BUCAK CAYIR",
     "lat": 37.9539608,
-    "lon": 34.6659178
+    "lon": 34.6659178,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51056",
     "name": "BUCAK CAYIR 2",
     "lat": 37.9547783,
-    "lon": 34.6621778
+    "lon": 34.6621778,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51057",
     "name": "DERBENT",
     "lat": 37.9583809,
-    "lon": 34.6656595
+    "lon": 34.6656595,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51058",
     "name": "DERBENT 2",
     "lat": 37.9590105,
-    "lon": 34.668851
+    "lon": 34.668851,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51059",
     "name": "MANDACILAR 2",
     "lat": 37.9598031,
-    "lon": 34.6706846
+    "lon": 34.6706846,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51060",
     "name": "SALI PPAZAR 2",
     "lat": 37.9605789,
-    "lon": 34.6721538
+    "lon": 34.6721538,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51061",
     "name": "BIM DURAK",
     "lat": 37.9629804,
-    "lon": 34.6733003
+    "lon": 34.6733003,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51065",
     "name": "MUHENDISLIK IBB DURAK",
     "lat": 37.9415746,
-    "lon": 34.620361
+    "lon": 34.620361,
+    "routes": []
   },
   {
     "id": "51068",
     "name": "KAMPUS CIKIS",
     "lat": 37.9447692,
-    "lon": 34.6244182
+    "lon": 34.6244182,
+    "routes": []
   },
   {
     "id": "51069",
     "name": "ATATÜRK LİSESİ",
     "lat": 37.9464646,
-    "lon": 34.630106
+    "lon": 34.630106,
+    "routes": []
   },
   {
     "id": "51070",
     "name": "CEVREYOL DURAK",
     "lat": 37.9482948,
-    "lon": 34.634185
+    "lon": 34.634185,
+    "routes": []
   },
   {
     "id": "51071",
     "name": "OPET PETROL",
     "lat": 37.9509022,
-    "lon": 34.6367781
+    "lon": 34.6367781,
+    "routes": []
   },
   {
     "id": "51072",
     "name": "BETON KOPRU",
     "lat": 37.9521236,
-    "lon": 34.6380016
+    "lon": 34.6380016,
+    "routes": []
   },
   {
     "id": "51073",
     "name": "AYMOKE",
     "lat": 37.9564813,
-    "lon": 34.6429675
+    "lon": 34.6429675,
+    "routes": []
   },
   {
     "id": "51074",
     "name": "GOKKUSAGI SITELERI",
     "lat": 37.9575216,
-    "lon": 34.644205
+    "lon": 34.644205,
+    "routes": []
   },
   {
     "id": "51075",
     "name": "SABANCI KIZ YURDU",
     "lat": 37.9599074,
-    "lon": 34.6468315
+    "lon": 34.6468315,
+    "routes": []
   },
   {
     "id": "51076",
     "name": "POLIKLINIK",
     "lat": 37.9712751,
-    "lon": 34.6452349
+    "lon": 34.6452349,
+    "routes": []
   },
   {
     "id": "51077",
     "name": "GOZDE DURAK",
     "lat": 37.9620354,
-    "lon": 34.6526099
+    "lon": 34.6526099,
+    "routes": []
   },
   {
     "id": "51189",
     "name": "TURGUT BUFE",
     "lat": 37.9635103,
-    "lon": 34.6442805
+    "lon": 34.6442805,
+    "routes": []
   },
   {
     "id": "51188",
     "name": "OZBELLI CAMI",
     "lat": 37.9646436,
-    "lon": 34.6450179
+    "lon": 34.6450179,
+    "routes": []
   },
   {
     "id": "51187",
     "name": "KONAK RESTURANT",
     "lat": 37.9660393,
-    "lon": 34.6440387
+    "lon": 34.6440387,
+    "routes": []
   },
   {
     "id": "51184",
     "name": "ASAGI BLOKLAR",
     "lat": 37.9672658,
-    "lon": 34.6412974
+    "lon": 34.6412974,
+    "routes": []
   },
   {
     "id": "51183",
     "name": "DEVLET HASTANESI",
     "lat": 37.9692225,
-    "lon": 34.6442202
+    "lon": 34.6442202,
+    "routes": []
   },
   {
     "id": "51175",
     "name": "ACIL SERVIS",
     "lat": 37.9699686,
-    "lon": 34.6473332
+    "lon": 34.6473332,
+    "routes": []
   },
   {
     "id": "51179",
     "name": "KIZILELMA EVLERI",
     "lat": 37.964597,
-    "lon": 34.6464317
+    "lon": 34.6464317,
+    "routes": []
   },
   {
     "id": "51308",
     "name": "MERKEZ DURAK",
     "lat": 37.9612044,
-    "lon": 34.6462537
+    "lon": 34.6462537,
+    "routes": []
   },
   {
     "id": "51078",
     "name": "ISTIKBAL",
     "lat": 37.9623931,
-    "lon": 34.6572516
+    "lon": 34.6572516,
+    "routes": []
   },
   {
     "id": "51080",
     "name": "TEDAS HAYAT HAST",
     "lat": 37.9628563,
-    "lon": 34.6626763
+    "lon": 34.6626763,
+    "routes": []
   },
   {
     "id": "51081",
     "name": "YSE EVLERI",
     "lat": 37.9635542,
-    "lon": 34.6694382
+    "lon": 34.6694382,
+    "routes": []
   },
   {
     "id": "51166",
     "name": "MEYDAN",
     "lat": 37.9692958,
-    "lon": 34.6761246
+    "lon": 34.6761246,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51084",
     "name": "IMAM HATIP DURAK",
     "lat": 37.97261,
-    "lon": 34.6786581
+    "lon": 34.6786581,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51085",
     "name": "KOSEM MARKET",
     "lat": 37.9719196,
-    "lon": 34.6813645
+    "lon": 34.6813645,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51086",
     "name": "ESKI TERMINAL KARŞISI",
     "lat": 37.9705191,
-    "lon": 34.6845835
+    "lon": 34.6845835,
+    "routes": []
   },
   {
     "id": "51087",
     "name": "RAHMAN CAMI",
     "lat": 37.9682159,
-    "lon": 34.689237
+    "lon": 34.689237,
+    "routes": []
   },
   {
     "id": "51088",
     "name": "OKYANUS DURAK",
     "lat": 37.9674924,
-    "lon": 34.6913196
+    "lon": 34.6913196,
+    "routes": []
   },
   {
     "id": "51089",
     "name": "3 NOLU SAGLIK OCAGI",
     "lat": 37.9667967,
-    "lon": 34.6934275
+    "lon": 34.6934275,
+    "routes": []
   },
   {
     "id": "51090",
     "name": "ILHANLI 1 (DEDELI BAG CAMI )",
     "lat": 37.9652022,
-    "lon": 34.6927415
+    "lon": 34.6927415,
+    "routes": []
   },
   {
     "id": "51092",
     "name": "ILAHNLI 3",
     "lat": 37.9649963,
-    "lon": 34.6902251
+    "lon": 34.6902251,
+    "routes": []
   },
   {
     "id": "51093",
     "name": "5 SUBAT I.O.O",
     "lat": 37.9655478,
-    "lon": 34.6881121
+    "lon": 34.6881121,
+    "routes": []
   },
   {
     "id": "51094",
     "name": "HALI SAHA",
     "lat": 37.9641562,
-    "lon": 34.6871984
+    "lon": 34.6871984,
+    "routes": []
   },
   {
     "id": "51095",
     "name": "ILHANLI 4",
     "lat": 37.9631228,
-    "lon": 34.6866843
+    "lon": 34.6866843,
+    "routes": []
   },
   {
     "id": "51097",
     "name": "ILHANLI 5",
     "lat": 37.9613245,
-    "lon": 34.6860357
+    "lon": 34.6860357,
+    "routes": []
   },
   {
     "id": "51098",
     "name": "ILHANLI 6",
     "lat": 37.9594226,
-    "lon": 34.6860174
+    "lon": 34.6860174,
+    "routes": []
   },
   {
     "id": "51099",
     "name": "ILHANLI DORTYOL",
     "lat": 37.9585052,
-    "lon": 34.6856892
+    "lon": 34.6856892,
+    "routes": []
   },
   {
     "id": "51100",
     "name": "ILHANLI 7",
     "lat": 37.957389,
-    "lon": 34.6847839
+    "lon": 34.6847839,
+    "routes": []
   },
   {
     "id": "51101",
     "name": "ILHANLI 8 KOSE",
     "lat": 37.9558588,
-    "lon": 34.6846435
+    "lon": 34.6846435,
+    "routes": []
   },
   {
     "id": "51102",
     "name": "YORUKLER DURAK",
     "lat": 37.9555251,
-    "lon": 34.6876473
+    "lon": 34.6876473,
+    "routes": []
   },
   {
     "id": "51103",
     "name": "YORUKLER 1",
     "lat": 37.9552562,
-    "lon": 34.6899246
+    "lon": 34.6899246,
+    "routes": []
   },
   {
     "id": "51104",
     "name": "ASKER BAKKAL",
     "lat": 37.9566369,
-    "lon": 34.6903784
+    "lon": 34.6903784,
+    "routes": []
   },
   {
     "id": "51105",
     "name": "INSEL CAMI",
     "lat": 37.9608446,
-    "lon": 34.690943
+    "lon": 34.690943,
+    "routes": []
   },
   {
     "id": "51106",
     "name": "BESIKTAS DURAK",
     "lat": 37.9603432,
-    "lon": 34.6925735
+    "lon": 34.6925735,
+    "routes": []
   },
   {
     "id": "51107",
     "name": "ILHANLI 9",
     "lat": 37.9596002,
-    "lon": 34.6953647
+    "lon": 34.6953647,
+    "routes": []
   },
   {
     "id": "51109",
     "name": "YENI TERMINAL",
     "lat": 37.957666,
-    "lon": 34.7018216
+    "lon": 34.7018216,
+    "routes": []
   },
   {
     "id": "51312",
     "name": "TERMİNAL TOKİ GİRİŞ DURAĞI",
     "lat": 37.9586449,
-    "lon": 34.7013788
+    "lon": 34.7013788,
+    "routes": []
   },
   {
     "id": "51114",
     "name": "ILHANLI 10",
     "lat": 37.9621495,
-    "lon": 34.696418
+    "lon": 34.696418,
+    "routes": []
   },
   {
     "id": "51115",
     "name": "ILHANLI 11",
     "lat": 37.9638729,
-    "lon": 34.6972412
+    "lon": 34.6972412,
+    "routes": []
   },
   {
     "id": "51117",
     "name": "NAR CAMI",
     "lat": 37.9637896,
-    "lon": 34.6980853
+    "lon": 34.6980853,
+    "routes": []
   },
   {
     "id": "51118",
     "name": "NAR DURAK",
     "lat": 37.9658481,
-    "lon": 34.6990026
+    "lon": 34.6990026,
+    "routes": []
   },
   {
     "id": "51131",
     "name": "ILHANLI PIDE FIRIN",
     "lat": 37.9673243,
-    "lon": 34.6921895
+    "lon": 34.6921895,
+    "routes": []
   },
   {
     "id": "51277",
     "name": "ESKI TERMINAL",
     "lat": 37.9704806,
-    "lon": 34.6850667
+    "lon": 34.6850667,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51276",
     "name": "KOSEM MARKET",
     "lat": 37.9721385,
-    "lon": 34.6814996
+    "lon": 34.6814996,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51167",
     "name": "IMAM HATIP",
     "lat": 37.9729158,
-    "lon": 34.67966
+    "lon": 34.67966,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51168",
     "name": "HAZIM TEPEYRAN",
     "lat": 37.9728904,
-    "lon": 34.6757506
+    "lon": 34.6757506,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51169",
     "name": "HASTANELER ECZANESI",
     "lat": 37.9722528,
-    "lon": 34.6740501
+    "lon": 34.6740501,
+    "routes": []
   },
   {
     "id": "51170",
     "name": "KAPALI SPOR SALONU",
     "lat": 37.9695752,
-    "lon": 34.6716569
+    "lon": 34.6716569,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51173",
     "name": "YSE EVLERI",
     "lat": 37.9647036,
-    "lon": 34.6706088
+    "lon": 34.6706088,
+    "routes": []
   },
   {
     "id": "51275",
     "name": "TEDAS HAYAT HAST",
     "lat": 37.9630181,
-    "lon": 34.6619512
+    "lon": 34.6619512,
+    "routes": []
   },
   {
     "id": "51274",
     "name": "ISTIKLAL",
     "lat": 37.9624801,
-    "lon": 34.6572491
+    "lon": 34.6572491,
+    "routes": []
   },
   {
     "id": "51273",
     "name": "GOZDE DURAK",
     "lat": 37.9621286,
-    "lon": 34.6525648
+    "lon": 34.6525648,
+    "routes": []
   },
   {
     "id": "51271",
     "name": "SABANCI KIZ YURDU",
     "lat": 37.9606669,
-    "lon": 34.6470777
+    "lon": 34.6470777,
+    "routes": []
   },
   {
     "id": "51178",
     "name": "ROKET EVLER",
     "lat": 37.9621549,
-    "lon": 34.6460141
+    "lon": 34.6460141,
+    "routes": []
   },
   {
     "id": "51180",
     "name": "OKYANUS MARKET",
     "lat": 37.9658759,
-    "lon": 34.6464278
+    "lon": 34.6464278,
+    "routes": []
   },
   {
     "id": "51288",
     "name": "KONAK RESTAURANT",
     "lat": 37.9660781,
-    "lon": 34.6442519
+    "lon": 34.6442519,
+    "routes": []
   },
   {
     "id": "51289",
     "name": "ÖZBELLİ CAMİ",
     "lat": 37.9644266,
-    "lon": 34.6449975
+    "lon": 34.6449975,
+    "routes": []
   },
   {
     "id": "51181",
     "name": "DOGUM HASTANESI",
     "lat": 37.9679222,
-    "lon": 34.6441127
+    "lon": 34.6441127,
+    "routes": []
   },
   {
     "id": "51286",
     "name": "DİS HASTANESİ",
     "lat": 37.9812296,
-    "lon": 34.6850308
+    "lon": 34.6850308,
+    "routes": []
   },
   {
     "id": "51082",
     "name": "KULTUR MERKEZI",
     "lat": 37.9656054,
-    "lon": 34.6719921
+    "lon": 34.6719921,
+    "routes": []
   },
   {
     "id": "51083",
     "name": "OSKAR DURAGI",
     "lat": 37.968296,
-    "lon": 34.6754797
+    "lon": 34.6754797,
+    "routes": []
   },
   {
     "id": "51121",
     "name": "NAR KOSE",
     "lat": 37.9660995,
-    "lon": 34.6982215
+    "lon": 34.6982215,
+    "routes": []
   },
   {
     "id": "51279",
     "name": "BOLGE TRAFIK",
     "lat": 37.9665748,
-    "lon": 34.7019733
+    "lon": 34.7019733,
+    "routes": []
   },
   {
     "id": "51110",
     "name": "TOKI 1",
     "lat": 37.9589135,
-    "lon": 34.7044547
+    "lon": 34.7044547,
+    "routes": []
   },
   {
     "id": "51112",
     "name": "TOKI  CAMI",
     "lat": 37.9611991,
-    "lon": 34.7032847
+    "lon": 34.7032847,
+    "routes": []
   },
   {
     "id": "51111",
     "name": "TOKİ 2",
     "lat": 37.9602358,
-    "lon": 34.7026709
+    "lon": 34.7026709,
+    "routes": []
   },
   {
     "id": "51113",
     "name": "POLIS OKULU",
     "lat": 37.9643679,
-    "lon": 34.7033134
+    "lon": 34.7033134,
+    "routes": []
   },
   {
     "id": "51280",
     "name": "JANDARMA",
     "lat": 37.9667055,
-    "lon": 34.7019827
+    "lon": 34.7019827,
+    "routes": []
   },
   {
     "id": "51122",
     "name": "OZBEK MARKET",
     "lat": 37.9662214,
-    "lon": 34.6968331
+    "lon": 34.6968331,
+    "routes": []
   },
   {
     "id": "51172",
     "name": "SARUHAN",
     "lat": 37.9670612,
-    "lon": 34.6737084
+    "lon": 34.6737084,
+    "routes": []
   },
   {
     "id": "51174",
     "name": "MIGROS",
     "lat": 37.96316,
-    "lon": 34.6680808
+    "lon": 34.6680808,
+    "routes": []
   },
   {
     "id": "51176",
     "name": "KYK",
     "lat": 37.9606474,
-    "lon": 34.6442106
+    "lon": 34.6442106,
+    "routes": []
   },
   {
     "id": "51182",
     "name": "DIS HASTANESI",
     "lat": 37.9813289,
-    "lon": 34.6849982
+    "lon": 34.6849982,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51287",
     "name": "AŞAĞI BLOKLAR",
     "lat": 37.9673257,
-    "lon": 34.6412371
+    "lon": 34.6412371,
+    "routes": []
   },
   {
     "id": "51290",
     "name": "TURGUT BÜFE",
     "lat": 37.9634496,
-    "lon": 34.6443404
+    "lon": 34.6443404,
+    "routes": []
   },
   {
     "id": "51317",
     "name": "KAMPÜS BAŞLANGIC",
     "lat": 37.9351267,
-    "lon": 34.6234701
+    "lon": 34.6234701,
+    "routes": []
   },
   {
     "id": "51316",
     "name": "KILIC ASLAN",
     "lat": 37.9341578,
-    "lon": 34.6218232
+    "lon": 34.6218232,
+    "routes": []
   },
   {
     "id": "51315",
     "name": "FADIMANA",
     "lat": 37.9329731,
-    "lon": 34.6201817
+    "lon": 34.6201817,
+    "routes": []
   },
   {
     "id": "51309",
     "name": "LABORATUVAR",
     "lat": 37.938211,
-    "lon": 34.6167378
+    "lon": 34.6167378,
+    "routes": []
   },
   {
     "id": "51295",
     "name": "YABANCI DILLER DURAK",
     "lat": 37.9405167,
-    "lon": 34.6181672
+    "lon": 34.6181672,
+    "routes": []
   },
   {
     "id": "51311",
     "name": "KAPI ÇIKIŞ",
     "lat": 37.9430107,
-    "lon": 34.623454
+    "lon": 34.623454,
+    "routes": []
   },
   {
     "id": "51132",
     "name": "OZDEN MARKET",
     "lat": 37.9716668,
-    "lon": 34.6833173
+    "lon": 34.6833173,
+    "routes": []
   },
   {
     "id": "51134",
     "name": "CEMIYET",
     "lat": 37.9734988,
-    "lon": 34.6846936
+    "lon": 34.6846936,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51281",
     "name": "BEGSAN MARKET",
     "lat": 37.9754767,
-    "lon": 34.6865684
+    "lon": 34.6865684,
+    "routes": []
   },
   {
     "id": "51136",
     "name": "AMAS ÖZDEN MARKET",
     "lat": 37.9774646,
-    "lon": 34.6871238
+    "lon": 34.6871238,
+    "routes": []
   },
   {
     "id": "51138",
     "name": "NIGDE EVLERI GIRIS",
     "lat": 37.981773,
-    "lon": 34.6869599
+    "lon": 34.6869599,
+    "routes": []
   },
   {
     "id": "51139",
     "name": "AFET EVLER",
     "lat": 37.9840785,
-    "lon": 34.6880176
+    "lon": 34.6880176,
+    "routes": []
   },
   {
     "id": "51141",
     "name": "NIGDE EVLERI KOSE",
     "lat": 37.9864363,
-    "lon": 34.6909479
+    "lon": 34.6909479,
+    "routes": []
   },
   {
     "id": "51142",
     "name": "NIGDE EVLERI 2",
     "lat": 37.9871582,
-    "lon": 34.690881
+    "lon": 34.690881,
+    "routes": []
   },
   {
     "id": "51144",
     "name": "NIGDE EVLERI 3",
     "lat": 37.989415,
-    "lon": 34.6907562
+    "lon": 34.6907562,
+    "routes": []
   },
   {
     "id": "51145",
     "name": "OZDEN MARKET",
     "lat": 37.9918046,
-    "lon": 34.6898712
+    "lon": 34.6898712,
+    "routes": []
   },
   {
     "id": "51146",
     "name": "NIGDE EVLERI 4",
     "lat": 37.9922868,
-    "lon": 34.6918506
+    "lon": 34.6918506,
+    "routes": []
   },
   {
     "id": "51147",
     "name": "NIGDE EVLERI 5",
     "lat": 37.9931067,
-    "lon": 34.691043
+    "lon": 34.691043,
+    "routes": []
   },
   {
     "id": "51148",
     "name": "SAVCILIK LOJMANLARI",
     "lat": 37.9936336,
-    "lon": 34.6900414
+    "lon": 34.6900414,
+    "routes": []
   },
   {
     "id": "51152",
     "name": "TOKI",
     "lat": 37.9992702,
-    "lon": 34.6914637
+    "lon": 34.6914637,
+    "routes": []
   },
   {
     "id": "51153",
     "name": "NIGDE EVLERI 7",
     "lat": 37.9974251,
-    "lon": 34.692639
+    "lon": 34.692639,
+    "routes": []
   },
   {
     "id": "51154",
     "name": "KEMER SİTESİ",
     "lat": 37.9973071,
-    "lon": 34.6951576
+    "lon": 34.6951576,
+    "routes": []
   },
   {
     "id": "51156",
     "name": "OZDOGUS REHABILATASYON",
     "lat": 37.9931152,
-    "lon": 34.6981041
+    "lon": 34.6981041,
+    "routes": []
   },
   {
     "id": "51158",
     "name": "HACI SERIFE PELIT CAMI",
     "lat": 37.9900071,
-    "lon": 34.6981495
+    "lon": 34.6981495,
+    "routes": []
   },
   {
     "id": "51159",
     "name": "TASKENT YAPI KOOP",
     "lat": 37.9886259,
-    "lon": 34.6973083
+    "lon": 34.6973083,
+    "routes": []
   },
   {
     "id": "51160",
     "name": "TASKENT YAPI KOOP 2",
     "lat": 37.9886799,
-    "lon": 34.6960656
+    "lon": 34.6960656,
+    "routes": []
   },
   {
     "id": "51161",
     "name": "NIGDE EVLERI 9 KOSE",
     "lat": 37.9892671,
-    "lon": 34.6947094
+    "lon": 34.6947094,
+    "routes": []
   },
   {
     "id": "51162",
     "name": "YAYLA KENT",
     "lat": 37.9884013,
-    "lon": 34.6938371
+    "lon": 34.6938371,
+    "routes": []
   },
   {
     "id": "51137",
     "name": "EMINE HATUN CAMI",
     "lat": 37.9790515,
-    "lon": 34.6866682
+    "lon": 34.6866682,
+    "routes": []
   },
   {
     "id": "51135",
     "name": "BEGSAN MARKET",
     "lat": 37.9754825,
-    "lon": 34.6864092
+    "lon": 34.6864092,
+    "routes": []
   },
   {
     "id": "51270",
     "name": "GOKKUSAGI SITELERI",
     "lat": 37.9579763,
-    "lon": 34.6444083
+    "lon": 34.6444083,
+    "routes": []
   },
   {
     "id": "51269",
     "name": "BETON KOPRU",
     "lat": 37.9522517,
-    "lon": 34.6378477
+    "lon": 34.6378477,
+    "routes": []
   },
   {
     "id": "51267",
     "name": "CEVREYOL DURAK",
     "lat": 37.9483813,
-    "lon": 34.6340449
+    "lon": 34.6340449,
+    "routes": []
   },
   {
     "id": "51292",
     "name": "KAPI  GİRİŞ",
     "lat": 37.9435584,
-    "lon": 34.623808
+    "lon": 34.623808,
+    "routes": []
   },
   {
     "id": "51294",
     "name": "MUHENDISLIK IBB DURAK",
     "lat": 37.9418366,
-    "lon": 34.6208415
+    "lon": 34.6208415,
+    "routes": []
   },
   {
     "id": "51297",
     "name": "EGITIM DURAK",
     "lat": 37.9360173,
-    "lon": 34.6186529
+    "lon": 34.6186529,
+    "routes": []
   },
   {
     "id": "51291",
     "name": "İMAM HATİP",
     "lat": 37.9729925,
-    "lon": 34.6794693
+    "lon": 34.6794693,
+    "routes": []
   },
   {
     "id": "51171",
     "name": "ESKI REKTORLUK",
     "lat": 37.9679738,
-    "lon": 34.6711453
+    "lon": 34.6711453,
+    "routes": []
   },
   {
     "id": "51293",
     "name": "FEN EDEBİYAT",
     "lat": 37.9417246,
-    "lon": 34.6252886
+    "lon": 34.6252886,
+    "routes": []
   },
   {
     "id": "51296",
     "name": "M.PIYANGO DURAK",
     "lat": 37.9362014,
-    "lon": 34.6160672
+    "lon": 34.6160672,
+    "routes": []
   },
   {
     "id": "51221",
     "name": "AMAS BASLANGIC",
     "lat": 37.9731599,
-    "lon": 34.6803367
+    "lon": 34.6803367,
+    "routes": []
   },
   {
     "id": "51164",
     "name": "ISTIKLAL FIRIN",
     "lat": 37.9813866,
-    "lon": 34.6886944
+    "lon": 34.6886944,
+    "routes": []
   },
   {
     "id": "51284",
     "name": "KORUKENT",
     "lat": 37.9845719,
-    "lon": 34.6934468
+    "lon": 34.6934468,
+    "routes": []
   },
   {
     "id": "51200",
     "name": "AMAS 1",
     "lat": 37.9917305,
-    "lon": 34.7009817
+    "lon": 34.7009817,
+    "routes": []
   },
   {
     "id": "51201",
     "name": "AMAS 2",
     "lat": 37.9969049,
-    "lon": 34.7060631
+    "lon": 34.7060631,
+    "routes": []
   },
   {
     "id": "51202",
     "name": "CAVDARLAR DURAK",
     "lat": 38.001032,
-    "lon": 34.7084303
+    "lon": 34.7084303,
+    "routes": []
   },
   {
     "id": "51203",
     "name": "AMAS 3",
     "lat": 38.0048255,
-    "lon": 34.7117354
+    "lon": 34.7117354,
+    "routes": []
   },
   {
     "id": "51204",
     "name": "ALAY DURAK",
     "lat": 38.0094259,
-    "lon": 34.71488
+    "lon": 34.71488,
+    "routes": []
   },
   {
     "id": "51205",
     "name": "AMAS 4",
     "lat": 38.0119747,
-    "lon": 34.7172519
+    "lon": 34.7172519,
+    "routes": []
   },
   {
     "id": "51206",
     "name": "AMAS MUHTARIN EVI",
     "lat": 38.0137148,
-    "lon": 34.7195522
+    "lon": 34.7195522,
+    "routes": []
   },
   {
     "id": "51207",
     "name": "AMAS DONUS",
     "lat": 38.0159766,
-    "lon": 34.7230016
+    "lon": 34.7230016,
+    "routes": []
   },
   {
     "id": "51208",
     "name": "AMAS 5",
     "lat": 38.0077143,
-    "lon": 34.7169234
+    "lon": 34.7169234,
+    "routes": []
   },
   {
     "id": "51210",
     "name": "AMAS 7",
     "lat": 38.0052059,
-    "lon": 34.7224649
+    "lon": 34.7224649,
+    "routes": []
   },
   {
     "id": "51211",
     "name": "CINCIK DURAK",
     "lat": 38.0034384,
-    "lon": 34.7202175
+    "lon": 34.7202175,
+    "routes": []
   },
   {
     "id": "51213",
     "name": "AMAS 9",
     "lat": 38.0004747,
-    "lon": 34.7160825
+    "lon": 34.7160825,
+    "routes": []
   },
   {
     "id": "51214",
     "name": "CICIBABA DURAK",
     "lat": 37.9962906,
-    "lon": 34.7118794
+    "lon": 34.7118794,
+    "routes": []
   },
   {
     "id": "51216",
     "name": "AMAS 11",
     "lat": 37.9904344,
-    "lon": 34.7047612
+    "lon": 34.7047612,
+    "routes": []
   },
   {
     "id": "51218",
     "name": "AMAS 13",
     "lat": 37.9883285,
-    "lon": 34.6994662
+    "lon": 34.6994662,
+    "routes": []
   },
   {
     "id": "51219",
     "name": "4 NOLU SAGLIK OCAGI-1",
     "lat": 37.9768417,
-    "lon": 34.6843304
+    "lon": 34.6843304,
+    "routes": []
   },
   {
     "id": "51193",
     "name": "VALI KONAGI",
     "lat": 37.9753007,
-    "lon": 34.6698864
+    "lon": 34.6698864,
+    "routes": []
   },
   {
     "id": "51194",
     "name": "YASAM SITESI",
     "lat": 37.971383,
-    "lon": 34.6683263
+    "lon": 34.6683263,
+    "routes": []
   },
   {
     "id": "51195",
     "name": "KAYABASI 1",
     "lat": 37.9686137,
-    "lon": 34.6678095
+    "lon": 34.6678095,
+    "routes": []
   },
   {
     "id": "51196",
     "name": "KAYABASI 2",
     "lat": 37.9668713,
-    "lon": 34.6671504
+    "lon": 34.6671504,
+    "routes": []
   },
   {
     "id": "51197",
     "name": "KAYABASI EKMEK BUFE",
     "lat": 37.9653481,
-    "lon": 34.6664959
+    "lon": 34.6664959,
+    "routes": []
   },
   {
     "id": "51198",
     "name": "KONFOR YAPI",
     "lat": 37.9649834,
-    "lon": 34.6622924
+    "lon": 34.6622924,
+    "routes": []
   },
   {
     "id": "51199",
     "name": "ONAY KENT",
     "lat": 37.9647562,
-    "lon": 34.6589741
+    "lon": 34.6589741,
+    "routes": []
   },
   {
     "id": "51299",
     "name": "A101 DURAGI",
     "lat": 37.964471,
-    "lon": 34.6616272
+    "lon": 34.6616272,
+    "routes": []
   },
   {
     "id": "51222",
     "name": "ALAKUS 1",
     "lat": 37.978133,
-    "lon": 34.6915484
+    "lon": 34.6915484,
+    "routes": []
   },
   {
     "id": "51223",
     "name": "HURDACILAR",
     "lat": 37.9823053,
-    "lon": 34.7016917
+    "lon": 34.7016917,
+    "routes": []
   },
   {
     "id": "51224",
     "name": "ALAKUS 2",
     "lat": 37.9856109,
-    "lon": 34.7061133
+    "lon": 34.7061133,
+    "routes": []
   },
   {
     "id": "51226",
     "name": "ALAKUS 4",
     "lat": 37.9936954,
-    "lon": 34.714715
+    "lon": 34.714715,
+    "routes": []
   },
   {
     "id": "51228",
     "name": "ALAKUS 6",
     "lat": 37.9984618,
-    "lon": 34.7190244
+    "lon": 34.7190244,
+    "routes": []
   },
   {
     "id": "51229",
     "name": "YAGIZ DURAK",
     "lat": 38.0029129,
-    "lon": 34.7232459
+    "lon": 34.7232459,
+    "routes": []
   },
   {
     "id": "51231",
     "name": "ALAKUS 8",
     "lat": 38.0070326,
-    "lon": 34.7264759
+    "lon": 34.7264759,
+    "routes": []
   },
   {
     "id": "51232",
     "name": "ALAKUS DORT YOL",
     "lat": 38.0055884,
-    "lon": 34.7292902
+    "lon": 34.7292902,
+    "routes": []
   },
   {
     "id": "51234",
     "name": "ALAKUS 10",
     "lat": 38.0046032,
-    "lon": 34.7335306
+    "lon": 34.7335306,
+    "routes": []
   },
   {
     "id": "51235",
     "name": "ALAKUS CAMI",
     "lat": 38.0059367,
-    "lon": 34.7323543
+    "lon": 34.7323543,
+    "routes": []
   },
   {
     "id": "51237",
     "name": "ALAKUS 12",
     "lat": 38.0115147,
-    "lon": 34.7340237
+    "lon": 34.7340237,
+    "routes": []
   },
   {
     "id": "51239",
     "name": "AKTAS YENI MAH",
     "lat": 38.0193131,
-    "lon": 34.7415666
+    "lon": 34.7415666,
+    "routes": []
   },
   {
     "id": "51240",
     "name": "SIMPAS",
     "lat": 38.0125624,
-    "lon": 34.7397783
+    "lon": 34.7397783,
+    "routes": []
   },
   {
     "id": "51241",
     "name": "HANIMAGA UN",
     "lat": 37.9962723,
-    "lon": 34.7298588
+    "lon": 34.7298588,
+    "routes": []
   },
   {
     "id": "51242",
     "name": "TUV TURK",
     "lat": 37.9885984,
-    "lon": 34.7231705
+    "lon": 34.7231705,
+    "routes": []
   },
   {
     "id": "51243",
     "name": "ATA SANAYI",
     "lat": 37.9846902,
-    "lon": 34.7148007
+    "lon": 34.7148007,
+    "routes": []
   },
   {
     "id": "51244",
     "name": "DURAKLAR",
     "lat": 37.979025,
-    "lon": 34.7054249
+    "lon": 34.7054249,
+    "routes": []
   },
   {
     "id": "51245",
     "name": "KIZIKLI MEYVE SUYU",
     "lat": 37.9732831,
-    "lon": 34.6957472
+    "lon": 34.6957472,
+    "routes": []
   },
   {
     "id": "51129",
     "name": "ILHANLI 14",
     "lat": 37.9705423,
-    "lon": 34.6948957
+    "lon": 34.6948957,
+    "routes": []
   },
   {
     "id": "51301",
     "name": "BESİKTAS 2",
     "lat": 37.9895082,
-    "lon": 34.6716426
+    "lon": 34.6716426,
+    "routes": []
   },
   {
     "id": "51302",
     "name": "DOSTLAR DURAGI",
     "lat": 37.9846249,
-    "lon": 34.6735899
+    "lon": 34.6735899,
+    "routes": []
   },
   {
     "id": "51303",
     "name": "CİFTE MİNARE",
     "lat": 37.9831535,
-    "lon": 34.6730642
+    "lon": 34.6730642,
+    "routes": []
   },
   {
     "id": "51304",
     "name": "AKASYA EVLERİ",
     "lat": 37.9809675,
-    "lon": 34.6721844
+    "lon": 34.6721844,
+    "routes": []
   },
   {
     "id": "51305",
     "name": "ELELE DURAGI",
     "lat": 37.97931,
-    "lon": 34.6714602
+    "lon": 34.6714602,
+    "routes": []
   },
   {
     "id": "51300",
     "name": "VALİ RAMPASI",
     "lat": 37.9771535,
-    "lon": 34.6706877
+    "lon": 34.6706877,
+    "routes": []
   },
   {
     "id": "51306",
     "name": "66 EVLER",
     "lat": 37.9735718,
-    "lon": 34.6725626
+    "lon": 34.6725626,
+    "routes": []
   },
   {
     "id": "51307",
     "name": "23 NİSAN OKULU",
     "lat": 37.9756312,
-    "lon": 34.6727745
+    "lon": 34.6727745,
+    "routes": []
   },
   {
     "id": "51313",
     "name": "KENTSEL DONUSUM",
     "lat": 37.9851016,
-    "lon": 34.6840518
+    "lon": 34.6840518,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51096",
     "name": "SELÇUK DORT YOL",
     "lat": 37.9586178,
-    "lon": 34.6734256
+    "lon": 34.6734256,
+    "routes": [
+      "51009"
+    ]
   },
   {
     "id": "51314",
     "name": "KENTSEL SON DURAK",
     "lat": 37.9841979,
-    "lon": 34.6824868
+    "lon": 34.6824868,
+    "routes": [
+      "51009"
+    ]
   }
 ]

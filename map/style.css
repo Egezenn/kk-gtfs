@@ -23,7 +23,6 @@ body {
   background-color: #000000;
   color: var(--win-text);
   padding: 10px;
-  background-image: url("https://www.transparenttextures.com/patterns/carbon-fibre.png");
   height: 100vh;
   overflow: hidden;
   display: flex;
@@ -183,11 +182,14 @@ body:not(.detail-page) main {
   border: 2px solid #444;
 }
 
-.leaflet-tile-pane,
-.leaflet-marker-pane,
-.leaflet-shadow-pane,
-.leaflet-overlay-pane {
+.leaflet-tile-pane {
   filter: invert(1) hue-rotate(180deg) brightness(5) contrast(0.5) saturate(1);
+}
+
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  background: #575043 !important;
+  color: var(--win-text);
 }
 
 .win-outset:is(a, button, .tab-btn, .close-btn, #reverseBtn, .data-item) {

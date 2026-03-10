@@ -3,2298 +3,2681 @@
     "id": "20001",
     "name": "Otogar",
     "lat": 41.632311,
-    "lon": 26.6195089
+    "lon": 26.6195089,
+    "routes": []
   },
   {
     "id": "20002",
     "name": "Delta Park",
     "lat": 41.6384261,
-    "lon": 26.6118622
+    "lon": 26.6118622,
+    "routes": []
   },
   {
     "id": "20003",
     "name": "Tıp Fakültesi 1",
     "lat": 41.6405597,
-    "lon": 26.6133684
+    "lon": 26.6133684,
+    "routes": []
   },
   {
     "id": "20004",
     "name": "Sağlık Bilimleri",
     "lat": 41.6422835,
-    "lon": 26.615335
+    "lon": 26.615335,
+    "routes": []
   },
   {
     "id": "20005",
     "name": "İktisat Fakültesi",
     "lat": 41.64495,
-    "lon": 26.618566
+    "lon": 26.618566,
+    "routes": []
   },
   {
     "id": "20007",
     "name": "Tıp Fakültesi 2",
     "lat": 41.6405732,
-    "lon": 26.6136368
+    "lon": 26.6136368,
+    "routes": []
   },
   {
     "id": "20008",
     "name": "Sabancı",
     "lat": 41.6383741,
-    "lon": 26.6116233
+    "lon": 26.6116233,
+    "routes": []
   },
   {
     "id": "20009",
     "name": "Güzel Sanatlar Lisesi 2",
     "lat": 41.6409905,
-    "lon": 26.605115
+    "lon": 26.605115,
+    "routes": []
   },
   {
     "id": "20010",
     "name": "Tarımsal Araştırma 2",
     "lat": 41.6469711,
-    "lon": 26.5978572
+    "lon": 26.5978572,
+    "routes": []
   },
   {
     "id": "20011",
     "name": "Olin 2",
     "lat": 41.6514775,
-    "lon": 26.592323
+    "lon": 26.592323,
+    "routes": []
   },
   {
     "id": "20012",
     "name": "Kipa 2",
     "lat": 41.6554241,
-    "lon": 26.5875134
+    "lon": 26.5875134,
+    "routes": []
   },
   {
     "id": "20013",
     "name": "Köy Hizmetleri 2",
     "lat": 41.6575468,
-    "lon": 26.584859
+    "lon": 26.584859,
+    "routes": []
   },
   {
     "id": "20014",
     "name": "Margi",
     "lat": 41.6600023,
-    "lon": 26.5818388
+    "lon": 26.5818388,
+    "routes": []
   },
   {
     "id": "20015",
     "name": "Sanayi Orta Kapı 2",
     "lat": 41.6637381,
-    "lon": 26.576885
+    "lon": 26.576885,
+    "routes": []
   },
   {
     "id": "20016",
     "name": "80. Yıl Cumhuriyet Anadolu Lisesi",
     "lat": 41.6691163,
-    "lon": 26.5691616
+    "lon": 26.5691616,
+    "routes": []
   },
   {
     "id": "20017",
     "name": "Ayşekadın Karakol 2",
     "lat": 41.6703585,
-    "lon": 26.5659663
+    "lon": 26.5659663,
+    "routes": []
   },
   {
     "id": "20018",
     "name": "Ayşekadın Cami 2",
     "lat": 41.6714405,
-    "lon": 26.5641685
+    "lon": 26.5641685,
+    "routes": []
   },
   {
     "id": "20019",
     "name": "Sosyal Bilimler Lisesi 2",
     "lat": 41.6737579,
-    "lon": 26.5603462
+    "lon": 26.5603462,
+    "routes": []
   },
   {
     "id": "20020",
     "name": "Orduevi 2",
     "lat": 41.6755669,
-    "lon": 26.5576772
+    "lon": 26.5576772,
+    "routes": []
   },
   {
     "id": "20021",
     "name": "Bankalar 2",
     "lat": 41.6769621,
-    "lon": 26.5510398
+    "lon": 26.5510398,
+    "routes": []
   },
   {
     "id": "20022",
     "name": "Yıldırım Çeşme 2",
     "lat": 41.6773031,
-    "lon": 26.5259088
+    "lon": 26.5259088,
+    "routes": []
   },
   {
     "id": "20023",
     "name": "Kum Mahalle 2",
     "lat": 41.6810393,
-    "lon": 26.5254818
+    "lon": 26.5254818,
+    "routes": []
   },
   {
     "id": "20024",
     "name": "Yıldırım Merkez 2",
     "lat": 41.6831011,
-    "lon": 26.5287474
+    "lon": 26.5287474,
+    "routes": []
   },
   {
     "id": "20025",
     "name": "Bademlik Mezarlık 2",
     "lat": 41.6855328,
-    "lon": 26.5372669
+    "lon": 26.5372669,
+    "routes": []
   },
   {
     "id": "20026",
     "name": "Yeniimaret Merkez 2",
     "lat": 41.6875955,
-    "lon": 26.5407327
+    "lon": 26.5407327,
+    "routes": []
   },
   {
     "id": "20028",
     "name": "Yeniimaret Merkez 1",
     "lat": 41.6876758,
-    "lon": 26.5411133
+    "lon": 26.5411133,
+    "routes": []
   },
   {
     "id": "20029",
     "name": "Bademlik Mezarlık 1",
     "lat": 41.6856064,
-    "lon": 26.5370868
+    "lon": 26.5370868,
+    "routes": []
   },
   {
     "id": "20030",
     "name": "Kum Mahalle 1",
     "lat": 41.6810773,
-    "lon": 26.5254209
+    "lon": 26.5254209,
+    "routes": []
   },
   {
     "id": "20031",
     "name": "Yıldırım Çeşme 1",
     "lat": 41.6772563,
-    "lon": 26.5254915
+    "lon": 26.5254915,
+    "routes": []
   },
   {
     "id": "20033",
     "name": "Bankalar 1",
     "lat": 41.6768462,
-    "lon": 26.5505967
+    "lon": 26.5505967,
+    "routes": []
   },
   {
     "id": "20034",
     "name": "Orduevi 1",
     "lat": 41.6752255,
-    "lon": 26.5577795
+    "lon": 26.5577795,
+    "routes": []
   },
   {
     "id": "20035",
     "name": "Sosyal Bilimler Lisesi 1",
     "lat": 41.673837,
-    "lon": 26.5598589
+    "lon": 26.5598589,
+    "routes": []
   },
   {
     "id": "20036",
     "name": "Ayşekadın Cami",
     "lat": 41.6713205,
-    "lon": 26.5640232
+    "lon": 26.5640232,
+    "routes": []
   },
   {
     "id": "20037",
     "name": "Ayşekadın Karakol 1",
     "lat": 41.6700765,
-    "lon": 26.5661513
+    "lon": 26.5661513,
+    "routes": []
   },
   {
     "id": "20038",
     "name": "Erasta",
     "lat": 41.667416,
-    "lon": 26.5716615
+    "lon": 26.5716615,
+    "routes": []
   },
   {
     "id": "20039",
     "name": "Sanayi Orta Kapı 1",
     "lat": 41.6638121,
-    "lon": 26.5764795
+    "lon": 26.5764795,
+    "routes": []
   },
   {
     "id": "20040",
     "name": "Sanayi Çıkış",
     "lat": 41.662196,
-    "lon": 26.5785705
+    "lon": 26.5785705,
+    "routes": []
   },
   {
     "id": "20041",
     "name": "Tarım ve Orman Md.",
     "lat": 41.6599146,
-    "lon": 26.5815055
+    "lon": 26.5815055,
+    "routes": []
   },
   {
     "id": "20042",
     "name": "Köy Hizmetleri 1",
     "lat": 41.6574742,
-    "lon": 26.5842784
+    "lon": 26.5842784,
+    "routes": []
   },
   {
     "id": "20043",
     "name": "Kipa 1",
     "lat": 41.6558389,
-    "lon": 26.5863326
+    "lon": 26.5863326,
+    "routes": []
   },
   {
     "id": "20044",
     "name": "Olin 1",
     "lat": 41.6508942,
-    "lon": 26.5922367
+    "lon": 26.5922367,
+    "routes": []
   },
   {
     "id": "20045",
     "name": "Tarımsal Araştırma 1",
     "lat": 41.6468717,
-    "lon": 26.5976164
+    "lon": 26.5976164,
+    "routes": []
   },
   {
     "id": "20046",
     "name": "Güzel Sanatlar Lisesi 1",
     "lat": 41.6408343,
-    "lon": 26.6049674
+    "lon": 26.6049674,
+    "routes": []
   },
   {
     "id": "20047",
     "name": "Ahmet Karadeniz Yerleşkesi",
     "lat": 41.6350863,
-    "lon": 26.6220925
+    "lon": 26.6220925,
+    "routes": []
   },
   {
     "id": "20048",
     "name": "Pazartesi Pazarı",
     "lat": 41.669928,
-    "lon": 26.5541276
+    "lon": 26.5541276,
+    "routes": []
   },
   {
     "id": "20050",
     "name": "Üniversite 1",
     "lat": 41.66725,
-    "lon": 26.5740521
+    "lon": 26.5740521,
+    "routes": []
   },
   {
     "id": "20051",
     "name": "Huzurevi 1",
     "lat": 41.667303,
-    "lon": 26.5780041
+    "lon": 26.5780041,
+    "routes": []
   },
   {
     "id": "20052",
     "name": "Zübeyde Hanım Parkı 1",
     "lat": 41.6661769,
-    "lon": 26.5797783
+    "lon": 26.5797783,
+    "routes": []
   },
   {
     "id": "20053",
     "name": "Cumartesi Pazarı 1",
     "lat": 41.6649208,
-    "lon": 26.581767
+    "lon": 26.581767,
+    "routes": []
   },
   {
     "id": "20056",
     "name": "Acar Park 1",
     "lat": 41.662417,
-    "lon": 26.5899406
+    "lon": 26.5899406,
+    "routes": []
   },
   {
     "id": "20210",
     "name": "Gazimihal",
     "lat": 41.6765808,
-    "lon": 26.5460646
+    "lon": 26.5460646,
+    "routes": []
   },
   {
     "id": "20281",
     "name": "SGK",
     "lat": 41.6726831,
-    "lon": 26.5617336
+    "lon": 26.5617336,
+    "routes": []
   },
   {
     "id": "20211",
     "name": "Tredaş 1",
     "lat": 41.652577,
-    "lon": 26.5903891
+    "lon": 26.5903891,
+    "routes": []
   },
   {
     "id": "20358",
     "name": "Fakülte Işıklar 1",
     "lat": 41.6367063,
-    "lon": 26.6099034
+    "lon": 26.6099034,
+    "routes": []
   },
   {
     "id": "20320",
     "name": "Modavizyon Durağı 1",
     "lat": 41.63312,
-    "lon": 26.614474
+    "lon": 26.614474,
+    "routes": []
   },
   {
     "id": "20092",
     "name": "Toyota",
     "lat": 41.6282796,
-    "lon": 26.6212325
+    "lon": 26.6212325,
+    "routes": []
   },
   {
     "id": "20359",
     "name": "Ford",
     "lat": 41.6246615,
-    "lon": 26.6262058
+    "lon": 26.6262058,
+    "routes": []
   },
   {
     "id": "20474",
     "name": "Ted koleji",
     "lat": 41.6082145,
-    "lon": 26.6554714
+    "lon": 26.6554714,
+    "routes": []
   },
   {
     "id": "20360",
     "name": "Göksu Evleri",
     "lat": 41.6100796,
-    "lon": 26.6479411
+    "lon": 26.6479411,
+    "routes": []
   },
   {
     "id": "20361",
     "name": "Gökyapı Evleri",
     "lat": 41.6127307,
-    "lon": 26.643262
+    "lon": 26.643262,
+    "routes": []
   },
   {
     "id": "20362",
     "name": "Gloria Park",
     "lat": 41.6174712,
-    "lon": 26.6366691
+    "lon": 26.6366691,
+    "routes": []
   },
   {
     "id": "20093",
     "name": "Arseven Sitesi 1",
     "lat": 41.6223938,
-    "lon": 26.6327246
+    "lon": 26.6327246,
+    "routes": []
   },
   {
     "id": "20094",
     "name": "Bahçeşehir Koleji 1",
     "lat": 41.621691,
-    "lon": 26.635679
+    "lon": 26.635679,
+    "routes": []
   },
   {
     "id": "20096",
     "name": "Avrupa Kent 1",
     "lat": 41.6189193,
-    "lon": 26.6481946
+    "lon": 26.6481946,
+    "routes": []
   },
   {
     "id": "20097",
     "name": "Ladin Sitesi 1",
     "lat": 41.619608,
-    "lon": 26.6534301
+    "lon": 26.6534301,
+    "routes": []
   },
   {
     "id": "20098",
     "name": "1. Kent 1",
     "lat": 41.6206425,
-    "lon": 26.6566206
+    "lon": 26.6566206,
+    "routes": []
   },
   {
     "id": "20099",
     "name": "Sera Kent",
     "lat": 41.6229716,
-    "lon": 26.6544643
+    "lon": 26.6544643,
+    "routes": []
   },
   {
     "id": "20393",
     "name": "1. Kent 2",
     "lat": 41.6205993,
-    "lon": 26.6564155
+    "lon": 26.6564155,
+    "routes": []
   },
   {
     "id": "20390",
     "name": "Bahçeşehir Koleji 2",
     "lat": 41.6218003,
-    "lon": 26.6356043
+    "lon": 26.6356043,
+    "routes": []
   },
   {
     "id": "20389",
     "name": "Arseven Sitesi 2",
     "lat": 41.62246,
-    "lon": 26.6327263
+    "lon": 26.6327263,
+    "routes": []
   },
   {
     "id": "20291",
     "name": "Modavizyon  2",
     "lat": 41.63454,
-    "lon": 26.6130169
+    "lon": 26.6130169,
+    "routes": []
   },
   {
     "id": "20430",
     "name": "Fakülte Işıklar 2",
     "lat": 41.6366101,
-    "lon": 26.6104934
+    "lon": 26.6104934,
+    "routes": []
   },
   {
     "id": "20282",
     "name": "Tredaş 2",
     "lat": 41.6525569,
-    "lon": 26.5909858
+    "lon": 26.5909858,
+    "routes": []
   },
   {
     "id": "20205",
     "name": "ETSO Durağı",
     "lat": 41.6653595,
-    "lon": 26.5748818
+    "lon": 26.5748818,
+    "routes": []
   },
   {
     "id": "20365",
     "name": "Bulgar Konsolosluğu",
     "lat": 41.6737599,
-    "lon": 26.5603562
+    "lon": 26.5603562,
+    "routes": []
   },
   {
     "id": "20266",
     "name": "Cumhuriyet İlk Okulu",
     "lat": 41.6769163,
-    "lon": 26.5460593
+    "lon": 26.5460593,
+    "routes": []
   },
   {
     "id": "20363",
     "name": "Eczacılık Fakültesi 2",
     "lat": 41.6485644,
-    "lon": 26.61957
+    "lon": 26.61957,
+    "routes": []
   },
   {
     "id": "20289",
     "name": "Kız Öğrenci Yurdu",
     "lat": 41.6457915,
-    "lon": 26.6184938
+    "lon": 26.6184938,
+    "routes": []
   },
   {
     "id": "20290",
     "name": "Selimiye Öğrenci Yurdu",
     "lat": 41.6424135,
-    "lon": 26.6151096
+    "lon": 26.6151096,
+    "routes": []
   },
   {
     "id": "20334",
     "name": "GAR 1",
     "lat": 41.6554307,
-    "lon": 26.5811017
+    "lon": 26.5811017,
+    "routes": []
   },
   {
     "id": "20062",
     "name": "Köy Hizmetleri Arkası 1",
     "lat": 41.659217,
-    "lon": 26.5864837
+    "lon": 26.5864837,
+    "routes": []
   },
   {
     "id": "20064",
     "name": "Baca 1",
     "lat": 41.6583815,
-    "lon": 26.5899363
+    "lon": 26.5899363,
+    "routes": []
   },
   {
     "id": "20065",
     "name": "Köprü 1",
     "lat": 41.6574265,
-    "lon": 26.5921785
+    "lon": 26.5921785,
+    "routes": []
   },
   {
     "id": "20066",
     "name": "Mega Park 1",
     "lat": 41.6565083,
-    "lon": 26.5934141
+    "lon": 26.5934141,
+    "routes": []
   },
   {
     "id": "20067",
     "name": "Vali Konağı 1",
     "lat": 41.654722,
-    "lon": 26.5955549
+    "lon": 26.5955549,
+    "routes": []
   },
   {
     "id": "20367",
     "name": "Fatih Camii 1",
     "lat": 41.6537031,
-    "lon": 26.5993166
+    "lon": 26.5993166,
+    "routes": []
   },
   {
     "id": "20413",
     "name": "Sultan 1. Murat Devlet Hastanesi 1",
     "lat": 41.6544326,
-    "lon": 26.6063092
+    "lon": 26.6063092,
+    "routes": []
   },
   {
     "id": "20283",
     "name": "Hadım Ağa Toki 1",
     "lat": 41.6560007,
-    "lon": 26.6075953
+    "lon": 26.6075953,
+    "routes": []
   },
   {
     "id": "20431",
     "name": "Eczacılık Fakültesi 1",
     "lat": 41.6483039,
-    "lon": 26.6192777
+    "lon": 26.6192777,
+    "routes": []
   },
   {
     "id": "20288",
     "name": "Hadım Ağa Toki 2",
     "lat": 41.6559436,
-    "lon": 26.6072533
+    "lon": 26.6072533,
+    "routes": []
   },
   {
     "id": "20323",
     "name": "Sultan 1. Murat Devlet Hastanesi 2",
     "lat": 41.6544146,
-    "lon": 26.6060463
+    "lon": 26.6060463,
+    "routes": []
   },
   {
     "id": "20324",
     "name": "Fatih Camii 2",
     "lat": 41.6536931,
-    "lon": 26.599668
+    "lon": 26.599668,
+    "routes": []
   },
   {
     "id": "20086",
     "name": "Vali Konağı 2",
     "lat": 41.6546844,
-    "lon": 26.595953
+    "lon": 26.595953,
+    "routes": []
   },
   {
     "id": "20087",
     "name": "Mega Park 2",
     "lat": 41.6564166,
-    "lon": 26.5936885
+    "lon": 26.5936885,
+    "routes": []
   },
   {
     "id": "20088",
     "name": "Köprü 2",
     "lat": 41.657533,
-    "lon": 26.5922151
+    "lon": 26.5922151,
+    "routes": []
   },
   {
     "id": "20089",
     "name": "Baca 2",
     "lat": 41.6584716,
-    "lon": 26.589979
+    "lon": 26.589979,
+    "routes": []
   },
   {
     "id": "20419",
     "name": "GAR 2",
     "lat": 41.6550619,
-    "lon": 26.5817536
+    "lon": 26.5817536,
+    "routes": []
   },
   {
     "id": "20294",
     "name": "Pazartesi Pazarı Köşe",
     "lat": 41.6703838,
-    "lon": 26.55383
+    "lon": 26.55383,
+    "routes": []
   },
   {
     "id": "20295",
     "name": "Darül-Hadis Cami",
     "lat": 41.6713476,
-    "lon": 26.5495753
+    "lon": 26.5495753,
+    "routes": []
   },
   {
     "id": "20254",
     "name": "Kaleiçi Çocuk Parkı",
     "lat": 41.6729066,
-    "lon": 26.5492475
+    "lon": 26.5492475,
+    "routes": []
   },
   {
     "id": "20255",
     "name": "Kaleiçi Dört Yol",
     "lat": 41.6746776,
-    "lon": 26.5495456
+    "lon": 26.5495456,
+    "routes": []
   },
   {
     "id": "20273",
     "name": "İstiklal Orta Okulu",
     "lat": 41.6760138,
-    "lon": 26.5497049
+    "lon": 26.5497049,
+    "routes": []
   },
   {
     "id": "20130",
     "name": "Eski SSK Hastanesi",
     "lat": 41.6703855,
-    "lon": 26.5687488
+    "lon": 26.5687488,
+    "routes": []
   },
   {
     "id": "20131",
     "name": "Yeşiltepe 1",
     "lat": 41.67173,
-    "lon": 26.5701691
+    "lon": 26.5701691,
+    "routes": []
   },
   {
     "id": "20133",
     "name": "Eğitim Fakültesi 1",
     "lat": 41.6710781,
-    "lon": 26.5737497
+    "lon": 26.5737497,
+    "routes": []
   },
   {
     "id": "20134",
     "name": "Emniyet Müdürlüğü 1",
     "lat": 41.671046,
-    "lon": 26.5760248
+    "lon": 26.5760248,
+    "routes": []
   },
   {
     "id": "20135",
     "name": "Askerlik Şubesi 1",
     "lat": 41.670988,
-    "lon": 26.5796629
+    "lon": 26.5796629,
+    "routes": []
   },
   {
     "id": "20300",
     "name": "Jandarma 1",
     "lat": 41.6696647,
-    "lon": 26.5801791
+    "lon": 26.5801791,
+    "routes": []
   },
   {
     "id": "20136",
     "name": "Değirmen Market 1",
     "lat": 41.6690109,
-    "lon": 26.5812462
+    "lon": 26.5812462,
+    "routes": []
   },
   {
     "id": "20137",
     "name": "İlhami Ertem Lisesi 1",
     "lat": 41.6691949,
-    "lon": 26.5843088
+    "lon": 26.5843088,
+    "routes": []
   },
   {
     "id": "20139",
     "name": "Şükrüpaşa Muhtarlık 1",
     "lat": 41.6677097,
-    "lon": 26.5855403
+    "lon": 26.5855403,
+    "routes": []
   },
   {
     "id": "20140",
     "name": "Ören Sitesi 1",
     "lat": 41.666227,
-    "lon": 26.5863096
+    "lon": 26.5863096,
+    "routes": []
   },
   {
     "id": "20141",
     "name": "Yeşil Evler 1",
     "lat": 41.6657933,
-    "lon": 26.5889877
+    "lon": 26.5889877,
+    "routes": []
   },
   {
     "id": "20279",
     "name": "Tabya Altı 1",
     "lat": 41.6649611,
-    "lon": 26.5915141
+    "lon": 26.5915141,
+    "routes": []
   },
   {
     "id": "20147",
     "name": "Göçmen Evleri 1",
     "lat": 41.664263,
-    "lon": 26.5928448
+    "lon": 26.5928448,
+    "routes": []
   },
   {
     "id": "20148",
     "name": "75. Yıl İlköğretim Okulu 1",
     "lat": 41.663983,
-    "lon": 26.5947768
+    "lon": 26.5947768,
+    "routes": []
   },
   {
     "id": "20058",
     "name": "Esentepe 1",
     "lat": 41.6607326,
-    "lon": 26.5955733
+    "lon": 26.5955733,
+    "routes": []
   },
   {
     "id": "20284",
     "name": "Araz Cafe 1",
     "lat": 41.6593604,
-    "lon": 26.5986353
+    "lon": 26.5986353,
+    "routes": []
   },
   {
     "id": "20422",
     "name": "Gazi Osman Paşa Ortaokulu 1",
     "lat": 41.6582873,
-    "lon": 26.6026051
+    "lon": 26.6026051,
+    "routes": []
   },
   {
     "id": "20364",
     "name": "Gazi Osman Paşa Ortaokulu 2",
     "lat": 41.6583645,
-    "lon": 26.6029859
+    "lon": 26.6029859,
+    "routes": []
   },
   {
     "id": "20285",
     "name": "Dinçel Sitesi 2",
     "lat": 41.6589115,
-    "lon": 26.601052
+    "lon": 26.601052,
+    "routes": []
   },
   {
     "id": "20388",
     "name": "Araz Cafe 2",
     "lat": 41.6595288,
-    "lon": 26.598453
+    "lon": 26.598453,
+    "routes": []
   },
   {
     "id": "20073",
     "name": "Esentepe 2",
     "lat": 41.6605449,
-    "lon": 26.5960039
+    "lon": 26.5960039,
+    "routes": []
   },
   {
     "id": "20155",
     "name": "75. Yıl İlköğretim Okulu 2",
     "lat": 41.6636563,
-    "lon": 26.5952556
+    "lon": 26.5952556,
+    "routes": []
   },
   {
     "id": "20156",
     "name": "Göçmen Evleri 2",
     "lat": 41.6643728,
-    "lon": 26.5929196
+    "lon": 26.5929196,
+    "routes": []
   },
   {
     "id": "20280",
     "name": "Tabya Altı 2",
     "lat": 41.6654179,
-    "lon": 26.5911172
+    "lon": 26.5911172,
+    "routes": []
   },
   {
     "id": "20121",
     "name": "Yeşil Evler 2",
     "lat": 41.6661313,
-    "lon": 26.5875286
+    "lon": 26.5875286,
+    "routes": []
   },
   {
     "id": "20122",
     "name": "Ören Sitesi 2",
     "lat": 41.6663141,
-    "lon": 26.5863652
+    "lon": 26.5863652,
+    "routes": []
   },
   {
     "id": "20123",
     "name": "Şükrüpaşa Muhtarlık 2",
     "lat": 41.6677078,
-    "lon": 26.5857279
+    "lon": 26.5857279,
+    "routes": []
   },
   {
     "id": "20125",
     "name": "İlhami Ertem Lisesi 2",
     "lat": 41.6692884,
-    "lon": 26.584962
+    "lon": 26.584962,
+    "routes": []
   },
   {
     "id": "20126",
     "name": "Değirmen Market 2",
     "lat": 41.6691256,
-    "lon": 26.5814762
+    "lon": 26.5814762,
+    "routes": []
   },
   {
     "id": "20299",
     "name": "Jandarma 2",
     "lat": 41.6697655,
-    "lon": 26.5804166
+    "lon": 26.5804166,
+    "routes": []
   },
   {
     "id": "20127",
     "name": "Askerlik Şubesi 2",
     "lat": 41.6710804,
-    "lon": 26.5794138
+    "lon": 26.5794138,
+    "routes": []
   },
   {
     "id": "20128",
     "name": "Emniyet Müdürlüğü 2",
     "lat": 41.6711468,
-    "lon": 26.5759004
+    "lon": 26.5759004,
+    "routes": []
   },
   {
     "id": "20129",
     "name": "Eğitim Fakültesi 2",
     "lat": 41.67119,
-    "lon": 26.5738132
+    "lon": 26.5738132,
+    "routes": []
   },
   {
     "id": "20301",
     "name": "Yeşiltepe 2",
     "lat": 41.6717339,
-    "lon": 26.5705053
+    "lon": 26.5705053,
+    "routes": []
   },
   {
     "id": "20302",
     "name": "Şükrüpaşa İlk Okulu",
     "lat": 41.6701681,
-    "lon": 26.5685967
+    "lon": 26.5685967,
+    "routes": []
   },
   {
     "id": "20083",
     "name": "Bankalar",
     "lat": 41.67589,
-    "lon": 26.551863
+    "lon": 26.551863,
+    "routes": []
   },
   {
     "id": "20084",
     "name": "Balıkpazarı",
     "lat": 41.6740243,
-    "lon": 26.551601
+    "lon": 26.551601,
+    "routes": []
   },
   {
     "id": "20296",
     "name": "Ekrem Demiray Spor Salonu",
     "lat": 41.6727088,
-    "lon": 26.551432
+    "lon": 26.551432,
+    "routes": []
   },
   {
     "id": "20297",
     "name": "Diş Hastanesi 1",
     "lat": 41.6633176,
-    "lon": 26.585652
+    "lon": 26.585652,
+    "routes": []
   },
   {
     "id": "20206",
     "name": "500 Evler 1",
     "lat": 41.6610707,
-    "lon": 26.5859757
+    "lon": 26.5859757,
+    "routes": []
   },
   {
     "id": "20068",
     "name": "Gümrük Lojmanları 1",
     "lat": 41.654086,
-    "lon": 26.5969946
+    "lon": 26.5969946,
+    "routes": []
   },
   {
     "id": "20085",
     "name": "Gümrük Lojmanları 2",
     "lat": 41.6539937,
-    "lon": 26.5979544
+    "lon": 26.5979544,
+    "routes": []
   },
   {
     "id": "20207",
     "name": "500 Evler 2",
     "lat": 41.6610805,
-    "lon": 26.5861183
+    "lon": 26.5861183,
+    "routes": []
   },
   {
     "id": "20298",
     "name": "Diş Hastanesi 2",
     "lat": 41.6629409,
-    "lon": 26.5861689
+    "lon": 26.5861689,
+    "routes": []
   },
   {
     "id": "20078",
     "name": "Cumartesi Pazarı 2",
     "lat": 41.6648978,
-    "lon": 26.5838808
+    "lon": 26.5838808,
+    "routes": []
   },
   {
     "id": "20080",
     "name": "Zübeyde Hanım Parkı 2",
     "lat": 41.667059,
-    "lon": 26.5806228
+    "lon": 26.5806228,
+    "routes": []
   },
   {
     "id": "20081",
     "name": "Huzurevi 2",
     "lat": 41.668019,
-    "lon": 26.5782585
+    "lon": 26.5782585,
+    "routes": []
   },
   {
     "id": "20082",
     "name": "Üniversite 2",
     "lat": 41.6672963,
-    "lon": 26.573584
+    "lon": 26.573584,
+    "routes": []
   },
   {
     "id": "20204",
     "name": "Huzurevi 3",
     "lat": 41.6682828,
-    "lon": 26.578214
+    "lon": 26.578214,
+    "routes": []
   },
   {
     "id": "20261",
     "name": "Lala Şahin Paşa Camii 1",
     "lat": 41.6667926,
-    "lon": 26.5817019
+    "lon": 26.5817019,
+    "routes": []
   },
   {
     "id": "20262",
     "name": "Ege Gıda",
     "lat": 41.6649476,
-    "lon": 26.5846
+    "lon": 26.5846,
+    "routes": []
   },
   {
     "id": "20263",
     "name": "Şof-Der 1",
     "lat": 41.6635641,
-    "lon": 26.5861631
+    "lon": 26.5861631,
+    "routes": []
   },
   {
     "id": "20104",
     "name": "Kaleiçi Sitesi 1",
     "lat": 41.660946,
-    "lon": 26.5921201
+    "lon": 26.5921201,
+    "routes": []
   },
   {
     "id": "20105",
     "name": "Şafak Sitesi 1",
     "lat": 41.658926,
-    "lon": 26.5939735
+    "lon": 26.5939735,
+    "routes": []
   },
   {
     "id": "20106",
     "name": "Plevne İlköğretim Okulu 1",
     "lat": 41.6581149,
-    "lon": 26.5956545
+    "lon": 26.5956545,
+    "routes": []
   },
   {
     "id": "20107",
     "name": "Zübeyde Hanım Kadın Merkezi 1",
     "lat": 41.6561679,
-    "lon": 26.5975216
+    "lon": 26.5975216,
+    "routes": []
   },
   {
     "id": "20114",
     "name": "Zübeyde Hanım Kadın Merkezi 2",
     "lat": 41.65623,
-    "lon": 26.5977626
+    "lon": 26.5977626,
+    "routes": []
   },
   {
     "id": "20115",
     "name": "Plevne İlköğretim Okulu 2",
     "lat": 41.6580738,
-    "lon": 26.5960241
+    "lon": 26.5960241,
+    "routes": []
   },
   {
     "id": "20116",
     "name": "Şafak Sitesi 2",
     "lat": 41.6592479,
-    "lon": 26.593708
+    "lon": 26.593708,
+    "routes": []
   },
   {
     "id": "20117",
     "name": "Kaleiçi Sitesi 2",
     "lat": 41.6615365,
-    "lon": 26.591872
+    "lon": 26.591872,
+    "routes": []
   },
   {
     "id": "20075",
     "name": "Acar Park 2",
     "lat": 41.6627741,
-    "lon": 26.5888982
+    "lon": 26.5888982,
+    "routes": []
   },
   {
     "id": "20258",
     "name": "Şof-Der 2",
     "lat": 41.6637205,
-    "lon": 26.5863261
+    "lon": 26.5863261,
+    "routes": []
   },
   {
     "id": "20259",
     "name": "Ege Gıda",
     "lat": 41.6651376,
-    "lon": 26.5846916
+    "lon": 26.5846916,
+    "routes": []
   },
   {
     "id": "20260",
     "name": "Lala Şahin Paşa Camii 2",
     "lat": 41.6668466,
-    "lon": 26.5820693
+    "lon": 26.5820693,
+    "routes": []
   },
   {
     "id": "20203",
     "name": "Huzurevi 4",
     "lat": 41.668304,
-    "lon": 26.5779772
+    "lon": 26.5779772,
+    "routes": []
   },
   {
     "id": "20269",
     "name": "Yabancılar Şubesi 1",
     "lat": 41.6889298,
-    "lon": 26.5502775
+    "lon": 26.5502775,
+    "routes": []
   },
   {
     "id": "20102",
     "name": "Bayezid Külliyesi 2 (G)",
     "lat": 41.6885386,
-    "lon": 26.547529
+    "lon": 26.547529,
+    "routes": []
   },
   {
     "id": "20268",
     "name": "Yeniimaret Mezarlık 1",
     "lat": 41.6874576,
-    "lon": 26.5455956
+    "lon": 26.5455956,
+    "routes": []
   },
   {
     "id": "20103",
     "name": "Bayezid Külliyesi (G)",
     "lat": 41.6864978,
-    "lon": 26.5438307
+    "lon": 26.5438307,
+    "routes": []
   },
   {
     "id": "20406",
     "name": "Bademlik Köşe 1",
     "lat": 41.6865186,
-    "lon": 26.5390071
+    "lon": 26.5390071,
+    "routes": []
   },
   {
     "id": "20267",
     "name": "Bademlik Altı 1",
     "lat": 41.6852982,
-    "lon": 26.5345711
+    "lon": 26.5345711,
+    "routes": []
   },
   {
     "id": "20253",
     "name": "Püsküllü 1",
     "lat": 41.684673,
-    "lon": 26.5326276
+    "lon": 26.5326276,
+    "routes": []
   },
   {
     "id": "20412",
     "name": "Hacı İlbey İlkokulu 1",
     "lat": 41.6837934,
-    "lon": 26.5300352
+    "lon": 26.5300352,
+    "routes": []
   },
   {
     "id": "20448",
     "name": "Yıldırım Merkez 1",
     "lat": 41.6830322,
-    "lon": 26.528383
+    "lon": 26.528383,
+    "routes": []
   },
   {
     "id": "20321",
     "name": "Sarıbayır 1",
     "lat": 41.6781521,
-    "lon": 26.5238874
+    "lon": 26.5238874,
+    "routes": []
   },
   {
     "id": "20111",
     "name": "Kutlutaş Eczanesi 1",
     "lat": 41.6507888,
-    "lon": 26.5943314
+    "lon": 26.5943314,
+    "routes": []
   },
   {
     "id": "20112",
     "name": "Hacıkuşlar 1",
     "lat": 41.6516514,
-    "lon": 26.5975254
+    "lon": 26.5975254,
+    "routes": []
   },
   {
     "id": "20113",
     "name": "Trafo 1",
     "lat": 41.6535203,
-    "lon": 26.5990048
+    "lon": 26.5990048,
+    "routes": []
   },
   {
     "id": "20108",
     "name": "Trafo 2",
     "lat": 41.6534571,
-    "lon": 26.5987982
+    "lon": 26.5987982,
+    "routes": []
   },
   {
     "id": "20109",
     "name": "Hacıkuşlar 2",
     "lat": 41.651772,
-    "lon": 26.5974519
+    "lon": 26.5974519,
+    "routes": []
   },
   {
     "id": "20110",
     "name": "Kutlutaş Eczanesi 2",
     "lat": 41.6509051,
-    "lon": 26.5940486
+    "lon": 26.5940486,
+    "routes": []
   },
   {
     "id": "20322",
     "name": "Hacı İlbey İlkokulu 2",
     "lat": 41.6838797,
-    "lon": 26.5300512
+    "lon": 26.5300512,
+    "routes": []
   },
   {
     "id": "20252",
     "name": "Püsküllü 2",
     "lat": 41.6846863,
-    "lon": 26.5329504
+    "lon": 26.5329504,
+    "routes": []
   },
   {
     "id": "20403",
     "name": "Bademlik Altı 2",
     "lat": 41.6851595,
-    "lon": 26.534713
+    "lon": 26.534713,
+    "routes": []
   },
   {
     "id": "20292",
     "name": "Bademlik Köşe 2",
     "lat": 41.6864436,
-    "lon": 26.539137
+    "lon": 26.539137,
+    "routes": []
   },
   {
     "id": "20118",
     "name": "Bayezid Külliyesi (D)",
     "lat": 41.6864345,
-    "lon": 26.5439375
+    "lon": 26.5439375,
+    "routes": []
   },
   {
     "id": "20270",
     "name": "Yeniimaret Mezarlık 2",
     "lat": 41.687352,
-    "lon": 26.5457024
+    "lon": 26.5457024,
+    "routes": []
   },
   {
     "id": "20119",
     "name": "Bayezid Külliyesi 2 (D)",
     "lat": 41.6884747,
-    "lon": 26.5475733
+    "lon": 26.5475733,
+    "routes": []
   },
   {
     "id": "20404",
     "name": "Yabancılar Şubesi 2",
     "lat": 41.6886979,
-    "lon": 26.5504669
+    "lon": 26.5504669,
+    "routes": []
   },
   {
     "id": "20229",
     "name": "Fen Lisesi",
     "lat": 41.6616843,
-    "lon": 26.5140823
+    "lon": 26.5140823,
+    "routes": []
   },
   {
     "id": "20370",
     "name": "Macur Evleri 2",
     "lat": 41.661254,
-    "lon": 26.5150604
+    "lon": 26.5150604,
+    "routes": []
   },
   {
     "id": "20371",
     "name": "Karaağaç Trafo 2",
     "lat": 41.6602171,
-    "lon": 26.5189805
+    "lon": 26.5189805,
+    "routes": []
   },
   {
     "id": "20372",
     "name": "Arap Kahvesi 2",
     "lat": 41.6587452,
-    "lon": 26.5204866
+    "lon": 26.5204866,
+    "routes": []
   },
   {
     "id": "20230",
     "name": "Karaağaç Camii 2",
     "lat": 41.6576493,
-    "lon": 26.5208381
+    "lon": 26.5208381,
+    "routes": []
   },
   {
     "id": "20231",
     "name": "Karaağaç Çınaraltı 2",
     "lat": 41.6549101,
-    "lon": 26.5186052
+    "lon": 26.5186052,
+    "routes": []
   },
   {
     "id": "20232",
     "name": "Karaağaç Merkez 2",
     "lat": 41.6529885,
-    "lon": 26.5224451
+    "lon": 26.5224451,
+    "routes": []
   },
   {
     "id": "20332",
     "name": "Bahariye 1",
     "lat": 41.6537166,
-    "lon": 26.5233324
+    "lon": 26.5233324,
+    "routes": []
   },
   {
     "id": "20400",
     "name": "Bahariye 2",
     "lat": 41.6554387,
-    "lon": 26.5249122
+    "lon": 26.5249122,
+    "routes": []
   },
   {
     "id": "20235",
     "name": "Kafeteryalar 2",
     "lat": 41.6574489,
-    "lon": 26.5329509
+    "lon": 26.5329509,
+    "routes": []
   },
   {
     "id": "20236",
     "name": "Orman İşletme  2",
     "lat": 41.6585569,
-    "lon": 26.5372584
+    "lon": 26.5372584,
+    "routes": []
   },
   {
     "id": "20237",
     "name": "Söğütlük 2",
     "lat": 41.6606841,
-    "lon": 26.54529
+    "lon": 26.54529,
+    "routes": []
   },
   {
     "id": "20238",
     "name": "Emirgan 2",
     "lat": 41.6618858,
-    "lon": 26.5510116
+    "lon": 26.5510116,
+    "routes": []
   },
   {
     "id": "20396",
     "name": "İki Köprü Arası 2",
     "lat": 41.6652877,
-    "lon": 26.5530271
+    "lon": 26.5530271,
+    "routes": []
   },
   {
     "id": "20265",
     "name": "Süleymaniye Cami",
     "lat": 41.6681735,
-    "lon": 26.5575194
+    "lon": 26.5575194,
+    "routes": []
   },
   {
     "id": "20264",
     "name": "Bostan Pazarı 1",
     "lat": 41.668223,
-    "lon": 26.5606518
+    "lon": 26.5606518,
+    "routes": []
   },
   {
     "id": "20257",
     "name": "Tarla Kapı Çıkış 1",
     "lat": 41.6675216,
-    "lon": 26.564241
+    "lon": 26.564241,
+    "routes": []
   },
   {
     "id": "20278",
     "name": "GAZDAŞ 1",
     "lat": 41.6668536,
-    "lon": 26.5666541
+    "lon": 26.5666541,
+    "routes": []
   },
   {
     "id": "20223",
     "name": "Carrefour 1",
     "lat": 41.6685684,
-    "lon": 26.5678733
+    "lon": 26.5678733,
+    "routes": []
   },
   {
     "id": "20142",
     "name": "Tabipler Lokali",
     "lat": 41.6640908,
-    "lon": 26.5878443
+    "lon": 26.5878443,
+    "routes": []
   },
   {
     "id": "20091",
     "name": "Köy Hizmetleri Arkası 2",
     "lat": 41.659369,
-    "lon": 26.586398
+    "lon": 26.586398,
+    "routes": []
   },
   {
     "id": "20120",
     "name": "Ayçiçek Heykeli",
     "lat": 41.6646219,
-    "lon": 26.5878972
+    "lon": 26.5878972,
+    "routes": []
   },
   {
     "id": "20217",
     "name": "Carrefour 2",
     "lat": 41.6690393,
-    "lon": 26.5680539
+    "lon": 26.5680539,
+    "routes": []
   },
   {
     "id": "20277",
     "name": "GAZDAŞ 2",
     "lat": 41.6669668,
-    "lon": 26.5669612
+    "lon": 26.5669612,
+    "routes": []
   },
   {
     "id": "20256",
     "name": "Tarla Kapı Çıkış 2",
     "lat": 41.6678628,
-    "lon": 26.5636261
+    "lon": 26.5636261,
+    "routes": []
   },
   {
     "id": "20402",
     "name": "Bostan Pazarı 2",
     "lat": 41.6684335,
-    "lon": 26.5602825
+    "lon": 26.5602825,
+    "routes": []
   },
   {
     "id": "20224",
     "name": "İki Köprü Arası 1",
     "lat": 41.6653109,
-    "lon": 26.5529146
+    "lon": 26.5529146,
+    "routes": []
   },
   {
     "id": "20225",
     "name": "Emirgan 1",
     "lat": 41.6622999,
-    "lon": 26.5512006
+    "lon": 26.5512006,
+    "routes": []
   },
   {
     "id": "20226",
     "name": "Söğütlük 1",
     "lat": 41.6606226,
-    "lon": 26.544651
+    "lon": 26.544651,
+    "routes": []
   },
   {
     "id": "20227",
     "name": "Orman İşletme 1",
     "lat": 41.6585708,
-    "lon": 26.5368633
+    "lon": 26.5368633,
+    "routes": []
   },
   {
     "id": "20228",
     "name": "Kafeteryalar 1",
     "lat": 41.657547,
-    "lon": 26.5329226
+    "lon": 26.5329226,
+    "routes": []
   },
   {
     "id": "20373",
     "name": "Karaağaç Ptt",
     "lat": 41.6548374,
-    "lon": 26.5254755
+    "lon": 26.5254755,
+    "routes": []
   },
   {
     "id": "20399",
     "name": "Karaağaç Merkez 1",
     "lat": 41.6530478,
-    "lon": 26.522466
+    "lon": 26.522466,
+    "routes": []
   },
   {
     "id": "20451",
     "name": "Kayalar Durağı 1",
     "lat": 41.6539457,
-    "lon": 26.5206636
+    "lon": 26.5206636,
+    "routes": []
   },
   {
     "id": "20432",
     "name": "Arap Kahvesi 1",
     "lat": 41.6590578,
-    "lon": 26.5202827
+    "lon": 26.5202827,
+    "routes": []
   },
   {
     "id": "20331",
     "name": "Karaağaç Trafo 1",
     "lat": 41.6603383,
-    "lon": 26.5189214
+    "lon": 26.5189214,
+    "routes": []
   },
   {
     "id": "20433",
     "name": "Macur Evleri 1",
     "lat": 41.6613062,
-    "lon": 26.5152884
+    "lon": 26.5152884,
+    "routes": []
   },
   {
     "id": "20246",
     "name": "İstasyon Mahallesi 2",
     "lat": 41.6548211,
-    "lon": 26.5796591
+    "lon": 26.5796591,
+    "routes": []
   },
   {
     "id": "20247",
     "name": "Sanayi Altı 2",
     "lat": 41.6572615,
-    "lon": 26.5750218
+    "lon": 26.5750218,
+    "routes": []
   },
   {
     "id": "20310",
     "name": "Kirişhane 2",
     "lat": 41.66419,
-    "lon": 26.5652218
+    "lon": 26.5652218,
+    "routes": []
   },
   {
     "id": "20242",
     "name": "Sanayi Altı 1",
     "lat": 41.6572119,
-    "lon": 26.5748006
+    "lon": 26.5748006,
+    "routes": []
   },
   {
     "id": "20243",
     "name": "İstasyon Mahallesi 1",
     "lat": 41.654796,
-    "lon": 26.5794496
+    "lon": 26.5794496,
+    "routes": []
   },
   {
     "id": "20179",
     "name": "Orduevi Kıyık Caddesi",
     "lat": 41.676559,
-    "lon": 26.5571888
+    "lon": 26.5571888,
+    "routes": []
   },
   {
     "id": "20180",
     "name": "Halk Eğitim 1",
     "lat": 41.677028,
-    "lon": 26.5603576
+    "lon": 26.5603576,
+    "routes": []
   },
   {
     "id": "20181",
     "name": "İl Sağlık Müdürlüğü 1",
     "lat": 41.6774792,
-    "lon": 26.5658416
+    "lon": 26.5658416,
+    "routes": []
   },
   {
     "id": "20182",
     "name": "Kıyık Camii 1",
     "lat": 41.678418,
-    "lon": 26.5689715
+    "lon": 26.5689715,
+    "routes": []
   },
   {
     "id": "20303",
     "name": "Rakip Market",
     "lat": 41.6786625,
-    "lon": 26.5702345
+    "lon": 26.5702345,
+    "routes": []
   },
   {
     "id": "20304",
     "name": "Aliko Market",
     "lat": 41.6788005,
-    "lon": 26.57198
+    "lon": 26.57198,
+    "routes": []
   },
   {
     "id": "20305",
     "name": "Topuz Market",
     "lat": 41.6789031,
-    "lon": 26.5735463
+    "lon": 26.5735463,
+    "routes": []
   },
   {
     "id": "20307",
     "name": "Dilan Apartmanı 1",
     "lat": 41.6770823,
-    "lon": 26.5741696
+    "lon": 26.5741696,
+    "routes": []
   },
   {
     "id": "20202",
     "name": "Buçuk Tepe Mezarlık 1",
     "lat": 41.6764554,
-    "lon": 26.5720154
+    "lon": 26.5720154,
+    "routes": []
   },
   {
     "id": "20198",
     "name": "Şükrüpaşa Anıtı 1",
     "lat": 41.6739248,
-    "lon": 26.5703361
+    "lon": 26.5703361,
+    "routes": []
   },
   {
     "id": "20306",
     "name": "Atatürk Kültür Merkezi 1",
     "lat": 41.6732126,
-    "lon": 26.5742648
+    "lon": 26.5742648,
+    "routes": []
   },
   {
     "id": "20199",
     "name": "Selimiye İmam Hatip Lisesi 1",
     "lat": 41.6729652,
-    "lon": 26.5777242
+    "lon": 26.5777242,
+    "routes": []
   },
   {
     "id": "20161",
     "name": "Önder Market 1",
     "lat": 41.6733745,
-    "lon": 26.5804165
+    "lon": 26.5804165,
+    "routes": []
   },
   {
     "id": "20162",
     "name": "Cem Evi 1",
     "lat": 41.6733019,
-    "lon": 26.58285
+    "lon": 26.58285,
+    "routes": []
   },
   {
     "id": "20163",
     "name": "Çeşme 1",
     "lat": 41.6735694,
-    "lon": 26.5866398
+    "lon": 26.5866398,
+    "routes": []
   },
   {
     "id": "20164",
     "name": "Egeşah 1",
     "lat": 41.6728754,
-    "lon": 26.5908337
+    "lon": 26.5908337,
+    "routes": []
   },
   {
     "id": "20165",
     "name": "Başar-Mar 1",
     "lat": 41.6715438,
-    "lon": 26.591301
+    "lon": 26.591301,
+    "routes": []
   },
   {
     "id": "20166",
     "name": "Barış Parkı 1",
     "lat": 41.6698835,
-    "lon": 26.5910115
+    "lon": 26.5910115,
+    "routes": []
   },
   {
     "id": "20309",
     "name": "Gölet 1",
     "lat": 41.6684732,
-    "lon": 26.590923
+    "lon": 26.590923,
+    "routes": []
   },
   {
     "id": "20208",
     "name": "Tabya 1",
     "lat": 41.6666031,
-    "lon": 26.5920131
+    "lon": 26.5920131,
+    "routes": []
   },
   {
     "id": "20060",
     "name": "Araz Cafe 3",
     "lat": 41.6589687,
-    "lon": 26.5983452
+    "lon": 26.5983452,
+    "routes": []
   },
   {
     "id": "20061",
     "name": "Halı Saha 1",
     "lat": 41.6564496,
-    "lon": 26.5987688
+    "lon": 26.5987688,
+    "routes": []
   },
   {
     "id": "20070",
     "name": "Halı Saha 2",
     "lat": 41.6561734,
-    "lon": 26.5990061
+    "lon": 26.5990061,
+    "routes": []
   },
   {
     "id": "20071",
     "name": "Araz Cafe 4",
     "lat": 41.6591929,
-    "lon": 26.5984403
+    "lon": 26.5984403,
+    "routes": []
   },
   {
     "id": "20209",
     "name": "Tabya 2",
     "lat": 41.6666623,
-    "lon": 26.5922785
+    "lon": 26.5922785,
+    "routes": []
   },
   {
     "id": "20312",
     "name": "Gölet 2",
     "lat": 41.6684288,
-    "lon": 26.5911406
+    "lon": 26.5911406,
+    "routes": []
   },
   {
     "id": "20172",
     "name": "Barış Parkı 2",
     "lat": 41.6698089,
-    "lon": 26.5911374
+    "lon": 26.5911374,
+    "routes": []
   },
   {
     "id": "20173",
     "name": "Başar-Mar 2",
     "lat": 41.6717892,
-    "lon": 26.5915258
+    "lon": 26.5915258,
+    "routes": []
   },
   {
     "id": "20174",
     "name": "Egeşah 2",
     "lat": 41.672955,
-    "lon": 26.5906123
+    "lon": 26.5906123,
+    "routes": []
   },
   {
     "id": "20175",
     "name": "Çeşme 2",
     "lat": 41.67361,
-    "lon": 26.5868704
+    "lon": 26.5868704,
+    "routes": []
   },
   {
     "id": "20176",
     "name": "Cem Evi 2",
     "lat": 41.6734206,
-    "lon": 26.5833443
+    "lon": 26.5833443,
+    "routes": []
   },
   {
     "id": "20177",
     "name": "Önder Market 2",
     "lat": 41.6734443,
-    "lon": 26.5806288
+    "lon": 26.5806288,
+    "routes": []
   },
   {
     "id": "20200",
     "name": "Selimiye İmam Hatip Lisesi 2",
     "lat": 41.6731275,
-    "lon": 26.5782316
+    "lon": 26.5782316,
+    "routes": []
   },
   {
     "id": "20314",
     "name": "Atatürk Kültür Merkezi 2",
     "lat": 41.6732865,
-    "lon": 26.574298
+    "lon": 26.574298,
+    "routes": []
   },
   {
     "id": "20201",
     "name": "Şükrüpaşa Anıtı 2",
     "lat": 41.674069,
-    "lon": 26.5705336
+    "lon": 26.5705336,
+    "routes": []
   },
   {
     "id": "20197",
     "name": "Buçuk Tepe Mezarlık 2",
     "lat": 41.6763903,
-    "lon": 26.5721147
+    "lon": 26.5721147,
+    "routes": []
   },
   {
     "id": "20407",
     "name": "Dilan Apartmanı 2",
     "lat": 41.6770084,
-    "lon": 26.574179
+    "lon": 26.574179,
+    "routes": []
   },
   {
     "id": "20191",
     "name": "Kıyık Karakol",
     "lat": 41.6789651,
-    "lon": 26.5726676
+    "lon": 26.5726676,
+    "routes": []
   },
   {
     "id": "20192",
     "name": "Kıyık PTT",
     "lat": 41.6787755,
-    "lon": 26.570516
+    "lon": 26.570516,
+    "routes": []
   },
   {
     "id": "20193",
     "name": "Kıyık Camii 2",
     "lat": 41.678455,
-    "lon": 26.5684088
+    "lon": 26.5684088,
+    "routes": []
   },
   {
     "id": "20194",
     "name": "İl Sağlık Müdürlüğü 2",
     "lat": 41.6775823,
-    "lon": 26.5658493
+    "lon": 26.5658493,
+    "routes": []
   },
   {
     "id": "20315",
     "name": "Selimiye Camii",
     "lat": 41.677122,
-    "lon": 26.5605242
+    "lon": 26.5605242,
+    "routes": []
   },
   {
     "id": "20196",
     "name": "Çınaraltı",
     "lat": 41.6769645,
-    "lon": 26.5579418
+    "lon": 26.5579418,
+    "routes": []
   },
   {
     "id": "20384",
     "name": "Sultan Çelebi Mehmet KYK",
     "lat": 41.6965361,
-    "lon": 26.5818715
+    "lon": 26.5818715,
+    "routes": []
   },
   {
     "id": "20380",
     "name": "Toki Yaşam Merkezi 2",
     "lat": 41.6913608,
-    "lon": 26.5764213
+    "lon": 26.5764213,
+    "routes": []
   },
   {
     "id": "20417",
     "name": "Fırınlar Sırtı Toki Altı 1",
     "lat": 41.6899418,
-    "lon": 26.5740114
+    "lon": 26.5740114,
+    "routes": []
   },
   {
     "id": "20416",
     "name": "Acı Çeşme Mezarlığı 1",
     "lat": 41.6851475,
-    "lon": 26.5662504
+    "lon": 26.5662504,
+    "routes": []
   },
   {
     "id": "20327",
     "name": "Somuncu Baba 1",
     "lat": 41.6851369,
-    "lon": 26.564062
+    "lon": 26.564062,
+    "routes": []
   },
   {
     "id": "20414",
     "name": "Fen İşleri 1",
     "lat": 41.6846107,
-    "lon": 26.55767
+    "lon": 26.55767,
+    "routes": []
   },
   {
     "id": "20143",
     "name": "Saraçhane 1",
     "lat": 41.684052,
-    "lon": 26.555948
+    "lon": 26.555948,
+    "routes": []
   },
   {
     "id": "20159",
     "name": "Güllübahçe 1",
     "lat": 41.682154,
-    "lon": 26.5533975
+    "lon": 26.5533975,
+    "routes": []
   },
   {
     "id": "20158",
     "name": "Defterdarlık 1",
     "lat": 41.6806386,
-    "lon": 26.5524804
+    "lon": 26.5524804,
+    "routes": []
   },
   {
     "id": "20157",
     "name": "Üç Şerefeli Cami 1",
     "lat": 41.6777832,
-    "lon": 26.5528827
+    "lon": 26.5528827,
+    "routes": []
   },
   {
     "id": "20178",
     "name": "Aile ve Sosyal Politikalar Müdürlüğü",
     "lat": 41.6726339,
-    "lon": 26.5800523
+    "lon": 26.5800523,
+    "routes": []
   },
   {
     "id": "20167",
     "name": "Kültür Kent 1",
     "lat": 41.6695249,
-    "lon": 26.5931561
+    "lon": 26.5931561,
+    "routes": []
   },
   {
     "id": "20168",
     "name": "Kaptanın Yeri 1",
     "lat": 41.669558,
-    "lon": 26.596015
+    "lon": 26.596015,
+    "routes": []
   },
   {
     "id": "20169",
     "name": "Serhad İMKB 1",
     "lat": 41.6697066,
-    "lon": 26.5979853
+    "lon": 26.5979853,
+    "routes": []
   },
   {
     "id": "20437",
     "name": "Çocuk Müzesi 1",
     "lat": 41.6682692,
-    "lon": 26.600116
+    "lon": 26.600116,
+    "routes": []
   },
   {
     "id": "20153",
     "name": "Nimet Er 1",
     "lat": 41.663635,
-    "lon": 26.6001299
+    "lon": 26.6001299,
+    "routes": []
   },
   {
     "id": "20339",
     "name": "Biz Kent Sitesi 1",
     "lat": 41.6617864,
-    "lon": 26.601749
+    "lon": 26.601749,
+    "routes": []
   },
   {
     "id": "20340",
     "name": "Gazi Osman Paşa Ortaokulu 3",
     "lat": 41.658715,
-    "lon": 26.603105
+    "lon": 26.603105,
+    "routes": []
   },
   {
     "id": "20287",
     "name": "Olimpik Havuz 1",
     "lat": 41.6567432,
-    "lon": 26.6066659
+    "lon": 26.6066659,
+    "routes": []
   },
   {
     "id": "20423",
     "name": "Gazi Osman Paşa Ortaokulu 4",
     "lat": 41.6585749,
-    "lon": 26.6033279
+    "lon": 26.6033279,
+    "routes": []
   },
   {
     "id": "20421",
     "name": "Biz Kent Sitesi 2",
     "lat": 41.6618332,
-    "lon": 26.6019372
+    "lon": 26.6019372,
+    "routes": []
   },
   {
     "id": "20149",
     "name": "Nimet Er 2",
     "lat": 41.6639416,
-    "lon": 26.600141
+    "lon": 26.600141,
+    "routes": []
   },
   {
     "id": "20151",
     "name": "Emel Özgür Subaşı Ay Mesleki ve Teknik Anadolu Lisesi 2",
     "lat": 41.6650416,
-    "lon": 26.6026597
+    "lon": 26.6026597,
+    "routes": []
   },
   {
     "id": "20378",
     "name": "Çocuk Müzesi 2",
     "lat": 41.6682891,
-    "lon": 26.6002446
+    "lon": 26.6002446,
+    "routes": []
   },
   {
     "id": "20395",
     "name": "Serhad İMKB 2",
     "lat": 41.669821,
-    "lon": 26.5984383
+    "lon": 26.5984383,
+    "routes": []
   },
   {
     "id": "20170",
     "name": "Kaptanın Yeri 2",
     "lat": 41.6696925,
-    "lon": 26.5962021
+    "lon": 26.5962021,
+    "routes": []
   },
   {
     "id": "20171",
     "name": "Kültür Kent 2",
     "lat": 41.6696131,
-    "lon": 26.5933868
+    "lon": 26.5933868,
+    "routes": []
   },
   {
     "id": "20146",
     "name": "Üç Şerefeli Camii 2",
     "lat": 41.6781149,
-    "lon": 26.5527149
+    "lon": 26.5527149,
+    "routes": []
   },
   {
     "id": "20145",
     "name": "Defterdarlık 2",
     "lat": 41.680541,
-    "lon": 26.5523287
+    "lon": 26.5523287,
+    "routes": []
   },
   {
     "id": "20144",
     "name": "Güllübahçe 2",
     "lat": 41.6823366,
-    "lon": 26.5534895
+    "lon": 26.5534895,
+    "routes": []
   },
   {
     "id": "20394",
     "name": "Saraçhane 2",
     "lat": 41.6841219,
-    "lon": 26.5559024
+    "lon": 26.5559024,
+    "routes": []
   },
   {
     "id": "20325",
     "name": "Fen İşleri 2",
     "lat": 41.684698,
-    "lon": 26.557648
+    "lon": 26.557648,
+    "routes": []
   },
   {
     "id": "20326",
     "name": "Sarayiçi 2",
     "lat": 41.684269,
-    "lon": 26.560475
+    "lon": 26.560475,
+    "routes": []
   },
   {
     "id": "20415",
     "name": "Somuncu Baba 2",
     "lat": 41.6852677,
-    "lon": 26.5640698
+    "lon": 26.5640698,
+    "routes": []
   },
   {
     "id": "20328",
     "name": "Acı Çeşme Mezarlığı 2",
     "lat": 41.6852842,
-    "lon": 26.566177
+    "lon": 26.566177,
+    "routes": []
   },
   {
     "id": "20329",
     "name": "Fırınlar Sırtı Toki Altı 2",
     "lat": 41.6901081,
-    "lon": 26.5739002
+    "lon": 26.5739002,
+    "routes": []
   },
   {
     "id": "20337",
     "name": "F TİPİ KAPALI CEZAEVİ",
     "lat": 41.7200001,
-    "lon": 26.5415312
+    "lon": 26.5415312,
+    "routes": []
   },
   {
     "id": "20439",
     "name": "Ticaret Borsası 1",
     "lat": 41.7120195,
-    "lon": 26.5649522
+    "lon": 26.5649522,
+    "routes": []
   },
   {
     "id": "20440",
     "name": "Açık Cezaevi 1",
     "lat": 41.7082512,
-    "lon": 26.5645392
+    "lon": 26.5645392,
+    "routes": []
   },
   {
     "id": "20379",
     "name": "Fırınlar Sırtı Toki 2",
     "lat": 41.6926307,
-    "lon": 26.5772796
+    "lon": 26.5772796,
+    "routes": []
   },
   {
     "id": "20276",
     "name": "Toki Sağlık Müdürlüğü 2",
     "lat": 41.6898066,
-    "lon": 26.5781486
+    "lon": 26.5781486,
+    "routes": []
   },
   {
     "id": "20405",
     "name": "Fırınlar Sırtı Toki Çıkış 2",
     "lat": 41.6883204,
-    "lon": 26.5798331
+    "lon": 26.5798331,
+    "routes": []
   },
   {
     "id": "20333",
     "name": "Toki İmamhatip Lisesi 2",
     "lat": 41.6865407,
-    "lon": 26.5817387
+    "lon": 26.5817387,
+    "routes": []
   },
   {
     "id": "20318",
     "name": "BelKoop Giriş 2",
     "lat": 41.6847177,
-    "lon": 26.5760392
+    "lon": 26.5760392,
+    "routes": []
   },
   {
     "id": "20188",
     "name": "Bel. Koop. 2",
     "lat": 41.6827433,
-    "lon": 26.5746536
+    "lon": 26.5746536,
+    "routes": []
   },
   {
     "id": "20189",
     "name": "Perşembe Pazarı 2",
     "lat": 41.6820457,
-    "lon": 26.5749517
+    "lon": 26.5749517,
+    "routes": []
   },
   {
     "id": "20319",
     "name": "Şahin Tepesi 2",
     "lat": 41.6825765,
-    "lon": 26.5765098
+    "lon": 26.5765098,
+    "routes": []
   },
   {
     "id": "20441",
     "name": "Platin 2",
     "lat": 41.6817822,
-    "lon": 26.5797473
+    "lon": 26.5797473,
+    "routes": []
   },
   {
     "id": "20453",
     "name": "Kışla 2",
     "lat": 41.6802518,
-    "lon": 26.5800262
+    "lon": 26.5800262,
+    "routes": []
   },
   {
     "id": "20190",
     "name": "Son Bakkal",
     "lat": 41.6790299,
-    "lon": 26.5750324
+    "lon": 26.5750324,
+    "routes": []
   },
   {
     "id": "20222",
     "name": "EGS Sosyal Tesisleri 1",
     "lat": 41.6663945,
-    "lon": 26.5678833
+    "lon": 26.5678833,
+    "routes": []
   },
   {
     "id": "20219",
     "name": "Erasta Arkası",
     "lat": 41.6654511,
-    "lon": 26.5702213
+    "lon": 26.5702213,
+    "routes": []
   },
   {
     "id": "20220",
     "name": "Adliye 1",
     "lat": 41.6637735,
-    "lon": 26.5731249
+    "lon": 26.5731249,
+    "routes": []
   },
   {
     "id": "20409",
     "name": "Sanayi Cami 1",
     "lat": 41.661198,
-    "lon": 26.5769605
+    "lon": 26.5769605,
+    "routes": []
   },
   {
     "id": "20456",
     "name": "Beykent Koleji 1",
     "lat": 41.6540599,
-    "lon": 26.5834809
+    "lon": 26.5834809,
+    "routes": []
   },
   {
     "id": "20336",
     "name": "TÜİK 1",
     "lat": 41.6538173,
-    "lon": 26.5864983
+    "lon": 26.5864983,
+    "routes": []
   },
   {
     "id": "20420",
     "name": "TÜİK 2",
     "lat": 41.6538956,
-    "lon": 26.586371
+    "lon": 26.586371,
+    "routes": []
   },
   {
     "id": "20335",
     "name": "Beykent Koleji 2",
     "lat": 41.6543074,
-    "lon": 26.5831201
+    "lon": 26.5831201,
+    "routes": []
   },
   {
     "id": "20316",
     "name": "Sanayi Cami 2",
     "lat": 41.6609385,
-    "lon": 26.5774091
+    "lon": 26.5774091,
+    "routes": []
   },
   {
     "id": "20221",
     "name": "Adliye 2",
     "lat": 41.6641824,
-    "lon": 26.5725969
+    "lon": 26.5725969,
+    "routes": []
   },
   {
     "id": "20218",
     "name": "EGS Sosyal Tesisleri 2",
     "lat": 41.66643,
-    "lon": 26.5677502
+    "lon": 26.5677502,
+    "routes": []
   },
   {
     "id": "20381",
     "name": "Petrol Durağı",
     "lat": 41.6790137,
-    "lon": 26.576719
+    "lon": 26.576719,
+    "routes": []
   },
   {
     "id": "20184",
     "name": "Kışla 1",
     "lat": 41.6799968,
-    "lon": 26.5801125
+    "lon": 26.5801125,
+    "routes": []
   },
   {
     "id": "20386",
     "name": "Platin 1",
     "lat": 41.681708,
-    "lon": 26.5801227
+    "lon": 26.5801227,
+    "routes": []
   },
   {
     "id": "20411",
     "name": "Şahin Tepesi 1",
     "lat": 41.6827197,
-    "lon": 26.5765045
+    "lon": 26.5765045,
+    "routes": []
   },
   {
     "id": "20185",
     "name": "Perşembe Pazarı 1",
     "lat": 41.6821965,
-    "lon": 26.574948
+    "lon": 26.574948,
+    "routes": []
   },
   {
     "id": "20186",
     "name": "Bel. Koop. 1",
     "lat": 41.6827055,
-    "lon": 26.5747416
+    "lon": 26.5747416,
+    "routes": []
   },
   {
     "id": "20410",
     "name": "Bel.Koop. Giriş 1",
     "lat": 41.6846187,
-    "lon": 26.5761545
+    "lon": 26.5761545,
+    "routes": []
   },
   {
     "id": "20418",
     "name": "Toki İmamhatip Lisesi 1",
     "lat": 41.6865597,
-    "lon": 26.5818971
+    "lon": 26.5818971,
+    "routes": []
   },
   {
     "id": "20274",
     "name": "Fırınlar Sırtı Toki Çıkış 1",
     "lat": 41.6882283,
-    "lon": 26.5801336
+    "lon": 26.5801336,
+    "routes": []
   },
   {
     "id": "20275",
     "name": "Toki Sağlık Müdürlüğü 1",
     "lat": 41.6897675,
-    "lon": 26.5784491
+    "lon": 26.5784491,
+    "routes": []
   },
   {
     "id": "20438",
     "name": "Toki Yaşam Merkezi 1",
     "lat": 41.6913048,
-    "lon": 26.5766681
+    "lon": 26.5766681,
+    "routes": []
   },
   {
     "id": "20187",
     "name": "Fırınlar Sırtı Toki 1",
     "lat": 41.6923295,
-    "lon": 26.5776541
+    "lon": 26.5776541,
+    "routes": []
   },
   {
     "id": "20383",
     "name": "Açık Cezaevi 2",
     "lat": 41.7082181,
-    "lon": 26.5644184
+    "lon": 26.5644184,
+    "routes": []
   },
   {
     "id": "20382",
     "name": "Ticaret Borsası 2",
     "lat": 41.7119454,
-    "lon": 26.5648019
+    "lon": 26.5648019,
+    "routes": []
   },
   {
     "id": "20398",
     "name": "Karaağaç Çınaraltı 1",
     "lat": 41.6549186,
-    "lon": 26.5187029
+    "lon": 26.5187029,
+    "routes": []
   },
   {
     "id": "20397",
     "name": "Karaağaç Camii 1",
     "lat": 41.6578916,
-    "lon": 26.5212134
+    "lon": 26.5212134,
+    "routes": []
   },
   {
     "id": "20452",
     "name": "Kayalar Durağı 2",
     "lat": 41.6539156,
-    "lon": 26.5205241
+    "lon": 26.5205241,
+    "routes": []
   },
   {
     "id": "20461",
     "name": "ROLE",
     "lat": 41.6872748,
-    "lon": 26.5882767
+    "lon": 26.5882767,
+    "routes": []
   },
   {
     "id": "20470",
     "name": "Bektaş yapı",
     "lat": 41.6886889,
-    "lon": 26.5862382
+    "lon": 26.5862382,
+    "routes": []
   },
   {
     "id": "20471",
     "name": "Vadi konakları",
     "lat": 41.6883204,
-    "lon": 26.5841568
+    "lon": 26.5841568,
+    "routes": []
   },
   {
     "id": "20472",
     "name": "Edirneliler",
     "lat": 41.6909963,
-    "lon": 26.5819252
+    "lon": 26.5819252,
+    "routes": []
   },
   {
     "id": "20473",
     "name": "Migros",
     "lat": 41.6908361,
-    "lon": 26.5794952
+    "lon": 26.5794952,
+    "routes": []
   },
   {
     "id": "20342",
     "name": "Traliçe 1",
     "lat": 41.6778851,
-    "lon": 26.5842442
+    "lon": 26.5842442,
+    "routes": []
   },
   {
     "id": "20462",
     "name": "Mavi Evler",
     "lat": 41.6766618,
-    "lon": 26.588266
+    "lon": 26.588266,
+    "routes": []
   },
   {
     "id": "20463",
     "name": "Bulut Apartmanı",
     "lat": 41.6787293,
-    "lon": 26.5887555
+    "lon": 26.5887555,
+    "routes": []
   },
   {
     "id": "20464",
     "name": "Çınar Life",
     "lat": 41.6812654,
-    "lon": 26.5887568
+    "lon": 26.5887568,
+    "routes": []
   },
   {
     "id": "20465",
     "name": "Twin Life",
     "lat": 41.6805122,
-    "lon": 26.5903313
+    "lon": 26.5903313,
+    "routes": []
   },
   {
     "id": "20466",
     "name": "Cevahir Yaşam",
     "lat": 41.6791219,
-    "lon": 26.5902776
+    "lon": 26.5902776,
+    "routes": []
   },
   {
     "id": "20467",
     "name": "Safran",
     "lat": 41.6762131,
-    "lon": 26.5926326
+    "lon": 26.5926326,
+    "routes": []
   },
   {
     "id": "20468",
     "name": "Vitrin",
     "lat": 41.6731038,
-    "lon": 26.5960551
+    "lon": 26.5960551,
+    "routes": []
   },
   {
     "id": "20469",
     "name": "Yıldız Evler",
     "lat": 41.670419,
-    "lon": 26.5975679
+    "lon": 26.5975679,
+    "routes": []
   },
   {
     "id": "20348",
     "name": "Sakıp Ağa Sitesi",
     "lat": 41.6673144,
-    "lon": 26.5983134
+    "lon": 26.5983134,
+    "routes": []
   },
   {
     "id": "20385",
     "name": "Özgür Çocuklar Parkı 2",
     "lat": 41.6652977,
-    "lon": 26.5993193
+    "lon": 26.5993193,
+    "routes": []
   },
   {
     "id": "20160",
     "name": "Çocuk Sitesi",
     "lat": 41.672574,
-    "lon": 26.580219
+    "lon": 26.580219,
+    "routes": []
   },
   {
     "id": "20343",
     "name": "Zirve Yaşam Sitesi 1",
     "lat": 41.6768431,
-    "lon": 26.5859855
+    "lon": 26.5859855,
+    "routes": []
   },
   {
     "id": "20344",
     "name": "Şükrüpaşa Konakları 1",
     "lat": 41.6753032,
-    "lon": 26.5884996
+    "lon": 26.5884996,
+    "routes": []
   },
   {
     "id": "20345",
     "name": "Mevlana Camii 1",
     "lat": 41.6734551,
-    "lon": 26.5914962
+    "lon": 26.5914962,
+    "routes": []
   },
   {
     "id": "20346",
     "name": "Macera Parkı 1",
     "lat": 41.6712704,
-    "lon": 26.5935458
+    "lon": 26.5935458,
+    "routes": []
   },
   {
     "id": "20347",
     "name": "Nehir Market 1",
     "lat": 41.6688081,
-    "lon": 26.5942586
+    "lon": 26.5942586,
+    "routes": []
   },
   {
     "id": "20442",
     "name": "Özgür Çocuklar Parkı 1",
     "lat": 41.6669347,
-    "lon": 26.5982867
+    "lon": 26.5982867,
+    "routes": []
   },
   {
     "id": "20349",
     "name": "Nehir Market 2",
     "lat": 41.6689256,
-    "lon": 26.5944061
+    "lon": 26.5944061,
+    "routes": []
   },
   {
     "id": "20425",
     "name": "Macera Parkı 2",
     "lat": 41.6710241,
-    "lon": 26.5937162
+    "lon": 26.5937162,
+    "routes": []
   },
   {
     "id": "20351",
     "name": "Mevlana Camii 2",
     "lat": 41.673323,
-    "lon": 26.5924707
+    "lon": 26.5924707,
+    "routes": []
   },
   {
     "id": "20352",
     "name": "Şükrüpaşa Konakları 2",
     "lat": 41.675595,
-    "lon": 26.5884925
+    "lon": 26.5884925,
+    "routes": []
   },
   {
     "id": "20427",
     "name": "Zirve Yaşam Sitesi 2",
     "lat": 41.6770655,
-    "lon": 26.5859861
+    "lon": 26.5859861,
+    "routes": []
   },
   {
     "id": "20424",
     "name": "Traliçe 2",
     "lat": 41.6780151,
-    "lon": 26.5843017
+    "lon": 26.5843017,
+    "routes": []
   }
 ]
