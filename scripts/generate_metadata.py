@@ -76,7 +76,7 @@ def extract_gtfs_data(zip_path, extract_to):
                 json.dump(shapes, f, indent=2, ensure_ascii=False)
 
         # 4. Extract trips for both shapes and timetable grouping
-        trip_to_route = {}  # trip_id -> (route_id, direction_id, headsign)
+        trip_to_route = {}  # trip_id -> (route_id, direction_id, headsign, service_id)
         if "trips.txt" in z.namelist():
             with z.open("trips.txt") as f:
                 reader = csv.DictReader(TextIOWrapper(f, encoding="utf-8-sig"))
@@ -86,6 +86,7 @@ def extract_gtfs_data(zip_path, extract_to):
                     t_id = row.get("trip_id")
                     dir_id = row.get("direction_id", "0")
                     headsign = row.get("trip_headsign", "")
+                    service_id = row.get("service_id", "")
 
                     if r_id and s_id:
                         if r_id not in trips_info:
@@ -93,11 +94,11 @@ def extract_gtfs_data(zip_path, extract_to):
                         trips_info[r_id][dir_id] = s_id  # Store shape for both directions
 
                     if t_id and r_id:
-                        trip_to_route[t_id] = (r_id, dir_id, headsign)
+                        trip_to_route[t_id] = (r_id, dir_id, headsign, service_id)
                         if r_id not in route_timetables:
                             route_timetables[r_id] = {
-                                "0": {"headsign": "", "times": set()},
-                                "1": {"headsign": "", "times": set()},
+                                "0": {"headsign": "", "times": {"weekday": set(), "saturday": set(), "sunday": set()}},
+                                "1": {"headsign": "", "times": {"weekday": set(), "saturday": set(), "sunday": set()}},
                             }
                         if headsign:
                             route_timetables[r_id][dir_id]["headsign"] = headsign
@@ -118,7 +119,7 @@ def extract_gtfs_data(zip_path, extract_to):
                     dep_time = row.get("departure_time") or row.get("arrival_time")
 
                     if t_id in trip_to_route:
-                        r_id, dir_id, _ = trip_to_route[t_id]
+                        r_id, dir_id, _, service_id = trip_to_route[t_id]
 
                         if s_id:
                             if s_id not in stop_routes_map:
@@ -128,14 +129,41 @@ def extract_gtfs_data(zip_path, extract_to):
                         if seq == "1" and dep_time:
                             # Trim seconds if present e.g. 08:30:00 -> 08:30
                             time_short = ":".join(dep_time.split(":")[:2])
-                            route_timetables[r_id][dir_id]["times"].add(time_short)
+
+                            # Determine day type from service_id (e.g. service_0_MTWTFss)
+                            day_type = "weekday"
+                            if service_id:
+                                parts = service_id.split("_")
+                                if len(parts) >= 3:
+                                    desc = parts[-1]
+                                    if len(desc) >= 7:
+                                        if desc[5].isupper() and not desc[6].isupper():
+                                            day_type = "saturday"
+                                        elif desc[6].isupper():
+                                            day_type = "sunday"
+
+                            route_timetables[r_id][dir_id]["times"][day_type].add(time_short)
 
         # Finalize timetables: convert sets to sorted lists
         final_timetables = {}
         for r_id, dirs in route_timetables.items():
             final_timetables[r_id] = {
-                "0": {"headsign": dirs["0"]["headsign"] or "Direction 0", "times": sorted(list(dirs["0"]["times"]))},
-                "1": {"headsign": dirs["1"]["headsign"] or "Direction 1", "times": sorted(list(dirs["1"]["times"]))},
+                "0": {
+                    "headsign": dirs["0"]["headsign"] or "Direction 0",
+                    "times": {
+                        "weekday": sorted(list(dirs["0"]["times"]["weekday"])),
+                        "saturday": sorted(list(dirs["0"]["times"]["saturday"])),
+                        "sunday": sorted(list(dirs["0"]["times"]["sunday"])),
+                    },
+                },
+                "1": {
+                    "headsign": dirs["1"]["headsign"] or "Direction 1",
+                    "times": {
+                        "weekday": sorted(list(dirs["1"]["times"]["weekday"])),
+                        "saturday": sorted(list(dirs["1"]["times"]["saturday"])),
+                        "sunday": sorted(list(dirs["1"]["times"]["sunday"])),
+                    },
+                },
             }
 
         with open(os.path.join(extract_to, "timetables.json"), "w", encoding="utf-8") as f:

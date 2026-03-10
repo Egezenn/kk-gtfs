@@ -343,32 +343,93 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function showTimetable(routeId, direction) {
-      const window = document.getElementById("timetableWindow");
+      const timetableEl = document.getElementById("timetableWindow");
       const content = document.getElementById("timetableContent");
       const title = document.getElementById("timetableTitle");
       const route = cityRoutes.find((r) => r.id === routeId);
       const timetable = cityTimetables[routeId];
 
+      function renderTimetableTimes(rId, dId, dayType) {
+        const dData = cityTimetables[rId][dId];
+        const timesArray = dData.times[dayType] || [];
+
+        const now2 = new Date();
+        const currentHour = now2.getHours();
+        const currentMinute = now2.getMinutes();
+        const currentTimeStr = `${currentHour.toString().padStart(2, "0")}:${currentMinute.toString().padStart(2, "0")}`;
+
+        let nextTimeIndex = -1;
+        for (let i = 0; i < timesArray.length; i++) {
+          if (timesArray[i] >= currentTimeStr) {
+            nextTimeIndex = i;
+            break;
+          }
+        }
+
+        let timesHtml = `<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; font-weight: normal;">`;
+        if (timesArray.length === 0) {
+          timesHtml += `<div style="grid-column: span 3; text-align: center; font-style: italic;">No departures found for ${dayType}.</div>`;
+        } else {
+          timesHtml += timesArray
+            .map((t, index) => {
+              const isNext =
+                index === nextTimeIndex &&
+                ((dayType === "sunday" && now2.getDay() === 0) ||
+                  (dayType === "saturday" && now2.getDay() === 6) ||
+                  (dayType === "weekday" && now2.getDay() > 0 && now2.getDay() < 6));
+              const style = isNext
+                ? "border-bottom: 1px dotted #333; padding: 2px; background-color: #000080; color: white; border-radius: 2px;"
+                : "border-bottom: 1px dotted #333; padding: 2px;";
+              return `<div style="${style}">${t}</div>`;
+            })
+            .join("");
+        }
+        timesHtml += `</div>`;
+
+        content.innerHTML = `
+              <div id="daySelector" style="display: flex; gap: 10px; margin-bottom: 10px; font-size: 0.8rem; border-bottom: 1px solid #333; padding-bottom: 5px;">
+                  <label><input type="radio" name="dayType" value="weekday" ${dayType === "weekday" ? "checked" : ""}> Weekday</label>
+                  <label><input type="radio" name="dayType" value="saturday" ${dayType === "saturday" ? "checked" : ""}> Saturday</label>
+                  <label><input type="radio" name="dayType" value="sunday" ${dayType === "sunday" ? "checked" : ""}> Sunday</label>
+              </div>
+              ${timesHtml}
+          `;
+
+        content.querySelectorAll("input[name='dayType']").forEach((radio) => {
+          radio.addEventListener("change", () => {
+            renderTimetableTimes(rId, dId, radio.value);
+          });
+        });
+      }
+
       if (route && timetable) {
         const dirData = timetable[direction];
-        if (dirData && dirData.times.length > 0) {
+        if (
+          dirData &&
+          ((dirData.times.weekday && dirData.times.weekday.length > 0) ||
+            (dirData.times.saturday && dirData.times.saturday.length > 0) ||
+            (dirData.times.sunday && dirData.times.sunday.length > 0))
+        ) {
           title.innerText = `${dirData.headsign || "SCHEDULE"}`;
-          content.innerHTML = `
-                        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; font-weight: normal;">
-                            ${dirData.times.map((t) => `<div style="border-bottom: 1px dotted #333; padding: 2px;">${t}</div>`).join("")}
-                        </div>
-                    `;
-          window.style.display = "flex";
+
+          const now = new Date();
+          const currentDayNum = now.getDay();
+          let currentDayType = "weekday";
+          if (currentDayNum === 0) currentDayType = "sunday";
+          else if (currentDayNum === 6) currentDayType = "saturday";
+
+          renderTimetableTimes(routeId, direction, currentDayType);
+          timetableEl.style.display = "flex";
         } else {
           if (direction === "0") {
-            window.style.display = "none";
+            timetableEl.style.display = "none";
           } else {
             content.innerHTML = "No departures found for this direction.";
-            window.style.display = "flex";
+            timetableEl.style.display = "flex";
           }
         }
       } else {
-        window.style.display = "none";
+        timetableEl.style.display = "none";
       }
     }
 

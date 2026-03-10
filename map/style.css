@@ -192,6 +192,11 @@ body:not(.detail-page) main {
   color: var(--win-text);
 }
 
+.neon-route-line {
+  stroke-width: 5;
+  stroke-opacity: 0.4;
+}
+
 .win-outset:is(a, button, .tab-btn, .close-btn, #reverseBtn, .data-item) {
   cursor: pointer;
   user-select: none;
@@ -299,14 +304,6 @@ body:not(.detail-page) main {
   display: inline-block;
   vertical-align: middle;
   margin-right: 8px;
-}
-
-/* Footer */
-footer {
-  text-align: center;
-  padding: 20px;
-  font-size: 0.8rem;
-  color: #555;
 }
 
 .hidden {

@@ -26,19 +26,19 @@ options:
 <details>
 <summary><h2>Publicly available API endpoints</h2></summary>
 
-<https://service.kentkart.com/rl1/api/v2.0/city>
-<https://service.kentkart.com/rl1/api/info/announce?region={region}&lang=tr>
-<https://service.kentkart.com/rl1/web/nearest/find?region={region}&lang=tr>
-<https://service.kentkart.com/rl1/web/pathInfo?region={region}&lang=tr&direction={direction}&displayRouteCode={display_code}>
+City metadata: <https://service.kentkart.com/rl1/api/v2.0/city>  
+Stop & Route list: <https://service.kentkart.com/rl1/web/nearest/find?region={region}&lang=tr>  
+Route information: <https://service.kentkart.com/rl1/web/pathInfo?region={region}&lang=tr&direction={direction}&displayRouteCode={display_code}>
+Nearest buses: <https://service.kentkart.com/rl1/web/nearest/bus?region={region}&lang=tr&lat={lat}&lng={lon}&busStopId={stop_id}>  
 </details>
 
 ## Hardcoded Assumptions
 
 Because the KentKart API endpoints do not provide all required fields to generate a strictly compliant GTFS feed, the generator enforces the following hardcoded baseline assumptions:
 
-- **Agency URL**: Defaulted to `https://www.kentkart.com/` (`agency.txt`)
+- **Agency URL**: Defaulted to `https://www.kentkart.com/` (`agency.txt`) (per city support mails are _sometimes_ available in city metadata as `supportEmail`, `supportCCEmail`)
 - **Agency Timezone**: Defaulted to `Europe/Istanbul` (`agency.txt`)
-- **Route Type**: Forced to `3` (Bus) for all routes, as Kentkart is a bus-centric platform (`routes.txt`)
+- **Route Type**: Forced to `3` (Bus) for all routes, as Kentkart is a bus-centric platform (`routes.txt`) (available in `routeType` route info request)
 - **Calendar Dates**: Service ID dates are set with a start boundary of `20250101` and an end boundary of `20301231` (`calendar.txt`)
 
 ## Data Access
