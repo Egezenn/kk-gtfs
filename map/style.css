@@ -18,6 +18,35 @@
   box-sizing: border-box;
 }
 
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 14px;
+  height: 14px;
+}
+
+::-webkit-scrollbar-track {
+  background: #111;
+  border-left: 1px solid #444;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--gray-face);
+  border: 1px outset #fff;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #444;
+}
+
+::-webkit-scrollbar-corner {
+  background: #111;
+}
+
+html {
+  scrollbar-color: var(--gray-face) #111;
+  scrollbar-width: thin;
+}
+
 body {
   font-family: "Verdana", "Tahoma", sans-serif;
   background-color: #000000;
@@ -142,7 +171,8 @@ body:not(.detail-page) main {
 }
 
 .explore-btn,
-.download-btn {
+.download-btn,
+.cache-btn {
   flex: 1;
   padding: 6px;
   text-align: center;
@@ -157,6 +187,9 @@ body:not(.detail-page) main {
 }
 .download-btn {
   color: #00ffff;
+}
+.cache-btn {
+  color: #ff80df;
 }
 
 /* Detail Page Layout */

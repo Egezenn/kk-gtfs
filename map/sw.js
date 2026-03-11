@@ -1,5 +1,6 @@
 const CACHE_NAME = "kk-gtfs-v1";
 const DATA_CACHE_NAME = "kk-gtfs-data-v1";
+const TILE_CACHE_NAME = "kk-gtfs-tiles-v1";
 
 const ASSETS = [
   "./",
@@ -28,7 +29,7 @@ self.addEventListener("activate", (event) => {
     caches.keys().then((keyList) => {
       return Promise.all(
         keyList.map((key) => {
-          if (key !== CACHE_NAME && key !== DATA_CACHE_NAME) {
+          if (key !== CACHE_NAME && key !== DATA_CACHE_NAME && key !== TILE_CACHE_NAME) {
             return caches.delete(key);
           }
         }),
@@ -83,9 +84,8 @@ async function handleDataFetch(request) {
   }
 }
 
-// Add generic NetworkFirst helper for Map Tiles
 async function handleTileFetch(request) {
-  const cache = await caches.open(DATA_CACHE_NAME);
+  const cache = await caches.open(TILE_CACHE_NAME);
   try {
     const networkResponse = await fetch(request);
     if (networkResponse.ok) {

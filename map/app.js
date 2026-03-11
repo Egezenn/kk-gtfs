@@ -43,6 +43,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     </div>
                     <div class="card-actions">
                         <a href="details.html?city=${feed.slug}" class="explore-btn win-outset">[ EXPLORE ]</a>
+                        <button onclick="cacheCityData('${feed.slug}', this)" class="cache-btn win-outset">[ CACHE ]</button>
                         <a href="https://egezenn.github.io/kk-gtfs/data/${feed.filename}" class="download-btn win-outset" download>[ ZIP ]</a>
                     </div>
                 </div>
@@ -51,6 +52,92 @@ document.addEventListener("DOMContentLoaded", () => {
         .join("");
     }
   }
+
+  window.cacheCityData = async function (slug, btn) {
+    if (btn.disabled) return;
+    btn.disabled = true;
+    btn.innerText = "[ FETCHING... ]";
+
+    try {
+      // 1. Fetch all data to cache it, and extract stops to determine bounds
+      const [stops] = await Promise.all([
+        fetch(`../data/cities/${slug}/stops.json`).then((r) => (r.ok ? r.json() : [])),
+        fetch(`../data/cities/${slug}/routes.json`),
+        fetch(`../data/cities/${slug}/shapes.json`),
+        fetch(`../data/cities/${slug}/trips.json`),
+        fetch(`../data/cities/${slug}/timetables.json`).catch(() => {}),
+      ]);
+
+      if (stops.length === 0) throw new Error("No stops found");
+
+      let minLat = 90,
+        maxLat = -90,
+        minLon = 180,
+        maxLon = -180;
+      stops.forEach((s) => {
+        if (s.lat < minLat) minLat = s.lat;
+        if (s.lat > maxLat) maxLat = s.lat;
+        if (s.lon < minLon) minLon = s.lon;
+        if (s.lon > maxLon) maxLon = s.lon;
+      });
+
+      // Pad boundaries slightly
+      minLat -= 0.05;
+      maxLat += 0.05;
+      minLon -= 0.05;
+      maxLon += 0.05;
+
+      const lon2tile = (lon, zoom) => Math.floor(((lon + 180) / 360) * Math.pow(2, zoom));
+      const lat2tile = (lat, zoom) =>
+        Math.floor(
+          ((1 - Math.log(Math.tan((lat * Math.PI) / 180) + 1 / Math.cos((lat * Math.PI) / 180)) / Math.PI) / 2) *
+            Math.pow(2, zoom),
+        );
+
+      const minZoom = 12; // Start detailed enough
+      const maxZoom = 15; // Up to decent street level
+      const urls = [];
+      const subdomains = ["a", "b", "c", "d"];
+      let sIdx = 0;
+
+      // Calculate XYZ tiles requested by Leaflet for Cartesian map
+      for (let z = minZoom; z <= maxZoom; z++) {
+        const minX = lon2tile(minLon, z);
+        const maxX = lon2tile(maxLon, z);
+        const minY = lat2tile(maxLat, z); // Inverted Y-axis
+        const maxY = lat2tile(minLat, z);
+
+        for (let x = minX; x <= maxX; x++) {
+          for (let y = minY; y <= maxY; y++) {
+            const s = subdomains[sIdx++ % subdomains.length];
+            // Match the Leaflet cartocdn string used in Details
+            urls.push(`https://${s}.basemaps.cartocdn.com/rastertiles/voyager_labels_under/${z}/${x}/${y}.png`);
+          }
+        }
+      }
+
+      // Hard cap to avoid hammering the CDN or exhausting memory (e.g. 1500 tiles)
+      if (urls.length > 2000) urls.length = 2000;
+
+      let completed = 0;
+      const batchSize = 15; // Concurrent fetching speed
+
+      for (let i = 0; i < urls.length; i += batchSize) {
+        const batch = urls.slice(i, i + batchSize);
+        await Promise.all(batch.map((url) => fetch(url, { mode: "cors" }).catch(() => {})));
+        completed += batch.length;
+        btn.innerText = `[ ${Math.min(100, Math.round((completed / urls.length) * 100))}% ]`;
+      }
+
+      btn.innerText = "[ CACHED ]";
+      btn.style.color = "#00ff00";
+    } catch (e) {
+      console.error(e);
+      btn.innerText = "[ ERROR ]";
+      btn.disabled = false;
+      btn.style.color = "#ff0000";
+    }
+  };
 
   function initDetailPage() {
     const urlParams = new URLSearchParams(window.location.search);
