@@ -509,6 +509,23 @@ document.addEventListener("DOMContentLoaded", () => {
           className: "neon-route-line",
         }).addTo(routeLayer);
 
+        // Add directional arrows
+        if (typeof L.polylineDecorator !== "undefined") {
+          L.polylineDecorator(polyline, {
+            patterns: [
+              {
+                offset: "20",
+                repeat: "2%",
+                symbol: L.Symbol.arrowHead({
+                  pixelSize: 10,
+                  polygon: false,
+                  pathOptions: { stroke: true, color: "#" + (route.text_color || "fff"), weight: 2, opacity: 0.8 },
+                }),
+              },
+            ],
+          }).addTo(routeLayer);
+        }
+
         // Inject a dynamic style rule for the current route's neon glow
         let styleEl = document.getElementById("neon-style");
         if (!styleEl) {

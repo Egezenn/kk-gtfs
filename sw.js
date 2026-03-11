@@ -1,4 +1,4 @@
-const CACHE_NAME = "kk-gtfs-v2";
+const CACHE_NAME = "kk-gtfs-v3";
 const DATA_CACHE_NAME = "kk-gtfs-data-v2";
 const TILE_CACHE_NAME = "kk-gtfs-tiles-v2";
 
@@ -15,6 +15,7 @@ const ASSETS = [
   "./map/icon-512.png",
   "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css",
   "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js",
+  "https://unpkg.com/leaflet-polylinedecorator@1.6.0/dist/leaflet.polylineDecorator.js",
 ];
 
 self.addEventListener("install", (event) => {
