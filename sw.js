@@ -1,4 +1,4 @@
-const CACHE_NAME = "kk-gtfs-v3.1";
+const CACHE_NAME = "kk-gtfs-v3.2";
 const DATA_CACHE_NAME = "kk-gtfs-data-v2";
 const TILE_CACHE_NAME = "kk-gtfs-tiles-v2";
 

@@ -422,3 +422,32 @@ body:not(.detail-page) main {
 .mobile-toggle {
   display: none;
 }
+
+.cache-footer {
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.75rem;
+  color: #888;
+  border-top: 1px solid #222;
+  margin-top: 1rem;
+}
+
+.cache-footer-label {
+  margin-bottom: 0.5rem;
+  color: #555;
+}
+
+.cache-footer-btns {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.cache-clear-btn {
+  font-family: inherit;
+  font-size: 0.75rem;
+  color: #aaa;
+  padding: 4px 10px;
+  cursor: pointer;
+}

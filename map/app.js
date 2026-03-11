@@ -65,6 +65,38 @@ document.addEventListener("DOMContentLoaded", () => {
         })
         .join("");
     }
+
+    if ("caches" in window) {
+      caches.keys().then((keys) => {
+        const row = document.getElementById("cacheBtnRow");
+        if (!row) return;
+        row.innerHTML = "";
+        if (keys.length === 0) {
+          row.textContent = "[ NO CACHES ]";
+          return;
+        }
+        keys.forEach((name) => {
+          const label = name.replace(/^kk-gtfs-/, "").toUpperCase();
+          const btn = document.createElement("button");
+          btn.className = "cache-clear-btn win-outset";
+          btn.textContent = `[ CLEAR ${label} ]`;
+          btn.addEventListener("click", () => {
+            btn.disabled = true;
+            btn.textContent = "[ ... ]";
+            caches.delete(name).then((deleted) => {
+              btn.textContent = deleted ? "[ CLEARED ]" : "[ NOT FOUND ]";
+              btn.style.color = deleted ? "#00ff00" : "#ff8800";
+              setTimeout(() => {
+                btn.textContent = `[ CLEAR ${label} ]`;
+                btn.style.color = "";
+                btn.disabled = false;
+              }, 2000);
+            });
+          });
+          row.appendChild(btn);
+        });
+      });
+    }
   }
 
   window.setDefaultCity = function (slug, btn) {
@@ -197,6 +229,53 @@ document.addEventListener("DOMContentLoaded", () => {
     routeLayer = L.featureGroup().addTo(map);
     stopLayer = L.featureGroup().addTo(map);
     busLayer = L.featureGroup().addTo(map);
+    const userLayer = L.featureGroup().addTo(map);
+    let userMarker = null;
+    let _userZoomHandler = null;
+
+    const LocateControl = L.Control.extend({
+      options: { position: "bottomright" },
+      onAdd() {
+        const btn = L.DomUtil.create("button", "leaflet-bar leaflet-control");
+        btn.title = "Go to my location";
+        btn.style.cssText =
+          "width:34px;height:34px;font-size:1.3rem;cursor:pointer;background:#1a1a1a;color:#00ff00;border:1px solid #00ff00;border-radius:2px;display:flex;align-items:center;justify-content:center;";
+        btn.innerHTML = "⊕";
+        L.DomEvent.on(btn, "click", L.DomEvent.stopPropagation)
+          .on(btn, "click", L.DomEvent.preventDefault)
+          .on(btn, "click", () => map.locate({ setView: true, maxZoom: 16, enableHighAccuracy: true }));
+        return btn;
+      },
+    });
+    new LocateControl().addTo(map);
+
+    map.on("locationfound", (e) => {
+      const latlng = e.latlng;
+      const style = stopStyleForZoom(map.getZoom());
+      if (!userMarker) {
+        userMarker = L.circleMarker(latlng, {
+          ...style,
+          color: "#00ff00",
+          fillColor: "#00cc00",
+          fillOpacity: 0.9,
+        })
+          .addTo(userLayer)
+          .bindPopup("<b>You are here</b>");
+
+        if (_userZoomHandler) map.off("zoomend", _userZoomHandler);
+        _userZoomHandler = () => {
+          if (!userMarker) return;
+          const s = stopStyleForZoom(map.getZoom());
+          userMarker.setStyle(s);
+          userMarker.setRadius(s.radius);
+        };
+        map.on("zoomend", _userZoomHandler);
+      } else {
+        userMarker.setLatLng(latlng);
+      }
+    });
+
+    map.on("locationerror", (e) => console.warn("Location error:", e.message));
 
     // 2. Load Data
     Promise.all([fetch(`../data/metadata.json`).then((r) => (r.ok ? r.json() : []))])
@@ -274,6 +353,14 @@ document.addEventListener("DOMContentLoaded", () => {
         document.getElementById("cityName").innerText = "ERROR:FILE_NOT_FOUND";
       });
 
+    let _stopZoomHandler = null;
+
+    function stopStyleForZoom(zoom) {
+      const r = Math.max(3, Math.min(8, zoom - 9));
+      const w = zoom >= 15 ? 2 : 1;
+      return { radius: r, weight: w };
+    }
+
     function renderAllStopsOnMap(stops) {
       stopLayer.clearLayers();
       stops.forEach((s) => {
@@ -290,15 +377,26 @@ document.addEventListener("DOMContentLoaded", () => {
         }
 
         L.circleMarker([s.lat, s.lon], {
-          radius: 3,
+          ...stopStyleForZoom(map.getZoom()),
           color: "#00ffff",
-          weight: 1,
           fillColor: "#008080",
           fillOpacity: 0.8,
         })
           .addTo(stopLayer)
           .bindPopup(`<b>${s.name}</b>${routeHtml ? "<br>" + routeHtml : ""}`);
       });
+
+      if (_stopZoomHandler) map.off("zoomend", _stopZoomHandler);
+      _stopZoomHandler = () => {
+        const s = stopStyleForZoom(map.getZoom());
+        stopLayer.eachLayer((layer) => {
+          if (layer.setRadius) {
+            layer.setStyle(s);
+            layer.setRadius(s.radius);
+          }
+        });
+      };
+      map.on("zoomend", _stopZoomHandler);
     }
 
     let currentRouteId = null;
@@ -413,25 +511,23 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     document.querySelector(".close-btn").addEventListener("click", () => {
-      // Clear current route selection
       if (currentRouteId) {
         currentRouteId = null;
         currentDirection = "0";
 
-        // Remove active class from selected routes in sidebar
         const list = document.getElementById("routeList");
         if (list) {
           list.querySelectorAll(".data-item").forEach((i) => i.classList.remove("active"));
         }
 
-        // Hide window and clear map route layer
         document.getElementById("timetableWindow").style.display = "none";
         routeLayer.clearLayers();
-        busLayer.clearLayers();
-        if (liveBusInterval) {
-          clearInterval(liveBusInterval);
-          liveBusInterval = null;
-        }
+      }
+
+      busLayer.clearLayers();
+      if (liveBusInterval) {
+        clearInterval(liveBusInterval);
+        liveBusInterval = null;
       }
     });
 
@@ -709,9 +805,9 @@ document.addEventListener("DOMContentLoaded", () => {
       sidebarToggle.addEventListener("click", () => {
         sidebar.classList.toggle("collapsed");
         if (sidebar.classList.contains("collapsed")) {
-          sidebarToggle.innerText = "▲";
-        } else {
           sidebarToggle.innerText = "▼";
+        } else {
+          sidebarToggle.innerText = "▲";
         }
         // Force map resize to prevent blank tiles when container size changes
         setTimeout(() => map.invalidateSize(), 300);
