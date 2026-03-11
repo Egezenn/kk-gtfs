@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     <div class="card-actions">
                         <a href="details.html?city=${feed.slug}" class="explore-btn win-outset">[ EXPLORE ]</a>
                         <button onclick="cacheCityData('${feed.slug}', this)" class="cache-btn win-outset">[ CACHE ]</button>
-                        <a href="https://egezenn.github.io/kk-gtfs/data/${feed.filename}" class="download-btn win-outset" download>[ ZIP ]</a>
+                        <a href="https://egezenn.github.io/kk-gtfs/data/${feed.filename}" class="download-btn win-outset" download>[ GTFS ]</a>
                     </div>
                 </div>
             `,
