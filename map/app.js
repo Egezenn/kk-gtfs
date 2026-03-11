@@ -712,7 +712,12 @@ document.addEventListener("DOMContentLoaded", () => {
         const timesArray = dData.times[dayType] || [];
 
         const now2 = new Date();
-        const currentHour = now2.getHours();
+        let currentHour = now2.getHours();
+
+        if (currentHour < 4) {
+          currentHour += 24;
+        }
+
         const currentMinute = now2.getMinutes();
         const currentTimeStr = `${currentHour.toString().padStart(2, "0")}:${currentMinute.toString().padStart(2, "0")}`;
 
@@ -738,7 +743,17 @@ document.addEventListener("DOMContentLoaded", () => {
               const style = isNext
                 ? "border-bottom: 1px dotted #333; padding: 2px; background-color: #000080; color: white; border-radius: 2px;"
                 : "border-bottom: 1px dotted #333; padding: 2px;";
-              return `<div style="${style}">${t}</div>`;
+
+              // Modulo display time for > 24h
+              let displayT = t;
+              const parts = t.split(":");
+              let h = parseInt(parts[0], 10);
+              if (h >= 24) {
+                h %= 24;
+                displayT = `${h.toString().padStart(2, "0")}:${parts[1]}`;
+              }
+
+              return `<div style="${style}">${displayT}</div>`;
             })
             .join("");
         }
