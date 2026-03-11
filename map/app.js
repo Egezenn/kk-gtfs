@@ -15,6 +15,13 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function initMainPage() {
+    const defaultCity = localStorage.getItem("kk_gtfs-default_city");
+    const noRedirect = new URLSearchParams(window.location.search).has("noredirect");
+    if (defaultCity && !noRedirect) {
+      window.location.replace("details.html?city=" + defaultCity);
+      return;
+    }
+
     const feedList = document.getElementById("feedList");
     const citySearch = document.getElementById("citySearch");
     const loading = document.getElementById("loading");

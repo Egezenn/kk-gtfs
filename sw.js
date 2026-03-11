@@ -1,4 +1,4 @@
-const CACHE_NAME = "kk-gtfs-v3";
+const CACHE_NAME = "kk-gtfs-v3.1";
 const DATA_CACHE_NAME = "kk-gtfs-data-v2";
 const TILE_CACHE_NAME = "kk-gtfs-tiles-v2";
 
@@ -20,11 +20,15 @@ const ASSETS = [
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => {
-      return cache.addAll(ASSETS);
-    }),
+    caches
+      .open(CACHE_NAME)
+      .then((cache) => {
+        return Promise.all(
+          ASSETS.map((url) => cache.add(url).catch((err) => console.warn("Failed to cache:", url, err))),
+        );
+      })
+      .then(() => self.skipWaiting()),
   );
-  self.skipWaiting();
 });
 
 self.addEventListener("activate", (event) => {
@@ -118,7 +122,7 @@ self.addEventListener("fetch", (event) => {
   } else {
     // Fallback for static assets
     event.respondWith(
-      caches.match(event.request).then((response) => {
+      caches.match(event.request, { ignoreSearch: true }).then((response) => {
         return response || fetch(event.request);
       }),
     );
