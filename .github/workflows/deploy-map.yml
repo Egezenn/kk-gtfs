@@ -22,6 +22,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Inject Timestamp into Service Worker Cache
+        run: |
+          TIMESTAMP=$(date +"%Y-%m-%d_%H%M")
+          sed -i "s/const CACHE_NAME = \"kk-gtfs-v1\";/const CACHE_NAME = \"kk-gtfs-v1-${TIMESTAMP}\";/" map/sw.js
+          sed -i "s/const DATA_CACHE_NAME = \"kk-gtfs-data-v1\";/const DATA_CACHE_NAME = \"kk-gtfs-data-v1-${TIMESTAMP}\";/" map/sw.js
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 

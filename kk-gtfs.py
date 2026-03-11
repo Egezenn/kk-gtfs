@@ -227,8 +227,8 @@ class KentkartGTFSGenerator:
                                     "friday": days_active[4],
                                     "saturday": days_active[5],
                                     "sunday": days_active[6],
-                                    "start_date": "20250101",
-                                    "end_date": "20301231",
+                                    "start_date": time.strftime("%Y%m%d"),
+                                    "end_date": time.strftime("%Y%m%d", time.localtime(time.time() + 30 * 24 * 3600)),
                                 }
                             )
 

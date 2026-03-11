@@ -249,13 +249,11 @@ body:not(.detail-page) main {
 .close-btn {
   background: var(--gray-face);
   color: black;
-  border: 1px solid #fff;
-  width: 16px;
-  height: 14px;
-  font-size: 10px;
-  line-height: 12px;
-  text-align: center;
+  border: 1px outset #fff;
   cursor: pointer;
+  padding: 2px 8px;
+  font-size: 0.8rem;
+  font-weight: bold;
 }
 
 /* Tabs */
@@ -315,4 +313,68 @@ body:not(.detail-page) main {
 }
 .tab-content.active {
   display: block;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+  .detail-page .container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    padding: 0 !important;
+    gap: 0;
+  }
+
+  .sidebar {
+    width: 100%;
+    max-height: 40vh;
+    z-index: 1000;
+    transition: max-height 0.3s ease;
+  }
+
+  .sidebar.collapsed {
+    max-height: 40px;
+    overflow: hidden;
+  }
+
+  #map {
+    flex: 1;
+    border: none;
+    border-top: 2px solid #444;
+  }
+
+  /* Overlay Timetable Window adjustments for Mobile */
+  .win-overlay {
+    top: auto;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    max-height: 50vh;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    transition: transform 0.3s ease;
+  }
+
+  .win-overlay.collapsed {
+    transform: translateY(calc(100% - 30px));
+  }
+
+  /* Mobile Toggle Buttons */
+  .mobile-toggle {
+    display: block !important;
+    background: var(--win-blue);
+    color: white;
+    border: 1px outset #fff;
+    cursor: pointer;
+    padding: 2px 8px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    float: right;
+  }
+}
+
+.mobile-toggle {
+  display: none;
 }

@@ -21,13 +21,13 @@
   </head>
   <body class="detail-page">
     <div class="container" style="padding-top: 20px">
-      <aside class="sidebar win-outset">
-        <a
-          href="index.html"
-          class="back-link"
-          style="color: #00ffff; font-size: 0.8rem; text-decoration: none; margin-bottom: 10px; display: block"
-          >[ BACK ]</a
-        >
+      <aside class="sidebar win-outset" id="sidebar">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px">
+          <a href="index.html" class="back-link" style="color: #00ffff; font-size: 0.8rem; text-decoration: none"
+            >[ BACK ]</a
+          >
+          <button id="sidebarToggle" class="mobile-toggle">▼</button>
+        </div>
         <h1 id="cityName" style="font-size: 1.2rem; background: #555; padding: 4px; margin-bottom: 5px">LOADING...</h1>
         <div id="cityStats" class="stat-pills" style="margin-bottom: 15px"></div>
 
@@ -52,18 +52,20 @@
 
       <!-- Timetable Window Overlay (Outside map for filter isolation) -->
       <div id="timetableWindow" class="win-overlay win-outset">
-        <div class="win-titlebar">
+        <div class="win-titlebar" id="timetableDragHandle">
           <span id="timetableTitle">SCHEDULE_VIEW</span>
           <div style="display: flex; gap: 4px; align-items: center">
+            <button id="timetableToggle" class="mobile-toggle">▲</button>
             <button
               id="reverseBtn"
               class="win-outset"
               style="
                 background: var(--gray-face);
                 color: white;
-                border: 1px solid #fff;
-                padding: 0 4px;
-                font-size: 0.6rem;
+                border: 1px outset #fff;
+                padding: 2px 8px;
+                font-size: 0.8rem;
+                font-weight: bold;
                 cursor: pointer;
               "
             >

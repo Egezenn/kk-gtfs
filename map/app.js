@@ -82,24 +82,44 @@ document.addEventListener("DOMContentLoaded", () => {
     busLayer = L.featureGroup().addTo(map);
 
     // 2. Load Data
-    Promise.all([
-      fetch(`../data/cities/${citySlug}/routes.json`).then((r) => (r.ok ? r.json() : [])),
-      fetch(`../data/cities/${citySlug}/stops.json`).then((r) => (r.ok ? r.json() : [])),
-      fetch(`../data/cities/${citySlug}/shapes.json`).then((r) => (r.ok ? r.json() : {})),
-      fetch(`../data/cities/${citySlug}/trips.json`).then((r) => (r.ok ? r.json() : {})),
-      fetch(`../data/cities/${citySlug}/timetables.json`)
-        .then((r) => (r.ok ? r.json() : {}))
-        .catch(() => ({})),
-      fetch(`../data/metadata.json`).then((r) => (r.ok ? r.json() : [])),
-    ])
-      .then(([routes, stops, shapes, trips, timetables, metadata]) => {
+    Promise.all([fetch(`../data/metadata.json`).then((r) => (r.ok ? r.json() : []))])
+      .then(([metadata]) => {
+        const cityMeta = metadata.find((m) => m.slug === citySlug);
+        if (cityMeta) {
+          cityRegionId = cityMeta.region_id;
+
+          // Check if we need to invalidate cache
+          const localLastUpdated = localStorage.getItem(`kk_gtfs_cached_${citySlug}`);
+          if (localLastUpdated !== cityMeta.last_updated) {
+            // Tell service worker to drop cache for this city
+            if (navigator.serviceWorker && navigator.serviceWorker.controller) {
+              navigator.serviceWorker.controller.postMessage({
+                type: "INVALIDATE_CITY_CACHE",
+                citySlug: citySlug,
+              });
+            }
+            // Update local storage to the new modified date
+            localStorage.setItem(`kk_gtfs_cached_${citySlug}`, cityMeta.last_updated);
+          }
+        }
+
+        // Fetch remaining data files (they will go through SW, which may hit cache or network)
+        return Promise.all([
+          fetch(`../data/cities/${citySlug}/routes.json`).then((r) => (r.ok ? r.json() : [])),
+          fetch(`../data/cities/${citySlug}/stops.json`).then((r) => (r.ok ? r.json() : [])),
+          fetch(`../data/cities/${citySlug}/shapes.json`).then((r) => (r.ok ? r.json() : {})),
+          fetch(`../data/cities/${citySlug}/trips.json`).then((r) => (r.ok ? r.json() : {})),
+          fetch(`../data/cities/${citySlug}/timetables.json`)
+            .then((r) => (r.ok ? r.json() : {}))
+            .catch(() => ({})),
+        ]);
+      })
+      .then(([routes, stops, shapes, trips, timetables]) => {
         cityRoutes = routes;
         cityStops = stops;
         cityShapes = shapes;
         cityTrips = trips;
         cityTimetables = timetables;
-        const cityMeta = metadata.find((m) => m.slug === citySlug);
-        if (cityMeta) cityRegionId = cityMeta.region_id;
 
         document.getElementById("cityName").innerText = citySlug.replace("_", " ").toUpperCase();
         document.getElementById("cityStats").innerHTML = `
@@ -196,6 +216,17 @@ document.addEventListener("DOMContentLoaded", () => {
 
           showRouteOnMap(currentRouteId);
           showTimetable(currentRouteId, currentDirection);
+
+          // Auto collapse sidebar on mobile
+          if (window.innerWidth <= 768) {
+            const sb = document.getElementById("sidebar");
+            const sTog = document.getElementById("sidebarToggle");
+            if (sb && !sb.classList.contains("collapsed")) {
+              sb.classList.add("collapsed");
+              sTog.innerText = "▲ EXPAND";
+              setTimeout(() => map.invalidateSize(), 300);
+            }
+          }
         });
       });
     }
@@ -263,6 +294,17 @@ document.addEventListener("DOMContentLoaded", () => {
               .setLatLng([stop.lat, stop.lon])
               .setContent(`<b>${stop.name}</b><br>ID: ${stop.id}${routeHtml}`)
               .openOn(map);
+
+            // Auto collapse sidebar on mobile
+            if (window.innerWidth <= 768) {
+              const sb = document.getElementById("sidebar");
+              const sTog = document.getElementById("sidebarToggle");
+              if (sb && !sb.classList.contains("collapsed")) {
+                sb.classList.add("collapsed");
+                sTog.innerText = "▲";
+                setTimeout(() => map.invalidateSize(), 300);
+              }
+            }
           }
         });
       });
@@ -433,6 +475,37 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     }
 
+    // Mobile Toggles
+    const sidebarToggle = document.getElementById("sidebarToggle");
+    const sidebar = document.getElementById("sidebar");
+
+    if (sidebarToggle && sidebar) {
+      sidebarToggle.addEventListener("click", () => {
+        sidebar.classList.toggle("collapsed");
+        if (sidebar.classList.contains("collapsed")) {
+          sidebarToggle.innerText = "▲";
+        } else {
+          sidebarToggle.innerText = "▼";
+        }
+        // Force map resize to prevent blank tiles when container size changes
+        setTimeout(() => map.invalidateSize(), 300);
+      });
+    }
+
+    const timetableToggle = document.getElementById("timetableToggle");
+    const timetableWindow = document.getElementById("timetableWindow");
+
+    if (timetableToggle && timetableWindow) {
+      timetableToggle.addEventListener("click", () => {
+        timetableWindow.classList.toggle("collapsed");
+        if (timetableWindow.classList.contains("collapsed")) {
+          timetableToggle.innerText = "▲";
+        } else {
+          timetableToggle.innerText = "▼";
+        }
+      });
+    }
+
     // Tab switching
     document.querySelectorAll(".tab-btn").forEach((btn) => {
       btn.addEventListener("click", () => {
@@ -440,6 +513,13 @@ document.addEventListener("DOMContentLoaded", () => {
         document.querySelectorAll(".tab-content").forEach((c) => c.classList.remove("active"));
         btn.classList.add("active");
         document.getElementById(btn.dataset.tab + "List").classList.add("active");
+
+        // On mobile, automatically expand the sidebar if a tab is clicked while collapsed
+        if (window.innerWidth <= 768 && sidebar.classList.contains("collapsed")) {
+          sidebar.classList.remove("collapsed");
+          sidebarToggle.innerText = "▼";
+          setTimeout(() => map.invalidateSize(), 300);
+        }
       });
     });
   }
