@@ -173,9 +173,10 @@ body:not(.detail-page) main {
 
 .explore-btn,
 .download-btn,
-.cache-btn {
-  flex: 1 1 120px;
-  min-width: 120px;
+.cache-btn,
+.default-btn {
+  flex: 1 1 140px;
+  min-width: 140px;
   padding: 6px;
   text-align: center;
   text-decoration: none;
@@ -232,12 +233,12 @@ body:not(.detail-page) main {
   stroke-opacity: 0.4;
 }
 
-.win-outset:is(a, button, .tab-btn, .close-btn, #reverseBtn, .data-item) {
+.win-outset:is(a, button, .tab-btn, .win-titlebar-btn, .data-item) {
   cursor: pointer;
   user-select: none;
 }
 
-.win-outset:is(a, button, .tab-btn, .close-btn, #reverseBtn, .data-item):active {
+.win-outset:is(a, button, .tab-btn, .win-titlebar-btn, .data-item):active {
   border-top: 2px solid #111 !important;
   border-left: 2px solid #111 !important;
   border-bottom: 2px solid #555 !important;
@@ -271,6 +272,24 @@ body:not(.detail-page) main {
   align-items: center;
 }
 
+.win-titlebar-btn {
+  background: var(--gray-face);
+  border: 1px outset #fff;
+  padding: 2px 8px;
+  font-size: 0.8rem;
+  font-weight: bold;
+  cursor: pointer;
+  min-width: fit-content !important;
+}
+
+.win-titlebar-btn:active {
+  border: 1px inset #fff !important;
+  padding-top: 3px !important;
+  padding-left: 9px !important;
+  padding-bottom: 1px !important;
+  padding-right: 7px !important;
+  transform: none !important;
+}
 .win-content {
   background-color: #000 !important;
   padding: 10px;
@@ -279,16 +298,6 @@ body:not(.detail-page) main {
   color: #00ff00;
   font-family: "Courier New", monospace;
   border: 2px solid #333;
-}
-
-.close-btn {
-  background: var(--gray-face);
-  color: black;
-  border: 1px outset #fff;
-  cursor: pointer;
-  padding: 2px 8px;
-  font-size: 0.8rem;
-  font-weight: bold;
 }
 
 /* Tabs */

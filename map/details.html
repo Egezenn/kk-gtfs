@@ -56,22 +56,9 @@
           <span id="timetableTitle">SCHEDULE_VIEW</span>
           <div style="display: flex; gap: 4px; align-items: center">
             <button id="timetableToggle" class="mobile-toggle">▲</button>
-            <button
-              id="reverseBtn"
-              class="win-outset"
-              style="
-                background: var(--gray-face);
-                color: white;
-                border: 1px outset #fff;
-                padding: 2px 8px;
-                font-size: 0.8rem;
-                font-weight: bold;
-                cursor: pointer;
-              "
-            >
-              REV
-            </button>
-            <div class="close-btn">X</div>
+            <button id="refreshBusBtn" class="win-outset win-titlebar-btn" style="color: #00ff00">LIVE</button>
+            <button id="reverseBtn" class="win-outset win-titlebar-btn" style="color: white">REV</button>
+            <div class="close-btn win-titlebar-btn" style="color: red">X</div>
           </div>
         </div>
         <div id="timetableContent" class="win-content win-inset">Select a route to view schedule.</div>

@@ -43,7 +43,7 @@ Because the KentKart API endpoints do not provide all required fields to generat
 
 ## Data Access
 
-`https://github.com/Egezenn/kk-gtfs/raw/main/data/{city}.zip`
+`https://github.com/Egezenn/kk-gtfs/raw/main/data/{municipality}.zip`
 
 - GitHub Action workflow fetches and pushes updates every: **Sunday at 03:00 (UTC+3)**
 - Data expiry: **30 days after generation at 06:00 (UTC+3)**

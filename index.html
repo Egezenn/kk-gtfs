@@ -1,9 +1,28 @@
 <!doctype html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url=./map/" />
+    <title>KK-GTFS Transit Explorer</title>
+    <style>
+      body {
+        background-color: #000;
+        color: #fff;
+        font-family: "Verdana", "Tahoma", sans-serif;
+        padding: 20px;
+      }
+      a {
+        color: #00ffff;
+      }
+    </style>
+    <script>
+      const defaultCity = localStorage.getItem("kk_gtfs-default_city");
+      if (defaultCity) {
+        window.location.replace("./map/details.html?city=" + defaultCity);
+      } else {
+        window.location.replace("./map/");
+      }
+    </script>
   </head>
   <body>
-    <p>Redirecting to the map... <a href="./map/">Click here if not redirected</a></p>
+    <p>Redirecting... <a href="./map/">Click here if not redirected</a></p>
   </body>
 </html>

@@ -1,16 +1,18 @@
-const CACHE_NAME = "kk-gtfs-v1";
-const DATA_CACHE_NAME = "kk-gtfs-data-v1";
-const TILE_CACHE_NAME = "kk-gtfs-tiles-v1";
+const CACHE_NAME = "kk-gtfs-v2";
+const DATA_CACHE_NAME = "kk-gtfs-data-v2";
+const TILE_CACHE_NAME = "kk-gtfs-tiles-v2";
 
 const ASSETS = [
   "./",
   "./index.html",
-  "./details.html",
-  "./style.css",
-  "./app.js",
-  "./manifest.json",
-  "./icon-192.png",
-  "./icon-512.png",
+  "./map/",
+  "./map/index.html",
+  "./map/details.html",
+  "./map/style.css",
+  "./map/app.js",
+  "./map/manifest.json",
+  "./map/icon-192.png",
+  "./map/icon-512.png",
   "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css",
   "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js",
 ];

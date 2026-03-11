@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   if ("serviceWorker" in navigator) {
     navigator.serviceWorker
-      .register("./sw.js")
+      .register("../sw.js")
       .then((reg) => console.log("SW Registered", reg))
       .catch((err) => console.log("SW Failed", err));
   }
@@ -31,27 +31,50 @@ document.addEventListener("DOMContentLoaded", () => {
       });
 
     function renderFeeds(feeds) {
+      const defaultCity = localStorage.getItem("kk_gtfs-default_city");
       feedList.innerHTML = feeds
-        .map(
-          (feed) => `
-                <div class="feed-card win-outset">
-                    <h3>${feed.city}</h3>
+        .map((feed) => {
+          const isDefault = feed.slug === defaultCity;
+          return `
+                <div class="feed-card win-outset" onclick="window.location.href='details.html?city=${feed.slug}'" style="cursor: pointer;">
+                    <h3 style="display: flex; justify-content: space-between; align-items: center;">
+                        <span>${feed.city}</span>
+                        <button onclick="event.stopPropagation(); setDefaultCity('${feed.slug}', this)" class="default-btn" title="Set as default municipality" style="background: none; border: none; font-size: 0.8rem; font-family: inherit; font-weight: bold; cursor: pointer; ${isDefault ? "color: #00ff00;" : "color: #bbbbbb;"}">
+                            ${isDefault ? "[★ DEFAULT]" : "[☆ SET DEFAULT]"}
+                        </button>
+                    </h3>
                     <div class="feed-info">
                         SIZE: ${feed.size_mb} MB<br>
                         UPDATED: ${feed.last_updated.split(" ")[0]}<br>
                         RT: ${feed.route_count} | ST: ${feed.stop_count}
                     </div>
-                    <div class="card-actions">
+                    <div class="card-actions" onclick="event.stopPropagation()">
                         <a href="details.html?city=${feed.slug}" class="explore-btn win-outset">[ EXPLORE ]</a>
-                        <button onclick="cacheCityData('${feed.slug}', this)" class="cache-btn win-outset">[ CACHE ]</button>
-                        <a href="https://egezenn.github.io/kk-gtfs/data/${feed.filename}" class="download-btn win-outset" download>[ GTFS ]</a>
+                        <button onclick="event.stopPropagation(); cacheCityData('${feed.slug}', this)" class="cache-btn win-outset">[ CACHE ]</button>
+                        <a href="https://egezenn.github.io/kk-gtfs/data/${feed.filename}" class="download-btn win-outset" onclick="event.stopPropagation()" download>[ GTFS ]</a>
                     </div>
                 </div>
-            `,
-        )
+            `;
+        })
         .join("");
     }
   }
+
+  window.setDefaultCity = function (slug, btn) {
+    if (localStorage.getItem("kk_gtfs-default_city") === slug) {
+      localStorage.removeItem("kk_gtfs-default_city");
+      btn.innerText = "[☆ SET DEFAULT]";
+      btn.style.color = "#bbbbbb";
+    } else {
+      localStorage.setItem("kk_gtfs-default_city", slug);
+      document.querySelectorAll(".default-btn").forEach((b) => {
+        b.innerText = "[☆ SET DEFAULT]";
+        b.style.color = "#bbbbbb";
+      });
+      btn.innerText = "[★ DEFAULT]";
+      btn.style.color = "#00ff00";
+    }
+  };
 
   window.cacheCityData = async function (slug, btn) {
     if (btn.disabled) return;
@@ -176,7 +199,7 @@ document.addEventListener("DOMContentLoaded", () => {
           cityRegionId = cityMeta.region_id;
 
           // Check if we need to invalidate cache
-          const localLastUpdated = localStorage.getItem(`kk_gtfs_cached_${citySlug}`);
+          const localLastUpdated = localStorage.getItem(`kk_gtfs-cached_${citySlug}`);
           if (localLastUpdated !== cityMeta.last_updated) {
             // Tell service worker to drop cache for this city
             if (navigator.serviceWorker && navigator.serviceWorker.controller) {
@@ -186,7 +209,7 @@ document.addEventListener("DOMContentLoaded", () => {
               });
             }
             // Update local storage to the new modified date
-            localStorage.setItem(`kk_gtfs_cached_${citySlug}`, cityMeta.last_updated);
+            localStorage.setItem(`kk_gtfs-cached_${citySlug}`, cityMeta.last_updated);
           }
         }
 
@@ -267,24 +290,73 @@ document.addEventListener("DOMContentLoaded", () => {
           fillOpacity: 0.8,
         })
           .addTo(stopLayer)
-          .bindPopup(`<b>${s.name}</b><br>ID: ${s.id}${routeHtml}`);
+          .bindPopup(`<b>${s.name}</b>${routeHtml ? "<br>" + routeHtml : ""}`);
       });
     }
 
     let currentRouteId = null;
     let currentDirection = "0";
 
+    window.toggleFavorite = function (type, id, btn, event) {
+      if (event) event.stopPropagation();
+      const storageKey = `kk_gtfs-fav_${citySlug}_${type}`;
+      let favs = JSON.parse(localStorage.getItem(storageKey) || "[]");
+
+      if (favs.includes(id)) {
+        favs = favs.filter((f) => f !== id);
+        btn.innerText = "☆";
+        btn.style.color = "#bbbbbb";
+      } else {
+        favs.push(id);
+        btn.innerText = "★";
+        btn.style.color = "#ffff00";
+      }
+
+      localStorage.setItem(storageKey, JSON.stringify(favs));
+
+      // Re-render the respective list to update sorting
+      const activeTab = document.querySelector(".tab-btn.active").dataset.tab;
+      const term = document.getElementById("sidebarSearch").value.toLocaleUpperCase("tr-TR");
+
+      if (type === "route") {
+        const filteredRoutes = cityRoutes.filter((r) =>
+          (r.short + (r.long || "")).toLocaleUpperCase("tr-TR").includes(term),
+        );
+        renderSidebarRoutes(filteredRoutes);
+      } else {
+        const filteredStops = cityStops.filter((s) => s.name.toLocaleUpperCase("tr-TR").includes(term));
+        renderSidebarStops(filteredStops);
+      }
+    };
+
     function renderSidebarRoutes(routes) {
+      const storageKey = `kk_gtfs-fav_${citySlug}_route`;
+      const favs = JSON.parse(localStorage.getItem(storageKey) || "[]");
+
+      // Sort routes: Favorites first, then alphabetical by short name
+      const sortedRoutes = [...routes].sort((a, b) => {
+        const aFav = favs.includes(a.id);
+        const bFav = favs.includes(b.id);
+        if (aFav && !bFav) return -1;
+        if (!aFav && bFav) return 1;
+        return a.short.localeCompare(b.short);
+      });
+
       const list = document.getElementById("routeList");
-      list.innerHTML = routes
-        .map(
-          (r) => `
-                <div class="data-item win-outset" data-id="${r.id}">
-                    <div class="route-orb" style="background-color: #${r.color}; border: 1px solid #fff;"></div>
-                    <span>${r.short} - ${r.long || "UNNAMED"}</span>
+      list.innerHTML = sortedRoutes
+        .map((r) => {
+          const isFav = favs.includes(r.id);
+          const isActive = currentRouteId === r.id ? "active" : "";
+          return `
+                <div class="data-item win-outset ${isActive}" data-id="${r.id}" style="display: flex; justify-content: space-between; align-items: center;">
+                    <div style="display: flex; align-items: center; gap: 8px;">
+                      <div class="route-orb" style="background-color: #${r.color}; border: 1px solid #fff;"></div>
+                      <span>${r.short} - ${r.long || "UNNAMED"}</span>
+                    </div>
+                    <button class="fav-btn" onclick="toggleFavorite('route', '${r.id}', this, event)" style="background: none; border: none; font-size: 1.2rem; cursor: pointer; color: ${isFav ? "#ffff00" : "#bbbbbb"};">${isFav ? "★" : "☆"}</button>
                 </div>
-            `,
-        )
+            `;
+        })
         .join("");
 
       list.querySelectorAll(".data-item").forEach((item) => {
@@ -310,7 +382,7 @@ document.addEventListener("DOMContentLoaded", () => {
             const sTog = document.getElementById("sidebarToggle");
             if (sb && !sb.classList.contains("collapsed")) {
               sb.classList.add("collapsed");
-              sTog.innerText = "▲ EXPAND";
+              sTog.innerText = "▲";
               setTimeout(() => map.invalidateSize(), 300);
             }
           }
@@ -325,6 +397,13 @@ document.addEventListener("DOMContentLoaded", () => {
         showTimetable(currentRouteId, currentDirection);
       }
     });
+
+    const refreshBusBtn = document.getElementById("refreshBusBtn");
+    if (refreshBusBtn) {
+      refreshBusBtn.addEventListener("click", () => {
+        if (currentRouteId) fetchLiveBuses();
+      });
+    }
 
     document.querySelector(".close-btn").addEventListener("click", () => {
       // Clear current route selection
@@ -350,15 +429,29 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     function renderSidebarStops(stops) {
+      const storageKey = `kk_gtfs-fav_${citySlug}_stop`;
+      const favs = JSON.parse(localStorage.getItem(storageKey) || "[]");
+
+      // Sort stops: Favorites first, then alphabetical by name
+      const sortedStops = [...stops].sort((a, b) => {
+        const aFav = favs.includes(a.id);
+        const bFav = favs.includes(b.id);
+        if (aFav && !bFav) return -1;
+        if (!aFav && bFav) return 1;
+        return a.name.localeCompare(b.name);
+      });
+
       const list = document.getElementById("stopList");
-      list.innerHTML = stops
-        .map(
-          (s) => `
-                <div class="data-item win-outset" data-id="${s.id}">
-                    <span>[ STOP ] ${s.name}</span>
+      list.innerHTML = sortedStops
+        .map((s) => {
+          const isFav = favs.includes(s.id);
+          return `
+                <div class="data-item win-outset" data-id="${s.id}" style="display: flex; justify-content: space-between; align-items: center;">
+                    <span style="flex-grow: 1;">[ STOP ] ${s.name}</span>
+                    <button class="fav-btn" onclick="toggleFavorite('stop', '${s.id}', this, event)" style="background: none; border: none; font-size: 1.2rem; cursor: pointer; color: ${isFav ? "#ffff00" : "#bbbbbb"}; line-height: 1;" title="Favorite Stop">${isFav ? "★" : "☆"}</button>
                 </div>
-            `,
-        )
+            `;
+        })
         .join("");
 
       list.querySelectorAll(".data-item").forEach((item) => {
@@ -379,7 +472,7 @@ document.addEventListener("DOMContentLoaded", () => {
             map.setView([stop.lat, stop.lon], 16);
             L.popup()
               .setLatLng([stop.lat, stop.lon])
-              .setContent(`<b>${stop.name}</b><br>ID: ${stop.id}${routeHtml}`)
+              .setContent(`<b>${stop.name}</b>${routeHtml ? "<br>" + routeHtml : ""}`)
               .openOn(map);
 
             // Auto collapse sidebar on mobile
@@ -439,14 +532,21 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function fetchLiveBuses() {
-      if (!currentRouteId || cityRegionId === "000") return;
+      if (!currentRouteId || cityRegionId === "000") return Promise.resolve();
       const route = cityRoutes.find((r) => r.id === currentRouteId);
-      if (!route) return;
+      if (!route) return Promise.resolve();
+
+      const refreshBtn = document.getElementById("refreshBusBtn");
+      if (refreshBtn) {
+        refreshBtn.innerText = "... ";
+        refreshBtn.disabled = true;
+      }
+
       const displayCode = route.short;
 
       const url = `https://service.kentkart.com/rl1/web/pathInfo?region=${cityRegionId}&lang=tr&direction=${currentDirection}&displayRouteCode=${displayCode}`;
 
-      fetch(url)
+      return fetch(url)
         .then((r) => r.json())
         .then((data) => {
           busLayer.clearLayers();
@@ -468,7 +568,16 @@ document.addEventListener("DOMContentLoaded", () => {
             });
           }
         })
-        .catch((err) => console.error("Live bus polling error:", err));
+        .catch((err) => console.error("Live bus polling error:", err))
+        .finally(() => {
+          const refreshBtn = document.getElementById("refreshBusBtn");
+          if (refreshBtn) {
+            setTimeout(() => {
+              refreshBtn.innerText = "LIVE";
+              refreshBtn.disabled = false;
+            }, 500);
+          }
+        });
     }
 
     function showTimetable(routeId, direction) {
@@ -495,7 +604,7 @@ document.addEventListener("DOMContentLoaded", () => {
           }
         }
 
-        let timesHtml = `<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; font-weight: normal;">`;
+        let timesHtml = `<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; font-weight: normal;">`;
         if (timesArray.length === 0) {
           timesHtml += `<div style="grid-column: span 3; text-align: center; font-style: italic;">No departures found for ${dayType}.</div>`;
         } else {
@@ -546,6 +655,12 @@ document.addEventListener("DOMContentLoaded", () => {
           let currentDayType = "weekday";
           if (currentDayNum === 0) currentDayType = "sunday";
           else if (currentDayNum === 6) currentDayType = "saturday";
+
+          if (!dirData.times[currentDayType] || dirData.times[currentDayType].length === 0) {
+            if (dirData.times.weekday && dirData.times.weekday.length > 0) currentDayType = "weekday";
+            else if (dirData.times.saturday && dirData.times.saturday.length > 0) currentDayType = "saturday";
+            else if (dirData.times.sunday && dirData.times.sunday.length > 0) currentDayType = "sunday";
+          }
 
           renderTimetableTimes(routeId, direction, currentDayType);
           timetableEl.style.display = "flex";
