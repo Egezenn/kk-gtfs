@@ -52,3 +52,8 @@ jobs:
             echo "Validating $file..."
             java -jar gtfs-validator.jar -i "$file" -o "validation-reports/$basename"
           done
+
+      - name: Trigger Map Deployment
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy-map.yml
