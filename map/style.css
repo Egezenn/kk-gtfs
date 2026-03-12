@@ -224,7 +224,7 @@ body:not(.detail-page) main {
 
 .leaflet-popup-content-wrapper,
 .leaflet-popup-tip {
-  background: #575043 !important;
+  background: #575043aa !important;
   color: var(--win-text);
 }
 
@@ -444,4 +444,54 @@ body:not(.detail-page) main {
   color: #aaa;
   padding: 4px 10px;
   cursor: pointer;
+}
+
+/* Map Controls Styling */
+.leaflet-control-zoom {
+  border: none !important;
+}
+
+.leaflet-control-zoom-in,
+.leaflet-control-zoom-out,
+.map-control-btn {
+  background-color: var(--gray-face) !important;
+  color: #00ff00 !important;
+  border: 2px solid #555 !important;
+  border-bottom-color: #111 !important;
+  border-right-color: #111 !important;
+  border-radius: 2px !important;
+  font-family: "Verdana", sans-serif !important;
+  font-weight: bold !important;
+  width: 32px !important;
+  height: 32px !important;
+  line-height: 28px !important;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none !important;
+  margin-bottom: 2px !important;
+}
+
+.leaflet-control-zoom-in:active,
+.leaflet-control-zoom-out:active,
+.map-control-btn:active {
+  border-top-color: #111 !important;
+  border-left-color: #111 !important;
+  border-bottom-color: #555 !important;
+  border-right-color: #555 !important;
+  transform: translate(1px, 1px);
+}
+
+.leaflet-control-attribution {
+  background: rgba(0, 0, 0, 0.7) !important;
+  color: #888 !important;
+  font-family: "Courier New", monospace !important;
+  font-size: 0.7rem !important;
+  padding: 2px 5px !important;
+  border: 1px solid #333;
+}
+
+.leaflet-control-attribution a {
+  color: #008080 !important;
+  text-decoration: none;
 }

@@ -236,20 +236,33 @@ document.addEventListener("DOMContentLoaded", () => {
     const LocateControl = L.Control.extend({
       options: { position: "bottomright" },
       onAdd() {
-        const btn = L.DomUtil.create("button", "leaflet-bar leaflet-control");
+        const btn = L.DomUtil.create("button", "leaflet-bar leaflet-control map-control-btn");
+        btn.id = "locateBtn";
         btn.title = "Go to my location";
-        btn.style.cssText =
-          "width:34px;height:34px;font-size:1.3rem;cursor:pointer;background:#1a1a1a;color:#00ff00;border:1px solid #00ff00;border-radius:2px;display:flex;align-items:center;justify-content:center;";
         btn.innerHTML = "⊕";
         L.DomEvent.on(btn, "click", L.DomEvent.stopPropagation)
           .on(btn, "click", L.DomEvent.preventDefault)
-          .on(btn, "click", () => map.locate({ setView: true, maxZoom: 16, enableHighAccuracy: true }));
+          .on(btn, "click", () => {
+            if (!window.isSecureContext && window.location.protocol !== "http:") {
+              alert("Geolocation requires a secure connection (HTTPS).");
+              return;
+            }
+            btn.innerHTML = "⌛";
+            btn.style.color = "#ffff00";
+            map.locate({ setView: true, maxZoom: 16, enableHighAccuracy: true, timeout: 10000 });
+          });
         return btn;
       },
     });
     new LocateControl().addTo(map);
 
     map.on("locationfound", (e) => {
+      const btn = document.getElementById("locateBtn");
+      if (btn) {
+        btn.innerHTML = "⊕";
+        btn.style.color = "#00ff00";
+      }
+
       const latlng = e.latlng;
       const style = stopStyleForZoom(map.getZoom());
       if (!userMarker) {
@@ -275,7 +288,22 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     });
 
-    map.on("locationerror", (e) => console.warn("Location error:", e.message));
+    map.on("locationerror", (e) => {
+      const btn = document.getElementById("locateBtn");
+      if (btn) {
+        btn.innerHTML = "⊕";
+        btn.style.color = "#ff0000";
+        setTimeout(() => (btn.style.color = "#00ff00"), 3000);
+      }
+      console.warn("Location error:", e.message);
+      if (e.code === 1) {
+        alert("Location permission denied.");
+      } else if (e.code === 3) {
+        alert("Location request timed out. Please ensure GPS is enabled and try again.");
+      } else {
+        alert("Location error: " + e.message);
+      }
+    });
 
     // 2. Load Data
     Promise.all([fetch(`../data/metadata.json`).then((r) => (r.ok ? r.json() : []))])
@@ -391,7 +419,7 @@ document.addEventListener("DOMContentLoaded", () => {
             const route = cityRoutes.find((r) => r.id === routeId);
             if (route) {
               const vColor = ensureVisibleColor(route.color);
-              routeHtml += `<span onclick="document.querySelector('.data-item[data-id=\\'${route.id}\\']')?.click()" style="cursor:pointer;background-color:#${vColor};color:#${route.text_color || "fff"};padding:4px 6px;border-radius:4px;font-size:0.85rem;font-weight:bold;box-shadow: 0 0 5px #${vColor};">${route.short}</span>`;
+              routeHtml += `<span onclick="document.querySelector('.data-item[data-id=\\'${route.id}\\']')?.click()" style="cursor:pointer;background-color:#${vColor}88;color:#${route.text_color || "fff"};padding:4px 6px;border-radius:4px;font-size:0.85rem;font-weight:bold;box-shadow: 0 0 5px #${vColor}88;">${route.short}</span>`;
             }
           });
           routeHtml += "</div>";
@@ -590,7 +618,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 const route = cityRoutes.find((r) => r.id === routeId);
                 if (route) {
                   const vColor = ensureVisibleColor(route.color);
-                  routeHtml += `<span onclick="document.querySelector('.data-item[data-id=\\'${route.id}\\']')?.click()" style="cursor:pointer;background-color:#${vColor};color:#${route.text_color || "fff"};padding:4px 6px;border-radius:4px;font-size:0.85rem;font-weight:bold;box-shadow: 0 0 5px #${vColor};">${route.short}</span>`;
+                  routeHtml += `<span onclick="document.querySelector('.data-item[data-id=\\'${route.id}\\']')?.click()" style="cursor:pointer;background-color:#${vColor}88;color:#${route.text_color || "fff"};padding:4px 6px;border-radius:4px;font-size:0.85rem;font-weight:bold;box-shadow: 0 0 5px #${vColor}88;">${route.short}</span>`;
                 }
               });
               routeHtml += "</div>";
