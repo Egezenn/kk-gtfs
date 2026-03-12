@@ -257,6 +257,7 @@ body:not(.detail-page) main {
   display: none;
   flex-direction: column;
   pointer-events: auto;
+  background-color: rgba(33, 33, 33, 0.4) !important;
 }
 
 .win-titlebar {
@@ -285,7 +286,7 @@ body:not(.detail-page) main {
   transform: translate(1px, 1px) !important;
 }
 .win-content {
-  background-color: #000 !important;
+  background-color: rgba(0, 0, 0, 0.5) !important;
   padding: 10px;
   overflow-y: auto;
   font-size: 0.8rem;
