@@ -355,6 +355,26 @@ document.addEventListener("DOMContentLoaded", () => {
 
     let _stopZoomHandler = null;
 
+    function ensureVisibleColor(hex) {
+      if (!hex) return "EEEEEE";
+      hex = hex.replace("#", "");
+      if (hex.length === 3) hex = hex[0] + hex[0] + hex[1] + hex[1] + hex[2] + hex[2];
+
+      const r = parseInt(hex.substring(0, 2), 16);
+      const g = parseInt(hex.substring(2, 4), 16);
+      const b = parseInt(hex.substring(4, 6), 16);
+
+      // If all slices are below 77 in hex (119 decimal), up them to at least 230 (#E6)
+      if (r < 119 && g < 119 && b < 119) {
+        const newR = Math.max(230, r + 100);
+        const newG = Math.max(230, g + 100);
+        const newB = Math.max(230, b + 100);
+        return ((1 << 24) + (newR << 16) + (newG << 8) + newB).toString(16).slice(1).toUpperCase();
+      }
+
+      return hex.toUpperCase();
+    }
+
     function stopStyleForZoom(zoom) {
       const r = Math.max(3, Math.min(8, zoom - 9));
       const w = zoom >= 15 ? 2 : 1;
@@ -370,7 +390,8 @@ document.addEventListener("DOMContentLoaded", () => {
           s.routes.forEach((routeId) => {
             const route = cityRoutes.find((r) => r.id === routeId);
             if (route) {
-              routeHtml += `<span onclick="document.querySelector('.data-item[data-id=\\'${route.id}\\']')?.click()" style="cursor:pointer;background-color:#${route.color || "333"};color:#${route.text_color || "fff"};padding:4px 6px;border-radius:4px;font-size:0.85rem;font-weight:bold;box-shadow: 0 0 5px #${route.color || "333"};">${route.short}</span>`;
+              const vColor = ensureVisibleColor(route.color);
+              routeHtml += `<span onclick="document.querySelector('.data-item[data-id=\\'${route.id}\\']')?.click()" style="cursor:pointer;background-color:#${vColor};color:#${route.text_color || "fff"};padding:4px 6px;border-radius:4px;font-size:0.85rem;font-weight:bold;box-shadow: 0 0 5px #${vColor};">${route.short}</span>`;
             }
           });
           routeHtml += "</div>";
@@ -452,10 +473,11 @@ document.addEventListener("DOMContentLoaded", () => {
         .map((r) => {
           const isFav = favs.includes(r.id);
           const isActive = currentRouteId === r.id ? "active" : "";
+          const vColor = ensureVisibleColor(r.color);
           return `
                 <div class="data-item win-outset ${isActive}" data-id="${r.id}" style="display: flex; justify-content: space-between; align-items: center;">
                     <div style="display: flex; align-items: center; gap: 8px;">
-                      <div class="route-orb" style="background-color: #${r.color}; border: 1px solid #fff;"></div>
+                      <div class="route-orb" style="background-color: #${vColor}; border: 1px solid #fff;"></div>
                       <span>${r.short} - ${r.long || "UNNAMED"}</span>
                     </div>
                     <button class="fav-btn" onclick="toggleFavorite('route', '${r.id}', this, event)" style="background: none; border: none; font-size: 1.2rem; cursor: pointer; color: ${isFav ? "#ffff00" : "#bbbbbb"};">${isFav ? "★" : "☆"}</button>
@@ -487,7 +509,7 @@ document.addEventListener("DOMContentLoaded", () => {
             const sTog = document.getElementById("sidebarToggle");
             if (sb && !sb.classList.contains("collapsed")) {
               sb.classList.add("collapsed");
-              sTog.innerText = "▲";
+              sTog.innerText = "▼";
               setTimeout(() => map.invalidateSize(), 300);
             }
           }
@@ -567,7 +589,8 @@ document.addEventListener("DOMContentLoaded", () => {
               stop.routes.forEach((routeId) => {
                 const route = cityRoutes.find((r) => r.id === routeId);
                 if (route) {
-                  routeHtml += `<span onclick="document.querySelector('.data-item[data-id=\\'${route.id}\\']')?.click()" style="cursor:pointer;background-color:#${route.color || "333"};color:#${route.text_color || "fff"};padding:4px 6px;border-radius:4px;font-size:0.85rem;font-weight:bold;box-shadow: 0 0 5px #${route.color || "333"};">${route.short}</span>`;
+                  const vColor = ensureVisibleColor(route.color);
+                  routeHtml += `<span onclick="document.querySelector('.data-item[data-id=\\'${route.id}\\']')?.click()" style="cursor:pointer;background-color:#${vColor};color:#${route.text_color || "fff"};padding:4px 6px;border-radius:4px;font-size:0.85rem;font-weight:bold;box-shadow: 0 0 5px #${vColor};">${route.short}</span>`;
                 }
               });
               routeHtml += "</div>";
@@ -584,7 +607,7 @@ document.addEventListener("DOMContentLoaded", () => {
               const sTog = document.getElementById("sidebarToggle");
               if (sb && !sb.classList.contains("collapsed")) {
                 sb.classList.add("collapsed");
-                sTog.innerText = "▲";
+                sTog.innerText = "▼";
                 setTimeout(() => map.invalidateSize(), 300);
               }
             }
@@ -603,9 +626,10 @@ document.addEventListener("DOMContentLoaded", () => {
       const route = cityRoutes.find((r) => r.id === routeId);
 
       if (coordinates && route) {
+        const vColor = ensureVisibleColor(route.color);
         // Add a neon glow effect using Leaflet's line options, leveraging CSS filter
         const polyline = L.polyline(coordinates, {
-          color: "#" + route.color,
+          color: "#" + vColor,
           weight: 6,
           opacity: 1,
           lineJoin: "round",
@@ -638,7 +662,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         styleEl.innerHTML = `
             .neon-route-line {
-                filter: drop-shadow(0 0 8px #${route.color}) drop-shadow(0 0 4px #${route.color});
+                filter: drop-shadow(0 0 8px #${vColor}) drop-shadow(0 0 4px #${vColor});
                 transition: filter 0.3s ease;
             }
         `;
@@ -854,7 +878,7 @@ document.addEventListener("DOMContentLoaded", () => {
         // On mobile, automatically expand the sidebar if a tab is clicked while collapsed
         if (window.innerWidth <= 768 && sidebar.classList.contains("collapsed")) {
           sidebar.classList.remove("collapsed");
-          sidebarToggle.innerText = "▼";
+          sidebarToggle.innerText = "▲";
           setTimeout(() => map.invalidateSize(), 300);
         }
       });
