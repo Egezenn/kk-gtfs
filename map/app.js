@@ -229,6 +229,7 @@ document.addEventListener("DOMContentLoaded", () => {
     routeLayer = L.featureGroup().addTo(map);
     stopLayer = L.featureGroup().addTo(map);
     busLayer = L.featureGroup().addTo(map);
+    const scanLayer = L.featureGroup().addTo(map);
     const userLayer = L.featureGroup().addTo(map);
     let userMarker = null;
     let _userZoomHandler = null;
@@ -256,9 +257,214 @@ document.addEventListener("DOMContentLoaded", () => {
     });
     new LocateControl().addTo(map);
 
+    const ScanControl = L.Control.extend({
+      options: { position: "bottomright" },
+      onAdd() {
+        const btn = L.DomUtil.create("button", "leaflet-bar leaflet-control map-control-btn");
+        btn.id = "scanBtn";
+        btn.title = "Scan nearest buses";
+        btn.innerHTML = "🔍";
+        L.DomEvent.on(btn, "click", L.DomEvent.stopPropagation)
+          .on(btn, "click", L.DomEvent.preventDefault)
+          .on(btn, "click", () => {
+            if (btn.classList.contains("scanning")) {
+              stopScanning();
+              return;
+            }
+
+            if (userMarker) {
+              startScanning(userMarker.getLatLng());
+            } else {
+              alert("Location not available. Please click on the map to set a search center.");
+              btn.innerHTML = "📍";
+              btn.style.color = "#00ffff";
+              map.once("click", (e) => {
+                startScanning(e.latlng);
+              });
+            }
+          });
+        return btn;
+      },
+    });
+    new ScanControl().addTo(map);
+
+    const FilterControl = L.Control.extend({
+      options: { position: "bottomright" },
+      onAdd() {
+        const btn = L.DomUtil.create("button", "leaflet-bar leaflet-control map-control-btn");
+        btn.id = "filterScanBtn";
+        btn.title = "Apply scan results to filter";
+        btn.innerHTML = "⚡";
+        btn.classList.add("hidden");
+        L.DomEvent.on(btn, "click", L.DomEvent.stopPropagation)
+          .on(btn, "click", L.DomEvent.preventDefault)
+          .on(btn, "click", () => {
+            const activeTab = document.querySelector(".tab-btn.active").dataset.tab;
+            const terms = new Set();
+            scanLayer.eachLayer((layer) => {
+              if (activeTab === "route" && layer.options.routeShort) {
+                terms.add(layer.options.routeShort);
+              } else if (activeTab === "stop" && layer.options.stopName) {
+                terms.add(layer.options.stopName);
+              }
+            });
+
+            if (terms.size > 0) {
+              const searchInput = document.getElementById("sidebarSearch");
+              searchInput.value = Array.from(terms).join(",");
+              searchInput.dispatchEvent(new Event("input"));
+              searchInput.focus();
+            }
+          });
+        return btn;
+      },
+    });
+    new FilterControl().addTo(map);
+
+    let scanInterval = null;
+    function startScanning(latlng) {
+      const btn = document.getElementById("scanBtn");
+      const filterBtn = document.getElementById("filterScanBtn");
+      if (btn) {
+        btn.classList.add("scanning");
+        btn.innerHTML = "⌛";
+        btn.style.color = "#ffff00";
+      }
+      if (filterBtn) {
+        filterBtn.classList.remove("hidden");
+        filterBtn.style.setProperty("display", "flex", "important");
+      }
+
+      // Add a temporary marker for search center if it's not the user marker
+      if (!userMarker || userMarker.getLatLng().distanceTo(latlng) > 10) {
+        L.circleMarker(latlng, {
+          radius: 10,
+          color: "#00ffff",
+          weight: 2,
+          fillColor: "#008080",
+          fillOpacity: 0.5,
+          className: "search-center-marker",
+        })
+          .addTo(scanLayer)
+          .bindPopup("Search Center")
+          .openPopup();
+      }
+
+      const performScan = () => {
+        searchBusesNearby(latlng.lat, latlng.lng);
+      };
+
+      performScan();
+      scanInterval = setInterval(performScan, 30000);
+    }
+
+    function stopScanning() {
+      if (scanInterval) clearInterval(scanInterval);
+      scanInterval = null;
+      const btn = document.getElementById("scanBtn");
+      if (btn) {
+        btn.classList.remove("scanning");
+        btn.innerHTML = "🔍";
+        btn.style.color = "";
+      }
+      scanLayer.clearLayers();
+      const filterBtn = document.getElementById("filterScanBtn");
+      if (filterBtn) {
+        filterBtn.classList.add("hidden");
+        filterBtn.style.setProperty("display", "none", "important");
+      }
+    }
+
+    async function searchBusesNearby(lat, lon) {
+      if (cityRegionId === "000") return;
+
+      const btn = document.getElementById("scanBtn");
+      if (btn) {
+        btn.innerHTML = "⌛";
+        btn.style.color = "#ffff00";
+      }
+
+      // 1. Find the nearest stops
+      const sortedStops = [...cityStops]
+        .map((s) => ({ ...s, dist: (s.lat - lat) ** 2 + (s.lon - lon) ** 2 }))
+        .sort((a, b) => a.dist - b.dist)
+        .slice(0, 10);
+
+      if (sortedStops.length === 0) {
+        console.log("No stops found in this city.");
+        return;
+      }
+
+      // 2. Query API for each of the 5 stops concurrently
+      const promises = sortedStops.map((s) => {
+        const url = `https://service.kentkart.com/rl1/web/nearest/bus?region=${cityRegionId}&lang=tr&lat=${lat}&lng=${lon}&busStopId=${s.id}`;
+        return fetch(url)
+          .then((r) => r.json())
+          .catch((err) => {
+            console.error(`Error fetching for stop ${s.id}:`, err);
+            return { busList: [] };
+          });
+      });
+
+      try {
+        const results = await Promise.all(promises);
+
+        // 3. Merge and deduplicate buses by busId or plateNumber
+        const busMap = new Map();
+        results.forEach((data) => {
+          if (data && data.busList) {
+            data.busList.forEach((bus) => {
+              const key = bus.busId || bus.plateNumber;
+              if (key && !busMap.has(key)) {
+                busMap.set(key, bus);
+              }
+            });
+          }
+        });
+
+        const allBuses = Array.from(busMap.values());
+
+        // 4. Clear previous scan markers but keep the center if it exists
+        const centerMarker = scanLayer.getLayers().find((l) => l.options.className === "search-center-marker");
+        scanLayer.clearLayers();
+        if (centerMarker) centerMarker.addTo(scanLayer);
+
+        // 5. Render markers
+        allBuses.forEach((bus) => {
+          if (bus.lat && bus.lng) {
+            const route = cityRoutes.find((r) => r.short === bus.displayRouteCode);
+            const routeColor = route ? route.color : "ff0000";
+            const vColor = ensureVisibleColor(routeColor);
+
+            const marker = L.circleMarker([parseFloat(bus.lat), parseFloat(bus.lng)], {
+              radius: 7,
+              color: "#" + vColor,
+              weight: 3,
+              fillColor: "#000",
+              fillOpacity: 1,
+              routeShort: bus.displayRouteCode,
+            }).addTo(scanLayer);
+            marker.bindPopup(`<b>ROUTE: ${bus.displayRouteCode}</b><br>Bus: ${bus.plateNumber || bus.busId}`);
+          }
+        });
+
+        if (btn) {
+          btn.innerHTML = "🔍";
+          btn.style.color = "#00ff00";
+        }
+      } catch (err) {
+        console.error("Nearest bus API batch error:", err);
+        if (btn) {
+          btn.innerHTML = "⚠";
+          btn.style.color = "#ff0000";
+        }
+      }
+    }
+
     map.on("locationfound", (e) => {
       const btn = document.getElementById("locateBtn");
       if (btn) {
+        e;
         btn.innerHTML = "⊕";
         btn.style.color = "#00ff00";
       }
@@ -365,14 +571,33 @@ document.addEventListener("DOMContentLoaded", () => {
         // Search filtering
         document.getElementById("sidebarSearch").addEventListener("input", (e) => {
           e.target.value = e.target.value.toLocaleUpperCase("tr-TR");
-          const term = e.target.value;
+          const input = e.target.value;
+          const terms = input
+            .split(",")
+            .map((t) => t.trim())
+            .filter((t) => t !== "");
           const activeTab = document.querySelector(".tab-btn.active").dataset.tab;
+
+          if (terms.length === 0) {
+            if (activeTab === "route") renderSidebarRoutes(cityRoutes);
+            else renderSidebarStops(cityStops);
+            return;
+          }
+
           if (activeTab === "route") {
             renderSidebarRoutes(
-              cityRoutes.filter((r) => (r.short + (r.long || "")).toLocaleUpperCase("tr-TR").includes(term)),
+              cityRoutes.filter((r) => {
+                const fullText = (r.short + (r.long || "")).toLocaleUpperCase("tr-TR");
+                return terms.some((term) => fullText.includes(term));
+              }),
             );
           } else {
-            renderSidebarStops(cityStops.filter((s) => s.name.toLocaleUpperCase("tr-TR").includes(term)));
+            renderSidebarStops(
+              cityStops.filter((s) => {
+                const name = s.name.toLocaleUpperCase("tr-TR");
+                return terms.some((term) => name.includes(term));
+              }),
+            );
           }
         });
       })

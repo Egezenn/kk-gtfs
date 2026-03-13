@@ -28,7 +28,7 @@ options:
 
 City metadata: <https://service.kentkart.com/rl1/api/v2.0/city>  
 Stop & Route list: <https://service.kentkart.com/rl1/web/nearest/find?region={region}&lang=tr>  
-Route information: <https://service.kentkart.com/rl1/web/pathInfo?region={region}&lang=tr&direction={direction}&displayRouteCode={display_code}>
+Route information: <https://service.kentkart.com/rl1/web/pathInfo?region={region}&lang=tr&direction={direction}&displayRouteCode={display_code}>  
 Nearest buses: <https://service.kentkart.com/rl1/web/nearest/bus?region={region}&lang=tr&lat={lat}&lng={lon}&busStopId={stop_id}>  
 </details>
 

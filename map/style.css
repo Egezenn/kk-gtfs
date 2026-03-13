@@ -343,10 +343,6 @@ body:not(.detail-page) main {
   margin-right: 8px;
 }
 
-.hidden {
-  display: none;
-}
-
 .tab-content {
   display: none;
 }
@@ -481,6 +477,27 @@ body:not(.detail-page) main {
   border-bottom-color: #555 !important;
   border-right-color: #555 !important;
   transform: translate(1px, 1px);
+}
+
+@keyframes pulse-scan {
+  0% {
+    box-shadow: 0 0 0 0 rgba(255, 255, 0, 0.7);
+  }
+  70% {
+    box-shadow: 0 0 0 10px rgba(255, 255, 0, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(255, 255, 0, 0);
+  }
+}
+
+.map-control-btn.scanning {
+  animation: pulse-scan 2s infinite;
+  border-color: #ffff00 !important;
+}
+
+.hidden {
+  display: none !important;
 }
 
 .leaflet-control-attribution {
