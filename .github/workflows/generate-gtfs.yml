@@ -3,7 +3,7 @@ name: Generate GTFS Data
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * 0" # Every Sunday at 00:00 UTC (03:00 UTC+3)
+    - cron: "0 0 1 * *" # First day of every month at 00:00 UTC (03:00 UTC+3)
 
 jobs:
   generate:
@@ -12,6 +12,7 @@ jobs:
       contents: write
       pages: write
       id-token: write
+      actions: write
 
     steps:
       - name: Checkout repository
@@ -52,6 +53,12 @@ jobs:
             echo "Validating $file..."
             java -jar gtfs-validator.jar -i "$file" -o "validation-reports/$basename"
           done
+
+      - name: Upload Validation Reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: gtfs-validation-reports
+          path: validation-reports/
 
       - name: Trigger Map Deployment
         env:

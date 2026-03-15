@@ -39,14 +39,14 @@ Because the KentKart API endpoints do not provide all required fields to generat
 - **Agency URL**: Defaulted to `https://www.kentkart.com/` (`agency.txt`) (per municipality support mails are _sometimes_ available in city metadata as `supportEmail`, `supportCCEmail`)
 - **Agency Timezone**: Defaulted to `Europe/Istanbul` (`agency.txt`)
 - **Route Type**: Forced to `3` (Bus) for all routes, as Kentkart is a bus-centric platform (`routes.txt`) (available in `routeType` route info request)
-- **Calendar Dates**: Service ID dates are set with a start boundary of the generation date and an end boundary of `+30` days (`calendar.txt`)
+- **Calendar Dates**: Service ID dates are set with a start boundary of the generation date and an end boundary of `+60` days (`calendar.txt`)
 
 ## Data Access
 
 `https://github.com/Egezenn/kk-gtfs/raw/main/data/{municipality}.zip`
 
-- GitHub Action workflow fetches and pushes updates every: **Sunday at 03:00 (UTC+3)**
-- Data expiry: **30 days after generation at 06:00 (UTC+3)**
+- GitHub Action workflow fetches and pushes updates every: **1st of every month at 03:00 (UTC+3)**
+- Data expiry: **2 months after generation at 06:00 (UTC+3)**
 
 ## License
 
