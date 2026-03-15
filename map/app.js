@@ -1,4 +1,8 @@
 document.addEventListener("DOMContentLoaded", () => {
+  if (navigator.storage && navigator.storage.persist) {
+    navigator.storage.persist();
+  }
+
   if ("serviceWorker" in navigator) {
     navigator.serviceWorker
       .register("../sw.js")
