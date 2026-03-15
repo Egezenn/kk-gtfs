@@ -602,13 +602,6 @@
     "text_color": "FFFFFF"
   },
   {
-    "id": "41209",
-    "short": "209",
-    "long": "SUKENT-MAŞUKİYE-ACISU-DERBENT-ARSLANBEY M.Y.O",
-    "color": "006633",
-    "text_color": "FFFFFF"
-  },
-  {
     "id": "41210",
     "short": "210",
     "long": "KARTEPE-ALİKAHYA-YUVAM AKARCA-YEŞİLOVA-BAYINDIRLIK-UMUTTEPE",
@@ -742,13 +735,6 @@
     "text_color": "FFFFFF"
   },
   {
-    "id": "41279",
-    "short": "279",
-    "long": "BALABAN-DERBENT-MAŞUKİYE-KÖSEKÖY",
-    "color": "006633",
-    "text_color": "FFFFFF"
-  },
-  {
     "id": "41280",
     "short": "280",
     "long": "İZMİT OTOGAR-EŞME-SAKARYA ÜNİVERSİTESİ",
@@ -773,13 +759,6 @@
     "id": "41289",
     "short": "289",
     "long": "EŞME-UZUNTARLA-CENGİZ TOPEL-KÖSEKÖY-KAYMAKAMLIK",
-    "color": "006633",
-    "text_color": "FFFFFF"
-  },
-  {
-    "id": "41299",
-    "short": "299",
-    "long": "SUADİYE-ARSLANBEY-M.Y.O-KÖSEKÖY-EMEKEVLER",
     "color": "006633",
     "text_color": "FFFFFF"
   },
@@ -1400,13 +1379,6 @@
     "text_color": "FFFFFF"
   },
   {
-    "id": "41616",
-    "short": "616",
-    "long": "VEZİRÇİFTLİĞİ-KULLAR MERKEZ-TÜPRAŞ LİSESİ-OKULLAR BÖLGESİ",
-    "color": "006633",
-    "text_color": "FFFFFF"
-  },
-  {
     "id": "41621",
     "short": "621",
     "long": "YUVACIK-İZMİT-BATI TERMİNALİ (YENİ YOL)",
@@ -1456,20 +1428,6 @@
     "text_color": "FFFFFF"
   },
   {
-    "id": "41628",
-    "short": "628",
-    "long": "YUVACIK-TINAZTEPE-OKULLAR BÖLGESİ",
-    "color": "006633",
-    "text_color": "FFFFFF"
-  },
-  {
-    "id": "41629",
-    "short": "629",
-    "long": "YUVACIK-AYDINKENT-OKULLAR BÖLGESİ",
-    "color": "006633",
-    "text_color": "FFFFFF"
-  },
-  {
     "id": "41630",
     "short": "630",
     "long": "YUVACIK MERKEZ-AYDINKENT-İZMİT-UMUTTEPE",
@@ -1515,13 +1473,6 @@
     "id": "41637",
     "short": "637",
     "long": "YEŞİLKENT-DAMLAR-İZMİT-BATI TERMİNALİ (ESKİYOL)",
-    "color": "006633",
-    "text_color": "FFFFFF"
-  },
-  {
-    "id": "41639",
-    "short": "639",
-    "long": "BAHÇECİK-PAŞADAĞ ANADOLU LİSESİ",
     "color": "006633",
     "text_color": "FFFFFF"
   },
@@ -1848,13 +1799,6 @@
     "text_color": "FFFFFF"
   },
   {
-    "id": "41753",
-    "short": "753",
-    "long": "KARAMÜRSEL-GÖLCÜK",
-    "color": "006633",
-    "text_color": "FFFFFF"
-  },
-  {
     "id": "41755",
     "short": "755",
     "long": "KARAMÜRSEL-İZMİT OTOGAR-UMUTTEPE (YENİ YOL)",
@@ -1988,9 +1932,23 @@
     "text_color": "FFFFFF"
   },
   {
+    "id": "44001",
+    "short": "44001",
+    "long": "GEBZE-ESENLER",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
     "id": "22203",
     "short": "D.DERE",
     "long": "D.DERE-İSKELE HATLARI",
+    "color": "134395",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "22225",
+    "short": "DARICA",
+    "long": "DARICA-ADALAR",
     "color": "134395",
     "text_color": "FFFFFF"
   },
@@ -2033,6 +1991,13 @@
     "id": "22207",
     "short": "HEREKE",
     "long": "HEREKE-İSKELE HATLARI",
+    "color": "134395",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "22226",
+    "short": "IZMIT",
+    "long": "IZMIT-ADALAR",
     "color": "134395",
     "text_color": "FFFFFF"
   },
@@ -2527,6 +2492,13 @@
     "text_color": "FFFFFF"
   },
   {
+    "id": "22228",
+    "short": "MEHTAP",
+    "long": "MEHTAP-TURU",
+    "color": "134395",
+    "text_color": "FFFFFF"
+  },
+  {
     "id": "65001",
     "short": "N1",
     "long": "BATI TERMİNALİ-TREN GARI-OTOGAR-ŞEHİR HAST.-UMUTTEPE",
@@ -2632,6 +2604,13 @@
     "text_color": "FFFFFF"
   },
   {
+    "id": "70019",
+    "short": "PS-P10",
+    "long": "PS-P10-PS-P10",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
     "id": "70002",
     "short": "PS-P2",
     "long": "PS-P2-PS-P2",
@@ -2677,6 +2656,13 @@
     "id": "70008",
     "short": "PS-P8",
     "long": "PS-P8-PS-P8",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "70018",
+    "short": "PS-P9",
+    "long": "PS-P9-PS-P9",
     "color": "1EA9BD",
     "text_color": "FFFFFF"
   },
@@ -2867,6 +2853,13 @@
     "short": "TF4",
     "long": "ÇAYIROVA-GEBZE-DİLOVASI-ORMANYA-SEKA KAMPI-TELEFERİK",
     "color": "1EA9BD",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "42005",
+    "short": "TLFRK",
+    "long": "DERBENT-KUZUYAYLA",
+    "color": "16AB22",
     "text_color": "FFFFFF"
   },
   {

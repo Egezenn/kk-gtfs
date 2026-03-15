@@ -2639,6 +2639,15 @@
     ]
   },
   {
+    "id": "21015",
+    "name": "BEKİR SITKI PAMUK CADDESİ DURAĞI",
+    "lat": 40.980546,
+    "lon": 37.879453,
+    "routes": [
+      "00540"
+    ]
+  },
+  {
     "id": "10729",
     "name": "363 SOKAK DURAĞI 2",
     "lat": 40.9767018,
@@ -7503,6 +7512,13 @@
     "name": "RIHTIM TRAMVAY DURAĞI",
     "lat": 40.9946409,
     "lon": 37.875913,
+    "routes": []
+  },
+  {
+    "id": "97000",
+    "name": "BOZTEPE TESİS WC TURNİKE",
+    "lat": 40.9897638,
+    "lon": 37.8576176,
     "routes": []
   }
 ]

@@ -1475,7 +1475,7 @@
   },
   {
     "id": "43088",
-    "name": "ŞAKİRPAŞA CADDES��  7",
+    "name": "ŞAKİRPAŞA CADDESİ  7",
     "lat": 36.9875505,
     "lon": 35.2660513,
     "routes": [
@@ -15085,8 +15085,8 @@
   {
     "id": "43207",
     "name": "7A ŞHT. ATĞM. KEMAL YÜZGEÇ BLV.",
-    "lat": 36.9476449,
-    "lon": 35.3173193,
+    "lat": 36.947643,
+    "lon": 35.317259,
     "routes": [
       "00130",
       "22001"
@@ -32328,6 +32328,13 @@
     "routes": []
   },
   {
+    "id": "44875",
+    "name": "ORGANİZE 4A",
+    "lat": 36.990328,
+    "lon": 35.578288,
+    "routes": []
+  },
+  {
     "id": "43722",
     "name": "ORGANİZE 3B",
     "lat": 36.9913223,
@@ -33354,6 +33361,13 @@
     "name": "AYVALI MAH. 1B",
     "lat": 37.16049,
     "lon": 35.3061517,
+    "routes": []
+  },
+  {
+    "id": "44873",
+    "name": "AFLAK MAH. 3A",
+    "lat": 37.172491,
+    "lon": 35.300933,
     "routes": []
   },
   {
@@ -34554,10 +34568,10 @@
     "routes": []
   },
   {
-    "id": "42656",
-    "name": "PEKMEZCİ MAH. 6A",
-    "lat": 37.2306253,
-    "lon": 35.4906648,
+    "id": "44874",
+    "name": "BOZTEPE MAH. 5A",
+    "lat": 37.221082,
+    "lon": 35.488739,
     "routes": []
   },
   {
@@ -36580,6 +36594,20 @@
     "name": "KÜÇÜKSAAT",
     "lat": 36.988157,
     "lon": 35.323706,
+    "routes": []
+  },
+  {
+    "id": "44871",
+    "name": "MUSTAFALAR MAH. 8A",
+    "lat": 37.127595,
+    "lon": 35.519991,
+    "routes": []
+  },
+  {
+    "id": "44872",
+    "name": "MUSTAFALAR MAH. 9A",
+    "lat": 37.139814,
+    "lon": 35.53705,
     "routes": []
   },
   {
@@ -56168,7 +56196,7 @@
   },
   {
     "id": "28040",
-    "name": "YÜKSEK BİNALAR Y.OBA",
+    "name": "Y��KSEK BİNALAR Y.OBA",
     "lat": 37.003883,
     "lon": 35.244236,
     "routes": [

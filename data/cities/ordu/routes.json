@@ -306,5 +306,12 @@
     "long": "RIHTIM-RIHTIM",
     "color": "FF0000",
     "text_color": "FFFFFF"
+  },
+  {
+    "id": "00970",
+    "short": "97",
+    "long": "BOZEPE TESİS WC-BOZEPE TESİS WC",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
   }
 ]

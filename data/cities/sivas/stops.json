@@ -855,7 +855,7 @@
   },
   {
     "id": "579",
-    "name": "Sivas İl Milli Eğitim Müdürlüğü D��NÜŞ",
+    "name": "Sivas İl Milli Eğitim Müdürlüğü DÖNÜŞ",
     "lat": 39.7380096,
     "lon": 36.9996084,
     "routes": []
@@ -1723,7 +1723,7 @@
   },
   {
     "id": "592",
-    "name": "AYDOĞAN-FATİH",
+    "name": "AYDOĞAN-FAT��H",
     "lat": 39.7541307,
     "lon": 37.0025556,
     "routes": []
@@ -2158,8 +2158,8 @@
   {
     "id": "148",
     "name": "HÜNERLİ PİDE",
-    "lat": 39.747281,
-    "lon": 36.995686,
+    "lat": 39.7474655,
+    "lon": 36.995871,
     "routes": []
   },
   {
@@ -2326,8 +2326,15 @@
   {
     "id": "164",
     "name": "ALTUNTABAK",
-    "lat": 39.745465,
-    "lon": 36.99841,
+    "lat": 39.7467828,
+    "lon": 36.9975302,
+    "routes": []
+  },
+  {
+    "id": "200",
+    "name": "TANZİM MARKET",
+    "lat": 39.7450807,
+    "lon": 36.9985789,
     "routes": []
   },
   {
@@ -3088,7 +3095,7 @@
   },
   {
     "id": "764",
-    "name": "C.Ü. TOKİ ÖĞRENCİ YURDU & PANSİYONU",
+    "name": "C.Ü. TOKİ Ö��RENCİ YURDU & PANSİYONU",
     "lat": 39.7272072,
     "lon": 37.0518257,
     "routes": []

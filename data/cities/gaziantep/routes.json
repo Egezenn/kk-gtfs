@@ -154,6 +154,13 @@
     "text_color": "FFFFFF"
   },
   {
+    "id": "00980",
+    "short": "B300",
+    "long": "GAZİULAŞ-AKILLI ŞEHİRLER",
+    "color": "FF6600",
+    "text_color": "FFFFFF"
+  },
+  {
     "id": "00310",
     "short": "B31",
     "long": "GİBTÜ-İSTASYON",
@@ -835,7 +842,7 @@
   {
     "id": "20200",
     "short": "M17",
-    "long": "OTOGAR-MAVİKENT",
+    "long": "BEYKENT-MAVİKENT",
     "color": "0000FF",
     "text_color": "FFFFFF"
   },
@@ -857,6 +864,27 @@
     "id": "80010",
     "short": "N01",
     "long": "AKÇAKENT-İSTASYON",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "80020",
+    "short": "N02",
+    "long": "AKÇAKENT-FISTIK HALİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "80030",
+    "short": "N03",
+    "long": "AKÇAKENT-FISTIK HALİ",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "80040",
+    "short": "N04",
+    "long": "HASTANE-AKÇAKENT",
     "color": "FF0000",
     "text_color": "FFFFFF"
   },
@@ -1078,6 +1106,13 @@
     "text_color": "FFFFFF"
   },
   {
+    "id": "20231",
+    "short": "M19-1",
+    "long": "SEYRANTEPE-BALIKLI",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
     "id": "30011",
     "short": "S01-1",
     "long": "İBNİ SİNA-GÜNEŞ MAH.-GATEM",
@@ -1090,6 +1125,20 @@
     "long": "SEYRANTEPE-PERİLİKAYA-ÇEVİK KUVVET",
     "color": "D9D900",
     "text_color": "000000"
+  },
+  {
+    "id": "30041",
+    "short": "S04-1",
+    "long": "KARATAŞ-60.YIL-GATEM",
+    "color": "D9D900",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "30081",
+    "short": "S08-1",
+    "long": "ONKOLOJİ-BİNEVLER-SEYRANTEPE-GAZİKENT",
+    "color": "FF0000",
+    "text_color": "FFFFFF"
   },
   {
     "id": "30111",
