@@ -210,6 +210,10 @@ def generate_metadata(data_dir, output_file):
     BLACKLIST = {"akcakoca", "altinova", "yozgat"}
 
     region_map = get_region_map()
+    if not region_map:
+        print("Warning: Failed to fetch region map from API. All region IDs will be '000'.")
+    else:
+        print(f"Fetched mapping for {len(region_map)} cities.")
 
     if not os.path.exists(cities_dir):
         os.makedirs(cities_dir)
@@ -230,11 +234,16 @@ def generate_metadata(data_dir, output_file):
             city_extract_path = os.path.join(cities_dir, city_slug)
             route_count, stop_count = extract_gtfs_data(filepath, city_extract_path)
 
+            region_id = region_map.get(city_slug)
+            if not region_id:
+                print(f"Warning: No region_id found for city: {city_slug}. Defaulting to '000'.")
+                region_id = "000"
+
             metadata.append(
                 {
                     "city": city_name,
                     "slug": city_slug,
-                    "region_id": region_map.get(city_slug, "000"),
+                    "region_id": region_id,
                     "filename": filename,
                     "size_mb": round(stats.st_size / (1024 * 1024), 2),
                     "last_updated": time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime(stats.st_mtime)),
