@@ -1205,7 +1205,10 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     };
 
-    function showStopTimetable(stopId, expanded = false, dayType = null) {
+    function showStopTimetable(stopId, expanded = null, dayType = null) {
+      if (expanded === null) {
+        expanded = localStorage.getItem("kk_gtfs-stop_timetable_expanded") === "true";
+      }
       const stop = cityStops.find((s) => s.id === stopId);
       if (!stop) return;
 
@@ -1362,7 +1365,9 @@ document.addEventListener("DOMContentLoaded", () => {
       const newExpandBtn = expandBtn.cloneNode(true);
       expandBtn.parentNode.replaceChild(newExpandBtn, expandBtn);
       newExpandBtn.addEventListener("click", () => {
-        showStopTimetable(stopId, !expanded, dayType);
+        const newState = !expanded;
+        localStorage.setItem("kk_gtfs-stop_timetable_expanded", newState);
+        showStopTimetable(stopId, newState, dayType);
       });
       newExpandBtn.innerText = expanded ? "COLL" : "EXP";
     }
