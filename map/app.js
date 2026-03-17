@@ -132,6 +132,8 @@ document.addEventListener("DOMContentLoaded", () => {
         fetch(`../data/cities/${slug}/shapes.json`),
         fetch(`../data/cities/${slug}/trips.json`),
         fetch(`../data/cities/${slug}/timetables.json`).catch(() => {}),
+        fetch(`../data/cities/${slug}/offsets.json`).catch(() => {}),
+        fetch(`../data/cities/${slug}/stop_sequences.json`).catch(() => {}),
       ]);
 
       if (stops.length === 0) throw new Error("No stops found");
@@ -219,6 +221,8 @@ document.addEventListener("DOMContentLoaded", () => {
       cityShapes = {},
       cityTrips = {},
       cityTimetables = {},
+      cityOffsets = {},
+      cityStopSequences = {},
       cityRegionId = "000";
     let liveBusInterval = null;
 
@@ -468,7 +472,6 @@ document.addEventListener("DOMContentLoaded", () => {
     map.on("locationfound", (e) => {
       const btn = document.getElementById("locateBtn");
       if (btn) {
-        e;
         btn.innerHTML = "⊕";
         btn.style.color = "#00ff00";
       }
@@ -546,14 +549,22 @@ document.addEventListener("DOMContentLoaded", () => {
           fetch(`../data/cities/${citySlug}/timetables.json`)
             .then((r) => (r.ok ? r.json() : {}))
             .catch(() => ({})),
+          fetch(`../data/cities/${citySlug}/offsets.json`)
+            .then((r) => (r.ok ? r.json() : {}))
+            .catch(() => ({})),
+          fetch(`../data/cities/${citySlug}/stop_sequences.json`)
+            .then((r) => (r.ok ? r.json() : {}))
+            .catch(() => ({})),
         ]);
       })
-      .then(([routes, stops, shapes, trips, timetables]) => {
+      .then(([routes, stops, shapes, trips, timetables, offsets, sequences]) => {
         cityRoutes = routes;
         cityStops = stops;
         cityShapes = shapes;
         cityTrips = trips;
         cityTimetables = timetables;
+        cityOffsets = offsets;
+        cityStopSequences = sequences;
 
         document.getElementById("cityName").innerText = citySlug.replace("_", " ").toUpperCase();
         document.getElementById("cityStats").innerHTML = `
@@ -661,7 +672,10 @@ document.addEventListener("DOMContentLoaded", () => {
           fillOpacity: 0.8,
         })
           .addTo(stopLayer)
-          .bindPopup(`<b>${s.name}</b>${routeHtml ? "<br>" + routeHtml : ""}`);
+          .on("click", (e) => {
+            showStopTimetable(s.id);
+            L.DomEvent.stopPropagation(e);
+          });
       });
 
       if (_stopZoomHandler) map.off("zoomend", _stopZoomHandler);
@@ -677,8 +691,9 @@ document.addEventListener("DOMContentLoaded", () => {
       map.on("zoomend", _stopZoomHandler);
     }
 
-    let currentRouteId = null;
-    let currentDirection = "0";
+    window.currentRouteId = null;
+    window.currentDirection = "0";
+    window.lastOpenStopId = null;
 
     window.toggleFavorite = function (type, id, btn, event) {
       if (event) event.stopPropagation();
@@ -729,7 +744,7 @@ document.addEventListener("DOMContentLoaded", () => {
       list.innerHTML = sortedRoutes
         .map((r) => {
           const isFav = favs.includes(r.id);
-          const isActive = currentRouteId === r.id ? "active" : "";
+          const isActive = window.currentRouteId === r.id ? "active" : "";
           const vColor = ensureVisibleColor(r.color);
           return `
                 <div class="data-item win-outset ${isActive}" data-id="${r.id}" style="display: flex; justify-content: space-between; align-items: center;">
@@ -746,19 +761,21 @@ document.addEventListener("DOMContentLoaded", () => {
       list.querySelectorAll(".data-item").forEach((item) => {
         item.addEventListener("click", () => {
           const newRouteId = item.dataset.id;
-          if (currentRouteId === newRouteId) {
+          if (window.currentRouteId === newRouteId) {
             // Toggle direction if already selected
-            currentDirection = currentDirection === "0" ? "1" : "0";
+            window.currentDirection = window.currentDirection === "0" ? "1" : "0";
           } else {
             // New route, reset active states and direction
             list.querySelectorAll(".data-item").forEach((i) => i.classList.remove("active"));
             item.classList.add("active");
-            currentRouteId = newRouteId;
-            currentDirection = "0";
+            window.currentRouteId = newRouteId;
+            window.currentDirection = "0";
+            window.lastOpenStopId = null;
+            document.getElementById("timetableBackBtn").style.display = "none";
           }
 
-          showRouteOnMap(currentRouteId);
-          showTimetable(currentRouteId, currentDirection);
+          showRouteOnMap(window.currentRouteId);
+          showTimetable(window.currentRouteId, window.currentDirection);
 
           // Auto collapse sidebar on mobile
           if (window.innerWidth <= 768) {
@@ -775,24 +792,26 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     document.getElementById("reverseBtn").addEventListener("click", () => {
-      if (currentRouteId) {
-        currentDirection = currentDirection === "0" ? "1" : "0";
-        showRouteOnMap(currentRouteId);
-        showTimetable(currentRouteId, currentDirection);
+      if (window.currentRouteId) {
+        window.currentDirection = window.currentDirection === "0" ? "1" : "0";
+        showRouteOnMap(window.currentRouteId);
+        showTimetable(window.currentRouteId, window.currentDirection);
       }
     });
 
     const refreshBusBtn = document.getElementById("refreshBusBtn");
     if (refreshBusBtn) {
       refreshBusBtn.addEventListener("click", () => {
-        if (currentRouteId) fetchLiveBuses();
+        if (window.currentRouteId) fetchLiveBuses();
       });
     }
 
-    document.querySelector(".close-btn").addEventListener("click", () => {
-      if (currentRouteId) {
-        currentRouteId = null;
-        currentDirection = "0";
+    document.getElementById("timetableCloseBtn").addEventListener("click", () => {
+      if (window.currentRouteId) {
+        window.currentRouteId = null;
+        window.currentDirection = "0";
+        window.lastOpenStopId = null;
+        document.getElementById("timetableBackBtn").style.display = "none";
 
         const list = document.getElementById("routeList");
         if (list) {
@@ -807,6 +826,12 @@ document.addEventListener("DOMContentLoaded", () => {
       if (liveBusInterval) {
         clearInterval(liveBusInterval);
         liveBusInterval = null;
+      }
+    });
+
+    document.getElementById("timetableBackBtn").addEventListener("click", () => {
+      if (window.lastOpenStopId) {
+        showStopTimetable(window.lastOpenStopId);
       }
     });
 
@@ -853,10 +878,7 @@ document.addEventListener("DOMContentLoaded", () => {
               routeHtml += "</div>";
             }
             map.setView([stop.lat, stop.lon], 16);
-            L.popup()
-              .setLatLng([stop.lat, stop.lon])
-              .setContent(`<b>${stop.name}</b>${routeHtml ? "<br>" + routeHtml : ""}`)
-              .openOn(map);
+            showStopTimetable(stop.id);
 
             // Auto collapse sidebar on mobile
             if (window.innerWidth <= 768) {
@@ -873,12 +895,12 @@ document.addEventListener("DOMContentLoaded", () => {
       });
     }
 
-    function showRouteOnMap(routeId) {
+    window.showRouteOnMap = function (routeId) {
       routeLayer.clearLayers();
       const routeDirs = cityTrips[routeId];
       if (!routeDirs) return;
 
-      const shapeId = routeDirs[currentDirection] || routeDirs[Object.keys(routeDirs)[0]];
+      const shapeId = routeDirs[window.currentDirection] || routeDirs[Object.keys(routeDirs)[0]];
       const coordinates = cityShapes[shapeId];
       const route = cityRoutes.find((r) => r.id === routeId);
 
@@ -930,11 +952,11 @@ document.addEventListener("DOMContentLoaded", () => {
       fetchLiveBuses();
       if (liveBusInterval) clearInterval(liveBusInterval);
       liveBusInterval = setInterval(fetchLiveBuses, 30000);
-    }
+    };
 
     function fetchLiveBuses() {
-      if (!currentRouteId || cityRegionId === "000") return Promise.resolve();
-      const route = cityRoutes.find((r) => r.id === currentRouteId);
+      if (!window.currentRouteId || cityRegionId === "000") return Promise.resolve();
+      const route = cityRoutes.find((r) => r.id === window.currentRouteId);
       if (!route) return Promise.resolve();
 
       const refreshBtn = document.getElementById("refreshBusBtn");
@@ -945,7 +967,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       const displayCode = route.short;
 
-      const url = `https://service.kentkart.com/rl1/web/pathInfo?region=${cityRegionId}&lang=tr&direction=${currentDirection}&displayRouteCode=${displayCode}`;
+      const url = `https://service.kentkart.com/rl1/web/pathInfo?region=${cityRegionId}&lang=tr&direction=${window.currentDirection}&displayRouteCode=${displayCode}`;
 
       return fetch(url)
         .then((r) => r.json())
@@ -981,7 +1003,9 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
-    function showTimetable(routeId, direction) {
+    window.showTimetable = function (routeId, direction) {
+      window.currentRouteId = routeId;
+      document.getElementById("stopTimetableWindow").style.display = "none";
       const timetableEl = document.getElementById("timetableWindow");
       const content = document.getElementById("timetableContent");
       const title = document.getElementById("timetableTitle");
@@ -1088,9 +1112,180 @@ document.addEventListener("DOMContentLoaded", () => {
             timetableEl.style.display = "flex";
           }
         }
-      } else {
-        timetableEl.style.display = "none";
       }
+    };
+
+    function showStopTimetable(stopId, expanded = false, dayType = null) {
+      const stop = cityStops.find((s) => s.id === stopId);
+      if (!stop) return;
+
+      // Close route timetable and route layer
+      window.currentRouteId = null;
+      document.getElementById("timetableWindow").style.display = "none";
+      document.getElementById("timetableBackBtn").style.display = "none";
+      window.lastOpenStopId = null;
+      routeLayer.clearLayers();
+      busLayer.clearLayers();
+      if (liveBusInterval) {
+        clearInterval(liveBusInterval);
+        liveBusInterval = null;
+      }
+
+      const windowEl = document.getElementById("stopTimetableWindow");
+      const titleEl = document.getElementById("stopTimetableTitle");
+      const contentEl = document.getElementById("stopTimetableContent");
+
+      titleEl.innerText = `STOP: ${stop.name}`;
+      windowEl.style.display = "flex";
+
+      if (!dayType) {
+        const now = new Date();
+        const d = now.getDay();
+        dayType = d === 0 ? "sunday" : d === 6 ? "saturday" : "weekday";
+      }
+
+      function render() {
+        const now = new Date();
+        const currentTotalSecs = now.getHours() * 3600 + now.getMinutes() * 60 + now.getSeconds();
+
+        let html = "";
+
+        if (expanded) {
+          html += `
+            <div id="stopDaySelector" style="display: flex; gap: 10px; margin-bottom: 10px; font-size: 0.8rem; border-bottom: 1px solid #333; padding-bottom: 5px;">
+                <label><input type="radio" name="stopDayType" value="weekday" ${dayType === "weekday" ? "checked" : ""}> Weekday</label>
+                <label><input type="radio" name="stopDayType" value="saturday" ${dayType === "saturday" ? "checked" : ""}> Saturday</label>
+                <label><input type="radio" name="stopDayType" value="sunday" ${dayType === "sunday" ? "checked" : ""}> Sunday</label>
+            </div>
+          `;
+        }
+
+        const routeArrivals = [];
+
+        // For each route passing through this stop
+        if (stop.routes) {
+          stop.routes.forEach((rId) => {
+            const route = cityRoutes.find((r) => r.id === rId);
+            if (!route) return;
+
+            const timetable = cityTimetables[rId];
+            if (!timetable) return;
+
+            for (const dir in timetable) {
+              const dirData = timetable[dir];
+              const times = dirData.times[dayType] || [];
+              if (times.length === 0) continue;
+
+              // Find offset for this stop in this route/direction
+              const seqs = cityStopSequences[rId] ? cityStopSequences[rId][dir] : null;
+              if (!seqs) continue;
+
+              const stopIdx = seqs.indexOf(stopId);
+              if (stopIdx === -1) continue;
+
+              const offsets = cityOffsets[rId] ? cityOffsets[rId][dir] : null;
+              if (!offsets || offsets.length <= stopIdx) continue;
+
+              const offset = offsets[stopIdx];
+
+              const arrivals = times.map((t) => {
+                const parts = t.split(":");
+                const depSecs = parseInt(parts[0]) * 3600 + parseInt(parts[1]) * 60;
+                let arrSecs = depSecs + offset;
+
+                // Format HH:MM
+                let h = Math.floor(arrSecs / 3600);
+                let m = Math.floor((arrSecs % 3600) / 60);
+                const displayH = (h % 24).toString().padStart(2, "0");
+                const displayM = m.toString().padStart(2, "0");
+
+                return {
+                  time: `${displayH}:${displayM}`,
+                  secs: arrSecs,
+                };
+              });
+
+              let filteredArrivals = arrivals;
+              if (!expanded) {
+                // Next hour (3600s)
+                filteredArrivals = arrivals.filter(
+                  (a) => a.secs >= currentTotalSecs && a.secs <= currentTotalSecs + 3600,
+                );
+              }
+
+              if (filteredArrivals.length > 0) {
+                routeArrivals.push({
+                  route,
+                  direction: dir,
+                  headsign: dirData.headsign,
+                  times: filteredArrivals,
+                });
+              }
+            }
+          });
+        }
+
+        if (routeArrivals.length === 0) {
+          html += `<div style="padding: 10px; text-align: center;">No upcoming buses.</div>`;
+        } else {
+          routeArrivals.sort((a, b) => a.route.short.localeCompare(b.route.short));
+
+          html += routeArrivals
+            .map((ra) => {
+              const vColor = ensureVisibleColor(ra.route.color);
+              return `
+              <div style="margin-bottom: 8px; border-bottom: 1px solid #222; padding-bottom: 4px;">
+                <div style="display: flex; align-items: center; gap: 5px; margin-bottom: 3px;">
+                  <span onclick="window.lastOpenStopId='${stopId}'; window.currentRouteId='${ra.route.id}'; window.currentDirection='${ra.direction}'; showRouteOnMap('${ra.route.id}'); showTimetable('${ra.route.id}','${ra.direction}'); document.getElementById('stopTimetableWindow').style.display='none'; document.getElementById('timetableBackBtn').style.display='block';" style="cursor:pointer; color: #${vColor}; font-weight: bold; border: 1px solid #${vColor}; padding: 0 4px; border-radius: 2px;">${ra.route.short}</span>
+                  <span style="font-size: 0.7rem; color: #FFF;">> ${ra.headsign}</span>
+                </div>
+                <div style="display: flex; flex-wrap: wrap; gap: 5px; font-size: 0.8rem;">
+                  ${ra.times.map((t) => `<span style="background: #111; padding: 1px 4px; border-radius: 2px;">${t.time}</span>`).join("")}
+                </div>
+              </div>
+            `;
+            })
+            .join("");
+        }
+
+        contentEl.innerHTML = html;
+
+        if (expanded) {
+          contentEl.querySelectorAll("input[name='stopDayType']").forEach((radio) => {
+            radio.addEventListener("change", () => {
+              showStopTimetable(stopId, true, radio.value);
+            });
+          });
+        }
+      }
+
+      render();
+
+      // Expand button listener
+      const expandBtn = document.getElementById("expandStopBtn");
+      // Use parentNode.replaceChild to clear old listeners if any (simple way for this context)
+      const newExpandBtn = expandBtn.cloneNode(true);
+      expandBtn.parentNode.replaceChild(newExpandBtn, expandBtn);
+      newExpandBtn.addEventListener("click", () => {
+        showStopTimetable(stopId, !expanded, dayType);
+      });
+      newExpandBtn.innerText = expanded ? "COLL" : "EXP";
+    }
+
+    const stopCloseBtn = document.getElementById("stopTimetableCloseBtn");
+    if (stopCloseBtn) {
+      stopCloseBtn.addEventListener("click", () => {
+        document.getElementById("stopTimetableWindow").style.display = "none";
+      });
+    }
+
+    const stopTimetableToggle = document.getElementById("stopTimetableToggle");
+    const stopTimetableWindow = document.getElementById("stopTimetableWindow");
+    if (stopTimetableToggle && stopTimetableWindow) {
+      stopTimetableToggle.addEventListener("click", () => {
+        stopTimetableWindow.classList.toggle("collapsed");
+        stopTimetableToggle.innerText = stopTimetableWindow.classList.contains("collapsed") ? "▲" : "▼";
+      });
     }
 
     // Mobile Toggles

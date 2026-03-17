@@ -59,12 +59,26 @@
           <span id="timetableTitle">SCHEDULE_VIEW</span>
           <div style="display: flex; gap: 4px; align-items: center">
             <button id="timetableToggle" class="mobile-toggle">▲</button>
+            <button id="timetableBackBtn" class="win-outset win-titlebar-btn" style="color: #ffaa00; display: none;">BACK</button>
             <button id="refreshBusBtn" class="win-outset win-titlebar-btn" style="color: #00ff00">LIVE</button>
             <button id="reverseBtn" class="win-outset win-titlebar-btn" style="color: white">REV</button>
-            <div class="close-btn win-titlebar-btn" style="color: red">X</div>
+            <button id="timetableCloseBtn" class="win-outset win-titlebar-btn" style="color: red">X</button>
           </div>
         </div>
         <div id="timetableContent" class="win-content win-inset">Select a route to view schedule.</div>
+      </div>
+
+      <!-- Stop Timetable Window Overlay -->
+      <div id="stopTimetableWindow" class="win-overlay win-outset">
+        <div class="win-titlebar">
+          <span id="stopTimetableTitle">STOP_SCHEDULE</span>
+          <div style="display: flex; gap: 4px; align-items: center">
+            <button id="stopTimetableToggle" class="mobile-toggle">▲</button>
+            <button id="expandStopBtn" class="win-outset win-titlebar-btn" style="color: #00ffff">EXP</button>
+            <button id="stopTimetableCloseBtn" class="win-outset win-titlebar-btn" style="color: red">X</button>
+          </div>
+        </div>
+        <div id="stopTimetableContent" class="win-content win-inset" style="overflow-y: auto;">Select a stop to view departures.</div>
       </div>
     </div>
 

@@ -4,6 +4,8 @@ on:
   push:
     paths:
       - "map/**"
+      - "sw.js"
+      - "index.html"
   workflow_dispatch:
 
 jobs:

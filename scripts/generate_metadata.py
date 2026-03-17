@@ -19,6 +19,20 @@ def safe_float(val):
         return None
 
 
+def time_to_seconds(t):
+    if not t or t == "-":
+        return 0
+    try:
+        parts = t.split(":")
+        if len(parts) == 3:
+            return int(parts[0]) * 3600 + int(parts[1]) * 60 + int(parts[2])
+        elif len(parts) == 2:
+            return int(parts[0]) * 3600 + int(parts[1]) * 60
+    except (ValueError, IndexError):
+        return 0
+    return 0
+
+
 def extract_gtfs_data(zip_path, extract_to):
     routes = []
     stops = []
@@ -27,6 +41,9 @@ def extract_gtfs_data(zip_path, extract_to):
     route_timetables = (
         {}
     )  # route_id -> { "dir0": { "headsign": "", "times": [] }, "dir1": { "headsign": "", "times": [] } }
+    sample_trips = {}  # (route_id, direction_id) -> trip_id
+    route_offsets_data = {}  # (route_id, direction_id) -> { seq: departure_time }
+    route_stop_sequences = {}  # (route_id, direction_id) -> { seq: stop_id }
 
     if not os.path.exists(extract_to):
         os.makedirs(extract_to)
@@ -94,6 +111,8 @@ def extract_gtfs_data(zip_path, extract_to):
                         trips_info[r_id][dir_id] = s_id  # Store shape for both directions
 
                     if t_id and r_id:
+                        if (r_id, dir_id) not in sample_trips:
+                            sample_trips[(r_id, dir_id)] = t_id
                         trip_to_route[t_id] = (r_id, dir_id, headsign, service_id)
                         if r_id not in route_timetables:
                             route_timetables[r_id] = {
@@ -116,7 +135,7 @@ def extract_gtfs_data(zip_path, extract_to):
                     t_id = row.get("trip_id")
                     s_id = row.get("stop_id")
                     seq = row.get("stop_sequence")
-                    dep_time = row.get("departure_time") or row.get("arrival_time")
+                    stop_time = row.get("arrival_time") or row.get("departure_time")
 
                     if t_id in trip_to_route:
                         r_id, dir_id, _, service_id = trip_to_route[t_id]
@@ -126,9 +145,9 @@ def extract_gtfs_data(zip_path, extract_to):
                                 stop_routes_map[s_id] = set()
                             stop_routes_map[s_id].add(r_id)
 
-                        if seq == "1" and dep_time:
+                        if seq == "1" and stop_time:
                             # Trim seconds if present e.g. 08:30:00 -> 08:30
-                            time_short = ":".join(dep_time.split(":")[:2])
+                            time_short = ":".join(stop_time.split(":")[:2])
 
                             # Determine day type from service_id (e.g. service_0_MTWTFss)
                             day_type = "weekday"
@@ -143,6 +162,15 @@ def extract_gtfs_data(zip_path, extract_to):
                                             day_type = "sunday"
 
                             route_timetables[r_id][dir_id]["times"][day_type].add(time_short)
+
+                        if t_id == sample_trips.get((r_id, dir_id)):
+                            if (r_id, dir_id) not in route_offsets_data:
+                                route_offsets_data[(r_id, dir_id)] = {}
+                            route_offsets_data[(r_id, dir_id)][int(seq)] = stop_time
+
+                            if (r_id, dir_id) not in route_stop_sequences:
+                                route_stop_sequences[(r_id, dir_id)] = {}
+                            route_stop_sequences[(r_id, dir_id)][int(seq)] = s_id
 
         # Finalize timetables: convert sets to sorted lists
         final_timetables = {}
@@ -174,6 +202,39 @@ def extract_gtfs_data(zip_path, extract_to):
 
         with open(os.path.join(extract_to, "stops.json"), "w", encoding="utf-8") as f:
             json.dump(stops, f, indent=2, ensure_ascii=False)
+
+        # 6. Save offsets
+        final_offsets = {}
+        for (r_id, d_id), seq_times in route_offsets_data.items():
+            if not seq_times:
+                continue
+            sorted_seqs = sorted(seq_times.keys())
+            start_time_str = seq_times[sorted_seqs[0]]
+            start_secs = time_to_seconds(start_time_str)
+
+            offsets = []
+            for s in sorted_seqs:
+                offsets.append(time_to_seconds(seq_times[s]) - start_secs)
+
+            if r_id not in final_offsets:
+                final_offsets[r_id] = {}
+            final_offsets[r_id][d_id] = offsets
+
+        with open(os.path.join(extract_to, "offsets.json"), "w", encoding="utf-8") as f:
+            json.dump(final_offsets, f, indent=2, ensure_ascii=False)
+
+        # 7. Save stop sequences
+        final_stop_sequences = {}
+        for (r_id, d_id), seq_stops in route_stop_sequences.items():
+            sorted_seqs = sorted(seq_stops.keys())
+            stops_list = [seq_stops[s] for s in sorted_seqs]
+
+            if r_id not in final_stop_sequences:
+                final_stop_sequences[r_id] = {}
+            final_stop_sequences[r_id][d_id] = stops_list
+
+        with open(os.path.join(extract_to, "stop_sequences.json"), "w", encoding="utf-8") as f:
+            json.dump(final_stop_sequences, f, indent=2, ensure_ascii=False)
 
     return len(routes), len(stops)
 

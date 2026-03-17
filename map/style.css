@@ -246,12 +246,12 @@ body:not(.detail-page) main {
   transform: translate(1px, 1px);
 }
 
-/* Timetable Window Overlay */
+/* Timetable Windows Overlay */
 .win-overlay {
   position: absolute;
   top: 20px;
   right: 20px;
-  width: 300px;
+  width: 350px;
   max-height: 500px;
   z-index: 2000;
   display: none;
@@ -260,15 +260,39 @@ body:not(.detail-page) main {
   background-color: rgba(33, 33, 33, 0.4) !important;
 }
 
+#stopTimetableWindow {
+  top: 20px;
+  right: 20px;
+  max-height: 500px;
+}
+
 .win-titlebar {
   background: var(--win-blue);
   color: white;
-  padding: 3px 6px;
+  padding: 0 10px;
+  height: 32px;
   font-weight: bold;
-  font-size: 0.8rem;
+  font-size: 0.85rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 10px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.win-titlebar span {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex: 1;
+}
+
+.win-titlebar div {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+  flex-shrink: 0;
 }
 
 .win-titlebar-btn {
@@ -393,7 +417,7 @@ body:not(.detail-page) main {
   }
 
   .win-overlay.collapsed {
-    transform: translateY(calc(100% - 30px));
+    transform: translateY(calc(100% - 32px));
   }
 
   /* Mobile Toggle Buttons */
@@ -407,6 +431,19 @@ body:not(.detail-page) main {
     font-size: 0.8rem;
     font-weight: bold;
     float: right;
+  }
+
+  #stopTimetableWindow {
+    bottom: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    max-height: 50vh !important;
+    top: auto !important;
+    z-index: 2001;
+  }
+
+  #stopTimetableWindow.collapsed {
+    transform: translateY(calc(100% - 32px));
   }
 }
 
