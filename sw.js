@@ -1,4 +1,4 @@
-const CACHE_NAME = "kk-gtfs-v3.6";
+const CACHE_NAME = "kk-gtfs-v3.7";
 const DATA_CACHE_NAME = "kk-gtfs-data-v2";
 const TILE_CACHE_NAME = "kk-gtfs-tiles-v2";
 
@@ -110,17 +110,25 @@ async function handleTileFetch(request) {
 self.addEventListener("fetch", (event) => {
   const url = new URL(event.request.url);
 
-  // Map Tiles (cartocdn)
+  // 1. External Live Data (Kentkart) - Bypass SW for these to avoid interference
+  if (url.hostname.includes("kentkart.com")) {
+    return;
+  }
+
+  // 2. Map Tiles (cartocdn) - Use tile fetch strategy
   if (url.hostname.includes("basemaps.cartocdn.com")) {
     event.respondWith(handleTileFetch(event.request));
     return;
   }
 
-  // Intercept requests to /data/ directory
+  // 3. Intercept requests to /data/ directory (static city data)
   if (url.pathname.includes("/data/")) {
     event.respondWith(handleDataFetch(event.request));
-  } else {
-    // Fallback for static assets
+    return;
+  }
+
+  // 4. Default fallback for static assets (only for same-origin)
+  if (url.origin === self.location.origin) {
     event.respondWith(
       caches.match(event.request, { ignoreSearch: true }).then((response) => {
         return response || fetch(event.request);
