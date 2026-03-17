@@ -1,4 +1,4 @@
-const CACHE_NAME = "kk-gtfs-v4";
+const CACHE_NAME = "kk-gtfs-v4.1";
 const DATA_CACHE_NAME = "kk-gtfs-data-v2";
 const TILE_CACHE_NAME = "kk-gtfs-tiles-v2";
 
@@ -127,14 +127,23 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
-  // 4. Default fallback for static assets (only for same-origin)
-  if (url.origin === self.location.origin) {
-    event.respondWith(
-      caches.match(event.request, { ignoreSearch: true }).then((response) => {
-        return response || fetch(event.request);
-      }),
-    );
-  }
+  // 4. Default fallback for static assets
+  event.respondWith(
+    caches.match(event.request, { ignoreSearch: true }).then((cachedResponse) => {
+      // If found in cache (including cross-origin assets like Leaflet), return it
+      if (cachedResponse) {
+        return cachedResponse;
+      }
+
+      // Otherwise, attempt to fetch from network
+      return fetch(event.request).catch((err) => {
+        // If offline and request is for navigation (like /index.html),
+        // we could potentially provide a fallback, but simple catch is enough for now
+        console.warn("Fetch failed and not in cache:", event.request.url);
+        throw err;
+      });
+    }),
+  );
 });
 
 // Allow the client (app.js) to tell us to clear the data cache for a specific city

@@ -533,6 +533,12 @@ body:not(.detail-page) main {
   border-color: #ffff00 !important;
 }
 
+.live-toggle-btn {
+  width: auto !important;
+  padding: 0 8px !important;
+  min-width: 40px;
+}
+
 .hidden {
   display: none !important;
 }

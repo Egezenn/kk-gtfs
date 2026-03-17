@@ -225,6 +225,7 @@ document.addEventListener("DOMContentLoaded", () => {
       cityStopSequences = {},
       cityRegionId = "000";
     let liveBusInterval = null;
+    window.liveDisabled = localStorage.getItem("kk_gtfs-live_disabled") === "true";
 
     // 1. Initialize Map with a slightly more readable Dark Mode
     map = L.map("map", { zoomControl: false }).setView([39.9, 32.8], 6);
@@ -239,6 +240,7 @@ document.addEventListener("DOMContentLoaded", () => {
     busLayer = L.featureGroup().addTo(map);
     const scanLayer = L.featureGroup().addTo(map);
     const userLayer = L.featureGroup().addTo(map);
+    const stopMarkers = new Map();
     let userMarker = null;
     let _userZoomHandler = null;
 
@@ -329,6 +331,62 @@ document.addEventListener("DOMContentLoaded", () => {
     });
     new FilterControl().addTo(map);
 
+    const LiveToggleControl = L.Control.extend({
+      options: { position: "bottomleft" },
+      onAdd() {
+        const btn = L.DomUtil.create("button", "leaflet-bar leaflet-control map-control-btn live-toggle-btn");
+        btn.id = "liveToggleBtn";
+        btn.title = "Toggle Live Features";
+        this._updateBtn(btn);
+        L.DomEvent.on(btn, "click", L.DomEvent.stopPropagation)
+          .on(btn, "click", L.DomEvent.preventDefault)
+          .on(btn, "click", () => {
+            window.liveDisabled = !window.liveDisabled;
+            localStorage.setItem("kk_gtfs-live_disabled", window.liveDisabled);
+            this._updateBtn(btn);
+            refreshLiveUI();
+          });
+        return btn;
+      },
+      _updateBtn(btn) {
+        if (window.liveDisabled) {
+          btn.innerHTML = "📡❌";
+          btn.style.color = "#ff4444";
+          btn.title = "Live Features: DISABLED (Click to enable)";
+        } else {
+          btn.innerHTML = "📡✅";
+          btn.style.color = "#00ff00";
+          btn.title = "Live Features: ENABLED (Click to disable)";
+        }
+      },
+    });
+    new LiveToggleControl().addTo(map);
+
+    function refreshLiveUI() {
+      const scanBtn = document.getElementById("scanBtn");
+      const refreshBtn = document.getElementById("refreshBusBtn");
+
+      if (window.liveDisabled) {
+        if (scanBtn) scanBtn.classList.add("hidden");
+        if (refreshBtn) refreshBtn.classList.add("hidden");
+        stopScanning();
+        busLayer.clearLayers();
+        if (liveBusInterval) {
+          clearInterval(liveBusInterval);
+          liveBusInterval = null;
+        }
+      } else {
+        if (scanBtn) scanBtn.classList.remove("hidden");
+        if (refreshBtn) refreshBtn.classList.remove("hidden");
+        if (window.currentRouteId) {
+          fetchLiveBuses();
+          if (!liveBusInterval) {
+            liveBusInterval = setInterval(fetchLiveBuses, 30000);
+          }
+        }
+      }
+    }
+
     let scanInterval = null;
     function startScanning(latlng) {
       const btn = document.getElementById("scanBtn");
@@ -381,10 +439,11 @@ document.addEventListener("DOMContentLoaded", () => {
         filterBtn.classList.add("hidden");
         filterBtn.style.setProperty("display", "none", "important");
       }
+      resetStopColors();
     }
 
     async function searchBusesNearby(lat, lon) {
-      if (cityRegionId === "000") return;
+      if (window.liveDisabled || cityRegionId === "000") return;
 
       const btn = document.getElementById("scanBtn");
       if (btn) {
@@ -402,6 +461,15 @@ document.addEventListener("DOMContentLoaded", () => {
         console.log("No stops found in this city.");
         return;
       }
+
+      // Highlight these 10 stops as being scanned
+      resetStopColors();
+      sortedStops.forEach((s) => {
+        const marker = stopMarkers.get(s.id);
+        if (marker) {
+          marker.setStyle({ color: "#ffff00", fillColor: "#888800" });
+        }
+      });
 
       // 2. Query API for each of the 5 stops concurrently
       const promises = sortedStops.map((s) => {
@@ -583,6 +651,8 @@ document.addEventListener("DOMContentLoaded", () => {
           map.fitBounds(bounds, { padding: [50, 50] });
         }
 
+        refreshLiveUI();
+
         // Search filtering
         document.getElementById("sidebarSearch").addEventListener("input", (e) => {
           e.target.value = e.target.value.toLocaleUpperCase("tr-TR");
@@ -621,6 +691,12 @@ document.addEventListener("DOMContentLoaded", () => {
         document.getElementById("cityName").innerText = "ERROR:FILE_NOT_FOUND";
       });
 
+    function resetStopColors() {
+      stopMarkers.forEach((marker) => {
+        marker.setStyle({ color: "#00ffff", fillColor: "#008080" });
+      });
+    }
+
     let _stopZoomHandler = null;
 
     function ensureVisibleColor(hex) {
@@ -651,21 +727,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function renderAllStopsOnMap(stops) {
       stopLayer.clearLayers();
+      stopMarkers.clear();
       stops.forEach((s) => {
-        let routeHtml = "";
-        if (s.routes && s.routes.length > 0) {
-          routeHtml = "<div style='margin-top:5px;display:flex;flex-wrap:wrap;gap:2px;'>";
-          s.routes.forEach((routeId) => {
-            const route = cityRoutes.find((r) => r.id === routeId);
-            if (route) {
-              const vColor = ensureVisibleColor(route.color);
-              routeHtml += `<span onclick="document.querySelector('.data-item[data-id=\\'${route.id}\\']')?.click()" style="cursor:pointer;background-color:#${vColor}88;color:#${route.text_color || "fff"};padding:4px 6px;border-radius:4px;font-size:0.85rem;font-weight:bold;box-shadow: 0 0 5px #${vColor}88;">${route.short}</span>`;
-            }
-          });
-          routeHtml += "</div>";
-        }
-
-        L.circleMarker([s.lat, s.lon], {
+        const marker = L.circleMarker([s.lat, s.lon], {
           ...stopStyleForZoom(map.getZoom()),
           color: "#00ffff",
           fillColor: "#008080",
@@ -676,6 +740,7 @@ document.addEventListener("DOMContentLoaded", () => {
             showStopTimetable(s.id);
             L.DomEvent.stopPropagation(e);
           });
+        stopMarkers.set(s.id, marker);
       });
 
       if (_stopZoomHandler) map.off("zoomend", _stopZoomHandler);
@@ -820,6 +885,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         document.getElementById("timetableWindow").style.display = "none";
         routeLayer.clearLayers();
+        resetStopColors();
       }
 
       busLayer.clearLayers();
@@ -913,7 +979,20 @@ document.addEventListener("DOMContentLoaded", () => {
           opacity: 1,
           lineJoin: "round",
           className: "neon-route-line",
+          interactive: false,
         }).addTo(routeLayer);
+
+        // Highlight route stops in PURPLE
+        resetStopColors();
+        const routeStopIds = cityStopSequences[routeId] ? cityStopSequences[routeId][window.currentDirection] : [];
+        if (routeStopIds) {
+          routeStopIds.forEach((sid) => {
+            const marker = stopMarkers.get(sid);
+            if (marker) {
+              marker.setStyle({ color: "#8000ff", fillColor: "#4b0082" });
+            }
+          });
+        }
 
         // Add directional arrows
         if (typeof L.polylineDecorator !== "undefined") {
@@ -925,7 +1004,13 @@ document.addEventListener("DOMContentLoaded", () => {
                 symbol: L.Symbol.arrowHead({
                   pixelSize: 10,
                   polygon: false,
-                  pathOptions: { stroke: true, color: "#" + (route.text_color || "fff"), weight: 2, opacity: 0.8 },
+                  pathOptions: {
+                    stroke: true,
+                    color: "#fff",
+                    weight: 2,
+                    opacity: 0.8,
+                    interactive: false,
+                  },
                 }),
               },
             ],
@@ -949,13 +1034,18 @@ document.addEventListener("DOMContentLoaded", () => {
         map.fitBounds(polyline.getBounds(), { padding: [50, 50] });
       }
 
-      fetchLiveBuses();
-      if (liveBusInterval) clearInterval(liveBusInterval);
-      liveBusInterval = setInterval(fetchLiveBuses, 30000);
+      if (!window.liveDisabled) {
+        fetchLiveBuses();
+        if (liveBusInterval) clearInterval(liveBusInterval);
+        liveBusInterval = setInterval(fetchLiveBuses, 30000);
+      }
+
+      stopLayer.bringToFront();
+      busLayer.bringToFront();
     };
 
     function fetchLiveBuses() {
-      if (!window.currentRouteId || cityRegionId === "000") return Promise.resolve();
+      if (window.liveDisabled || !window.currentRouteId || cityRegionId === "000") return Promise.resolve();
       const route = cityRoutes.find((r) => r.id === window.currentRouteId);
       if (!route) return Promise.resolve();
 
@@ -1125,6 +1215,7 @@ document.addEventListener("DOMContentLoaded", () => {
       document.getElementById("timetableBackBtn").style.display = "none";
       window.lastOpenStopId = null;
       routeLayer.clearLayers();
+      resetStopColors();
       busLayer.clearLayers();
       if (liveBusInterval) {
         clearInterval(liveBusInterval);
@@ -1276,6 +1367,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (stopCloseBtn) {
       stopCloseBtn.addEventListener("click", () => {
         document.getElementById("stopTimetableWindow").style.display = "none";
+        resetStopColors();
       });
     }
 
