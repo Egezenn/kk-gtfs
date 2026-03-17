@@ -1216,6 +1216,10 @@ document.addEventListener("DOMContentLoaded", () => {
       window.lastOpenStopId = null;
       routeLayer.clearLayers();
       resetStopColors();
+      const marker = stopMarkers.get(stopId);
+      if (marker) {
+        marker.setStyle({ color: "#ffffff", fillColor: "#ffffff" });
+      }
       busLayer.clearLayers();
       if (liveBusInterval) {
         clearInterval(liveBusInterval);
