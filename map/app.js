@@ -468,6 +468,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const marker = stopMarkers.get(s.id);
         if (marker) {
           marker.setStyle({ color: "#ffff00", fillColor: "#888800" });
+          marker.bringToFront();
         }
       });
 
@@ -990,6 +991,7 @@ document.addEventListener("DOMContentLoaded", () => {
             const marker = stopMarkers.get(sid);
             if (marker) {
               marker.setStyle({ color: "#8000ff", fillColor: "#4b0082" });
+              marker.bringToFront();
             }
           });
         }
@@ -1222,6 +1224,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const marker = stopMarkers.get(stopId);
       if (marker) {
         marker.setStyle({ color: "#ffffff", fillColor: "#ffffff" });
+        marker.bringToFront();
       }
       busLayer.clearLayers();
       if (liveBusInterval) {
