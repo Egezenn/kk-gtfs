@@ -228,15 +228,15 @@ document.addEventListener("DOMContentLoaded", () => {
     window.liveDisabled = localStorage.getItem("kk_gtfs-live_disabled") === "true";
 
     // 1. Initialize Map with a slightly more readable Dark Mode
-    map = L.map("map", { zoomControl: false }).setView([39.9, 32.8], 6);
+    map = L.map("map", { zoomControl: false, preferCanvas: true }).setView([39.9, 32.8], 6);
     L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager_labels_under/{z}/{x}/{y}{r}.png", {
       attribution: "&copy; OpenStreetMap &copy; CARTO",
     }).addTo(map);
 
     L.control.zoom({ position: "bottomright" }).addTo(map);
-
-    routeLayer = L.featureGroup().addTo(map);
+ 
     stopLayer = L.featureGroup().addTo(map);
+    routeLayer = L.featureGroup().addTo(map);
     busLayer = L.featureGroup().addTo(map);
     const scanLayer = L.featureGroup().addTo(map);
     const userLayer = L.featureGroup().addTo(map);
@@ -654,43 +654,148 @@ document.addEventListener("DOMContentLoaded", () => {
 
         refreshLiveUI();
 
-        // Search filtering
+        // Search filtering with debounce
+        let searchTimeout;
         document.getElementById("sidebarSearch").addEventListener("input", (e) => {
-          e.target.value = e.target.value.toLocaleUpperCase("tr-TR");
-          const input = e.target.value;
-          const terms = input
-            .split(",")
-            .map((t) => t.trim())
-            .filter((t) => t !== "");
-          const activeTab = document.querySelector(".tab-btn.active").dataset.tab;
+          clearTimeout(searchTimeout);
+          const input = e.target.value.toLocaleUpperCase("tr-TR");
+          e.target.value = input;
 
-          if (terms.length === 0) {
-            if (activeTab === "route") renderSidebarRoutes(cityRoutes);
-            else renderSidebarStops(cityStops);
-            return;
-          }
+          searchTimeout = setTimeout(() => {
+            const terms = input
+              .split(",")
+              .map((t) => t.trim())
+              .filter((t) => t !== "");
+            const activeTab = document.querySelector(".tab-btn.active").dataset.tab;
 
-          if (activeTab === "route") {
-            renderSidebarRoutes(
-              cityRoutes.filter((r) => {
-                const fullText = (r.short + (r.long || "")).toLocaleUpperCase("tr-TR");
-                return terms.some((term) => fullText.includes(term));
-              }),
-            );
-          } else {
-            renderSidebarStops(
-              cityStops.filter((s) => {
-                const name = s.name.toLocaleUpperCase("tr-TR");
-                return terms.some((term) => name.includes(term));
-              }),
-            );
-          }
+            if (terms.length === 0) {
+              if (activeTab === "route") renderSidebarRoutes(cityRoutes);
+              else renderSidebarStops(cityStops);
+              return;
+            }
+
+            if (activeTab === "route") {
+              renderSidebarRoutes(
+                cityRoutes.filter((r) => {
+                  const fullText = (r.short + (r.long || "")).toLocaleUpperCase("tr-TR");
+                  return terms.some((term) => fullText.includes(term));
+                }),
+              );
+            } else {
+              renderSidebarStops(
+                cityStops.filter((s) => {
+                  const name = s.name.toLocaleUpperCase("tr-TR");
+                  return terms.some((term) => name.includes(term));
+                }),
+              );
+            }
+          }, 300);
         });
       })
       .catch((err) => {
         console.error("Data load error:", err);
         document.getElementById("cityName").innerText = "ERROR:FILE_NOT_FOUND";
       });
+
+    const routeListEl = document.getElementById("routeList");
+    const stopListEl = document.getElementById("stopList");
+
+    routeListEl.addEventListener("click", (e) => {
+      const item = e.target.closest(".data-item");
+      if (!item || e.target.closest(".fav-btn")) return;
+
+      const newRouteId = item.dataset.id;
+      if (window.currentRouteId === newRouteId) {
+        window.currentDirection = window.currentDirection === "0" ? "1" : "0";
+      } else {
+        routeListEl.querySelectorAll(".data-item").forEach((i) => i.classList.remove("active"));
+        item.classList.add("active");
+        window.currentRouteId = newRouteId;
+        window.currentDirection = "0";
+        window.lastOpenStopId = null;
+        document.getElementById("timetableBackBtn").style.display = "none";
+      }
+
+      showRouteOnMap(window.currentRouteId);
+      showTimetable(window.currentRouteId, window.currentDirection);
+
+      if (window.innerWidth <= 768) {
+        const sb = document.getElementById("sidebar");
+        const sTog = document.getElementById("sidebarToggle");
+        if (sb && !sb.classList.contains("collapsed")) {
+          sb.classList.add("collapsed");
+          sTog.innerText = "▼";
+          setTimeout(() => map.invalidateSize(), 300);
+        }
+      }
+    });
+
+    stopListEl.addEventListener("click", (e) => {
+      const item = e.target.closest(".data-item");
+      if (!item || e.target.closest(".fav-btn")) return;
+
+      const stop = cityStops.find((s) => s.id === item.dataset.id);
+      if (stop) {
+        map.setView([stop.lat, stop.lon], 16);
+        showStopTimetable(stop.id);
+
+        if (window.innerWidth <= 768) {
+          const sb = document.getElementById("sidebar");
+          const sTog = document.getElementById("sidebarToggle");
+          if (sb && !sb.classList.contains("collapsed")) {
+            sb.classList.add("collapsed");
+            sTog.innerText = "▼";
+            setTimeout(() => map.invalidateSize(), 300);
+          }
+        }
+      }
+    });
+
+    function renderChunkedList(container, items, renderItemFn, chunkSize = 100) {
+      container.innerHTML = "";
+      if (items.length === 0) {
+        container.innerHTML = '<div style="padding:10px;text-align:center;color:#888;">No results found.</div>';
+        return;
+      }
+      let index = 0;
+
+      const observer = new IntersectionObserver(
+        (entries) => {
+          if (entries[0].isIntersecting) {
+            observer.unobserve(entries[0].target);
+            entries[0].target.remove();
+            renderNextChunk();
+          }
+        },
+        { root: container, rootMargin: "200px" },
+      );
+
+      function renderNextChunk() {
+        const chunk = items.slice(index, index + chunkSize);
+        if (chunk.length === 0) return;
+
+        const fragment = document.createDocumentFragment();
+        const tempDiv = document.createElement("div");
+        chunk.forEach((item) => {
+          tempDiv.innerHTML = renderItemFn(item);
+          fragment.appendChild(tempDiv.firstElementChild);
+        });
+
+        index += chunk.length;
+        container.appendChild(fragment);
+
+        if (index < items.length) {
+          const sentinel = document.createElement("div");
+          sentinel.style.height = "20px";
+          sentinel.style.width = "100%";
+          sentinel.innerHTML = "<div style='text-align:center;padding:10px;color:#555;'>[ LOADING MORE... ]</div>";
+          container.appendChild(sentinel);
+          observer.observe(sentinel);
+        }
+      }
+
+      renderNextChunk();
+    }
 
     function resetStopColors() {
       stopMarkers.forEach((marker) => {
@@ -729,19 +834,21 @@ document.addEventListener("DOMContentLoaded", () => {
     function renderAllStopsOnMap(stops) {
       stopLayer.clearLayers();
       stopMarkers.clear();
+
+      const style = stopStyleForZoom(map.getZoom());
       stops.forEach((s) => {
         const marker = L.circleMarker([s.lat, s.lon], {
-          ...stopStyleForZoom(map.getZoom()),
+          ...style,
           color: "#00ffff",
           fillColor: "#008080",
           fillOpacity: 0.8,
-        })
-          .addTo(stopLayer)
-          .on("click", (e) => {
-            showStopTimetable(s.id);
-            L.DomEvent.stopPropagation(e);
-          });
+        });
+        marker.on("click", (e) => {
+          showStopTimetable(s.id);
+          L.DomEvent.stopPropagation(e);
+        });
         stopMarkers.set(s.id, marker);
+        stopLayer.addLayer(marker);
       });
 
       if (_stopZoomHandler) map.off("zoomend", _stopZoomHandler);
@@ -797,7 +904,6 @@ document.addEventListener("DOMContentLoaded", () => {
       const storageKey = `kk_gtfs-fav_${citySlug}_route`;
       const favs = JSON.parse(localStorage.getItem(storageKey) || "[]");
 
-      // Sort routes: Favorites first, then alphabetical by short name
       const sortedRoutes = [...routes].sort((a, b) => {
         const aFav = favs.includes(a.id);
         const bFav = favs.includes(b.id);
@@ -807,53 +913,19 @@ document.addEventListener("DOMContentLoaded", () => {
       });
 
       const list = document.getElementById("routeList");
-      list.innerHTML = sortedRoutes
-        .map((r) => {
-          const isFav = favs.includes(r.id);
-          const isActive = window.currentRouteId === r.id ? "active" : "";
-          const vColor = ensureVisibleColor(r.color);
-          return `
-                <div class="data-item win-outset ${isActive}" data-id="${r.id}" style="display: flex; justify-content: space-between; align-items: center;">
-                    <div style="display: flex; align-items: center; gap: 8px;">
-                      <div class="route-orb" style="background-color: #${vColor}; border: 1px solid #fff;"></div>
-                      <span>${r.short} - ${r.long || "UNNAMED"}</span>
-                    </div>
-                    <button class="fav-btn" onclick="toggleFavorite('route', '${r.id}', this, event)" style="background: none; border: none; font-size: 1.2rem; cursor: pointer; color: ${isFav ? "#ffff00" : "#bbbbbb"};">${isFav ? "★" : "☆"}</button>
-                </div>
-            `;
-        })
-        .join("");
-
-      list.querySelectorAll(".data-item").forEach((item) => {
-        item.addEventListener("click", () => {
-          const newRouteId = item.dataset.id;
-          if (window.currentRouteId === newRouteId) {
-            // Toggle direction if already selected
-            window.currentDirection = window.currentDirection === "0" ? "1" : "0";
-          } else {
-            // New route, reset active states and direction
-            list.querySelectorAll(".data-item").forEach((i) => i.classList.remove("active"));
-            item.classList.add("active");
-            window.currentRouteId = newRouteId;
-            window.currentDirection = "0";
-            window.lastOpenStopId = null;
-            document.getElementById("timetableBackBtn").style.display = "none";
-          }
-
-          showRouteOnMap(window.currentRouteId);
-          showTimetable(window.currentRouteId, window.currentDirection);
-
-          // Auto collapse sidebar on mobile
-          if (window.innerWidth <= 768) {
-            const sb = document.getElementById("sidebar");
-            const sTog = document.getElementById("sidebarToggle");
-            if (sb && !sb.classList.contains("collapsed")) {
-              sb.classList.add("collapsed");
-              sTog.innerText = "▼";
-              setTimeout(() => map.invalidateSize(), 300);
-            }
-          }
-        });
+      renderChunkedList(list, sortedRoutes, (r) => {
+        const isFav = favs.includes(r.id);
+        const isActive = window.currentRouteId === r.id ? "active" : "";
+        const vColor = ensureVisibleColor(r.color);
+        return `
+              <div class="data-item win-outset ${isActive}" data-id="${r.id}" style="display: flex; justify-content: space-between; align-items: center;">
+                  <div style="display: flex; align-items: center; gap: 8px;">
+                    <div class="route-orb" style="background-color: #${vColor}; border: 1px solid #fff;"></div>
+                    <span>${r.short} - ${r.long || "UNNAMED"}</span>
+                  </div>
+                  <button class="fav-btn" onclick="toggleFavorite('route', '${r.id}', this, event)" style="background: none; border: none; font-size: 1.2rem; cursor: pointer; color: ${isFav ? "#ffff00" : "#bbbbbb"};">${isFav ? "★" : "☆"}</button>
+              </div>
+          `;
       });
     }
 
@@ -916,49 +988,14 @@ document.addEventListener("DOMContentLoaded", () => {
       });
 
       const list = document.getElementById("stopList");
-      list.innerHTML = sortedStops
-        .map((s) => {
-          const isFav = favs.includes(s.id);
-          return `
-                <div class="data-item win-outset" data-id="${s.id}" style="display: flex; justify-content: space-between; align-items: center;">
-                    <span style="flex-grow: 1;">[ STOP ] ${s.name}</span>
-                    <button class="fav-btn" onclick="toggleFavorite('stop', '${s.id}', this, event)" style="background: none; border: none; font-size: 1.2rem; cursor: pointer; color: ${isFav ? "#ffff00" : "#bbbbbb"}; line-height: 1;" title="Favorite Stop">${isFav ? "★" : "☆"}</button>
-                </div>
-            `;
-        })
-        .join("");
-
-      list.querySelectorAll(".data-item").forEach((item) => {
-        item.addEventListener("click", () => {
-          const stop = cityStops.find((s) => s.id === item.dataset.id);
-          if (stop) {
-            let routeHtml = "";
-            if (stop.routes && stop.routes.length > 0) {
-              routeHtml = "<div style='margin-top:5px;display:flex;flex-wrap:wrap;gap:2px;'>";
-              stop.routes.forEach((routeId) => {
-                const route = cityRoutes.find((r) => r.id === routeId);
-                if (route) {
-                  const vColor = ensureVisibleColor(route.color);
-                  routeHtml += `<span onclick="document.querySelector('.data-item[data-id=\\'${route.id}\\']')?.click()" style="cursor:pointer;background-color:#${vColor}88;color:#${route.text_color || "fff"};padding:4px 6px;border-radius:4px;font-size:0.85rem;font-weight:bold;box-shadow: 0 0 5px #${vColor}88;">${route.short}</span>`;
-                }
-              });
-              routeHtml += "</div>";
-            }
-            map.setView([stop.lat, stop.lon], 16);
-            showStopTimetable(stop.id);
-
-            // Auto collapse sidebar on mobile
-            if (window.innerWidth <= 768) {
-              const sb = document.getElementById("sidebar");
-              const sTog = document.getElementById("sidebarToggle");
-              if (sb && !sb.classList.contains("collapsed")) {
-                sb.classList.add("collapsed");
-                sTog.innerText = "▼";
-                setTimeout(() => map.invalidateSize(), 300);
-              }
-            }
-          }
-        });
+      renderChunkedList(list, sortedStops, (s) => {
+        const isFav = favs.includes(s.id);
+        return `
+              <div class="data-item win-outset" data-id="${s.id}" style="display: flex; justify-content: space-between; align-items: center;">
+                  <span style="flex-grow: 1;">[ STOP ] ${s.name}</span>
+                  <button class="fav-btn" onclick="toggleFavorite('stop', '${s.id}', this, event)" style="background: none; border: none; font-size: 1.2rem; cursor: pointer; color: ${isFav ? "#ffff00" : "#bbbbbb"}; line-height: 1;" title="Favorite Stop">${isFav ? "★" : "☆"}</button>
+              </div>
+          `;
       });
     }
 
@@ -982,8 +1019,11 @@ document.addEventListener("DOMContentLoaded", () => {
           className: "neon-route-line",
           interactive: false,
         }).addTo(routeLayer);
-
-        // Highlight route stops in PURPLE
+ 
+        // Layering fix: push inactive stops down, route is already above them
+        stopLayer.bringToBack();
+ 
+        // Highlight route stops in PURPLE and bring them above the route line
         resetStopColors();
         const routeStopIds = cityStopSequences[routeId] ? cityStopSequences[routeId][window.currentDirection] : [];
         if (routeStopIds) {
@@ -1042,7 +1082,6 @@ document.addEventListener("DOMContentLoaded", () => {
         liveBusInterval = setInterval(fetchLiveBuses, 30000);
       }
 
-      stopLayer.bringToFront();
       busLayer.bringToFront();
     };
 

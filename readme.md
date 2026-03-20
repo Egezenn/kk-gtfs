@@ -40,6 +40,7 @@ Because the KentKart API endpoints do not provide all required fields to generat
 - **Agency Timezone**: Defaulted to `Europe/Istanbul` (`agency.txt`)
 - **Route Type**: Forced to `3` (Bus) for all routes, as Kentkart is a bus-centric platform (`routes.txt`) (available in `routeType` route info request)
 - **Calendar Dates**: Service ID dates are set with a start boundary of the generation date and an end boundary of `+60` days (`calendar.txt`)
+- **Stop Arrivals**: The API only provides a time offset from the first stop, so all intermediate arrival and departure times are calculated relative to the trip's starting time.
 
 ## Data Access
 

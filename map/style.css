@@ -228,11 +228,6 @@ body:not(.detail-page) main {
   color: var(--win-text);
 }
 
-.neon-route-line {
-  stroke-width: 5;
-  stroke-opacity: 0.4;
-}
-
 .win-outset:is(a, button, .tab-btn, .win-titlebar-btn, .data-item) {
   cursor: pointer;
   user-select: none;

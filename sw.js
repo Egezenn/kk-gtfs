@@ -1,4 +1,4 @@
-const CACHE_NAME = "kk-gtfs-v4.1.3";
+const CACHE_NAME = "kk-gtfs-v4.2";
 const DATA_CACHE_NAME = "kk-gtfs-data-v2";
 const TILE_CACHE_NAME = "kk-gtfs-tiles-v2";
 
@@ -93,6 +93,9 @@ async function handleDataFetch(request) {
 
 async function handleTileFetch(request) {
   const cache = await caches.open(TILE_CACHE_NAME);
+  const cachedResponse = await cache.match(request);
+  if (cachedResponse) return cachedResponse;
+
   try {
     const networkResponse = await fetch(request);
     if (networkResponse.ok) {
@@ -100,8 +103,6 @@ async function handleTileFetch(request) {
     }
     return networkResponse;
   } catch (e) {
-    const cachedResponse = await cache.match(request);
-    if (cachedResponse) return cachedResponse;
     // Return empty image if totally offline and un-cached
     return new Response(new Blob([""], { type: "image/png" }));
   }
