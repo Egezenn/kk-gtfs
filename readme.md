@@ -38,7 +38,7 @@ Because the KentKart API endpoints do not provide all required fields to generat
 
 - **Agency URL**: Defaulted to `https://www.kentkart.com/` (`agency.txt`) (per municipality support mails are _sometimes_ available in city metadata as `supportEmail`, `supportCCEmail`)
 - **Agency Timezone**: Defaulted to `Europe/Istanbul` (`agency.txt`)
-- **Route Type**: Forced to `3` (Bus) for all routes, as Kentkart is a bus-centric platform (`routes.txt`) (available in `routeType` route info request)
+- **Route Type**: Extracted from `routeType` in the route list API (defaults to `3` - Bus if missing). Kentkart supports various modes including Bus (`3`), Ferry (`4`), Tram (`0`), Funicular (`7`) and Rail (`2`) in certain regions like Kocaeli, Antalya, and Gaziantep.
 - **Calendar Dates**: Service ID dates are set with a start boundary of the generation date and an end boundary of `+60` days (`calendar.txt`)
 - **Stop Arrivals**: The API only provides a time offset from the first stop, so all intermediate arrival and departure times are calculated relative to the trip's starting time.
 

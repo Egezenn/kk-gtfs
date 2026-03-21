@@ -147,8 +147,16 @@ class KentkartGTFSGenerator:
                     "agency_timezone": "Europe/Istanbul",
                 }
 
-            # Kentkart is a bus-only company, so GTFS route_type is always 3 (Bus).
-            route_type = 3
+            # Some cities (e.g. Kocaeli, Antalya, Gaziantep) also have tram-type or ferry-type routes.
+            raw_route_type = route.get("routeType", "3")
+            try:
+                # routeType is a comma-separated string (e.g., "4,4,4")
+                if "," in raw_route_type:
+                    route_type = int(raw_route_type.split(",")[0])
+                else:
+                    route_type = int(raw_route_type)
+            except (ValueError, TypeError):
+                route_type = 3
 
             r_color = route.get("routeColor", "")
             r_text_color = route.get("routeTextColor", "")
