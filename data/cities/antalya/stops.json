@@ -16899,6 +16899,16 @@
     ]
   },
   {
+    "id": "16437",
+    "name": "KIZILLI MH-11",
+    "lat": 37.103304,
+    "lon": 30.713622,
+    "routes": [
+      "05070",
+      "05080"
+    ]
+  },
+  {
     "id": "14362",
     "name": "KIZILLI MH-4",
     "lat": 37.0778338,
@@ -20684,7 +20694,7 @@
   },
   {
     "id": "10669",
-    "name": "RAUF DENKTA�� CD-8",
+    "name": "RAUF DENKTAŞ CD-8",
     "lat": 36.8678843,
     "lon": 30.8149879,
     "routes": [
@@ -44773,7 +44783,7 @@
   },
   {
     "id": "10332",
-    "name": "TEOMAN PAŞA CD-4",
+    "name": "TEOMAN PA��A CD-4",
     "lat": 36.8875084,
     "lon": 30.6845234,
     "routes": [

@@ -840,13 +840,6 @@
     "text_color": "FFFFFF"
   },
   {
-    "id": "20200",
-    "short": "M17",
-    "long": "BEYKENT-MAVİKENT",
-    "color": "0000FF",
-    "text_color": "FFFFFF"
-  },
-  {
     "id": "20220",
     "short": "M18",
     "long": "YENİ ÇOCUK HASTANESİ-AYAKKABICILAR SİTESİ",
@@ -1099,9 +1092,9 @@
     "text_color": "FFFFFF"
   },
   {
-    "id": "20210",
+    "id": "20200",
     "short": "M17-1",
-    "long": "BEYKENT-İPEKEVLER",
+    "long": "BEYKENT-MAVİKENT",
     "color": "0000FF",
     "text_color": "FFFFFF"
   },
@@ -1158,6 +1151,13 @@
     "id": "20151",
     "short": "M13-2",
     "long": "KARACA AHMET-DÜZTEPE",
+    "color": "0000FF",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "20210",
+    "short": "M17-2",
+    "long": "BEYKENT-İPEKEVLER",
     "color": "0000FF",
     "text_color": "FFFFFF"
   }

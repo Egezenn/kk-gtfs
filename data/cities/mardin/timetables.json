@@ -4992,17 +4992,11 @@
       }
     },
     "1": {
-      "headsign": "HAVAALANI-D.HASTANESİ-G.SİTESİ-EYMİRLİ",
+      "headsign": "Direction 1",
       "times": {
-        "weekday": [
-          "08:00"
-        ],
-        "saturday": [
-          "08:00"
-        ],
-        "sunday": [
-          "08:00"
-        ]
+        "weekday": [],
+        "saturday": [],
+        "sunday": []
       }
     }
   },

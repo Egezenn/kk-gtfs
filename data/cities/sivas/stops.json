@@ -1723,7 +1723,7 @@
   },
   {
     "id": "592",
-    "name": "AYDOĞAN-FAT��H",
+    "name": "AYDOĞAN-FATİH",
     "lat": 39.7541307,
     "lon": 37.0025556,
     "routes": []
@@ -2023,13 +2023,6 @@
     "routes": []
   },
   {
-    "id": "649",
-    "name": "ESENTEPE İTFAİYE",
-    "lat": 39.7489214,
-    "lon": 36.9887753,
-    "routes": []
-  },
-  {
     "id": "650",
     "name": "TUZLUGÖL 1",
     "lat": 39.7472771,
@@ -2158,8 +2151,8 @@
   {
     "id": "148",
     "name": "HÜNERLİ PİDE",
-    "lat": 39.7474655,
-    "lon": 36.995871,
+    "lat": 39.7473128,
+    "lon": 36.9957489,
     "routes": []
   },
   {
@@ -2234,65 +2227,79 @@
   },
   {
     "id": "152",
-    "name": "ELEKTRİK BİRLİĞİ",
-    "lat": 39.748366,
-    "lon": 37.002455,
+    "name": "ÇİÇEKLİ CAD. TRAFO",
+    "lat": 39.7484264,
+    "lon": 37.0019847,
     "routes": []
   },
   {
     "id": "154",
     "name": "ÇİÇEKLİ BÖLGE PARKI",
-    "lat": 39.7483942,
-    "lon": 36.9986914,
+    "lat": 39.7484285,
+    "lon": 36.9995552,
     "routes": []
   },
   {
     "id": "155",
     "name": "ÇİÇEKLİ ESENTEPE - TOKİ",
-    "lat": 39.7484768,
-    "lon": 36.9966745,
-    "routes": []
-  },
-  {
-    "id": "156",
-    "name": "ESENTEPE CAMİİ",
-    "lat": 39.7485,
-    "lon": 36.99547,
-    "routes": []
-  },
-  {
-    "id": "157",
-    "name": "İSTİKLAL",
-    "lat": 39.748466,
-    "lon": 36.994205,
+    "lat": 39.7485062,
+    "lon": 36.9963127,
     "routes": []
   },
   {
     "id": "158",
-    "name": "TUĞRA",
-    "lat": 39.74863,
-    "lon": 36.99189,
+    "name": "ESENTEPE CAMİİ",
+    "lat": 39.7484949,
+    "lon": 36.9941162,
     "routes": []
   },
   {
-    "id": "539",
-    "name": "İTFAİYE ESENTEPE",
-    "lat": 39.749065,
-    "lon": 36.987995,
+    "id": "156",
+    "name": "ESENTEPE BÖLGE PARKI",
+    "lat": 39.7486484,
+    "lon": 36.9920099,
     "routes": []
   },
   {
-    "id": "540",
+    "id": "157",
+    "name": "ESENTEPE İTFAİYE",
+    "lat": 39.7491221,
+    "lon": 36.9885617,
+    "routes": []
+  },
+  {
+    "id": "517",
     "name": "TUZLUGÖL TOKİ GİRİŞ",
-    "lat": 39.7510026,
-    "lon": 36.9854566,
+    "lat": 39.7501765,
+    "lon": 36.9854442,
+    "routes": []
+  },
+  {
+    "id": "815",
+    "name": "TUZLUGÖL TOKİ 1",
+    "lat": 39.7520398,
+    "lon": 36.9858326,
+    "routes": []
+  },
+  {
+    "id": "817",
+    "name": "TOKİ YENİ MAHALLE İ.Ö.O.",
+    "lat": 39.7522821,
+    "lon": 36.98309,
     "routes": []
   },
   {
     "id": "721",
-    "name": "TUZLUGÖL TOKİ ÇIKIŞ",
-    "lat": 39.750819,
-    "lon": 36.9828285,
+    "name": "TOKi şüKRü PüRLü i.ö.O.",
+    "lat": 39.7507292,
+    "lon": 36.9827641,
+    "routes": []
+  },
+  {
+    "id": "540",
+    "name": "TUZLUGÖL TOKİ çIKIş",
+    "lat": 39.7501646,
+    "lon": 36.9851522,
     "routes": []
   },
   {
@@ -2304,9 +2311,9 @@
   },
   {
     "id": "665",
-    "name": "İBADULLAH CAMİİ ÖNCEKİ DURAK",
-    "lat": 39.7470236,
-    "lon": 36.9896542,
+    "name": "KURTULUş CAD.",
+    "lat": 39.746475,
+    "lon": 36.9895415,
     "routes": []
   },
   {
@@ -2338,17 +2345,31 @@
     "routes": []
   },
   {
+    "id": "212",
+    "name": "HALİLRIFAT PAŞA CAD.",
+    "lat": 39.742585,
+    "lon": 37.0006094,
+    "routes": []
+  },
+  {
     "id": "165",
-    "name": "TİCARET LİSESİ",
-    "lat": 39.7439655,
-    "lon": 37.003668,
+    "name": "ŞEHİT AHMET EYCE MES. TEK. ANADOLU LİSESİ",
+    "lat": 39.7439967,
+    "lon": 37.0038578,
+    "routes": []
+  },
+  {
+    "id": "667",
+    "name": "HALİLRIFAT PAŞA CAD. YURTİÇİ KARGO",
+    "lat": 39.7449317,
+    "lon": 37.0059257,
     "routes": []
   },
   {
     "id": "166",
     "name": "CEVHER CAMİ",
-    "lat": 39.7462815,
-    "lon": 37.0086173,
+    "lat": 39.7462454,
+    "lon": 37.0086159,
     "routes": []
   },
   {
@@ -3095,7 +3116,7 @@
   },
   {
     "id": "764",
-    "name": "C.Ü. TOKİ Ö��RENCİ YURDU & PANSİYONU",
+    "name": "C.Ü. TOKİ ÖĞRENCİ YURDU & PANSİYONU",
     "lat": 39.7272072,
     "lon": 37.0518257,
     "routes": []
@@ -3943,8 +3964,8 @@
   {
     "id": "349",
     "name": "GALERİCİLER",
-    "lat": 39.7203311,
-    "lon": 36.9865001,
+    "lat": 39.7205023,
+    "lon": 36.9873637,
     "routes": []
   },
   {
@@ -3956,30 +3977,30 @@
   },
   {
     "id": "344",
-    "name": "4 EYLÜL SAN. SİT. 1",
-    "lat": 39.7264708,
-    "lon": 37.0044585,
+    "name": "BEKSAN CiVATA",
+    "lat": 39.7264295,
+    "lon": 37.0042278,
     "routes": []
   },
   {
     "id": "345",
-    "name": "4 EYLÜL SAN. SİT. 2",
+    "name": "UğUR OTO",
     "lat": 39.7259415,
     "lon": 37.0015553,
     "routes": []
   },
   {
     "id": "346",
-    "name": "4 EYLÜL SAN. SİT. 3",
-    "lat": 39.7251566,
-    "lon": 36.9978276,
+    "name": "4 EYLÜL SAN. CAMii",
+    "lat": 39.725271,
+    "lon": 36.9982379,
     "routes": []
   },
   {
     "id": "347",
     "name": "4 EYLÜL SAN. SİT. 4",
-    "lat": 39.7243886,
-    "lon": 36.994977,
+    "lat": 39.7243143,
+    "lon": 36.9949394,
     "routes": []
   },
   {
@@ -3987,6 +4008,20 @@
     "name": "4 EYLÜL SAN. SİT. 5",
     "lat": 39.7237283,
     "lon": 36.9926481,
+    "routes": []
+  },
+  {
+    "id": "649",
+    "name": "SULTAN şEHiR SAN. SiT.",
+    "lat": 39.7208859,
+    "lon": 36.9925624,
+    "routes": []
+  },
+  {
+    "id": "818",
+    "name": "GALERİCİLER ANA GiRiş",
+    "lat": 39.72114,
+    "lon": 36.9846578,
     "routes": []
   },
   {

@@ -36619,7 +36619,7 @@
   },
   {
     "id": "44089",
-    "name": "HAKKIBEYLİ 2",
+    "name": "HAKKIBEYL�� 2",
     "lat": 37.181134,
     "lon": 35.572231,
     "routes": []
@@ -49303,18 +49303,6 @@
     ]
   },
   {
-    "id": "20016",
-    "name": "FUAR ALANI DURAK",
-    "lat": 37.0563607,
-    "lon": 35.2467064,
-    "routes": [
-      "20001",
-      "20002",
-      "20003",
-      "26006"
-    ]
-  },
-  {
     "id": "20018",
     "name": "METRO PARK",
     "lat": 37.052173,
@@ -50081,6 +50069,17 @@
     ]
   },
   {
+    "id": "20016",
+    "name": "FUAR ALANI DURAK",
+    "lat": 37.0563607,
+    "lon": 35.2467064,
+    "routes": [
+      "20002",
+      "20003",
+      "26006"
+    ]
+  },
+  {
     "id": "20036",
     "name": "PİRİ REİS OKULU",
     "lat": 37.0485084,
@@ -50629,7 +50628,7 @@
   },
   {
     "id": "21064",
-    "name": "MAHFESIĞMAZ TAKSİ DÖNÜŞ",
+    "name": "MAHFESIĞMAZ TAKS�� DÖNÜŞ",
     "lat": 37.043626,
     "lon": 35.3013739,
     "routes": [
@@ -56196,7 +56195,7 @@
   },
   {
     "id": "28040",
-    "name": "Y��KSEK BİNALAR Y.OBA",
+    "name": "YÜKSEK BİNALAR Y.OBA",
     "lat": 37.003883,
     "lon": 35.244236,
     "routes": [
