@@ -4,8 +4,8 @@
     "slug": "adana",
     "region_id": "000",
     "filename": "adana.zip",
-    "size_mb": 5.86,
-    "last_updated": "2026-03-21 20:17:02",
+    "size_mb": 6.04,
+    "last_updated": "2026-04-01 01:21:11",
     "route_count": 291,
     "stop_count": 6663,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/adana.zip"
@@ -16,7 +16,7 @@
     "region_id": "000",
     "filename": "alanya.zip",
     "size_mb": 0.05,
-    "last_updated": "2026-03-21 20:31:07",
+    "last_updated": "2026-04-01 01:39:37",
     "route_count": 25,
     "stop_count": 331,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/alanya.zip"
@@ -27,7 +27,7 @@
     "region_id": "000",
     "filename": "alapli.zip",
     "size_mb": 0.0,
-    "last_updated": "2026-03-21 20:37:34",
+    "last_updated": "2026-04-01 01:47:45",
     "route_count": 0,
     "stop_count": 50,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/alapli.zip"
@@ -37,10 +37,10 @@
     "slug": "antalya",
     "region_id": "000",
     "filename": "antalya.zip",
-    "size_mb": 8.44,
-    "last_updated": "2026-03-21 20:34:48",
-    "route_count": 170,
-    "stop_count": 4594,
+    "size_mb": 8.49,
+    "last_updated": "2026-04-01 01:44:13",
+    "route_count": 169,
+    "stop_count": 4609,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/antalya.zip"
   },
   {
@@ -49,7 +49,7 @@
     "region_id": "000",
     "filename": "burdur.zip",
     "size_mb": 0.13,
-    "last_updated": "2026-03-21 20:30:47",
+    "last_updated": "2026-04-01 01:39:11",
     "route_count": 18,
     "stop_count": 350,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/burdur.zip"
@@ -60,7 +60,7 @@
     "region_id": "000",
     "filename": "canakkale.zip",
     "size_mb": 0.2,
-    "last_updated": "2026-03-21 20:25:00",
+    "last_updated": "2026-04-01 01:31:52",
     "route_count": 32,
     "stop_count": 351,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/canakkale.zip"
@@ -70,8 +70,8 @@
     "slug": "duzce",
     "region_id": "000",
     "filename": "duzce.zip",
-    "size_mb": 1.65,
-    "last_updated": "2026-03-21 20:42:28",
+    "size_mb": 1.68,
+    "last_updated": "2026-04-01 01:53:04",
     "route_count": 63,
     "stop_count": 1233,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/duzce.zip"
@@ -82,7 +82,7 @@
     "region_id": "000",
     "filename": "edirne.zip",
     "size_mb": 0.04,
-    "last_updated": "2026-03-21 20:30:32",
+    "last_updated": "2026-04-01 01:38:47",
     "route_count": 19,
     "stop_count": 383,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/edirne.zip"
@@ -93,7 +93,7 @@
     "region_id": "000",
     "filename": "eregli.zip",
     "size_mb": 0.06,
-    "last_updated": "2026-03-21 20:31:34",
+    "last_updated": "2026-04-01 01:40:10",
     "route_count": 32,
     "stop_count": 466,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/eregli.zip"
@@ -103,8 +103,8 @@
     "slug": "erzurum",
     "region_id": "000",
     "filename": "erzurum.zip",
-    "size_mb": 2.52,
-    "last_updated": "2026-03-21 20:44:24",
+    "size_mb": 2.54,
+    "last_updated": "2026-04-01 01:54:32",
     "route_count": 59,
     "stop_count": 736,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/erzurum.zip"
@@ -114,10 +114,10 @@
     "slug": "gaziantep",
     "region_id": "000",
     "filename": "gaziantep.zip",
-    "size_mb": 12.8,
-    "last_updated": "2026-03-21 20:37:33",
+    "size_mb": 12.94,
+    "last_updated": "2026-04-01 01:47:44",
     "route_count": 166,
-    "stop_count": 3117,
+    "stop_count": 3128,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/gaziantep.zip"
   },
   {
@@ -125,8 +125,8 @@
     "slug": "kastamonu",
     "region_id": "000",
     "filename": "kastamonu.zip",
-    "size_mb": 0.2,
-    "last_updated": "2026-03-21 20:32:15",
+    "size_mb": 0.31,
+    "last_updated": "2026-04-01 01:41:03",
     "route_count": 27,
     "stop_count": 91,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/kastamonu.zip"
@@ -137,7 +137,7 @@
     "region_id": "000",
     "filename": "kirklareli.zip",
     "size_mb": 0.17,
-    "last_updated": "2026-03-21 20:34:55",
+    "last_updated": "2026-04-01 01:44:23",
     "route_count": 8,
     "stop_count": 159,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/kirklareli.zip"
@@ -147,10 +147,10 @@
     "slug": "kocaeli",
     "region_id": "000",
     "filename": "kocaeli.zip",
-    "size_mb": 16.12,
-    "last_updated": "2026-03-21 20:23:06",
-    "route_count": 402,
-    "stop_count": 8491,
+    "size_mb": 16.86,
+    "last_updated": "2026-04-01 01:29:12",
+    "route_count": 419,
+    "stop_count": 8528,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/kocaeli.zip"
   },
   {
@@ -159,7 +159,7 @@
     "region_id": "000",
     "filename": "luleburgaz.zip",
     "size_mb": 0.27,
-    "last_updated": "2026-03-21 20:31:53",
+    "last_updated": "2026-04-01 01:40:34",
     "route_count": 12,
     "stop_count": 63,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/luleburgaz.zip"
@@ -170,7 +170,7 @@
     "region_id": "000",
     "filename": "mardin.zip",
     "size_mb": 2.71,
-    "last_updated": "2026-03-21 20:40:24",
+    "last_updated": "2026-04-01 01:51:00",
     "route_count": 92,
     "stop_count": 781,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/mardin.zip"
@@ -180,8 +180,8 @@
     "slug": "mugla",
     "region_id": "000",
     "filename": "mugla.zip",
-    "size_mb": 5.99,
-    "last_updated": "2026-03-21 20:30:16",
+    "size_mb": 6.02,
+    "last_updated": "2026-04-01 01:38:26",
     "route_count": 382,
     "stop_count": 3441,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/mugla.zip"
@@ -192,7 +192,7 @@
     "region_id": "000",
     "filename": "nigde.zip",
     "size_mb": 0.09,
-    "last_updated": "2026-03-21 20:31:42",
+    "last_updated": "2026-04-01 01:40:20",
     "route_count": 10,
     "stop_count": 221,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/nigde.zip"
@@ -203,7 +203,7 @@
     "region_id": "000",
     "filename": "ordu.zip",
     "size_mb": 1.21,
-    "last_updated": "2026-03-21 20:38:11",
+    "last_updated": "2026-04-01 01:49:01",
     "route_count": 45,
     "stop_count": 683,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/ordu.zip"
@@ -214,7 +214,7 @@
     "region_id": "000",
     "filename": "osmaniye.zip",
     "size_mb": 0.31,
-    "last_updated": "2026-03-21 20:40:37",
+    "last_updated": "2026-04-01 01:51:30",
     "route_count": 16,
     "stop_count": 237,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/osmaniye.zip"
@@ -225,7 +225,7 @@
     "region_id": "000",
     "filename": "safranbolu.zip",
     "size_mb": 0.05,
-    "last_updated": "2026-03-21 20:42:36",
+    "last_updated": "2026-04-01 01:53:26",
     "route_count": 11,
     "stop_count": 167,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/safranbolu.zip"
@@ -236,7 +236,7 @@
     "region_id": "000",
     "filename": "sivas.zip",
     "size_mb": 0.12,
-    "last_updated": "2026-03-21 20:24:34",
+    "last_updated": "2026-04-01 01:31:15",
     "route_count": 111,
     "stop_count": 622,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/sivas.zip"
@@ -247,7 +247,7 @@
     "region_id": "000",
     "filename": "tokat.zip",
     "size_mb": 0.15,
-    "last_updated": "2026-03-21 20:44:43",
+    "last_updated": "2026-04-01 01:54:56",
     "route_count": 24,
     "stop_count": 283,
     "download_url": "https://egezenn.github.io/kk-gtfs/data/tokat.zip"

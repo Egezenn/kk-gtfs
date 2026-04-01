@@ -492,8 +492,8 @@
   {
     "id": "53",
     "name": "ŞOFÖRLER CEMİYETİ",
-    "lat": 39.7448325,
-    "lon": 37.0261432,
+    "lat": 39.7455171,
+    "lon": 37.0254485,
     "routes": []
   },
   {
@@ -2130,8 +2130,8 @@
   {
     "id": "656",
     "name": "MESCİD-İ AKSA CAMİİ",
-    "lat": 39.7433039,
-    "lon": 36.9922539,
+    "lat": 39.7432925,
+    "lon": 36.9923906,
     "routes": []
   },
   {
@@ -2317,13 +2317,6 @@
     "routes": []
   },
   {
-    "id": "160",
-    "name": "TİCARET LİSESİ-ESEN TEPE",
-    "lat": 39.7458365,
-    "lon": 36.9895793,
-    "routes": []
-  },
-  {
     "id": "161",
     "name": "KURTULUŞ",
     "lat": 39.7439767,
@@ -2339,7 +2332,7 @@
   },
   {
     "id": "200",
-    "name": "TANZİM MARKET",
+    "name": "HAMAM DURAĞI TOY MARKET",
     "lat": 39.7450807,
     "lon": 36.9985789,
     "routes": []
@@ -2412,6 +2405,13 @@
     "name": "YER ALTI CAMİ DURAĞI",
     "lat": 39.746111,
     "lon": 36.994722,
+    "routes": []
+  },
+  {
+    "id": "160",
+    "name": "TİCARET LİSESİ-ESEN TEPE",
+    "lat": 39.7458365,
+    "lon": 36.9895793,
     "routes": []
   },
   {
@@ -3116,7 +3116,7 @@
   },
   {
     "id": "764",
-    "name": "C.Ü. TOKİ ÖĞRENCİ YURDU & PANSİYONU",
+    "name": "C.Ü. TOKİ Ö��RENCİ YURDU & PANSİYONU",
     "lat": 39.7272072,
     "lon": 37.0518257,
     "routes": []

@@ -7,13 +7,6 @@
     "text_color": "FFFFFF"
   },
   {
-    "id": "00451",
-    "short": "45",
-    "long": "ÇAMKÖY-MEYDAN DEPOLAMA",
-    "color": "FF0000",
-    "text_color": "FFFFFF"
-  },
-  {
     "id": "00464",
     "short": "46",
     "long": "MEYDAN DEPOLAMA-ALTINOVA",
@@ -583,7 +576,7 @@
   {
     "id": "00330",
     "short": "KC33",
-    "long": "GURSU DEPOLAMA-KONUKSEVER",
+    "long": "GURSU DEPOLAMA-SEHİR HASTANESİ",
     "color": "000FE7",
     "text_color": "FFFFFF"
   },
@@ -938,16 +931,9 @@
     "text_color": "FFFFFF"
   },
   {
-    "id": "00453",
-    "short": "TC45",
-    "long": "OTOGAR DEPOLAMA-MEYDAN DEPOLAMA",
-    "color": "281CFF",
-    "text_color": "FFFFFF"
-  },
-  {
     "id": "00490",
     "short": "TCD49",
-    "long": "UNSAL-TERMESOS",
+    "long": "UNSAL-KEPEZ DEVLET HASTANESİ",
     "color": "000FE7",
     "text_color": "FFFFFF"
   },
@@ -956,6 +942,13 @@
     "short": "TCD49A",
     "long": "UNSAL-YENI HAL",
     "color": "000FE7",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "00450",
+    "short": "TCP45",
+    "long": "OTOGAR DEPOLAMA-VARSAK ALTIAYAK",
+    "color": "2F2CFF",
     "text_color": "FFFFFF"
   },
   {

@@ -324,22 +324,22 @@
   {
     "id": "40041",
     "short": "41",
-    "long": "MUNCURLU-M.PARK",
+    "long": "MUNCURLU-Y.PAZARYERİ",
     "color": "CB59FF",
     "text_color": "FFFFFF"
   },
   {
     "id": "40042",
     "short": "42",
-    "long": "DOĞANLI-M.PARK",
+    "long": "DOĞANLI-Y.PAZARYERİ",
     "color": "8228FF",
     "text_color": "FFFFFF"
   },
   {
     "id": "40043",
     "short": "42B",
-    "long": "MELEN PARK-DOĞANLI-MUNCURLU",
-    "color": "FF0000",
+    "long": "Y.PAZARYERİ-DOĞANLI-MUNCURLU",
+    "color": "FF22BF",
     "text_color": "FFFFFF"
   },
   {
