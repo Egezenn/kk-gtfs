@@ -670,7 +670,7 @@
   },
   {
     "id": "10515",
-    "name": "MUSTAFA KEMAL BULVARI 14",
+    "name": "MUSTAFA KEMAL BULVARI 1336 SOKAK DURAĞI",
     "lat": 40.977024,
     "lon": 37.96483,
     "routes": [
@@ -683,7 +683,7 @@
   },
   {
     "id": "10516",
-    "name": "MUSTAFA KEMAL BULVARI 12",
+    "name": "CUMHURİYET MAHALLESİ MUHTARLIK DURAĞI",
     "lat": 40.97711,
     "lon": 37.96215,
     "routes": [
@@ -696,7 +696,7 @@
   },
   {
     "id": "10517",
-    "name": "MUSTAFA KEMAL BULVARI 10",
+    "name": "MUSTAFA KEMAL BULVARI 1313 SOKAK DURAĞI",
     "lat": 40.97722,
     "lon": 37.959076,
     "routes": [
@@ -709,7 +709,7 @@
   },
   {
     "id": "10518",
-    "name": "MUSTAFA KEMAL BULVARI 8",
+    "name": "MUSTAFA KEMAL BULVARI 1308 SOKAK DURAĞI",
     "lat": 40.977318,
     "lon": 37.955082,
     "routes": [
@@ -734,7 +734,7 @@
   },
   {
     "id": "10519",
-    "name": "MUSTAFA KEMAL BULVARI 6",
+    "name": "MUSTAFA KEMAL BULVARI 1298 SOKAK DURAĞI",
     "lat": 40.977375,
     "lon": 37.9518,
     "routes": [
@@ -760,7 +760,7 @@
   },
   {
     "id": "10520",
-    "name": "MUSTAFA KEMAL BULVARI 4",
+    "name": "MUSTAFA KEMAL BULVARI 1274 SOKAK DURAĞI",
     "lat": 40.97749,
     "lon": 37.946747,
     "routes": [
@@ -773,7 +773,7 @@
   },
   {
     "id": "10898",
-    "name": "MUSTAFA KEMAL BULVARI 1264 SOKAK DURAĞI",
+    "name": "DÖRTYOL DURAĞI 2",
     "lat": 40.97725,
     "lon": 37.9432,
     "routes": [
@@ -786,7 +786,7 @@
   },
   {
     "id": "10522",
-    "name": "ATATÜRK BULVARI 4",
+    "name": "ATATÜRK BULVARI MELET DURAĞI 2",
     "lat": 40.975246,
     "lon": 37.931194,
     "routes": [
@@ -851,7 +851,7 @@
   },
   {
     "id": "10108",
-    "name": "ŞEHİT HAKİM ONUR ALAN DURAĞI 1",
+    "name": "ŞEHİT HAKİM ONUR ALAN DURAĞI 2",
     "lat": 40.975807,
     "lon": 37.919697,
     "routes": [
@@ -989,7 +989,7 @@
   },
   {
     "id": "10899",
-    "name": "ATATÜRK BULVARI ŞEHİT MEHMET IŞIK CADDESİ DURAĞI",
+    "name": "ŞEHİT MEHMET IŞIK CADDESİ DURAĞI",
     "lat": 40.9803462,
     "lon": 37.8930405,
     "routes": [
@@ -1004,7 +1004,7 @@
   },
   {
     "id": "10532",
-    "name": "ATATÜRK BULVARI 8",
+    "name": "ATATÜRK BULVARI ALT GEÇİT DURAĞI 2",
     "lat": 40.98142,
     "lon": 37.89095,
     "routes": [
@@ -1293,7 +1293,7 @@
   },
   {
     "id": "10509",
-    "name": "ŞEHİT HAKİM ONUR ALAN DURAĞI",
+    "name": "ŞEHİT HAKİM ONUR ALAN DURAĞI 1",
     "lat": 40.975655,
     "lon": 37.918594,
     "routes": [
@@ -1360,7 +1360,7 @@
   },
   {
     "id": "10511",
-    "name": "ATATÜRK BULVARI 3",
+    "name": "ATATÜRK BULVARI MELET DURAĞI",
     "lat": 40.9749783,
     "lon": 37.9317114,
     "routes": [
@@ -1374,7 +1374,7 @@
   },
   {
     "id": "10512",
-    "name": "MUSTAFA KEMAL BULVARI 1",
+    "name": "DÖRTYOL DURAĞI 1",
     "lat": 40.9769341,
     "lon": 37.9423144,
     "routes": [
@@ -1400,7 +1400,7 @@
   },
   {
     "id": "10909",
-    "name": "MUSTAFA KEMAL BULVARI 1394 SOKAK DURAĞI",
+    "name": "1390 SOKAK DURAĞI",
     "lat": 40.97719,
     "lon": 37.95173,
     "routes": [

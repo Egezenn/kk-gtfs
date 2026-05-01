@@ -1155,6 +1155,13 @@
     "text_color": "FFFFFF"
   },
   {
+    "id": "44501",
+    "short": "501H",
+    "long": "GESİ BAĞLARI DEPOLAMA ALANI-GEBZE MARMARAY",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
     "id": "41502",
     "short": "502",
     "long": "KENTÖNÜ - DARICA-FARABİ E.A.H. - GEBZE",
@@ -1722,6 +1729,20 @@
     "text_color": "FFFFFF"
   },
   {
+    "id": "41703",
+    "short": "703",
+    "long": "İZMİT-HALIDERE(ESKİYOL)-HALIDERE",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "41704",
+    "short": "704",
+    "long": "İZMİT-HALIDERE(YENİYOL)-HALIDERE",
+    "color": "006633",
+    "text_color": "FFFFFF"
+  },
+  {
     "id": "41710",
     "short": "710",
     "long": "DEĞİRMENDERE-KONUTLAR-D.HAST.-ŞİRİNKÖY-İZMİT-PLAJ YOLU",
@@ -1846,6 +1867,13 @@
     "long": "KARAMÜRSEL-ULAŞLI-HALİDERE-GÖLCÜK-BAŞİSKELE-KOCAELİ STAD",
     "color": "006633",
     "text_color": "000000"
+  },
+  {
+    "id": "43750",
+    "short": "750Y",
+    "long": "KARAMÜRSEL-GÖLCÜK-İZMİT-UMUTTEPE(YENİYOL))",
+    "color": "1EA9BD",
+    "text_color": "FFFFFF"
   },
   {
     "id": "41751",

@@ -576,7 +576,7 @@
   {
     "id": "00190",
     "short": "K19",
-    "long": "19 MAYIS LİSESİ-ULUYATIR",
+    "long": "19 Mayıs Lisesi-Kocatepe",
     "color": "9E3F00",
     "text_color": "FFFFFF"
   },
@@ -886,6 +886,20 @@
     "short": "N05",
     "long": "Cezaevi-Cezaevi-Nizip Devlet Hastanesi",
     "color": "FF0000",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "80900",
+    "short": "NU01",
+    "long": "GÖKÇEDERE-HASTANE",
+    "color": "FF3855",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "80910",
+    "short": "NU02",
+    "long": "BADEMLİ-HASTANE",
+    "color": "FF3855",
     "text_color": "FFFFFF"
   },
   {

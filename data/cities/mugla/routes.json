@@ -1507,7 +1507,7 @@
   {
     "id": "50420",
     "short": "4-48",
-    "long": "MİLAS-KAPIKIRIĞI",
+    "long": "MİLAS-KAPIKIRI",
     "color": "5C688B",
     "text_color": "FFFFFF"
   },
@@ -1901,6 +1901,13 @@
     "short": "6-29",
     "long": "YATAĞAN-AKGEDİK",
     "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50655",
+    "short": "6-30",
+    "long": "YATAĞAN OTOGAR-BOZARMUT TOKİ",
+    "color": "FF0000",
     "text_color": "FFFFFF"
   },
   {
@@ -2447,6 +2454,13 @@
     "short": "12-11",
     "long": "KARABÖRTLEN-MENTEŞE",
     "color": "5C688B",
+    "text_color": "FFFFFF"
+  },
+  {
+    "id": "50654",
+    "short": "12-12",
+    "long": "ULA OTOGAR-AKYAKA OTOGAR",
+    "color": "FF0000",
     "text_color": "FFFFFF"
   },
   {

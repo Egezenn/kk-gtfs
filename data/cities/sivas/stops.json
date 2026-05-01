@@ -3116,7 +3116,7 @@
   },
   {
     "id": "764",
-    "name": "C.Ü. TOKİ Ö��RENCİ YURDU & PANSİYONU",
+    "name": "C.Ü. TOKİ ÖĞRENCİ YURDU & PANSİYONU",
     "lat": 39.7272072,
     "lon": 37.0518257,
     "routes": []
@@ -3248,6 +3248,34 @@
     "routes": []
   },
   {
+    "id": "257",
+    "name": "ERDEM MARKET",
+    "lat": 39.7457365,
+    "lon": 37.0348792,
+    "routes": []
+  },
+  {
+    "id": "258",
+    "name": "KANATÇI - TRAFO",
+    "lat": 39.7458698,
+    "lon": 37.0378741,
+    "routes": []
+  },
+  {
+    "id": "259",
+    "name": "MERİÇ SİTESİ",
+    "lat": 39.7472426,
+    "lon": 37.0404703,
+    "routes": []
+  },
+  {
+    "id": "707",
+    "name": "YÜKSELİŞ",
+    "lat": 39.748718,
+    "lon": 37.0415883,
+    "routes": []
+  },
+  {
     "id": "260",
     "name": "ATA SANAYİİ",
     "lat": 39.7502179,
@@ -3262,31 +3290,10 @@
     "routes": []
   },
   {
-    "id": "268",
-    "name": "ÇINAR MARKET-TRAFO",
-    "lat": 39.7460753,
-    "lon": 37.0342412,
-    "routes": []
-  },
-  {
-    "id": "267",
-    "name": "İNÖNÜ İLK OKULU",
-    "lat": 39.7479755,
-    "lon": 37.0343953,
-    "routes": []
-  },
-  {
-    "id": "266",
-    "name": "M.AKİF ERSOY PARKI",
-    "lat": 39.7497268,
-    "lon": 37.03464,
-    "routes": []
-  },
-  {
-    "id": "265",
-    "name": "ÖZEL İDARE 2",
-    "lat": 39.7516158,
-    "lon": 37.0347212,
+    "id": "262",
+    "name": "İMAM EVLER",
+    "lat": 39.7512971,
+    "lon": 37.0379845,
     "routes": []
   },
   {
@@ -3297,38 +3304,31 @@
     "routes": []
   },
   {
-    "id": "262",
-    "name": "İMAM EVLER",
-    "lat": 39.7512971,
-    "lon": 37.0379845,
+    "id": "265",
+    "name": "ÖZEL İDARE 2",
+    "lat": 39.7516158,
+    "lon": 37.0347212,
     "routes": []
   },
   {
-    "id": "707",
-    "name": "YÜKSELİŞ",
-    "lat": 39.748718,
-    "lon": 37.0415883,
+    "id": "266",
+    "name": "M.AKİF ERSOY PARKI",
+    "lat": 39.7497268,
+    "lon": 37.03464,
     "routes": []
   },
   {
-    "id": "259",
-    "name": "MERİÇ SİTESİ",
-    "lat": 39.7472426,
-    "lon": 37.0404703,
+    "id": "267",
+    "name": "İNÖNÜ İLK OKULU",
+    "lat": 39.7479755,
+    "lon": 37.0343953,
     "routes": []
   },
   {
-    "id": "258",
-    "name": "KANATÇI - TRAFO",
-    "lat": 39.7458698,
-    "lon": 37.0378741,
-    "routes": []
-  },
-  {
-    "id": "257",
-    "name": "ERDEM MARKET",
-    "lat": 39.7457365,
-    "lon": 37.0348792,
+    "id": "268",
+    "name": "ÇINAR MARKET-TRAFO",
+    "lat": 39.7460753,
+    "lon": 37.0342412,
     "routes": []
   },
   {

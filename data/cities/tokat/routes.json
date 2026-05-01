@@ -98,13 +98,6 @@
     "text_color": "null"
   },
   {
-    "id": "60400",
-    "short": "12",
-    "long": "HASTANE-YAZICIOGLU",
-    "color": "null",
-    "text_color": "null"
-  },
-  {
     "id": "60410",
     "short": "12/H",
     "long": "HASTANE-YAZICIOGLU",
@@ -126,16 +119,16 @@
     "text_color": "null"
   },
   {
-    "id": "00100",
+    "id": "60100",
     "short": "100",
-    "long": "Test Start 1-Test End 1",
+    "long": "Çarşı2",
     "color": "null",
     "text_color": "null"
   },
   {
-    "id": "60100",
+    "id": "00100",
     "short": "100",
-    "long": "Çarşı2",
+    "long": "Test Start 1-Test End 1",
     "color": "null",
     "text_color": "null"
   },
