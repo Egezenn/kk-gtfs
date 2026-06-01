@@ -1344,13 +1344,6 @@
     "text_color": "FFFFFF"
   },
   {
-    "id": "30112",
-    "short": "4-23",
-    "long": "MEŞELİK-BODRUM",
-    "color": "5C688B",
-    "text_color": "FFFFFF"
-  },
-  {
     "id": "30113",
     "short": "4-24",
     "long": "MEŞELİK-MİLAS-MİLAS-MEŞELİK",
@@ -1451,13 +1444,6 @@
   {
     "id": "50376",
     "short": "4-40",
-    "long": "DAMLIBOĞAZ-MİLAS",
-    "color": "5C688B",
-    "text_color": "FFFFFF"
-  },
-  {
-    "id": "50411",
-    "short": "4-41",
     "long": "DAMLIBOĞAZ-MİLAS",
     "color": "5C688B",
     "text_color": "FFFFFF"
@@ -1599,13 +1585,6 @@
     "id": "10129",
     "short": "5-5B",
     "long": "SEKİ-FETHİYE (EKSPRES)",
-    "color": "5C688B",
-    "text_color": "FFFFFF"
-  },
-  {
-    "id": "10119",
-    "short": "5-6A",
-    "long": "FETHİYE-EŞEN",
     "color": "5C688B",
     "text_color": "FFFFFF"
   },

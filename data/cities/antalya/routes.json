@@ -35,6 +35,13 @@
     "text_color": "FFFFFF"
   },
   {
+    "id": "00107",
+    "short": "107",
+    "long": "SARISU-KADINLAR PLAJI",
+    "color": "2F1CFF",
+    "text_color": "FFFFFF"
+  },
+  {
     "id": "01120",
     "short": "112",
     "long": "VARSAK BELEDIYE-KEPEZ DEVLET HASTANESI",
@@ -868,20 +875,6 @@
     "text_color": "FFFFFF"
   },
   {
-    "id": "33333",
-    "short": "T33",
-    "long": "10003 - AKDENİZ  BLV-3-10004 - AKDENİZ BLV-4",
-    "color": "",
-    "text_color": ""
-  },
-  {
-    "id": "33334",
-    "short": "T34",
-    "long": "10003 - AKDENİZ  BLV-3-10004 - AKDENİZ BLV-4",
-    "color": "FFFFFF",
-    "text_color": "FFFFFF"
-  },
-  {
     "id": "33335",
     "short": "T35",
     "long": "10001 - AKDENİZ  BLV-1-10003 - AKDENİZ  BLV-3",
@@ -892,15 +885,8 @@
     "id": "99995",
     "short": "T5",
     "long": "10259 - TIP FAKÜLTESİ-10001 - AKDENİZ  BLV-1",
-    "color": "",
-    "text_color": ""
-  },
-  {
-    "id": "99996",
-    "short": "T6",
-    "long": "10259 - TIP FAKÜLTESİ-10001 - AKDENİZ  BLV-1",
-    "color": "e30d0d",
-    "text_color": ""
+    "color": "FFFFFF",
+    "text_color": "FFFFFF"
   },
   {
     "id": "20080",
@@ -1131,13 +1117,6 @@
     "short": "VH89",
     "long": "VARSAK AKTARMA-SEHİR HASTANESİ",
     "color": "3220FF",
-    "text_color": "FFFFFF"
-  },
-  {
-    "id": "00891",
-    "short": "VH89A",
-    "long": "VARSAK AKTARMA DEPOLAMA-SEHİR HASTANESİ",
-    "color": "3B19FF",
     "text_color": "FFFFFF"
   },
   {

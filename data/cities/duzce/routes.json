@@ -114,14 +114,14 @@
   {
     "id": "10220",
     "short": "17",
-    "long": "ÇAMLIEVLER-M.PARK",
+    "long": "ÇAMLIEVLER-PAZARYERİ",
     "color": "FF0000",
     "text_color": "FFFFFF"
   },
   {
     "id": "10221",
     "short": "17-A",
-    "long": "ÇAMLIEVLER-NALBANTOĞLU-PAZARYE-M.PARK",
+    "long": "ÇAMLIEVLER-NALBANTOĞLU-PAZARYE-PAZARYERİ",
     "color": "FF0000",
     "text_color": "FFFFFF"
   },
@@ -135,7 +135,7 @@
   {
     "id": "10240",
     "short": "19",
-    "long": "YEŞİLÇİMEN-MELENPARK",
+    "long": "YEŞİLÇİMEN-PAZARYERİ",
     "color": "FF0000",
     "text_color": "FFFFFF"
   },
