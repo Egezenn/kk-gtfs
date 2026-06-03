@@ -6,3 +6,9 @@ readme = "README.md"
 requires-python = ">=3.14"
 license = "MIT"
 dependencies = []
+
+[tool.black]
+line-length = 120
+
+[tool.ruff]
+line-length = 120

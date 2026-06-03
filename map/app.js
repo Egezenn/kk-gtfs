@@ -10,6 +10,21 @@ document.addEventListener("DOMContentLoaded", () => {
       .catch((err) => console.log("SW Failed", err));
   }
 
+  const hasDecompression = typeof DecompressionStream !== "undefined";
+
+  async function fetchJSON(url) {
+    const actualUrl = !hasDecompression && url.endsWith(".gz") ? url.slice(0, -3) : url;
+    const response = await fetch(actualUrl);
+    if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+    if (actualUrl.endsWith(".gz")) {
+      const ds = new DecompressionStream("gzip");
+      const decompressedStream = response.body.pipeThrough(ds);
+      const decompressedResponse = new Response(decompressedStream);
+      return decompressedResponse.json();
+    }
+    return response.json();
+  }
+
   const isDetailPage = document.body.classList.contains("detail-page");
 
   if (isDetailPage) {
@@ -30,16 +45,14 @@ document.addEventListener("DOMContentLoaded", () => {
     const citySearch = document.getElementById("citySearch");
     const loading = document.getElementById("loading");
 
-    fetch("../data/metadata.json")
-      .then((r) => r.json())
-      .then((data) => {
-        loading.classList.add("hidden");
-        renderFeeds(data);
-        citySearch.addEventListener("input", (e) => {
-          const term = e.target.value.toLowerCase().replace("c:\\find_city\\>", "");
-          renderFeeds(data.filter((f) => f.city.toLowerCase().includes(term)));
-        });
+    fetchJSON("../data/metadata.json.gz").then((data) => {
+      loading.classList.add("hidden");
+      renderFeeds(data);
+      citySearch.addEventListener("input", (e) => {
+        const term = e.target.value.toLowerCase().replace("c:\\find_city\\>", "");
+        renderFeeds(data.filter((f) => f.city.toLowerCase().includes(term)));
       });
+    });
 
     function renderFeeds(feeds) {
       const defaultCity = localStorage.getItem("kk_gtfs-default_city");
@@ -126,14 +139,16 @@ document.addEventListener("DOMContentLoaded", () => {
 
     try {
       // 1. Fetch all data to cache it, and extract stops to determine bounds
+      const getUrl = (file) =>
+        hasDecompression ? `../data/cities/${slug}/${file}.gz` : `../data/cities/${slug}/${file}`;
       const [stops] = await Promise.all([
-        fetch(`../data/cities/${slug}/stops.json`).then((r) => (r.ok ? r.json() : [])),
-        fetch(`../data/cities/${slug}/routes.json`),
-        fetch(`../data/cities/${slug}/shapes.json`),
-        fetch(`../data/cities/${slug}/trips.json`),
-        fetch(`../data/cities/${slug}/timetables.json`).catch(() => {}),
-        fetch(`../data/cities/${slug}/offsets.json`).catch(() => {}),
-        fetch(`../data/cities/${slug}/stop_sequences.json`).catch(() => {}),
+        fetchJSON(`../data/cities/${slug}/stops.json.gz`).catch(() => []),
+        fetch(getUrl("routes.json")),
+        fetch(getUrl("shapes.json")),
+        fetch(getUrl("trips.json")),
+        fetch(getUrl("timetables.json")).catch(() => {}),
+        fetch(getUrl("offsets.json")).catch(() => {}),
+        fetch(getUrl("stop_sequences.json")).catch(() => {}),
       ]);
 
       if (stops.length === 0) throw new Error("No stops found");
@@ -234,7 +249,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }).addTo(map);
 
     L.control.zoom({ position: "bottomright" }).addTo(map);
- 
+
     stopLayer = L.featureGroup().addTo(map);
     routeLayer = L.featureGroup().addTo(map);
     busLayer = L.featureGroup().addTo(map);
@@ -474,8 +489,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
       // 2. Query API for each of the 5 stops concurrently
       const promises = sortedStops.map((s) => {
-        const url = `https://service.kentkart.com/rl1/web/nearest/bus?region=${cityRegionId}&lang=tr&lat=${lat}&lng=${lon}&busStopId=${s.id}`;
-        return fetch(url)
+        const url = `https://service.kentkart.com/rl1/web/nearest/bus?region=${encodeURIComponent(cityRegionId)}&lang=tr&lat=${lat}&lng=${lon}&busStopId=${encodeURIComponent(s.id)}`;
+        return fetch(url, {
+          mode: "cors",
+          credentials: "omit",
+          headers: { "X-Requested-With": "XMLHttpRequest" },
+        })
           .then((r) => r.json())
           .catch((err) => {
             console.error(`Error fetching for stop ${s.id}:`, err);
@@ -588,7 +607,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     // 2. Load Data
-    Promise.all([fetch(`../data/metadata.json`).then((r) => (r.ok ? r.json() : []))])
+    Promise.all([fetchJSON(`../data/metadata.json.gz`).catch(() => [])])
       .then(([metadata]) => {
         const cityMeta = metadata.find((m) => m.slug === citySlug);
         if (cityMeta) {
@@ -611,19 +630,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
         // Fetch remaining data files (they will go through SW, which may hit cache or network)
         return Promise.all([
-          fetch(`../data/cities/${citySlug}/routes.json`).then((r) => (r.ok ? r.json() : [])),
-          fetch(`../data/cities/${citySlug}/stops.json`).then((r) => (r.ok ? r.json() : [])),
-          fetch(`../data/cities/${citySlug}/shapes.json`).then((r) => (r.ok ? r.json() : {})),
-          fetch(`../data/cities/${citySlug}/trips.json`).then((r) => (r.ok ? r.json() : {})),
-          fetch(`../data/cities/${citySlug}/timetables.json`)
-            .then((r) => (r.ok ? r.json() : {}))
-            .catch(() => ({})),
-          fetch(`../data/cities/${citySlug}/offsets.json`)
-            .then((r) => (r.ok ? r.json() : {}))
-            .catch(() => ({})),
-          fetch(`../data/cities/${citySlug}/stop_sequences.json`)
-            .then((r) => (r.ok ? r.json() : {}))
-            .catch(() => ({})),
+          fetchJSON(`../data/cities/${citySlug}/routes.json.gz`).catch(() => []),
+          fetchJSON(`../data/cities/${citySlug}/stops.json.gz`).catch(() => []),
+          fetchJSON(`../data/cities/${citySlug}/shapes.json.gz`).catch(() => ({})),
+          fetchJSON(`../data/cities/${citySlug}/trips.json.gz`).catch(() => ({})),
+          fetchJSON(`../data/cities/${citySlug}/timetables.json.gz`).catch(() => ({})),
+          fetchJSON(`../data/cities/${citySlug}/offsets.json.gz`).catch(() => ({})),
+          fetchJSON(`../data/cities/${citySlug}/stop_sequences.json.gz`).catch(() => ({})),
         ]);
       })
       .then(([routes, stops, shapes, trips, timetables, offsets, sequences]) => {
@@ -634,6 +647,25 @@ document.addEventListener("DOMContentLoaded", () => {
         cityTimetables = timetables;
         cityOffsets = offsets;
         cityStopSequences = sequences;
+
+        // Relink unmapped shapes by prefix
+        Object.keys(shapes).forEach((shapeId) => {
+          const alreadyMapped = Object.values(trips).some((directions) => Object.values(directions).includes(shapeId));
+          if (!alreadyMapped) {
+            const matchedRoute = routes.find((r) => shapeId.startsWith(r.id));
+            if (matchedRoute) {
+              if (!trips[matchedRoute.id]) trips[matchedRoute.id] = {};
+              const dirKeys = Object.keys(trips[matchedRoute.id]);
+              if (dirKeys.length === 0) {
+                trips[matchedRoute.id]["0"] = shapeId;
+              } else if (dirKeys.length === 1 && !trips[matchedRoute.id]["1"]) {
+                trips[matchedRoute.id]["1"] = shapeId;
+              } else {
+                trips[matchedRoute.id][dirKeys.length.toString()] = shapeId;
+              }
+            }
+          }
+        });
 
         document.getElementById("cityName").innerText = citySlug.replace("_", " ").toUpperCase();
         document.getElementById("cityStats").innerHTML = `
@@ -1019,10 +1051,10 @@ document.addEventListener("DOMContentLoaded", () => {
           className: "neon-route-line",
           interactive: false,
         }).addTo(routeLayer);
- 
+
         // Layering fix: push inactive stops down, route is already above them
         stopLayer.bringToBack();
- 
+
         // Highlight route stops in PURPLE and bring them above the route line
         resetStopColors();
         const routeStopIds = cityStopSequences[routeId] ? cityStopSequences[routeId][window.currentDirection] : [];
@@ -1094,13 +1126,18 @@ document.addEventListener("DOMContentLoaded", () => {
       if (refreshBtn) {
         refreshBtn.innerText = "... ";
         refreshBtn.disabled = true;
+        refreshBtn.style.color = "#ffff00";
       }
 
       const displayCode = route.short;
 
-      const url = `https://service.kentkart.com/rl1/web/pathInfo?region=${cityRegionId}&lang=tr&direction=${window.currentDirection}&displayRouteCode=${displayCode}`;
+      const url = `https://service.kentkart.com/rl1/web/pathInfo?region=${encodeURIComponent(cityRegionId)}&lang=tr&direction=${encodeURIComponent(window.currentDirection)}&displayRouteCode=${encodeURIComponent(displayCode)}&resultType=010000`;
 
-      return fetch(url)
+      return fetch(url, {
+        mode: "cors",
+        credentials: "omit",
+        headers: { "X-Requested-With": "XMLHttpRequest" },
+      })
         .then((r) => r.json())
         .then((data) => {
           busLayer.clearLayers();
@@ -1121,13 +1158,21 @@ document.addEventListener("DOMContentLoaded", () => {
               }
             });
           }
+          if (refreshBtn) refreshBtn.style.color = "#00ff00";
         })
-        .catch((err) => console.error("Live bus polling error:", err))
+        .catch((err) => {
+          console.error("Live bus polling error:", err);
+          if (refreshBtn) {
+            refreshBtn.innerText = "ERR";
+            refreshBtn.style.color = "#ff0000";
+          }
+        })
         .finally(() => {
-          const refreshBtn = document.getElementById("refreshBusBtn");
           if (refreshBtn) {
             setTimeout(() => {
-              refreshBtn.innerText = "LIVE";
+              if (refreshBtn.innerText !== "ERR") {
+                refreshBtn.innerText = "LIVE";
+              }
               refreshBtn.disabled = false;
             }, 500);
           }

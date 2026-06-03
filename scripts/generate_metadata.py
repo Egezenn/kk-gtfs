@@ -1,4 +1,5 @@
 import csv
+import gzip
 from io import TextIOWrapper
 import json
 import os
@@ -28,9 +29,20 @@ def time_to_seconds(t):
             return int(parts[0]) * 3600 + int(parts[1]) * 60 + int(parts[2])
         elif len(parts) == 2:
             return int(parts[0]) * 3600 + int(parts[1]) * 60
-    except (ValueError, IndexError):
+    except ValueError, IndexError:
         return 0
     return 0
+
+
+def save_json(data, filename):
+    # Save Gzip compressed version only
+    gz_filename = filename if filename.endswith(".gz") else f"{filename}.gz"
+    try:
+        json_str = json.dumps(data, ensure_ascii=False).encode("utf-8")
+        with gzip.open(gz_filename, "wb") as f:
+            f.write(json_str)
+    except Exception as e:
+        print(f"Gzip compression failed for {gz_filename}: {e}")
 
 
 def extract_gtfs_data(zip_path, extract_to):
@@ -38,9 +50,7 @@ def extract_gtfs_data(zip_path, extract_to):
     stops = []
     shapes = {}
     trips_info = {}  # route_id -> shape_id (single sample)
-    route_timetables = (
-        {}
-    )  # route_id -> { "dir0": { "headsign": "", "times": [] }, "dir1": { "headsign": "", "times": [] } }
+    route_timetables = {}  # route_id -> { "dir0": { "headsign": "", "times": [] }, "dir1": { "headsign": "", "times": [] } }
     sample_trips = {}  # (route_id, direction_id) -> trip_id
     route_offsets_data = {}  # (route_id, direction_id) -> { seq: departure_time }
     route_stop_sequences = {}  # (route_id, direction_id) -> { seq: stop_id }
@@ -61,10 +71,10 @@ def extract_gtfs_data(zip_path, extract_to):
                             "long": row.get("route_long_name"),
                             "color": row.get("route_color", "6366f1"),
                             "text_color": row.get("route_text_color", "ffffff"),
+                            "type": int(row.get("route_type", 3)),
                         }
                     )
-            with open(os.path.join(extract_to, "routes.json"), "w", encoding="utf-8") as f:
-                json.dump(routes, f, indent=2, ensure_ascii=False)
+            save_json(routes, os.path.join(extract_to, "routes.json"))
 
         # 2. Extract stops
         if "stops.txt" in z.namelist():
@@ -75,7 +85,14 @@ def extract_gtfs_data(zip_path, extract_to):
                     lat_val = safe_float(row.get("stop_lat"))
                     lon_val = safe_float(row.get("stop_lon"))
                     if s_id and lat_val is not None and lon_val is not None:
-                        stops.append({"id": s_id, "name": row.get("stop_name"), "lat": lat_val, "lon": lon_val})
+                        stops.append(
+                            {
+                                "id": s_id,
+                                "name": row.get("stop_name"),
+                                "lat": lat_val,
+                                "lon": lon_val,
+                            }
+                        )
 
         # 3. Extract shapes
         if "shapes.txt" in z.namelist():
@@ -89,8 +106,7 @@ def extract_gtfs_data(zip_path, extract_to):
                         if s_id not in shapes:
                             shapes[s_id] = []
                         shapes[s_id].append([lat_val, lon_val])
-            with open(os.path.join(extract_to, "shapes.json"), "w", encoding="utf-8") as f:
-                json.dump(shapes, f, indent=2, ensure_ascii=False)
+            save_json(shapes, os.path.join(extract_to, "shapes.json"))
 
         # 4. Extract trips for both shapes and timetable grouping
         trip_to_route = {}  # trip_id -> (route_id, direction_id, headsign, service_id)
@@ -116,14 +132,27 @@ def extract_gtfs_data(zip_path, extract_to):
                         trip_to_route[t_id] = (r_id, dir_id, headsign, service_id)
                         if r_id not in route_timetables:
                             route_timetables[r_id] = {
-                                "0": {"headsign": "", "times": {"weekday": set(), "saturday": set(), "sunday": set()}},
-                                "1": {"headsign": "", "times": {"weekday": set(), "saturday": set(), "sunday": set()}},
+                                "0": {
+                                    "headsign": "",
+                                    "times": {
+                                        "weekday": set(),
+                                        "saturday": set(),
+                                        "sunday": set(),
+                                    },
+                                },
+                                "1": {
+                                    "headsign": "",
+                                    "times": {
+                                        "weekday": set(),
+                                        "saturday": set(),
+                                        "sunday": set(),
+                                    },
+                                },
                             }
                         if headsign:
                             route_timetables[r_id][dir_id]["headsign"] = headsign
 
-            with open(os.path.join(extract_to, "trips.json"), "w", encoding="utf-8") as f:
-                json.dump(trips_info, f, indent=2, ensure_ascii=False)
+            save_json(trips_info, os.path.join(extract_to, "trips.json"))
 
         stop_routes_map = {}
 
@@ -194,14 +223,12 @@ def extract_gtfs_data(zip_path, extract_to):
                 },
             }
 
-        with open(os.path.join(extract_to, "timetables.json"), "w", encoding="utf-8") as f:
-            json.dump(final_timetables, f, indent=2, ensure_ascii=False)
+        save_json(final_timetables, os.path.join(extract_to, "timetables.json"))
 
         for stop in stops:
             stop["routes"] = sorted(list(stop_routes_map.get(stop["id"], set())))
 
-        with open(os.path.join(extract_to, "stops.json"), "w", encoding="utf-8") as f:
-            json.dump(stops, f, indent=2, ensure_ascii=False)
+        save_json(stops, os.path.join(extract_to, "stops.json"))
 
         # 6. Save offsets
         final_offsets = {}
@@ -220,8 +247,7 @@ def extract_gtfs_data(zip_path, extract_to):
                 final_offsets[r_id] = {}
             final_offsets[r_id][d_id] = offsets
 
-        with open(os.path.join(extract_to, "offsets.json"), "w", encoding="utf-8") as f:
-            json.dump(final_offsets, f, indent=2, ensure_ascii=False)
+        save_json(final_offsets, os.path.join(extract_to, "offsets.json"))
 
         # 7. Save stop sequences
         final_stop_sequences = {}
@@ -233,8 +259,7 @@ def extract_gtfs_data(zip_path, extract_to):
                 final_stop_sequences[r_id] = {}
             final_stop_sequences[r_id][d_id] = stops_list
 
-        with open(os.path.join(extract_to, "stop_sequences.json"), "w", encoding="utf-8") as f:
-            json.dump(final_stop_sequences, f, indent=2, ensure_ascii=False)
+        save_json(final_stop_sequences, os.path.join(extract_to, "stop_sequences.json"))
 
     return len(routes), len(stops)
 
@@ -259,7 +284,7 @@ def get_region_map():
                 rmap[name] = r_id
             return rmap
         except Exception as e:
-            print(f"Error fetching regions (Attempt {attempt+1}): {e}")
+            print(f"Error fetching regions (Attempt {attempt + 1}): {e}")
             time.sleep(2)
 
     return {}
@@ -315,8 +340,7 @@ def generate_metadata(data_dir, output_file):
             )
 
     metadata.sort(key=lambda x: x["city"])
-    with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(metadata, f, indent=2, ensure_ascii=False)
+    save_json(metadata, output_file)
 
 
 if __name__ == "__main__":

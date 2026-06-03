@@ -28,15 +28,26 @@ options:
 
 City metadata: <https://service.kentkart.com/rl1/api/v2.0/city>  
 Stop & Route list: <https://service.kentkart.com/rl1/web/nearest/find?region={region}&lang=tr>  
-Route information: <https://service.kentkart.com/rl1/web/pathInfo?region={region}&lang=tr&direction={direction}&displayRouteCode={display_code}>  
+Route information: <https://service.kentkart.com/rl1/web/pathInfo?region={region}&lang=tr&direction={direction}&displayRouteCode={display_code}&resultType={resultType}>  
+
+- `direction`: Route direction (e.g. `0` for outbound, `1` for inbound).
+- `resultType`: 6-digit binary-like bitmask controlling which sub-lists are populated in the response to optimize payload size:
+  - `100000` -> `pointList`: Geo-coordinates representing the route path polyline.
+  - `010000` -> `busList`: Live vehicle tracking coordinates/information for active buses on the route.
+  - `001000` -> `busStopList`: List of physical stops in sequential order.
+  - `000100` -> `timeTableList`: Departure timetables.
+  - `000010` -> `scheduleList`: Detailed calendar-based schedules and trip departure lists.
+  - `000001` -> *Reserved / Unused*.
+  - *Omitting `resultType` (or passing `111111`) defaults to returning all sub-lists.*
 Nearest buses: <https://service.kentkart.com/rl1/web/nearest/bus?region={region}&lang=tr&lat={lat}&lng={lon}&busStopId={stop_id}>  
+
 </details>
 
 ## Hardcoded Assumptions
 
 Because the KentKart API endpoints do not provide all required fields to generate a strictly compliant GTFS feed, the generator enforces the following hardcoded baseline assumptions:
 
-- **Agency URL**: Defaulted to `https://www.kentkart.com/` (`agency.txt`) (per municipality support mails are _sometimes_ available in city metadata as `supportEmail`, `supportCCEmail`)
+- **Agency URL**: Defaulted to `https://www.kentkart.com/` (`agency.txt`) (per municipality support mails are *sometimes* available in city metadata as `supportEmail`, `supportCCEmail`)
 - **Agency Timezone**: Defaulted to `Europe/Istanbul` (`agency.txt`)
 - **Route Type**: Extracted from `routeType` in the route list API (defaults to `3` - Bus if missing). Kentkart supports various modes including Bus (`3`), Ferry (`4`), Tram (`0`), Funicular (`7`) and Rail (`2`) in certain regions like Kocaeli, Antalya, and Gaziantep.
 - **Calendar Dates**: Service ID dates are set with a start boundary of the generation date and an end boundary of `+60` days (`calendar.txt`)

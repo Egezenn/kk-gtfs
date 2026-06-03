@@ -155,7 +155,7 @@ class KentkartGTFSGenerator:
                     route_type = int(raw_route_type.split(",")[0])
                 else:
                     route_type = int(raw_route_type)
-            except (ValueError, TypeError):
+            except ValueError, TypeError:
                 route_type = 3
 
             r_color = route.get("routeColor", "")
@@ -188,7 +188,10 @@ class KentkartGTFSGenerator:
             processed_display_codes.add(display_code)
 
             for direction in [0, 1]:
-                data = self.fetch_json("/web/pathInfo", {"direction": str(direction), "displayRouteCode": display_code})
+                data = self.fetch_json(
+                    "/web/pathInfo",
+                    {"direction": str(direction), "displayRouteCode": display_code},
+                )
                 if not data or "pathList" not in data:
                     continue
 
@@ -236,7 +239,10 @@ class KentkartGTFSGenerator:
                                     "saturday": days_active[5],
                                     "sunday": days_active[6],
                                     "start_date": time.strftime("%Y%m%d"),
-                                    "end_date": time.strftime("%Y%m%d", time.localtime(time.time() + 60 * 24 * 3600)),
+                                    "end_date": time.strftime(
+                                        "%Y%m%d",
+                                        time.localtime(time.time() + 60 * 24 * 3600),
+                                    ),
                                 }
                             )
 
@@ -308,7 +314,13 @@ class KentkartGTFSGenerator:
                 "data": list(self.agencies.values()),
             },
             "stops.txt": {
-                "fields": ["stop_id", "stop_name", "stop_lat", "stop_lon", "location_type"],
+                "fields": [
+                    "stop_id",
+                    "stop_name",
+                    "stop_lat",
+                    "stop_lon",
+                    "location_type",
+                ],
                 "data": list(self.stops.values()),
             },
             "routes.txt": {
@@ -324,15 +336,33 @@ class KentkartGTFSGenerator:
                 "data": self.routes,
             },
             "trips.txt": {
-                "fields": ["route_id", "service_id", "trip_id", "trip_headsign", "direction_id", "shape_id"],
+                "fields": [
+                    "route_id",
+                    "service_id",
+                    "trip_id",
+                    "trip_headsign",
+                    "direction_id",
+                    "shape_id",
+                ],
                 "data": self.trips,
             },
             "stop_times.txt": {
-                "fields": ["trip_id", "arrival_time", "departure_time", "stop_id", "stop_sequence"],
+                "fields": [
+                    "trip_id",
+                    "arrival_time",
+                    "departure_time",
+                    "stop_id",
+                    "stop_sequence",
+                ],
                 "data": self.stop_times,
             },
             "shapes.txt": {
-                "fields": ["shape_id", "shape_pt_lat", "shape_pt_lon", "shape_pt_sequence"],
+                "fields": [
+                    "shape_id",
+                    "shape_pt_lat",
+                    "shape_pt_lon",
+                    "shape_pt_sequence",
+                ],
                 "data": self.shapes,
             },
             "calendar.txt": {
@@ -393,8 +423,19 @@ def get_all_regions():
 def main():
     parser = argparse.ArgumentParser(description="Kentkart GTFS Generator")
     parser.add_argument("-r", "--region", type=str, default="ALL", help="Region code (default: ALL)")
-    parser.add_argument("-d", "--delay", type=float, default=0.0, help="Delay in seconds between requests (default: 0)")
-    parser.add_argument("-f", "--force", action="store_true", help="Force regenerate existing GTFS feed zips")
+    parser.add_argument(
+        "-d",
+        "--delay",
+        type=float,
+        default=0.0,
+        help="Delay in seconds between requests (default: 0)",
+    )
+    parser.add_argument(
+        "-f",
+        "--force",
+        action="store_true",
+        help="Force regenerate existing GTFS feed zips",
+    )
     args = parser.parse_args()
 
     if args.region.upper() == "ALL":
